@@ -1,0 +1,208 @@
+% compound +hajime -- すでに jmor に登録があるが、変更を加えたもの
+fukihajime	{[scat v:v][comp v:c+v:v]} =blow_start= "fuk+hajime"
+hanehajime	{[scat v:v][comp v:v+v:v]} =jump_start= "hane+hajime"
+hashirihajime	{[scat v:v][comp v:c+v:v]} =run_start= "hashir+hajime"
+hoehajime	{[scat v:v][comp v:v+v:v]} =bark_start= "hoe+hajime"
+ijirihajime	{[scat v:v][comp v:c+v:v]} =finger_start= "ijir+hajime"
+kaerihajime	{[scat v:v][comp v:c+v:v]} =return_start= "kaer+hajime"
+kakehajime	{[scat v:v][comp v:v+v:v]} =run_start= "kake+hajime"
+karehajime	{[scat v:v][comp v:v+v:v]} =wither_start= "kare+hajime"
+kirihajime	{[scat v:v][comp v:c+v:v]} =cut_start= "kir+hajime"
+nakihajime	{[scat v:v][comp v:c+v:v]} =cry_start= "nak+hajime"
+noborihajime	{[scat v:v][comp v:c+v:v]} =climb_start= "nobor+hajime"
+nomihajime	{[scat v:v][comp v:c+v:v]} =drink_start= "nom+hajime"
+sagashihajime	{[scat v:v][comp v:c+v:v]} =search_start= "sagas+hajime"
+sakebihajime	{[scat v:v][comp v:c+v:v]} =shout_start= "sakeb+hajime"
+shihajime	{[scat v:v:sub][comp v:ir+v:v]} =do_start= "su+hajime"
+tabehajime	{[scat v:v][comp v:v+v:v]} =eat_start= "tabe+hajime"
+tobidashihajime	{[scat v:v][comp v:c+v:c+v:v]} =fly_go_out_start= "tob+das+hajime"
+torihajime	{[scat v:v][comp v:c+v:v]} =take_start= "tor+hajime"
+tsukurihajime	{[scat v:v][comp v:c+v:v]} =make_start= "tsukur+hajime"
+ugokihajime	{[scat v:v][comp v:c+v:v]} =move_start= "ugok+hajime"
+yurashihajime	{[scat v:v][comp v:c+v:v]} =shake_start= "yur&CAUS+hajime"
+yusurihajime	{[scat v:v][comp v:c+v:v]} =shake_start= "yusur+hajime"
+
+
+% compound + hamime -- new entry
+agarihajime	{[scat v:v][comp v:c+v:v]} =rise_start= "agar+hajime"
+agehajime	{[scat v:v][comp v:v+v:v]} =lifting_start= "age+hajime"
+akihajime	{[scat v:v][comp v:v+v:v]} =become_tired_of_start= "aki+hajime"
+amihajime	{[scat v:v][comp v:c+v:v]} =knit_start= "am+hajime"
+arawarehajime	{[scat v:v][comp v:v+v:v]} =appear_start= "araware+hajime"
+arukihajime	{[scat v:v][comp v:c+v:v]} =walk_start= "aruk+hajime"
+atsumehajime	{[scat v:v][comp v:v+v:v]} =gather_start= "atsume+hajime"
+dehajime	{[scat v:v][comp v:v+v:v]} =get_out_start= "de+hajime"
+egakihajime	{[scat v:v][comp v:c+v:v]} =draw_start= "egak+hajime"
+fuehajime	{[scat v:v][comp v:v+v:v]} =increase_start= "fue+hajime"
+fukashihajime	{[scat v:v][comp v:c+v:v]} =blow_start= "fukas+hajime"
+furihajime	{[scat v:v][comp v:c+v:v]} =rainfall_blowing= "fur+hajime"
+furuihajime	{[scat v:v][comp v:c+v:v]} =exhibit_start= "furuw+hajime"
+haimawarihajime	{[scat v:v][comp v:c+v:c+v:v]} =crawl_round_start= "haw+mawar+hajime"
+haimodorihajime	{[scat v:v][comp v:c+v:c+v:v]} =crawl_return_start= "haw+modor+hajime"
+hakobihajime	{[scat v:v][comp v:c+v:v]} =carry_start= "hakob+hajime"
+hanashihajime	{[scat v:v][comp v:c+v:v]} =talk_start= "hanas+hajime"
+hatarakihajime	{[scat v:v][comp v:c+v:v]} =work_start= "hatarak+hajime"
+hiehajime	{[scat v:v][comp v:v+v:v]} =get_cold_start= "hie+hajime"
+hikihajime	{[scat v:v][comp v:c+v:v]} =grind_start= "hik+hajime"
+hikihajime	{[scat v:v][comp v:c+v:v]} =play_start= "hik+hajime"
+hikihajime	{[scat v:v][comp v:c+v:v]} =pull_start= "hik+hajime"
+hikisakihajime	{[scat v:v][comp v:c+v:c+v:v]} =pull_rupture_start= "hik+sak+hajime"
+horihajime	{[scat v:v][comp v:c+v:v]} =dig_start= "hori+hajime"
+iihajime	{[scat v:v][comp v:c+v:v]} =say_start= "iw+hajime"
+ikarihajime	{[scat v:v][comp v:c+v:v]} =get_angry_start= "ikar+hajime"
+itamihajime	{[scat v:v][comp v:c+v:v]} =hurt_start= "itam+hajime"
+jukushihajime	{[scat v:v][comp v:c+v:v]} =ripen_start= "jukus+hajime"
+kaehajime	{[scat v:v][comp v:v+v:v]} =change_start= "kae+hajime"
+kaihajime	{[scat v:v][comp v:c+v:v]} =buy_start= "kaw+hajime"
+kaihajime	{[scat v:v][comp v:c+v:v]} =keep_animal_start= "kaw+hajime"
+kakihajime	{[scat v:v][comp v:c+v:v]} =write_start= "kak+hajime"
+kakiokoshihajime	{[scat v:v][comp v:c+v:v]} =writing_out_start= "kakiokos+hajime"
+kangaehajime	{[scat v:v][comp v:v+v:v]} =think_start= "kangae+hajime"
+kanjihajime	{[scat v:v][comp v:v+v:v]} =feel_start= "kanji+hajime"
+karihajime	{[scat v:v][comp v:v+v:v]} =borrow_start= "kari+hajime"
+katarihajime	{[scat v:v][comp v:c+v:v]} =talk_start= "katar+hajime"
+kawarihajime	{[scat v:v][comp v:c+v:v]} =change_start= "kawar+hajime"
+kiehajime	{[scat v:v][comp v:v+v:v]} =disapear_start= "kie+hajime"
+kihajime	{[scat v:v][comp v:ir+v:v]} =come_start= "ku+hajime"
+kihajime	{[scat v:v][comp v:v+v:v]} =wear_start= "ki+hajime"
+kikihajime	{[scat v:v][comp v:c+v:v]} =ask_start= "kik+hajime"
+kikihajime	{[scat v:v][comp v:c+v:v]} =effect_start= "kik+hajime"
+kikihajime	{[scat v:v][comp v:c+v:v]} =listen_start= "kik+hajime"
+kikoehajime	{[scat v:v][comp v:v+v:v]} =hear/be_heard_start= "kik+hajime"
+kizukihajime	{[scat v:v][comp v:c+v:v]} =notice_start= "kizuk+hajime"
+koojihajime	{[scat v:v][comp v:v+v:v]} =adopt_heard_start= "kooji+hajime"
+kurashihajime	{[scat v:v][comp v:c+v:v]} =live_start= "kuras+hajime"
+kurushimihajime	{[scat v:v][comp v:c+v:v]} =suffer_start= "kurushim+hajime"
+mawarihajime	{[scat v:v][comp v:c+v:v]} =round_start= "mawar+hajime"
+miehajime	{[scat v:v][comp v:v+v:v]} =be_in_sight_start= "mie+hajime"
+mihajime	{[scat v:v][comp v:v+v:v]} =look_start= "mi+hajime"
+mochihajime	{[scat v:v][comp v:c+v:v]} =hold_start= "mot+hajime"
+modorihajime	{[scat v:v][comp v:c+v:v]} =return_start= "modor+hajime"
+moehajime	{[scat v:v][comp v:v+v:v]} =burn_start= "moe+hajime"
+morehajime	{[scat v:v][comp v:v+v:v]} =leak_start= "more+hajime"
+nagarehajime	{[scat v:v][comp v:v+v:v]} =stream_start= "nagare+hajime"
+naorihajime	{[scat v:v][comp v:c+v:v]} =heal_start= "naor+hajime"
+narashihajime	{[scat v:v][comp v:c+v:v]} =hold_start= "mot+hajime"
+narihajime	{[scat v:v][comp v:c+v:v]} =sound_start= "nar+hajime"
+nosehajime	{[scat v:v][comp v:v+v:v]} =place_on_start= "nase+hajime"
+nozokihajime	{[scat v:v][comp v:c+v:v]} =peep_start= "nazok+hajime"
+okorihajime	{[scat v:v][comp v:c+v:v]} =get_angry_start= "okor+hajime"
+omoihajime	{[scat v:v][comp v:c+v:v]} =think_start= "omow+hajime"
+orihajime	{[scat v:v][comp v:v+v:v]} =descend_start= "ori+hajime"
+oroshihajime	{[scat v:v][comp v:c+v:v]} =lower_start= "oros+hajime"
+oshiehajime	{[scat v:v][comp v:v+v:v]} =teach_start= "oshie+hajime"
+oshihajime	{[scat v:v][comp v:c+v:v]} =push_start= "os+hajime"
+oyogihajime	{[scat v:v][comp v:c+v:v]} =swim_start= "oyog+hajime"
+samayoiarukihajime	{[scat v:v][comp v:c+v:c+v:v]} =wander_walk_start= "samayow+aruk+hajime"
+shiirehajime	{[scat v:v][comp v:v+v:v]} =stock_start= "shiire+hajime"
+shirabehajime	{[scat v:v][comp v:v+v:v]} =examine_start= "shirabe+hajime"
+suihajime	{[scat v:v][comp v:c+v:v]} =suck_in_start= "suw+hajime"
+sumihajime	{[scat v:v][comp v:c+v:v]} =live_start= "sum+hajime"
+tobihajime	{[scat v:v][comp v:c+v:v]} =fry_start= "tob+hajime"
+tsubuyakihajime	{[scat v:v][comp v:c+v:v]} =mutter_start= "tsubuyak+hajime"
+tsusumihajime	{[scat v:v][comp v:c+v:v]} =wrap_start= "tsutsum+hajime"
+tsutawarihajime	{[scat v:v][comp v:c+v:v]} =be_conveyed_start= "tsutawar+hajime"
+ugomekihajime	{[scat v:v][comp v:c+v:v]} =squirm_start= "ugomek+hajime"
+usurehajime	{[scat v:v][comp v:v+v:v]} =fade_start= "usure+hajime"
+uttaehajime	{[scat v:v][comp v:v+v:v]} =sue_start= "uttae+hajime"
+waraihajime	{[scat v:v][comp v:c+v:v]} =laugh_start= "waraw+hajime"
+wazuraihajime	{[scat v:v][comp v:c+v:v]} =fall_ill_start= "wazuraw+hajime"
+yarihajime	{[scat v:v][comp v:c+v:v]} =do_CLQ_start= "yar+hajime"
+yomihajime	{[scat v:v][comp v:c+v:v]} =read_start= "yom+hajime"
+yuragihajime	{[scat v:v][comp v:c+v:v]} =sway_start= "yorag+hajime"
+zawatsukihajime	{[scat v:v][comp v:c+v:v]} =noise_start= "zawamek+hajime"
+
+% compound +owar -- すでに jmor に登録があるが、変更を加えたもの
+araiowar	{[scat v:c][comp v:c+v:c]} =wash_finish= "araw+owar"
+asobiowar	{[scat v:c][comp v:c+v:c]} =play_finish= "asob+owar"		
+hariowar	{[scat v:c][comp v:c+v:c]} =stretch_finish= "har+owar"
+kakiowar	{[scat v:c][comp v:c+v:c]} =write_finish= "kak+owar"
+kazoeowar	{[scat v:c][comp v:v+v:c]} =count_finish= "kazoe+owar"
+kiriowar	{[scat v:c][comp v:c+v:c]} =cut_finish= "kir+owar"
+miowar	{[scat v:c][comp v:v+v:c]} =watch_finish= "mi+owar"
+nariowar	{[scat v:c][comp v:c+v:c]} =ring_finish= "nar+owar"
+nomiowar	{[scat v:c][comp v:c+v:c]} =drink_finish= "nom+owar"
+nuriowar	{[scat v:c][comp v:c+v:c]} =paint_finish= "nur+owar"
+shiowar	{[scat v:c][comp v:ir+v:c]} =do_finish= "su+owar"
+shiowar	{[scat v:c:sub][comp v:ir+v:c]} =do_finish= "su+owar"
+tabeowar	{[scat v:c][comp v:v+v:c]} =eat_finish= "tabe+owar"
+toriowar	{[scat v:c][comp v:c+v:c]} =take_finish= "tor+owar"
+tsukaiowar	{[scat v:c][comp v:c+v:c]} =use_finish= "tsukaw+owar"
+yariowar	{[scat v:c][comp v:c+v:c]} =do_finish= "yar+owar"
+yomiowar	{[scat v:c][comp v:c+v:c]} =read_finish= "yom+owar"
+
+% compound +owar -- new entry
+narabiowar	{[scat v:c][comp v:c+v:c]} =line_up_finish= "narab+owar"
+tsukuriowar	{[scat v:c][comp v:c+v:c]} =make_finish= "tsukur+owar"
+utaiowar	{[scat v:c][comp v:c+v:c]} =sing_finish= "utaw+owar"
+
+% compound +oe -- すでに jmor に登録があるが、変更を加えたもの
+shioe	{[scat v:v][comp v:ir+v:v]} =do_finish= "su+oe"
+shioe	{[scat v:v:sub][comp v:ir+v:v]} =do_finish= "su+oe"	
+utaioe	{[scat v:v][comp v:c+v:v]} =sing_finish= "utaw+oe"
+
+% compound +oe -- new entry
+yarioe	{[scat v:v][comp v:c+v:v]} =do_finish= "yar+oe"
+tsukurioe	{[scat v:v][comp v:c+v:v]} =make_finish= "tsukur+oe"
+iioe	{[scat v:v][comp v:c+v:v]} =say_finish= "iw+oe"
+yomioe	{[scat v:v][comp v:c+v:v]} =read_finish= "yom+oe"
+
+% +ayamar -- グロスは err の方がよさそう
+yomiayamar	{[scat v:v][comp v:c+v:c]} =read_err= "yomi+ayamar"
+
+% compound +kane -- グロスは fail の方がよさそう
+iikane	{[scat v:v][comp v:c+v:v]} =say_fail= "iw+kane"
+
+% compound +kakar -- すでに jmor に登録があるが、変更を加えたもの
+toorikakar	{[scat v:c][comp v:c+v:c]} =pass_be_about_to= "toor+kakar"
+shikakar	{[scat v:c][comp v:c+v:c]} =do_be_about_to_do= "su+kakar"
+shikakar	{[scat v:c:sub][comp v:c+v:c]} =do_be_about_to_do= "su+kakar"
+
+% compound +kakar -- new entry
+kuchikakar	{[scat v:c][comp v:v+v:c]} =decay_be_about_to_do= "kuchi+kakar"
+kowarekakar	{[scat v:c][comp v:v+v:c]} =break_be_about_to_do= "koware+kakar"
+katamukikakar	{[scat v:c][comp v:c+v:c]} =lean_be_about_to_do= "katamuk+kakar"
+okikakar	{[scat v:c][comp v:v+v:c]} =get_up_be_about_to_do= "oki+kakar"
+kiekakar	{[scat v:c][comp v:v+v:c]} =disappear_be_about_to_do= "kie+kakar"
+shinikakar	{[scat v:c][comp v:c+v:c]} =die_be_about_to_do= "shin+kakar"
+
+% compound +kir -- new entry
+urikir	{[scat v:c][comp v:c+v:c]} =sell_complete= "ur+kir"
+moekir	{[scat v:c][comp v:v+v:c]} =burn_complete= "ur+kir"
+makanaikir	{[scat v:c][comp v:c+v:c]} =provide_for_complete= "makanaw+kir"
+wakarikir	{[scat v:c][comp v:c+v:c]} =understand_complete= "wakar+kir"
+oyogikir	{[scat v:c][comp v:c+v:c]} =swim_complete= "oyog+kir"
+tsukarekir	{[scat v:c][comp v:v+v:c]} =be_tired_complete= "tsukare+kir"
+samekir	{[scat v:c][comp v:v+v:c]} =cool_complete= "same+kir"
+obiekir	{[scat v:c][comp v:v+v:c]} =be_scared_complete= "obie+kir"
+ikikir	{[scat v:c][comp v:v+v:c]} =live_complete= "iki+kir"
+mitsukekir	{[scat v:c][comp v:v+v:c]} =find_complete= "mitsuke+kir"
+koraekir	{[scat v:c][comp v:v+v:c]} =bear_complete= "korae+kir"
+orikir	{[scat v:c][comp v:v+v:c]} =descend_complete= "ori+kir"
+tsutaekir	{[scat v:c][comp v:v+v:c]} =tell_complete= "tsutae+kir"
+uketomekir	{[scat v:c][comp v:v+v:c]} =react_complete= "uketome+kir"
+kachikir	{[scat v:c][comp v:c+v:c]} =will_complete= "kat+kir"
+
+% エントリーはあるが修正したほうがいいもの -- verb
+hikisak {[scat v:c][comp v:c+v:c]} =pull_rupture=  "hik+sak"
+ikar	{[scat v:c]} =get_angry=
+kikoe	{[scat v:v]} =hear/be_heard=
+sakeb	{[scat v:c]} =shout=
+ut	{[scat v:c]} =hit/shoot=	%【打つ】【撃つ】
+ukemot	{[scat v:c]} =take_charge_of=	%【受け持つ】   %%lex. compound
+
+% エントリーはあるが修正したほうがいいもの -- vnoun
+shimpai	{[scat n:vn]} =worry=	%【心配】
+shimpaisoo	{[scat n:an]} =worry_SEEM_TO=	"shimpai-soo" %【心配】
+
+% エントリーはあるが修正したほうがいいもの -- adverb
+kesshite	{[scat adv]} =necessarily_not=	% 決して
+
+% new entry -- verb
+koojiru	{[scat v:v]} =adopt=	%【講じる】
+samayow	{[scat v:c]} =wander=
+kakiokos	{[scat v:c]} =write_out=	%【書き起こす】
+
+% new entry -- adverb
+
+

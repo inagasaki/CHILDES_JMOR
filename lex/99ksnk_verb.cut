@@ -252,7 +252,10 @@ emono	{[scat n]} =prey= 	% 獲物
 kekka	{[scat n]} =result=	%【結果】 % vn で登録されているが、vn として使われることはないのでは？
 teeen	{[scat n]} =garden= 	% 庭園
 shoobooshi	{[scat n]} =fire_fighter= 	% 消防士
-	
+
+% エントリーはあるが修正したほうがいいもの -- fmlnoun
+yoo	{[scat n:fml]} ==as/as_if/so_as_to= % apparently ではなく
+
 % new entry -- verb
 koojiru	{[scat v:v]} =adopt=	%【講じる】
 samayow	{[scat v:c]} =wander=

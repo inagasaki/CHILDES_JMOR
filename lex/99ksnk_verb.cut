@@ -37,7 +37,7 @@ fuehajime	{[scat v:v][comp v:v+v:v]} =increase_start= "fue+hajime"
 fukashihajime	{[scat v:v][comp v:c+v:v]} =blow_start= "fukas+hajime"
 furihajime	{[scat v:v][comp v:c+v:v]} =rainfall_blowing= "fur+hajime"
 furuihajime	{[scat v:v][comp v:c+v:v]} =exhibit_start= "furuw+hajime"
-haimawarihajime	{[scat v:v][comp v:c+v:c+v:v]} =crawl_round_start= "haw+mawar+hajime"
+haimawarihajime	{[scat v:v][comp v:c+v:c+v:v]} =crawl_revolve_start= "haw+mawar+hajime"
 haimodorihajime	{[scat v:v][comp v:c+v:c+v:v]} =crawl_return_start= "haw+modor+hajime"
 hakobihajime	{[scat v:v][comp v:c+v:v]} =carry_start= "hakob+hajime"
 hanashihajime	{[scat v:v][comp v:c+v:v]} =talk_start= "hanas+hajime"
@@ -73,7 +73,7 @@ kizukihajime	{[scat v:v][comp v:c+v:v]} =notice_start= "kizuk+hajime"
 koojihajime	{[scat v:v][comp v:v+v:v]} =adopt_heard_start= "kooji+hajime"
 kurashihajime	{[scat v:v][comp v:c+v:v]} =live_start= "kuras+hajime"
 kurushimihajime	{[scat v:v][comp v:c+v:v]} =suffer_start= "kurushim+hajime"
-mawarihajime	{[scat v:v][comp v:c+v:v]} =round_start= "mawar+hajime"
+mawarihajime	{[scat v:v][comp v:c+v:v]} =revolve_start= "mawar+hajime"
 miehajime	{[scat v:v][comp v:v+v:v]} =be_in_sight_start= "mie+hajime"
 mihajime	{[scat v:v][comp v:v+v:v]} =look_start= "mi+hajime"
 mochihajime	{[scat v:v][comp v:c+v:v]} =hold_start= "mot+hajime"
@@ -183,26 +183,69 @@ tsutaekir	{[scat v:c][comp v:v+v:c]} =tell_complete= "tsutae+kir"
 uketomekir	{[scat v:c][comp v:v+v:c]} =react_complete= "uketome+kir"
 kachikir	{[scat v:c][comp v:c+v:c]} =will_complete= "kat+kir"
 
-% エントリーはあるが修正したほうがいいもの -- verb
+% compound +mawar  -- すでに jmor に登録があるが、変更を加えたもの
+arukimawar	{[scat v:c][comp v:c+v:c]} =walk_revolve= "aruk_mawar"  			%% lex. compound
+asobimawar	{[scat v:c][comp v:c+v:c]} =play_around= "asob_mawar"
+demawar	{[scat v:c]} "demawar" =appear_abundantly= %	出回る		
+hanemawar	{[scat v:c][comp v:v+v:c]} =jump_revolve= "hane_mawar"
+hashirimawar	{[scat v:c][comp v:c+v:c]} =run_revolve= "hashir_mawar"
+kakemawar	{[scat v:c][comp v:v+v:c]} =run_revolve= "kake_mawar"
+kakezurimawar	{[scat v:c][comp v:c+v:c]} =run_revolve= "kakezur_mawar"
+mimawar	{[scat v:c][comp v:v+v:c]} =look_revolve= "mi_mawar"
+nigemawar	{[scat v:c][comp v:v+v:c]} =escape_revolve= "nige_mawar"
+sagashimawar	{[scat v:c][comp v:c+v:c]} =search_revolve= "sagas_mawar"
+tobimawar	{[scat v:c][comp v:c+v:c]} =fly_revolve= "tob_mawar"
+ugokimawar	{[scat v:c][comp v:c+v:c]} =move_revolve= "ugok_mawar"
+tachimawar	{[scat v:c][comp v:c+v:c]} =walk_revolve= "tat_mawar" %	立ち回る		
+notauchimawar	{[scat v:c][comp v:c+v:c]} =writhe_revolve= "notaut_mawar" %	のた打ち回る
+
+% compound +mawar  -- new entry
+abaremawar	{[scat v:c][comp v:v+v:c]} =behave_violently_revolve= "abare+mawar"
+
+% その他エントリーはあるが修正したほうがいいもの -- verb
 hikisak {[scat v:c][comp v:c+v:c]} =pull_rupture=  "hik+sak"
 ikar	{[scat v:c]} =get_angry=
 kikoe	{[scat v:v]} =hear/be_heard=
 sakeb	{[scat v:c]} =shout=
 ut	{[scat v:c]} =hit/shoot=	%【打つ】【撃つ】
-ukemot	{[scat v:c]} =take_charge_of=	%【受け持つ】   %%lex. compound
+ukemot	{[scat v:c]} =take_charge_of=	%【受け持つ】   %%lex. compound %typo
+mawar	{[scat v:c]} =revolve=
+ayumide {[scat v:c][comp v:c+v:v]} =walk_get_out=  "ayum+de" % なぜか ayum-ASP-... という出力になってしまう
+azukar	{[scat v:c]} =take_custody=	%【預かる】
+hate	{[scat v:v]} =terminate= %	果てる
+sute	{[scat v:v]} =discard=	%【捨てる】(《棄てる)
+chikazuk	{[scat v:c]} =approach=	%【近づく】(近付く)
+chigaw	{[scat v:c]} =differ=	%【違う】
+uchikom	{[scat v:c]} =hit/shoot_impact= "ut_kom"
 
 % エントリーはあるが修正したほうがいいもの -- vnoun
 shimpai	{[scat n:vn]} =worry=	%【心配】
-shimpaisoo	{[scat n:an]} =worry_SEEM_TO=	"shimpai-soo" %【心配】
+shimpaisoo	{[scat n:an]} =worry_SEEMING=	"shimpai-soo" %【心配】
 
 % エントリーはあるが修正したほうがいいもの -- adverb
-kesshite	{[scat adv]} =necessarily_not=	% 決して
+kesshite	{[scat adv]} =at_all=	% 決して
+marude	{[scat adv]} =just=
+	
+% エントリーはあるが修正したほうがいいもの -- smod
+deshoo	{[scat smod]} =must= "deshoo&POL"
+
+% エントリーはあるが修正したほうがいいもの -- noun
+emono	{[scat n]} =prey= 	% 獲物 
+kekka	{[scat n]} =result=	%【結果】 % vn で登録されているが、vn として使われることはないのでは？
 
 % new entry -- verb
 koojiru	{[scat v:v]} =adopt=	%【講じる】
 samayow	{[scat v:c]} =wander=
 kakiokos	{[scat v:c]} =write_out=	%【書き起こす】
+kakezur	{[scat v:c]} =run=
+inaor	{[scat v:c]} =turn_aggressive=			%% lex. compound
+irekom	{[scat v:c]} =be_obsessed_with=	%【入れ込む】
+uchikom	{[scat v:c]} =be_absorbed_in=
+ukiagar	{[scat v:c]} =be_out_of_step/lose_touch/stand_out=
 
-% new entry -- adverb
+% new entry -- vcop
+to	{[scat v:cop] [tense inf]} =be= "da&ADV" % to は da の ADV という意味ならば、ni や de も修正すべきでは？
 
+% new entry -- vsub
+deki	{[scat v:v:sub]} =can= 
 

@@ -183,6 +183,23 @@ tsutaekir	{[scat v:c][comp v:v+v:c]} =tell_complete= "tsutae+kir"
 uketomekir	{[scat v:c][comp v:v+v:c]} =react_complete= "uketome+kir"
 kachikir	{[scat v:c][comp v:c+v:c]} =will_complete= "kat+kir"
 
+% compound +makur  -- すでに jmor に登録があるが、変更を加えたもの
+abaremakur	{[scat v:c][comp v:v+v:c]} =behave_violently_recur= "abare+makur"  %% synt. compound +makuru ("V on and on")
+iimakur	{[scat v:c][comp v:c+v:c]} =say_recur= "iw+makur"
+kawakimakur	{[scat v:c][comp v:c+v:c]} =dry_recur= "kawak+makur"
+namemakur	{[scat v:c][comp v:v+v:c]} =lick_recur= "name+makur"
+shimakur	{[scat v:c][comp v:ir+v:c]} =do_recur= "su+makur"
+shimakur	{[scat v:c:sub][comp v:ir+v:c]} =do_recur= "su+makur"
+uchimakur	{[scat v:c][comp v:c+v:c]} =hit/shoot_recur= "ut+makur"	%【撃ちまくる】(撃ち〈捲る)
+
+% compond +makur -- new entry
+atsumemakur	{[scat v:c][comp v:v+v:c]} =gather_recur= "atsume+makur"
+kakimakur	{[scat v:c][comp v:c+v:c]} =write_recur= "kak+makur"
+sagashimakur	{[scat v:c][comp v:c+v:c]} =search_recur= "sagas+makur"
+torimakur	{[scat v:c][comp v:c+v:c]} =take_recur= "tor+makur"
+shaberimakur	{[scat v:c][comp v:c+v:c]} =talk_recur= "shaber+makur"
+fukimakur	{[scat v:c][comp v:c+v:c]} =blow_recur= "fuk+makur"
+
 % compound +mawar  -- すでに jmor に登録があるが、変更を加えたもの
 arukimawar	{[scat v:c][comp v:c+v:c]} =walk_revolve= "aruk_mawar"  			%% lex. compound
 asobimawar	{[scat v:c][comp v:c+v:c]} =play_around= "asob_mawar"
@@ -217,6 +234,7 @@ sute	{[scat v:v]} =discard=	%【捨てる】(《棄てる)
 chikazuk	{[scat v:c]} =approach=	%【近づく】(近付く)
 chigaw	{[scat v:c]} =differ=	%【違う】
 uchikom	{[scat v:c]} =hit/shoot_impact= "ut_kom"
+makas	{[scat v:c]} =defeat=	%【負かす】
 
 % エントリーはあるが修正したほうがいいもの -- vnoun
 shimpai	{[scat n:vn]} =worry=	%【心配】
@@ -232,7 +250,9 @@ deshoo	{[scat smod]} =must= "deshoo&POL"
 % エントリーはあるが修正したほうがいいもの -- noun
 emono	{[scat n]} =prey= 	% 獲物 
 kekka	{[scat n]} =result=	%【結果】 % vn で登録されているが、vn として使われることはないのでは？
-
+teeen	{[scat n]} =garden= 	% 庭園
+shoobooshi	{[scat n]} =fire_fighter= 	% 消防士
+	
 % new entry -- verb
 koojiru	{[scat v:v]} =adopt=	%【講じる】
 samayow	{[scat v:c]} =wander=

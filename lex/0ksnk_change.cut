@@ -1,0 +1,127 @@
+% すでに jmor に登録があるが、変更を加えたもの
+
+% compound +hajime
+fukihajime	{[scat v:v][comp v:c+v:v]} =blow_start= "fuk+hajime"
+hanehajime	{[scat v:v][comp v:v+v:v]} =jump_start= "hane+hajime"
+hashirihajime	{[scat v:v][comp v:c+v:v]} =run_start= "hashir+hajime"
+hoehajime	{[scat v:v][comp v:v+v:v]} =bark_start= "hoe+hajime"
+ijirihajime	{[scat v:v][comp v:c+v:v]} =finger_start= "ijir+hajime"
+kaerihajime	{[scat v:v][comp v:c+v:v]} =return_start= "kaer+hajime"
+kakehajime	{[scat v:v][comp v:v+v:v]} =run_start= "kake+hajime"
+karehajime	{[scat v:v][comp v:v+v:v]} =wither_start= "kare+hajime"
+kirihajime	{[scat v:v][comp v:c+v:v]} =cut_start= "kir+hajime"
+nakihajime	{[scat v:v][comp v:c+v:v]} =cry_start= "nak+hajime"
+noborihajime	{[scat v:v][comp v:c+v:v]} =climb_start= "nobor+hajime"
+nomihajime	{[scat v:v][comp v:c+v:v]} =drink_start= "nom+hajime"
+sagashihajime	{[scat v:v][comp v:c+v:v]} =search_start= "sagas+hajime"
+sakebihajime	{[scat v:v][comp v:c+v:v]} =shout_start= "sakeb+hajime"
+shihajime	{[scat v:v:sub][comp v:ir+v:v]} =do_start= "su+hajime"
+tabehajime	{[scat v:v][comp v:v+v:v]} =eat_start= "tabe+hajime"
+tobidashihajime	{[scat v:v][comp v:c+v:c+v:v]} =fly_go_out_start= "tob+das+hajime"
+torihajime	{[scat v:v][comp v:c+v:v]} =take_start= "tor+hajime"
+tsukurihajime	{[scat v:v][comp v:c+v:v]} =make_start= "tsukur+hajime"
+ugokihajime	{[scat v:v][comp v:c+v:v]} =move_start= "ugok+hajime"
+yurashihajime	{[scat v:v][comp v:c+v:v]} =shake_start= "yur&CAUS+hajime"
+yusurihajime	{[scat v:v][comp v:c+v:v]} =shake_start= "yusur+hajime"
+
+% compound +owar
+araiowar	{[scat v:c][comp v:c+v:c]} =wash_finish= "araw+owar"
+asobiowar	{[scat v:c][comp v:c+v:c]} =play_finish= "asob+owar"		
+hariowar	{[scat v:c][comp v:c+v:c]} =stretch_finish= "har+owar"
+kakiowar	{[scat v:c][comp v:c+v:c]} =write_finish= "kak+owar"
+kazoeowar	{[scat v:c][comp v:v+v:c]} =count_finish= "kazoe+owar"
+kiriowar	{[scat v:c][comp v:c+v:c]} =cut_finish= "kir+owar"
+miowar	{[scat v:c][comp v:v+v:c]} =watch_finish= "mi+owar"
+nariowar	{[scat v:c][comp v:c+v:c]} =ring_finish= "nar+owar"
+nomiowar	{[scat v:c][comp v:c+v:c]} =drink_finish= "nom+owar"
+nuriowar	{[scat v:c][comp v:c+v:c]} =paint_finish= "nur+owar"
+shiowar	{[scat v:c][comp v:ir+v:c]} =do_finish= "su+owar"
+shiowar	{[scat v:c:sub][comp v:ir+v:c]} =do_finish= "su+owar"
+tabeowar	{[scat v:c][comp v:v+v:c]} =eat_finish= "tabe+owar"
+toriowar	{[scat v:c][comp v:c+v:c]} =take_finish= "tor+owar"
+tsukaiowar	{[scat v:c][comp v:c+v:c]} =use_finish= "tsukaw+owar"
+yariowar	{[scat v:c][comp v:c+v:c]} =do_finish= "yar+owar"
+yomiowar	{[scat v:c][comp v:c+v:c]} =read_finish= "yom+owar"
+
+% compound +oe
+shioe	{[scat v:v][comp v:ir+v:v]} =do_finish= "su+oe"
+shioe	{[scat v:v:sub][comp v:ir+v:v]} =do_finish= "su+oe"	
+utaioe	{[scat v:v][comp v:c+v:v]} =sing_finish= "utaw+oe"
+
+% +ayamar -- グロスは err の方がよさそう
+yomiayamar	{[scat v:v][comp v:c+v:c]} =read_err= "yomi+ayamar"
+
+% compound +kane -- グロスは fail の方がよさそう
+iikane	{[scat v:v][comp v:c+v:v]} =say_fail= "iw+kane"
+
+% compound +kakar
+toorikakar	{[scat v:c][comp v:c+v:c]} =pass_be_about_to= "toor+kakar"
+shikakar	{[scat v:c][comp v:c+v:c]} =do_be_about_to_do= "su+kakar"
+shikakar	{[scat v:c:sub][comp v:c+v:c]} =do_be_about_to_do= "su+kakar"
+
+% compound +makur
+abaremakur	{[scat v:c][comp v:v+v:c]} =behave_violently_recur= "abare+makur"  %% synt. compound +makuru ("V on and on")
+iimakur	{[scat v:c][comp v:c+v:c]} =say_recur= "iw+makur"
+kawakimakur	{[scat v:c][comp v:c+v:c]} =dry_recur= "kawak+makur"
+namemakur	{[scat v:c][comp v:v+v:c]} =lick_recur= "name+makur"
+shimakur	{[scat v:c][comp v:ir+v:c]} =do_recur= "su+makur"
+shimakur	{[scat v:c:sub][comp v:ir+v:c]} =do_recur= "su+makur"
+uchimakur	{[scat v:c][comp v:c+v:c]} =hit/shoot_recur= "ut+makur"	%【撃ちまくる】(撃ち〈捲る)
+
+% compound +mawar
+arukimawar	{[scat v:c][comp v:c+v:c]} =walk_revolve= "aruk_mawar"  			%% lex. compound
+asobimawar	{[scat v:c][comp v:c+v:c]} =play_around= "asob_mawar"
+demawar	{[scat v:c]} "demawar" =appear_abundantly= %	出回る		
+hanemawar	{[scat v:c][comp v:v+v:c]} =jump_revolve= "hane_mawar"
+hashirimawar	{[scat v:c][comp v:c+v:c]} =run_revolve= "hashir_mawar"
+kakemawar	{[scat v:c][comp v:v+v:c]} =run_revolve= "kake_mawar"
+kakezurimawar	{[scat v:c][comp v:c+v:c]} =run_revolve= "kakezur_mawar"
+mimawar	{[scat v:c][comp v:v+v:c]} =look_revolve= "mi_mawar"
+nigemawar	{[scat v:c][comp v:v+v:c]} =escape_revolve= "nige_mawar"
+sagashimawar	{[scat v:c][comp v:c+v:c]} =search_revolve= "sagas_mawar"
+tobimawar	{[scat v:c][comp v:c+v:c]} =fly_revolve= "tob_mawar"
+ugokimawar	{[scat v:c][comp v:c+v:c]} =move_revolve= "ugok_mawar"
+tachimawar	{[scat v:c][comp v:c+v:c]} =walk_revolve= "tat_mawar" %	立ち回る		
+notauchimawar	{[scat v:c][comp v:c+v:c]} =writhe_revolve= "notaut_mawar" %	のた打ち回る
+
+% verb
+hikisak {[scat v:c][comp v:c+v:c]} =pull_rupture=  "hik+sak"
+ikar	{[scat v:c]} =get_angry=
+kikoe	{[scat v:v]} =hear/be_heard=
+sakeb	{[scat v:c]} =shout=
+ut	{[scat v:c]} =hit/shoot=	%【打つ】【撃つ】
+ukemot	{[scat v:c]} =take_charge_of=	%【受け持つ】   %%lex. compound %typo
+mawar	{[scat v:c]} =revolve=
+ayumide {[scat v:c][comp v:c+v:v]} =walk_get_out=  "ayum+de" % なぜか ayum-ASP-... という出力になってしまう
+azukar	{[scat v:c]} =take_custody=	%【預かる】
+hate	{[scat v:v]} =terminate= %	果てる
+sute	{[scat v:v]} =discard=	%【捨てる】(《棄てる)
+chikazuk	{[scat v:c]} =approach=	%【近づく】(近付く)
+chigaw	{[scat v:c]} =differ=	%【違う】
+uchikom	{[scat v:c][comp v:c+v:c]} =hit/shoot_impact= "ut_kom"
+uchikom	{[scat v:c]} =be_absorbed_in= % "ut_kom" の一語化
+makas	{[scat v:c]} =defeat=	%【負かす】
+kik	{[scat v:c]} =hear/listen=	%【聴く】
+mi	{[scat v:v]} =see/look=	%【見る】
+	
+% vnoun
+shimpai	{[scat n:vn]} =worry=	%【心配】
+shimpaisoo	{[scat n:an]} =worry_SEEMING=	"shimpai-soo" %【心配】
+
+% adverb
+kesshite	{[scat adv]} =at_all=	% 決して
+marude	{[scat adv]} =just=
+	
+% smod
+deshoo	{[scat smod]} =must= "deshoo&POL"
+
+% noun
+emono	{[scat n]} =prey= 	% 獲物 
+kekka	{[scat n]} =result=	%【結果】 % vn で登録されているが、vn として使われることはないのでは？
+teeen	{[scat n]} =garden= 	% 庭園
+shoobooshi	{[scat n]} =fire_fighter= 	% 消防士
+gorufu	{[scat n]} =golf= 	% golf_car でなく
+
+% fml
+yoo	{[scat n:fml]} ==as/as_if/so_as_to= % apparently ではなく
+

@@ -1,29 +1,20 @@
-% compound +hajime -- すでに jmor に登録があるが、変更を加えたもの
-fukihajime	{[scat v:v][comp v:c+v:v]} =blow_start= "fuk+hajime"
-hanehajime	{[scat v:v][comp v:v+v:v]} =jump_start= "hane+hajime"
-hashirihajime	{[scat v:v][comp v:c+v:v]} =run_start= "hashir+hajime"
-hoehajime	{[scat v:v][comp v:v+v:v]} =bark_start= "hoe+hajime"
-ijirihajime	{[scat v:v][comp v:c+v:v]} =finger_start= "ijir+hajime"
-kaerihajime	{[scat v:v][comp v:c+v:v]} =return_start= "kaer+hajime"
-kakehajime	{[scat v:v][comp v:v+v:v]} =run_start= "kake+hajime"
-karehajime	{[scat v:v][comp v:v+v:v]} =wither_start= "kare+hajime"
-kirihajime	{[scat v:v][comp v:c+v:v]} =cut_start= "kir+hajime"
-nakihajime	{[scat v:v][comp v:c+v:v]} =cry_start= "nak+hajime"
-noborihajime	{[scat v:v][comp v:c+v:v]} =climb_start= "nobor+hajime"
-nomihajime	{[scat v:v][comp v:c+v:v]} =drink_start= "nom+hajime"
-sagashihajime	{[scat v:v][comp v:c+v:v]} =search_start= "sagas+hajime"
-sakebihajime	{[scat v:v][comp v:c+v:v]} =shout_start= "sakeb+hajime"
-shihajime	{[scat v:v:sub][comp v:ir+v:v]} =do_start= "su+hajime"
-tabehajime	{[scat v:v][comp v:v+v:v]} =eat_start= "tabe+hajime"
-tobidashihajime	{[scat v:v][comp v:c+v:c+v:v]} =fly_go_out_start= "tob+das+hajime"
-torihajime	{[scat v:v][comp v:c+v:v]} =take_start= "tor+hajime"
-tsukurihajime	{[scat v:v][comp v:c+v:v]} =make_start= "tsukur+hajime"
-ugokihajime	{[scat v:v][comp v:c+v:v]} =move_start= "ugok+hajime"
-yurashihajime	{[scat v:v][comp v:c+v:v]} =shake_start= "yur&CAUS+hajime"
-yusurihajime	{[scat v:v][comp v:c+v:v]} =shake_start= "yusur+hajime"
+% verb
+koojiru	{[scat v:v]} =adopt=	%【講じる】
+samayow	{[scat v:c]} =wander=
+kakiokos	{[scat v:c]} =write_out=	%【書き起こす】
+kakezur	{[scat v:c]} =run=
+inaor	{[scat v:c]} =turn_aggressive=			%% lex. compound
+irekom	{[scat v:c]} =be_obsessed_with=	%【入れ込む】
+uchikom	{[scat v:c]} =be_absorbed_in=
+ukiagar	{[scat v:c]} =be_out_of_step/lose_touch/stand_out=
 
+% vcop
+to	{[scat v:cop] [tense inf]} =be= "da&ADV" % to は da の ADV という意味ならば、ni や de も修正すべきでは？
 
-% compound + hamime -- new entry
+% vsub
+deki	{[scat v:v:sub]} =can= 
+
+% compound + hamime
 agarihajime	{[scat v:v][comp v:c+v:v]} =rise_start= "agar+hajime"
 agehajime	{[scat v:v][comp v:v+v:v]} =lifting_start= "age+hajime"
 akihajime	{[scat v:v][comp v:v+v:v]} =become_tired_of_start= "aki+hajime"
@@ -112,53 +103,12 @@ yomihajime	{[scat v:v][comp v:c+v:v]} =read_start= "yom+hajime"
 yuragihajime	{[scat v:v][comp v:c+v:v]} =sway_start= "yorag+hajime"
 zawatsukihajime	{[scat v:v][comp v:c+v:v]} =noise_start= "zawamek+hajime"
 
-% compound +owar -- すでに jmor に登録があるが、変更を加えたもの
-araiowar	{[scat v:c][comp v:c+v:c]} =wash_finish= "araw+owar"
-asobiowar	{[scat v:c][comp v:c+v:c]} =play_finish= "asob+owar"		
-hariowar	{[scat v:c][comp v:c+v:c]} =stretch_finish= "har+owar"
-kakiowar	{[scat v:c][comp v:c+v:c]} =write_finish= "kak+owar"
-kazoeowar	{[scat v:c][comp v:v+v:c]} =count_finish= "kazoe+owar"
-kiriowar	{[scat v:c][comp v:c+v:c]} =cut_finish= "kir+owar"
-miowar	{[scat v:c][comp v:v+v:c]} =watch_finish= "mi+owar"
-nariowar	{[scat v:c][comp v:c+v:c]} =ring_finish= "nar+owar"
-nomiowar	{[scat v:c][comp v:c+v:c]} =drink_finish= "nom+owar"
-nuriowar	{[scat v:c][comp v:c+v:c]} =paint_finish= "nur+owar"
-shiowar	{[scat v:c][comp v:ir+v:c]} =do_finish= "su+owar"
-shiowar	{[scat v:c:sub][comp v:ir+v:c]} =do_finish= "su+owar"
-tabeowar	{[scat v:c][comp v:v+v:c]} =eat_finish= "tabe+owar"
-toriowar	{[scat v:c][comp v:c+v:c]} =take_finish= "tor+owar"
-tsukaiowar	{[scat v:c][comp v:c+v:c]} =use_finish= "tsukaw+owar"
-yariowar	{[scat v:c][comp v:c+v:c]} =do_finish= "yar+owar"
-yomiowar	{[scat v:c][comp v:c+v:c]} =read_finish= "yom+owar"
-
-% compound +owar -- new entry
+% compound +owar
 narabiowar	{[scat v:c][comp v:c+v:c]} =line_up_finish= "narab+owar"
 tsukuriowar	{[scat v:c][comp v:c+v:c]} =make_finish= "tsukur+owar"
 utaiowar	{[scat v:c][comp v:c+v:c]} =sing_finish= "utaw+owar"
 
-% compound +oe -- すでに jmor に登録があるが、変更を加えたもの
-shioe	{[scat v:v][comp v:ir+v:v]} =do_finish= "su+oe"
-shioe	{[scat v:v:sub][comp v:ir+v:v]} =do_finish= "su+oe"	
-utaioe	{[scat v:v][comp v:c+v:v]} =sing_finish= "utaw+oe"
-
-% compound +oe -- new entry
-yarioe	{[scat v:v][comp v:c+v:v]} =do_finish= "yar+oe"
-tsukurioe	{[scat v:v][comp v:c+v:v]} =make_finish= "tsukur+oe"
-iioe	{[scat v:v][comp v:c+v:v]} =say_finish= "iw+oe"
-yomioe	{[scat v:v][comp v:c+v:v]} =read_finish= "yom+oe"
-
-% +ayamar -- グロスは err の方がよさそう
-yomiayamar	{[scat v:v][comp v:c+v:c]} =read_err= "yomi+ayamar"
-
-% compound +kane -- グロスは fail の方がよさそう
-iikane	{[scat v:v][comp v:c+v:v]} =say_fail= "iw+kane"
-
-% compound +kakar -- すでに jmor に登録があるが、変更を加えたもの
-toorikakar	{[scat v:c][comp v:c+v:c]} =pass_be_about_to= "toor+kakar"
-shikakar	{[scat v:c][comp v:c+v:c]} =do_be_about_to_do= "su+kakar"
-shikakar	{[scat v:c:sub][comp v:c+v:c]} =do_be_about_to_do= "su+kakar"
-
-% compound +kakar -- new entry
+% compound +kakar
 kuchikakar	{[scat v:c][comp v:v+v:c]} =decay_be_about_to_do= "kuchi+kakar"
 kowarekakar	{[scat v:c][comp v:v+v:c]} =break_be_about_to_do= "koware+kakar"
 katamukikakar	{[scat v:c][comp v:c+v:c]} =lean_be_about_to_do= "katamuk+kakar"
@@ -166,7 +116,7 @@ okikakar	{[scat v:c][comp v:v+v:c]} =get_up_be_about_to_do= "oki+kakar"
 kiekakar	{[scat v:c][comp v:v+v:c]} =disappear_be_about_to_do= "kie+kakar"
 shinikakar	{[scat v:c][comp v:c+v:c]} =die_be_about_to_do= "shin+kakar"
 
-% compound +kir -- new entry
+% compound +kir
 urikir	{[scat v:c][comp v:c+v:c]} =sell_complete= "ur+kir"
 moekir	{[scat v:c][comp v:v+v:c]} =burn_complete= "ur+kir"
 makanaikir	{[scat v:c][comp v:c+v:c]} =provide_for_complete= "makanaw+kir"
@@ -183,16 +133,7 @@ tsutaekir	{[scat v:c][comp v:v+v:c]} =tell_complete= "tsutae+kir"
 uketomekir	{[scat v:c][comp v:v+v:c]} =react_complete= "uketome+kir"
 kachikir	{[scat v:c][comp v:c+v:c]} =will_complete= "kat+kir"
 
-% compound +makur  -- すでに jmor に登録があるが、変更を加えたもの
-abaremakur	{[scat v:c][comp v:v+v:c]} =behave_violently_recur= "abare+makur"  %% synt. compound +makuru ("V on and on")
-iimakur	{[scat v:c][comp v:c+v:c]} =say_recur= "iw+makur"
-kawakimakur	{[scat v:c][comp v:c+v:c]} =dry_recur= "kawak+makur"
-namemakur	{[scat v:c][comp v:v+v:c]} =lick_recur= "name+makur"
-shimakur	{[scat v:c][comp v:ir+v:c]} =do_recur= "su+makur"
-shimakur	{[scat v:c:sub][comp v:ir+v:c]} =do_recur= "su+makur"
-uchimakur	{[scat v:c][comp v:c+v:c]} =hit/shoot_recur= "ut+makur"	%【撃ちまくる】(撃ち〈捲る)
-
-% compond +makur -- new entry
+% compond +makur
 atsumemakur	{[scat v:c][comp v:v+v:c]} =gather_recur= "atsume+makur"
 kakimakur	{[scat v:c][comp v:c+v:c]} =write_recur= "kak+makur"
 sagashimakur	{[scat v:c][comp v:c+v:c]} =search_recur= "sagas+makur"
@@ -200,75 +141,15 @@ torimakur	{[scat v:c][comp v:c+v:c]} =take_recur= "tor+makur"
 shaberimakur	{[scat v:c][comp v:c+v:c]} =talk_recur= "shaber+makur"
 fukimakur	{[scat v:c][comp v:c+v:c]} =blow_recur= "fuk+makur"
 
-% compound +mawar  -- すでに jmor に登録があるが、変更を加えたもの
-arukimawar	{[scat v:c][comp v:c+v:c]} =walk_revolve= "aruk_mawar"  			%% lex. compound
-asobimawar	{[scat v:c][comp v:c+v:c]} =play_around= "asob_mawar"
-demawar	{[scat v:c]} "demawar" =appear_abundantly= %	出回る		
-hanemawar	{[scat v:c][comp v:v+v:c]} =jump_revolve= "hane_mawar"
-hashirimawar	{[scat v:c][comp v:c+v:c]} =run_revolve= "hashir_mawar"
-kakemawar	{[scat v:c][comp v:v+v:c]} =run_revolve= "kake_mawar"
-kakezurimawar	{[scat v:c][comp v:c+v:c]} =run_revolve= "kakezur_mawar"
-mimawar	{[scat v:c][comp v:v+v:c]} =look_revolve= "mi_mawar"
-nigemawar	{[scat v:c][comp v:v+v:c]} =escape_revolve= "nige_mawar"
-sagashimawar	{[scat v:c][comp v:c+v:c]} =search_revolve= "sagas_mawar"
-tobimawar	{[scat v:c][comp v:c+v:c]} =fly_revolve= "tob_mawar"
-ugokimawar	{[scat v:c][comp v:c+v:c]} =move_revolve= "ugok_mawar"
-tachimawar	{[scat v:c][comp v:c+v:c]} =walk_revolve= "tat_mawar" %	立ち回る		
-notauchimawar	{[scat v:c][comp v:c+v:c]} =writhe_revolve= "notaut_mawar" %	のた打ち回る
-
-% compound +mawar  -- new entry
+% compound +mawar
 abaremawar	{[scat v:c][comp v:v+v:c]} =behave_violently_revolve= "abare+mawar"
 
-% その他エントリーはあるが修正したほうがいいもの -- verb
-hikisak {[scat v:c][comp v:c+v:c]} =pull_rupture=  "hik+sak"
-ikar	{[scat v:c]} =get_angry=
-kikoe	{[scat v:v]} =hear/be_heard=
-sakeb	{[scat v:c]} =shout=
-ut	{[scat v:c]} =hit/shoot=	%【打つ】【撃つ】
-ukemot	{[scat v:c]} =take_charge_of=	%【受け持つ】   %%lex. compound %typo
-mawar	{[scat v:c]} =revolve=
-ayumide {[scat v:c][comp v:c+v:v]} =walk_get_out=  "ayum+de" % なぜか ayum-ASP-... という出力になってしまう
-azukar	{[scat v:c]} =take_custody=	%【預かる】
-hate	{[scat v:v]} =terminate= %	果てる
-sute	{[scat v:v]} =discard=	%【捨てる】(《棄てる)
-chikazuk	{[scat v:c]} =approach=	%【近づく】(近付く)
-chigaw	{[scat v:c]} =differ=	%【違う】
-uchikom	{[scat v:c]} =hit/shoot_impact= "ut_kom"
-makas	{[scat v:c]} =defeat=	%【負かす】
+% compound +oe
+yarioe	{[scat v:v][comp v:c+v:v]} =do_finish= "yar+oe"
+tsukurioe	{[scat v:v][comp v:c+v:v]} =make_finish= "tsukur+oe"
+iioe	{[scat v:v][comp v:c+v:v]} =say_finish= "iw+oe"
+yomioe	{[scat v:v][comp v:c+v:v]} =read_finish= "yom+oe"
 
-% エントリーはあるが修正したほうがいいもの -- vnoun
-shimpai	{[scat n:vn]} =worry=	%【心配】
-shimpaisoo	{[scat n:an]} =worry_SEEMING=	"shimpai-soo" %【心配】
-
-% エントリーはあるが修正したほうがいいもの -- adverb
-kesshite	{[scat adv]} =at_all=	% 決して
-marude	{[scat adv]} =just=
-	
-% エントリーはあるが修正したほうがいいもの -- smod
-deshoo	{[scat smod]} =must= "deshoo&POL"
-
-% エントリーはあるが修正したほうがいいもの -- noun
-emono	{[scat n]} =prey= 	% 獲物 
-kekka	{[scat n]} =result=	%【結果】 % vn で登録されているが、vn として使われることはないのでは？
-teeen	{[scat n]} =garden= 	% 庭園
-shoobooshi	{[scat n]} =fire_fighter= 	% 消防士
-
-% エントリーはあるが修正したほうがいいもの -- fmlnoun
-yoo	{[scat n:fml]} ==as/as_if/so_as_to= % apparently ではなく
-
-% new entry -- verb
-koojiru	{[scat v:v]} =adopt=	%【講じる】
-samayow	{[scat v:c]} =wander=
-kakiokos	{[scat v:c]} =write_out=	%【書き起こす】
-kakezur	{[scat v:c]} =run=
-inaor	{[scat v:c]} =turn_aggressive=			%% lex. compound
-irekom	{[scat v:c]} =be_obsessed_with=	%【入れ込む】
-uchikom	{[scat v:c]} =be_absorbed_in=
-ukiagar	{[scat v:c]} =be_out_of_step/lose_touch/stand_out=
-
-% new entry -- vcop
-to	{[scat v:cop] [tense inf]} =be= "da&ADV" % to は da の ADV という意味ならば、ni や de も修正すべきでは？
-
-% new entry -- vsub
-deki	{[scat v:v:sub]} =can= 
-
+% deic
+aashita	{[scat adn:deic:dem]} =like_that=
+kooshita	{[scat adn:deic:dem]} =like_this=

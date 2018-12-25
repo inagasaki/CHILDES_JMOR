@@ -1,4 +1,17 @@
-% すでに jmor に登録があるが、変更を加えたもの
+% すでに jmor に登録があるが、修正した方がよいように思われるもの
+
+
+% verb
+	
+% vnoun
+
+% adverb
+
+% smod
+
+% noun
+
+% fml
 
 % compound +hajime
 fukihajime	{[scat v:v][comp v:c+v:v]} =blow_start= "fuk+hajime"
@@ -83,45 +96,3 @@ tobimawar	{[scat v:c][comp v:c+v:c]} =fly_revolve= "tob_mawar"
 ugokimawar	{[scat v:c][comp v:c+v:c]} =move_revolve= "ugok_mawar"
 tachimawar	{[scat v:c][comp v:c+v:c]} =walk_revolve= "tat_mawar" %	立ち回る		
 notauchimawar	{[scat v:c][comp v:c+v:c]} =writhe_revolve= "notaut_mawar" %	のた打ち回る
-
-% verb
-hikisak {[scat v:c][comp v:c+v:c]} =pull_rupture=  "hik+sak"
-ikar	{[scat v:c]} =get_angry=
-kikoe	{[scat v:v]} =hear/be_heard=
-sakeb	{[scat v:c]} =shout=
-ut	{[scat v:c]} =hit/shoot=	%【打つ】【撃つ】
-ukemot	{[scat v:c]} =take_charge_of=	%【受け持つ】   %%lex. compound %typo
-mawar	{[scat v:c]} =revolve=
-ayumide {[scat v:c][comp v:c+v:v]} =walk_get_out=  "ayum+de" % なぜか ayum-ASP-... という出力になってしまう
-azukar	{[scat v:c]} =take_custody=	%【預かる】
-hate	{[scat v:v]} =terminate= %	果てる
-sute	{[scat v:v]} =discard=	%【捨てる】(《棄てる)
-chikazuk	{[scat v:c]} =approach=	%【近づく】(近付く)
-chigaw	{[scat v:c]} =differ=	%【違う】
-uchikom	{[scat v:c][comp v:c+v:c]} =hit/shoot_impact= "ut_kom"
-uchikom	{[scat v:c]} =be_absorbed_in= % "ut_kom" の一語化
-makas	{[scat v:c]} =defeat=	%【負かす】
-kik	{[scat v:c]} =hear/listen=	%【聴く】
-mi	{[scat v:v]} =see/look=	%【見る】
-	
-% vnoun
-shimpai	{[scat n:vn]} =worry=	%【心配】
-shimpaisoo	{[scat n:an]} =worry_SEEMING=	"shimpai-soo" %【心配】
-
-% adverb
-kesshite	{[scat adv]} =at_all=	% 決して
-marude	{[scat adv]} =just=
-	
-% smod
-deshoo	{[scat smod]} =must= "deshoo&POL"
-
-% noun
-emono	{[scat n]} =prey= 	% 獲物 
-kekka	{[scat n]} =result=	%【結果】 % vn で登録されているが、vn として使われることはないのでは？
-teeen	{[scat n]} =garden= 	% 庭園
-shoobooshi	{[scat n]} =fire_fighter= 	% 消防士
-gorufu	{[scat n]} =golf= 	% golf_car でなく
-
-% fml
-yoo	{[scat n:fml]} ==as/as_if/so_as_to= % apparently ではなく
-

@@ -43,7 +43,6 @@ omoiukab	{[scat v:c]} "omow_ukab" =come_to_mind= % 思い浮かぶ	%% lex. compo
 	aog	{[scat v:c]} =flap=	%【あおぐ】(《扇ぐ)***
 	fusag	{[scat v:c]} =shut=	%【ふさぐ】(〈塞ぐ)***
 	fuseg	{[scat v:c]} =prevent=	%【防ぐ】(〈禦ぐ)
-	gyuujiru	{[scat v:c]} =lead_by_the_nose= %	牛耳る		
 	hag	{[scat v:c]} =peel_off=	%【はぐ】(〈剥ぐ)***
 	hanayag	{[scat v:c]} =become_brilliant= %	華やぐ		
 	hashag	{[scat v:c]} =frisk=	%【はしゃぐ】(《燥ぐ)
@@ -285,6 +284,7 @@ nezuk	{[scat v:c]} "ne_tsuk" =root= %	根づく
 niramitsuk	{[scat v:c]} =glare_fiercely= "niram_tsuk"
 ochitsuk	{[scat v:c]} =settle= "ochi_tsuk"	%【落ち着く】
 oitsuk	{[scat v:c]} =catch_up= "ow_tsuk"
+ojiketsuk	{[scat v:c]} "ojike_tsuk" 	 =cringe=	 %	怖じ気づく
 omoitsuk	{[scat v:c]} =think_of= "omow_tsuk"
 sabitsuk	{[scat v:c]} "sabi_tsuk" =rust= %	錆び付く		
 shaburitsuk	{[scat v:c]} "shabur_tsuk" =suck_on= %	しゃぶり付く		
@@ -303,6 +303,7 @@ jaretsuk	{[scat v:c]} =be_playful= "jare_tsuk"
 katazuk	{[scat v:c]} =tidy= "kata_tsuk"	%【かたづく/片付く】
 katatsuk	{[scat v:c]} "kata_tsuk" =tidy= %	片付く  		
 kizuk	{[scat v:c]} =notice= "ki_tsuk"	%【気づく/気付く】***
+kanzuk	{[scat v:c]} =notice= "kan_tsuk" % 感づく
 chikarazuk	{[scat v:c]} "chikara_tsuk" =recover_strength= %	力付く		
 chooshizuk	{[scat v:c]} "chooshi_tsuk" =be_elated= %	調子付く		
 irokezuk	{[scat v:c]} =awaken_to_sex= "iroke_tsuk"	%【色気づく】
@@ -341,6 +342,7 @@ uwatsuk	{[scat v:c]} =be_frivolous= "ue_tsuk"
 hikitsuzuk	{[scat v:c]} "hik_tsuzuk" =subsequent= %	引き続く		
 	ugok	{[scat v:c]} =move=	%【動く】
 yureugok	{[scat v:c]} =wave= "yure_ugok"	%【揺れ動く】  		%% lex. compound 
+ugokiugoki	{[scat v:c][tense inf][comp v:c+v:c]} =start_to_move= "ugok+ugok-GER"
 	uk	{[scat v:c]} =float=	%【浮く】
 	ugomek	{[scat v:c]} =squirm=	%蠕く
 	umek	{[scat v:c]} =groan=	%【うめく】(〈呻く)
@@ -421,6 +423,7 @@ hipparikom	{[scat v:c]} =pull_in= "hippar_kom"
 hoorikom	{[scat v:c]} "hoor_kom" =throw_into= %	放りこむ		
 horekom	{[scat v:c]} "hore_kom" =be_charmed_by= %	惚れ込む		
 irekom	{[scat v:c]} =stuff_into= "ire_kom"	%【入れ込む】
+irekom	{[scat v:c]} =be_obsessed_with=	%【入れ込む】
 kaikom	{[scat v:c]} =buy_a_stock= "kaw_kom"
 kakaekom	{[scat v:c]} =take_upon= "kakae_kom"
 kakekom	{[scat v:c]} =rush_into= "kake_kom"
@@ -499,6 +502,7 @@ tsumikom	{[scat v:c]} "tsum_kom" =load_up= %	積み込む
 tsurekom	{[scat v:c]} "tsure_kom" =bring= %	連れ込む		
 tsumekom	{[scat v:c]} =cram= "tsume_kom"
 uchikom	{[scat v:c]} =knock_into= "ut_kom" 
+uchikom	{[scat v:c]} =be_absorbed_in=
 uekom	{[scat v:c]} =plant= "ue_kom"
 umekom	{[scat v:c]} =implant= "ume_kom"
 urikom	{[scat v:c]} =sell= "ur_kom"
@@ -557,8 +561,7 @@ dashioshim	{[scat v:c]} "das_oshim" =stint_in= %	出し惜しむ
 	shum	{[scat v:c]} =be_piercing=	%【染む】
 	subom	{[scat v:c]} =become_narrower=	%【すぼむ】(〈窄む)
 	sukum	{[scat v:c]} =stop_dead= %	竦む		
-	sum	{[scat v:c]} =finish=	%【済む】***
-	sum	{[scat v:c]} =clear=	%【澄む】***
+	sum	{[scat v:c]} =be_settled=	%【済む】***
 	sum	{[scat v:c]} =live=	%【住む】***
 	susum	{[scat v:c]} =go=	%【進む】
 kachisusum	{[scat v:c]} "kat_susum" =win_and_advance= %	勝ち進む		
@@ -574,6 +577,7 @@ tsukisusum	{[scat v:c]} "tsuk_susum" =push_forward= %	突き進む
 	tatazum	{[scat v:c]} =linger= %	佇む		
 	tatam	{[scat v:c]} =fold=	%【畳む】
 oritatam	{[scat v:c]} =fold=	%【折り畳む】				%% lex. compound 
+	tayum	{[scat v:c]} =falter= %弛む
 	tom	{[scat v:c]} =abound= %	富む		
 	tsukam	{[scat v:c]} =grasp=	%【つかむ】(〈掴む)
 	tsukkom	{[scat v:c]} =cram=	%【突っ込む】***
@@ -621,6 +625,7 @@ nariagar	{[scat v:c]} "nar_agar" =rise_in_the_world= %	成り上がる
 noshiagar	{[scat v:c]} "nos_agar" =stand_on_tiptoe= %	のし上がる		
 nobiagar	{[scat v:c]} =stand_on_tiptoe= "nobi_agar"
 noboseagar	{[scat v:c]} =be_beside_oneself= "nobose_agar"
+odoriagar	{[scat v:c]} "odor_agar" 	 =spring_up=	 %	躍り上がる
 okiagar	{[scat v:c]} =get_up= "oki_agar"
 omoiagar	{[scat v:c]} "omow_agar" =be_conceited= %	思い上がる		
 shiagar	{[scat v:c]} =finish= "su_agar"	%【仕上がる】
@@ -630,6 +635,7 @@ tobiagar	{[scat v:c]} =jump_up= "tob_agar"
 tsukeagar	{[scat v:c]} =be_conceited= "tsuke_agar"
 ukabiagar	{[scat v:c]} =emerge= "ukab_agar"
 ukiagar	{[scat v:c]} =float_up= "uk_agar"
+ukiagar	{[scat v:c]} =lose_touch=
 wakiagar	{[scat v:c]} "wak_agar" =well_up= %	湧き上がる		
 yakiagar	{[scat v:c]} =be_baked= "yak_agar"
 zuriagar	{[scat v:c]} =creep_up= "zur_agar"	
@@ -710,12 +716,14 @@ takabur	{[scat v:c]} "taka_fur" =get_excited= %	高ぶる
 	gambar	{[scat v:c]} =do_best=	%【がんばる/頑張る】
 	gambariya	{[scat n]} =person_who_perseveres= "gambar-ya"
 	guzur	{[scat v:c]} =be_peevish=
+	gyuujir	{[scat v:c]} =lead_by_the_nose= %	牛耳る		
 tachihadakar	{[scat v:c]} "tat_hadakar" =hinder= %	立ちはだかる		
 	hair	{[scat v:c]} =enter=	%【入る】
 	haizur	{[scat v:c]} =crawl=	%【はいずる】(〈這いずる/〈匍いずる)
 	hajimar	{[scat v:c]} =begin=	%【始まる】
 	hakador	{[scat v:c]} =progress=	%【はかどる】(〈捗る)
 	hakar	{[scat v:c]} =measure=	%【計る】***
+oshihakar	{[scat v:c]} "os_hakar" 	 =hypothesise=	 %	推し測る
 	hamar	{[scat v:c]} =fit=	%【はまる】(〈嵌まる)
 	haor	{[scat v:c]} =put_on_coat=	%【羽織る】
 	har	{[scat v:c]} =stretch_and_fix=	%【張る】(〈貼る)***
@@ -816,6 +824,11 @@ wakagaer	{[scat v:c]} =get_younger= "waka_kaer"	%【若返る】
 	kakar	{[scat v:c]} =hang=	%【かかる/掛かる】
 	kakar	{[scat v:c]} =require=	%【かかる/掛かる】
 toorikakar	{[scat v:c][comp v:c+v:c]} =happen_to_pass= "toor+kakar"	%% synt. compound  +kakaru ("almost")
+kowarekakar	{[scat v:c][comp v:v+v:c]} =break_be_about_to_do= "koware+kakar"
+katamukikakar	{[scat v:c][comp v:c+v:c]} =lean_be_about_to_do= "katamuk+kakar"
+okikakar	{[scat v:c][comp v:v+v:c]} =get_up_be_about_to_do= "oki+kakar"
+kiekakar	{[scat v:c][comp v:v+v:c]} =disappear_be_about_to_do= "kie+kakar"
+shinikakar	{[scat v:c][comp v:c+v:c]} =die_be_about_to_do= "shin+kakar"
 shikakar	{[scat v:c][comp v:c+v:c]} =do_almost= "su+kakar"
 shikakar	{[scat v:c:sub][comp v:c+v:c]} =do_almost= "su+kakar"
 furikakar	{[scat v:c]} =fall= "fur_kakar"	 				%% lex. compound  ("lean")
@@ -831,6 +844,7 @@ sashikakar	{[scat v:c]} =approach=	"sas_kakar" %【差しかかる/差し掛か�
 yorikakar	{[scat v:c]} =lean= "yor_kakar"	%【寄りかかる/寄り掛かる】
 kinikakar	{[scat v:c]} =worry= "ki_ni_kakar"	
 	kakawar	{[scat v:c]} =take_part=	%【かかわる】
+	kakezur	{[scat v:c]} =run=
 	kaor	{[scat v:c]} =be_fragrant= %	薫る		
 	kar	{[scat v:c]} =trim= %	刈る		
 	kar	{[scat v:c]} =hunt_down= %	狩る		
@@ -898,8 +912,23 @@ kamikir	{[scat v:c]} "kam_kir" =bite_off= %	噛み切る
 mikir	{[scat v:c]} "mi_kir" =sell_off= %	見切る		
 norikir	{[scat v:c]} =overcome= "nor_kir"
 oshikir	{[scat v:c]} "os_kir" =cut_down= %	押し切る	麦を	
-shimekir	{[scat v:c]} =close= "shime_kir"	%【締め切る】
+shimekir	{[scat v:c]} =close_up_completely= "shime_kir"	%【締め切る】
 tachikir	{[scat v:c]} =cut_off= "tat_kir"
+urikir	{[scat v:c][comp v:c+v:c]} =sell_complete= "ur+kir"
+moekir	{[scat v:c][comp v:v+v:c]} =burn_complete= "ur+kir"
+makanaikir	{[scat v:c][comp v:c+v:c]} =provide_for_complete= "makanaw+kir"
+wakarikir	{[scat v:c][comp v:c+v:c]} =understand_complete= "wakar+kir"
+oyogikir	{[scat v:c][comp v:c+v:c]} =swim_complete= "oyog+kir"
+tsukarekir	{[scat v:c][comp v:v+v:c]} =be_tired_complete= "tsukare+kir"
+samekir	{[scat v:c][comp v:v+v:c]} =cool_complete= "same+kir"
+obiekir	{[scat v:c][comp v:v+v:c]} =be_scared_complete= "obie+kir"
+ikikir	{[scat v:c][comp v:v+v:c]} =live_complete= "iki+kir"
+mitsukekir	{[scat v:c][comp v:v+v:c]} =find_complete= "mitsuke+kir"
+koraekir	{[scat v:c][comp v:v+v:c]} =bear_complete= "korae+kir"
+orikir	{[scat v:c][comp v:v+v:c]} =descend_complete= "ori+kir"
+tsutaekir	{[scat v:c][comp v:v+v:c]} =tell_complete= "tsutae+kir"
+uketomekir	{[scat v:c][comp v:v+v:c]} =react_complete= "uketome+kir"
+kachikir	{[scat v:c][comp v:c+v:c]} =win_complete= "kat+kir"
 aburagir	{[scat v:c]} =be_greasy= "abura_kir"	%【油切る】
 uragir	{[scat v:c]} =betray= "ura_kir"	%【裏切る】				
 	kiwamar	{[scat v:c]} =reach_limit= %	極まる		
@@ -956,12 +985,18 @@ irimajir	{[scat v:c]} =mix= "ir_majir"	%【入り交じる】			%% lex. compound
 	majiwar	{[scat v:c]} =intersect=	%【交わる】
 	makur	{[scat v:c]} =turn_up=	%【まくる】(〈捲る)
 abaremakur	{[scat v:c][comp v:v+v:c]} =behave_violently_on_and_on= "abare+makur"  %% synt. compound +makuru ("V on and on")
-iimakur	{[scat v:c][comp v:c+v:c]} =talk_volubly= "iw+makur"
+iimakur	{[scat v:c][comp v:c+v:c]} =talk_on_and_on= "iw+makur"
 kawakimakur	{[scat v:c][comp v:c+v:c]} =dry_on_and_on= "kawak+makur"
 namemakur	{[scat v:c][comp v:v+v:c]} =lick_on_and_on= "name+makur"
 shimakur	{[scat v:c][comp v:ir+v:c]} =do_on_and_on= "su+makur"
 shimakur	{[scat v:c:sub][comp v:ir+v:c]} =do_on_and_on= "su+makur"
 uchimakur	{[scat v:c][comp v:c+v:c]} =hit= "ut+makur"	%【撃ちまくる】(撃ち〈捲る)
+atsumemakur	{[scat v:c][comp v:v+v:c]} =gather_recur= "atsume+makur"
+kakimakur	{[scat v:c][comp v:c+v:c]} =write_recur= "kak+makur"
+sagashimakur	{[scat v:c][comp v:c+v:c]} =search_recur= "sagas+makur"
+torimakur	{[scat v:c][comp v:c+v:c]} =take_recur= "tor+makur"
+shaberimakur	{[scat v:c][comp v:c+v:c]} =talk_recur= "shaber+makur"
+fukimakur	{[scat v:c][comp v:c+v:c]} =blow_recur= "fuk+makur"
 	mamor	{[scat v:c]} =protect=	%【守る】
 mimamor	{[scat v:c]} =watch_over= "mi_mamor"	%【見守る】 				%% lex. compound 
 	marumar	{[scat v:c]} =roll_up=	%【丸まる】
@@ -972,6 +1007,7 @@ mimamor	{[scat v:c]} =watch_over= "mi_mamor"	%【見守る】 				%% lex. compou
 	matomar	{[scat v:c]} =come_to_settlement=	%【まとまる】(〈纏まる)
 	matsuwar	{[scat v:c]} =coil_around=	%【まつわる】(〈纏わる)
 	mawar	{[scat v:c]} =turn=	%【回る】(〈廻る)	
+abaremawar	{[scat v:c]} =behave_violently_revolve= "abare_mawar"
 arukimawar	{[scat v:c]} =walk_around= "aruk_mawar"  			%% lex. compound
 asobimawar	{[scat v:c]} =play_around= "asob_mawar"
 demawar	{[scat v:c]} "de_mawar" =appear_on_market= %	出回る		
@@ -1017,6 +1053,7 @@ kakimushir	{[scat v:c]} =tear= "kak_mushir"	%【かきむしる】(〈掻き〈�
 	nanor	{[scat v:c]} =name_oneself= %	名乗る		
 	naor	{[scat v:c]} =heal=	%【直る】
 inaor	{[scat v:c]} =sit_up_straight= "i_naor"			%% lex. compound   
+inaor	{[scat v:c]} =turn_aggressive= "i_naor"			%% lex. compound   
 tachinaor	{[scat v:c]} =recover= "tat_naor"			%% lex. compound   
 hirakinaor	{[scat v:c]} =take_offensive= "hirak_naor"	
 	nar	{[scat v:c]} =sound=	%【鳴る】
@@ -1089,6 +1126,7 @@ kakiowar	{[scat v:c][comp v:c+v:c]} =finish_writing= "kak+owar"
 kazoeowar	{[scat v:c][comp v:v+v:c]} =finish_counting= "kazoe+owar"
 kiriowar	{[scat v:c][comp v:c+v:c]} =finish_to_cut= "kir+owar"
 miowar	{[scat v:c][comp v:v+v:c]} =finish_watching= "mi+owar"
+narabiowar	{[scat v:c][comp v:c+v:c]} =line_up_finish= "narab+owar"
 nariowar	{[scat v:c][comp v:c+v:c]} =stop_ringing= "nar+owar"
 nomiowar	{[scat v:c][comp v:c+v:c]} =finish_drinking= "nom+owar"
 nuriowar	{[scat v:c][comp v:c+v:c]} =finish_painting= "nur+owar"
@@ -1097,6 +1135,8 @@ shiowar	{[scat v:c:sub][comp v:ir+v:c]} =finish_doing= "su+owar"
 tabeowar	{[scat v:c][comp v:v+v:c]} =finish_eating= "tabe+owar"
 toriowar	{[scat v:c][comp v:c+v:c]} =finish_taking= "tor+owar"
 tsukaiowar	{[scat v:c][comp v:c+v:c]} =finish_using= "tsukaw+owar"
+tsukuriowar	{[scat v:c][comp v:c+v:c]} =make_finish= "tsukur+owar"
+utaiowar	{[scat v:c][comp v:c+v:c]} =sing_finish= "utaw+owar"
 yariowar	{[scat v:c][comp v:c+v:c]} =finish_doing= "yar+owar"
 yomiowar	{[scat v:c][comp v:c+v:c]} =finish_reading= "yom+owar"
 	pakir	{[scat v:c]} =break=	%【パキる】
@@ -1221,7 +1261,7 @@ sogitor	{[scat v:c]} =flake_off= "sog_tor"
 suitor	{[scat v:c]} =absorb= "suw_tor"
 tsumitor	{[scat v:c]} =nip_off= "tsum_tor"
 ubaitor	{[scat v:c]} =rob= "ubaw_tor"
-uchitor	{[scat v:c]} =beat_out= "ut_tor"
+uchitor	{[scat v:c]} =chop= "ut_tor"
 uketor	{[scat v:c]} =receive= "uke_tor"
 yomitor	{[scat v:c]} =read= "yom_tor"		
 aitedor	{[scat v:c]} =challenge= "aite_tor"	%【相手取る】      		
@@ -1266,6 +1306,7 @@ hikitsur	{[scat v:c]} =twitch= "hik_tsur"	%【引きつる】(引き〈攣る)		
 	tsuyogar	{[scat v:c]} =pretend_strength=	%【強がる】
 	tsuyomar	{[scat v:c]} =get_strong=	%【強まる】
 	tsuzur	{[scat v:c]} =spell= %	綴る		
+	udar	{[scat v:c]}	 =churn=	 %	茹だる
 	ukar	{[scat v:c]} =pass_exam=	%【受かる】
 	uketamawar	{[scat v:c]} =be_told=	%承る
 	umar	{[scat v:c]} =be_buried=	%【埋まる】
@@ -1409,6 +1450,7 @@ yaridas	{[scat v:c][comp v:c+v:c]} =begin_to_do= "yar+das"
 %
 amidas	{[scat v:c]} =hammer_out= "am_das"	 		%% lex. compound  ("put out")
 araidas	{[scat v:c]} =work_out= "araw_das"
+egakidas	{[scat v:c]} "egak_das" 	 =depict=	 %	描き出す
 fukidas	{[scat v:c]} =blow_out= "fuk_das"
 hajikidas	{[scat v:c]} =flick_out= "hajik_das"	
 hakidas	{[scat v:c]} =vomit_out= "hak_das"
@@ -1426,9 +1468,11 @@ kiridas	{[scat v:c]} =cut_out= "kir_das"
 mochidas	{[scat v:c]} =take_out= "mot_das"
 nagedas	{[scat v:c]} =throw_out= "nage_das"
 nukidas	{[scat v:c]} =pull_out= "nuk_das"
+obikidas	{[scat v:c]} "obik_das" 	 =lure_out_of=	 %	誘き出す
 oidas	{[scat v:c]} =throw_out= "ow_das"
 okuridas	{[scat v:c]} =send_out= "okur_das"
 oshidas	{[scat v:c]} =push_out= "os_das"
+sagasdas	{[scat v:c]} =discover= "sagas_das"
 sashidas	{[scat v:c]} =hold_out= "sas_das"	%【差し出す】
 sasoidas	{[scat v:c]} =invite_out= "sasow_das"
 shimedas	{[scat v:c]} =shut_out= "shime_das"
@@ -1727,6 +1771,7 @@ tatakinomes	{[scat v:c]} "tatak_nomes" =knock_down= %	叩きのめす
 	okos	{[scat v:c]} =raise=	%【起こす】
 horiokos	{[scat v:c]} =dig_up= "hor_okos"				%% lex. compound 
 hikiokos	{[scat v:c]} "hik_okos" =induce= %	引き起こす	
+kakiokos	{[scat v:c]} =write_out=	%【書き起こす】
 makiokos	{[scat v:c]} "mak_okos" =create= %	巻き起こす	
 tatakiokos	{[scat v:c]} "tatak_okos" =wake= %	叩き起こす	
 yobiokos	{[scat v:c]} "yob_okos" =wake= %	呼び起す	
@@ -1822,6 +1867,7 @@ yomitobas	{[scat v:c]} =skim= "yom_tobas&CAUS"	%【読み飛ばす】
 mitoos	{[scat v:c]} "mi_toos" =foresee= %	見通す	
 tsukitoos	{[scat v:c]} "tsuk_toos" =perforate= %	突き通す	
 yomitoos	{[scat v:c]} "yom_toos" =read_through= %	読み通す	
+tsuranukitoos	{[scat v:c]} "tsuranuk_toos" =pierce= %	貫き通す	
 tsuranukitoos	{[scat v:c]} "tsuranuk_toos" =stick_with= %	貫き通す	
 oshitoos	{[scat v:c][comp v:c+v:c]} =persist= "os+toos"	%【押し通す】 	%% synt. compound  +toos ("V to the end")
 shitoos	{[scat v:c][comp v:ir+v:c]} =do_to_the_end= "su+toos"	 
@@ -1901,11 +1947,13 @@ nietat	{[scat v:c]} =boil_up= "nie_tat"
 nitat	{[scat v:c]} =boil_up= "ni_tat"
 hikitat	{[scat v:c]} "hik_tat" =become_active= %	引き立つ
 omoitat	{[scat v:c]} "omow_tat" =resolve= %	思い立つ
+oritat	{[scat v:c]} "ori_tat" 	 =go_down=	 %	下り立つ
 tobitat	{[scat v:c]} =take_off= "tob_tat"
 wakitat	{[scat v:c]} "wak_tat" =well_up= %	沸き立つ
 awadat	{[scat v:c]} =form_bubbles= "awa_tat"				
 haradat	{[scat v:c]} "hara_tat" =get_angry= %	腹立つ
 iradat	{[scat v:c]} =bristle= "ira_tat"	%【苛だつ】
+iromekitat	{[scat v:c]} =get_excited= "iromeki_tat"	%【色めき立つ】
 medat	{[scat v:c]} =stand_out= "me_tat"	%【目立つ】
 sakadat	{[scat v:c]} =stand_on_end= "saka_tat"	%【さか立つ】
 tabidat	{[scat v:c]} =depart= "tabi_tat"
@@ -1943,6 +1991,7 @@ hariaw	{[scat v:c][comp v:c+v:c]} "har+aw" =rival= %	張り合う
 hanashiaw	{[scat v:c][comp v:c+v:c]} =discuss= "hanas+aw"	%【話し合う】
 iiaw	{[scat v:c][comp v:c+v:c]} =argue= "iw+aw"			
 igamiaw	{[scat v:c][comp v:c+v:c]} =confront_each_other= "igam+aw"			
+jareaw	{[scat v:c][comp v:v+v:c]} =frolic_with= "jare+aw"
 karamiaw	{[scat v:c][comp v:c+v:c]} "karam_aw" =intertangle= %	絡み合う
 kasanariaw	{[scat v:c][comp v:c+v:c]} "kasanar+aw" =overlap= %	重なり合う
 kamiaw	{[scat v:c][comp v:c+v:c]} =be_in_gear= "kam+aw"			
@@ -2038,6 +2087,7 @@ odorikuruw	{[scat v:c]} "odor_kuruw" =dance_in_ecstasy= %	踊り狂う
 	kuruw	{[scat v:c]} =go_mad=	%【狂う】
 	kuw	{[scat v:c]} =eat_CLQ=	%【食う】
 	machigaw	{[scat v:c]} =be_wrong= "machigaw"	%【まちがう/間違う】
+yomimachigaw	{[scat v:c]} =misread= "yom_machigaw"	%【読み間違う】
 makizoeokuw	{[scat v:c]} =be_entangled= "makizoe_o_kuw"	%【巻き添えを食う】
 	madow	{[scat v:c]}	=be_bewildered= %	まどう		
 nigemadow	{[scat v:c]} "nige_madow" =run_about_to_escape= %	逃げ惑う
@@ -2072,6 +2122,7 @@ tsukeneraw	{[scat v:c]} "tsuke_neraw" =keep_watch_on= %	付け狙う
 	ow	{[scat v:c]} =chase=	%【追う】(《逐う)
 ukeow	{[scat v:c]} =insource= "uke_ow"	%請け負う
 	sakaraw	{[scat v:c]} =go_against=	%【逆らう】
+	samayow	{[scat v:c]} =wander=
 	saraw	{[scat v:c]} =practice=	%【さらう】(復習う)
 	sasow	{[scat v:c]} =invite=	%【誘う】
 	seow	{[scat v:c]} =shoulder=	%【背負う】
@@ -2082,6 +2133,7 @@ ukeow	{[scat v:c]} =insource= "uke_ow"	%請け負う
 	shitaw	{[scat v:c]}	=admire= %	慕う		
 	show	{[scat v:c]} =shoulder=	%【しょう】(《背負》う)
 	sokonaw	{[scat v:c]} =miss=	%【損なう】
+iisokonaw	{[scat v:c][comp v:c+v:c]} "iw+sokonaw" 	 =use_the_wrong_words=	 %	言い損なう
 kakisokonaw	{[scat v:c][comp v:c+v:c]} =misspell= "kak+sokonaw"	%【書き損なう】	%% synt. compound "mis-"
 misokonaw	{[scat v:c][comp v:v+v:c]} =miss= "mi+sokonaw"	%【見損なう】
 kikisokonaw	{[scat v:c][comp v:c+v:c]} "kik+sokonaw" =mishear= %	聞き損なう
@@ -2287,6 +2339,7 @@ nanoride	{[scat v:v]} "nanor_de" =introduce_oneself= %	名乗り出る
 negaide	{[scat v:v]} "negaw_de" =apply_for= %	願い出る		
 nijimide	{[scat v:v]} "nijim_de" =permeate= %	滲み出る		
 nukede	{[scat v:v]} "nuke_de" =outstrip= %	抜け出る		
+odoride	{[scat v:v]} "odor_de" 	 =spring_out=	 %	躍り出る
 shasharide	{[scat v:v]} "shashar_de" =intrude= %	しゃしゃり出る		
 susumide	{[scat v:v]} "susum_de" =step_forward= %	進みでる		
 todokede	{[scat v:v]} "todoke_de" =notify= %	届け出る		
@@ -2354,6 +2407,93 @@ tsukurihajime	{[scat v:v][comp v:c+v:v]} =start_to_make= "tsukur+hajime"
 ugokihajime	{[scat v:v][comp v:c+v:v]} =start_to_move= "ugok+hajime"
 yurashihajime	{[scat v:v][comp v:c+v:v]} =start_shaking= "yur&CAUS+hajime"
 yusurihajime	{[scat v:v][comp v:c+v:v]} =start_shaking= "yusur+hajime"
+agarihajime	{[scat v:v][comp v:c+v:v]} =rise_start= "agar+hajime"
+agehajime	{[scat v:v][comp v:v+v:v]} =lifting_start= "age+hajime"
+akihajime	{[scat v:v][comp v:v+v:v]} =become_tired_of_start= "aki+hajime"
+amihajime	{[scat v:v][comp v:c+v:v]} =knit_start= "am+hajime"
+arawarehajime	{[scat v:v][comp v:v+v:v]} =appear_start= "araware+hajime"
+arukihajime	{[scat v:v][comp v:c+v:v]} =walk_start= "aruk+hajime"
+atsumehajime	{[scat v:v][comp v:v+v:v]} =gather_start= "atsume+hajime"
+dehajime	{[scat v:v][comp v:v+v:v]} =get_out_start= "de+hajime"
+egakihajime	{[scat v:v][comp v:c+v:v]} =draw_start= "egak+hajime"
+fuehajime	{[scat v:v][comp v:v+v:v]} =increase_start= "fue+hajime"
+fukashihajime	{[scat v:v][comp v:c+v:v]} =blow_start= "fukas+hajime"
+furihajime	{[scat v:v][comp v:c+v:v]} =rainfall_blowing= "fur+hajime"
+furuihajime	{[scat v:v][comp v:c+v:v]} =exhibit_start= "furuw+hajime"
+haimawarihajime	{[scat v:v][comp v:c+v:c+v:v]} =crawl_revolve_start= "haw+mawar+hajime"
+haimodorihajime	{[scat v:v][comp v:c+v:c+v:v]} =crawl_return_start= "haw+modor+hajime"
+hakobihajime	{[scat v:v][comp v:c+v:v]} =carry_start= "hakob+hajime"
+hanashihajime	{[scat v:v][comp v:c+v:v]} =talk_start= "hanas+hajime"
+hatarakihajime	{[scat v:v][comp v:c+v:v]} =work_start= "hatarak+hajime"
+hiehajime	{[scat v:v][comp v:v+v:v]} =get_cold_start= "hie+hajime"
+hikihajime	{[scat v:v][comp v:c+v:v]} =grind_start= "hik+hajime"
+hikihajime	{[scat v:v][comp v:c+v:v]} =play_start= "hik+hajime"
+hikihajime	{[scat v:v][comp v:c+v:v]} =pull_start= "hik+hajime"
+hikisakihajime	{[scat v:v][comp v:c+v:c+v:v]} =pull_rupture_start= "hik+sak+hajime"
+horihajime	{[scat v:v][comp v:c+v:v]} =dig_start= "hori+hajime"
+iihajime	{[scat v:v][comp v:c+v:v]} =say_start= "iw+hajime"
+ikarihajime	{[scat v:v][comp v:c+v:v]} =get_angry_start= "ikar+hajime"
+itamihajime	{[scat v:v][comp v:c+v:v]} =hurt_start= "itam+hajime"
+jukushihajime	{[scat v:v][comp v:c+v:v]} =ripen_start= "jukus+hajime"
+kaehajime	{[scat v:v][comp v:v+v:v]} =change_start= "kae+hajime"
+kaihajime	{[scat v:v][comp v:c+v:v]} =buy_start= "kaw+hajime"
+kaihajime	{[scat v:v][comp v:c+v:v]} =keep_animal_start= "kaw+hajime"
+kakihajime	{[scat v:v][comp v:c+v:v]} =write_start= "kak+hajime"
+kakiokoshihajime	{[scat v:v][comp v:c+v:v]} =writing_out_start= "kakiokos+hajime"
+kangaehajime	{[scat v:v][comp v:v+v:v]} =think_start= "kangae+hajime"
+kanjihajime	{[scat v:v][comp v:v+v:v]} =feel_start= "kanji+hajime"
+karihajime	{[scat v:v][comp v:v+v:v]} =borrow_start= "kari+hajime"
+katarihajime	{[scat v:v][comp v:c+v:v]} =talk_start= "katar+hajime"
+kawarihajime	{[scat v:v][comp v:c+v:v]} =change_start= "kawar+hajime"
+kiehajime	{[scat v:v][comp v:v+v:v]} =disapear_start= "kie+hajime"
+kihajime	{[scat v:v][comp v:ir+v:v]} =come_start= "ku+hajime"
+kihajime	{[scat v:v][comp v:v+v:v]} =wear_start= "ki+hajime"
+kikihajime	{[scat v:v][comp v:c+v:v]} =ask_start= "kik+hajime"
+kikihajime	{[scat v:v][comp v:c+v:v]} =effect_start= "kik+hajime"
+kikihajime	{[scat v:v][comp v:c+v:v]} =listen_start= "kik+hajime"
+kikoehajime	{[scat v:v][comp v:v+v:v]} =hear/be_heard_start= "kik+hajime"
+kizukihajime	{[scat v:v][comp v:c+v:v]} =notice_start= "kizuk+hajime"
+koojihajime	{[scat v:v][comp v:v+v:v]} =adopt_heard_start= "kooji+hajime"
+kurashihajime	{[scat v:v][comp v:c+v:v]} =live_start= "kuras+hajime"
+kurushimihajime	{[scat v:v][comp v:c+v:v]} =suffer_start= "kurushim+hajime"
+mawarihajime	{[scat v:v][comp v:c+v:v]} =revolve_start= "mawar+hajime"
+miehajime	{[scat v:v][comp v:v+v:v]} =be_in_sight_start= "mie+hajime"
+mihajime	{[scat v:v][comp v:v+v:v]} =look_start= "mi+hajime"
+mochihajime	{[scat v:v][comp v:c+v:v]} =hold_start= "mot+hajime"
+modorihajime	{[scat v:v][comp v:c+v:v]} =return_start= "modor+hajime"
+moehajime	{[scat v:v][comp v:v+v:v]} =burn_start= "moe+hajime"
+morehajime	{[scat v:v][comp v:v+v:v]} =leak_start= "more+hajime"
+nagarehajime	{[scat v:v][comp v:v+v:v]} =stream_start= "nagare+hajime"
+naorihajime	{[scat v:v][comp v:c+v:v]} =heal_start= "naor+hajime"
+narashihajime	{[scat v:v][comp v:c+v:v]} =hold_start= "mot+hajime"
+narihajime	{[scat v:v][comp v:c+v:v]} =sound_start= "nar+hajime"
+nosehajime	{[scat v:v][comp v:v+v:v]} =place_on_start= "nase+hajime"
+nozokihajime	{[scat v:v][comp v:c+v:v]} =peep_start= "nazok+hajime"
+okorihajime	{[scat v:v][comp v:c+v:v]} =get_angry_start= "okor+hajime"
+omoihajime	{[scat v:v][comp v:c+v:v]} =think_start= "omow+hajime"
+orihajime	{[scat v:v][comp v:v+v:v]} =descend_start= "ori+hajime"
+oroshihajime	{[scat v:v][comp v:c+v:v]} =lower_start= "oros+hajime"
+oshiehajime	{[scat v:v][comp v:v+v:v]} =teach_start= "oshie+hajime"
+oshihajime	{[scat v:v][comp v:c+v:v]} =push_start= "os+hajime"
+oyogihajime	{[scat v:v][comp v:c+v:v]} =swim_start= "oyog+hajime"
+samayoiarukihajime	{[scat v:v][comp v:c+v:c+v:v]} =wander_walk_start= "samayow+aruk+hajime"
+shiirehajime	{[scat v:v][comp v:v+v:v]} =stock_start= "shiire+hajime"
+shirabehajime	{[scat v:v][comp v:v+v:v]} =examine_start= "shirabe+hajime"
+suihajime	{[scat v:v][comp v:c+v:v]} =suck_in_start= "suw+hajime"
+sumihajime	{[scat v:v][comp v:c+v:v]} =live_start= "sum+hajime"
+tobihajime	{[scat v:v][comp v:c+v:v]} =fry_start= "tob+hajime"
+tsubuyakihajime	{[scat v:v][comp v:c+v:v]} =mutter_start= "tsubuyak+hajime"
+tsusumihajime	{[scat v:v][comp v:c+v:v]} =wrap_start= "tsutsum+hajime"
+tsutawarihajime	{[scat v:v][comp v:c+v:v]} =be_conveyed_start= "tsutawar+hajime"
+ugomekihajime	{[scat v:v][comp v:c+v:v]} =squirm_start= "ugomek+hajime"
+usurehajime	{[scat v:v][comp v:v+v:v]} =fade_start= "usure+hajime"
+uttaehajime	{[scat v:v][comp v:v+v:v]} =sue_start= "uttae+hajime"
+waraihajime	{[scat v:v][comp v:c+v:v]} =laugh_start= "waraw+hajime"
+wazuraihajime	{[scat v:v][comp v:c+v:v]} =fall_ill_start= "wazuraw+hajime"
+yarihajime	{[scat v:v][comp v:c+v:v]} =do_CLQ_start= "yar+hajime"
+yomihajime	{[scat v:v][comp v:c+v:v]} =read_start= "yom+hajime"
+yuragihajime	{[scat v:v][comp v:c+v:v]} =sway_start= "yurag+hajime"
+zawatsukihajime	{[scat v:v][comp v:c+v:v]} =noise_start= "zawatsuk+hajime"
 	hame	{[scat v:v]} =fit_onto=	%【はめる】(〈嵌める)
 	hamide	{[scat v:v]} =jut_out=	%【はみ出る】
 	hanare	{[scat v:v]} =separate=	%【離れる】
@@ -2423,7 +2563,7 @@ shiire	{[scat v:v]} =lay_in_a_stock= "su_ire"	%【仕入れる】	    %% lex. co
 noriire	{[scat v:v]} =ride_into= "nor_ire"
 toriire	{[scat v:v]} =take_in= "tor_ire"
 ukeire	{[scat v:v]} =accept= "uke_ire"
-%% teniire	{[scat v:v]} =obtain= "te_ni_ire"	%%separate?		
+teniire	{[scat v:v]} =obtain= "te_ni_ire"			
 	itame	{[scat v:v]} =fry=	%【いためる】(〈炒める)
 	itame	{[scat v:v]} =hurt=	%【痛める】
 	jare	{[scat v:v]} =be_playful=	%【じゃれる】(《戯れる)
@@ -2586,9 +2726,12 @@ mochikotae	{[scat v:v]} "mot_kotae" =resist= %	持ち堪える
 mikurabe	{[scat v:v]} =compare= "mi_kurabe"	%【見比べる】				%% lex. compound 
 kakekurabe	{[scat v:v]} =compare_by_runing= "kake_kurabe"	%【掛け比べる】				%% lex. compound 
 	kure	{[scat v:v]} =give=	%【くれる】(《呉れる)
+	kurume	{[scat v:v]} =enwrap=	 %	包める
+iikurume	{[scat v:v]} "iw_kurume" 	 =talk_into=	 %	言い包める
 	kurushime	{[scat v:v]} =torment=	%【苦しめる】
 	kutabire	{[scat v:v]} =get_tired=	%【くたびれる】(:草臥れる)
 machikutabire	{[scat v:v]} =get_tired_of_waiting= "mat_kutabire"		%% lex. compound 
+suwarikutabire	{[scat v:v]} =get_tired_of_sitting= "suwar_kutabire"		%% lex. compound 
 	kuttsuke	{[scat v:v]} =join=
 	kuwae	{[scat v:v]} =add=	%【加える】
 kakikuwae	{[scat v:v]} "kak_kuwae" =add= %	書き加える		
@@ -2722,6 +2865,10 @@ kikioboe	{[scat v:v]} =learn_by_ear= "kik_oboe"			%% lex. compound
 shioe	{[scat v:v][comp v:ir+v:v]} =end= "su+oe"				%% synt. compound  +oe ("finish")
 shioe	{[scat v:v:sub][comp v:ir+v:v]} =end= "su+oe"	
 utaioe	{[scat v:v][comp v:ir+v:v]} =end_singing= "utaw+oe"
+yarioe	{[scat v:v][comp v:c+v:v]} =do_finish= "yar+oe"
+tsukurioe	{[scat v:v][comp v:c+v:v]} =make_finish= "tsukur+oe"
+iioe	{[scat v:v][comp v:c+v:v]} =say_finish= "iw+oe"
+yomioe	{[scat v:v][comp v:c+v:v]} =read_finish= "yom+oe"
 	ochoke	{[scat v:v]} =frolic=
 	ojike	{[scat v:v]} =cower= %	怖じける		
 	okurase	{[scat v:v]} "okurase&CAUS" =postpone= %	後らせる		
@@ -2845,6 +2992,7 @@ yokotae	{[scat v:v]} "yoko_tae" =repose= %	横たえる
 	tame	{[scat v:v]} =accumulate=	%【ためる】(〈溜める)
 	taore	{[scat v:v]} =fall_down=	%【倒れる】
 	tare	{[scat v:v]} =drop=	%【垂れる】
+unadare	{[scat v:v]} "una_tare" 	 =hang_ones_head=	 %	うな垂れる
 	tashikame	{[scat v:v]} =make_sure=	%【確かめる】
 	tashiname	{[scat v:v]} =reproach= %	嗜める		
 	tasuke	{[scat v:v]} =help=	%【助ける】
@@ -2933,6 +3081,8 @@ yoitsubure	{[scat v:v]} "yow_tsubure" =be_dead_drunk= %	酔いつぶれる
 sashitsukae	{[scat v:v]} "sas_tsukae" =hamper= %	差し支える		
 	tsukamae	{[scat v:v]} =catch=	%【つかまえる】(〈掴まえる)
 	tsukare	{[scat v:v]} =be_tired=	%【疲れる】
+arukitsukare	{[scat v:v]} =be_tired_from_walking= "aruk_tsukare"  	%% lex. compound 
+suwaritsukare	{[scat v:v]} =be_tired_from_sitting= "suwar_tsukare"  	%% lex. compound 
 tatakaitsukare	{[scat v:v]} =be_tired_from_fighting= "tatakaw_tsukare"  	%% lex. compound 
 	tsuke	{[scat v:v]} =switch_on=	%【つける】
 	tsuke	{[scat v:v]} =attach=	%【つける/付ける】(《附ける)
@@ -3019,7 +3169,6 @@ hikitsure	{[scat v:v]} "hik_tsure" =take_along= %	引き連れる
 	tsutae	{[scat v:v]} =tell=	%【伝える】
 iitsutae	{[scat v:v]} =send_word=	%【言い伝える】
 kataritsutae	{[scat v:v]} "katar_tsutae" =hand_down= %	語り伝える		
-	%tsutome	{[scat v:v]} =strive=	%【努める】
 	tsuzuke	{[scat v:v]} =continue=	%【続ける】
 donaritsuzuke	{[scat v:v][comp v:v+v:v]} =continue_yelling= "donar+tsuzuke"		%% synt. compound  +tsuzuke ("continue")
 hoetsuzuke	{[scat v:v][comp v:v+v:v]} =continue_barking= "hoe+tsuzuke"
@@ -3045,6 +3194,7 @@ yuzuriuke	{[scat v:v]} "yuzur_uke" =inherit= %	譲り受ける
 	umore	{[scat v:v]} =be_buried=	%【埋もれる】
 	unasareru	{[scat v:v]} =have_nightmare=	%うなされる
 	unuboreru	{[scat v:v]} =be_conceited=	%自惚れる
+	urotae	{[scat v:v]}	 =flurry=	 %	うろたえる
 	usume	{[scat v:v]} =dilute=	%【薄める】
 	ure	{[scat v:v]} =sell_well=	%売れる
 	ure	{[scat v:v]} =mature=	%熟れる
@@ -3074,6 +3224,7 @@ yoriwake	{[scat v:v]} "yor_wake" =select= %	より分ける
 hibiware	{[scat v:v]} =crack= "hibi_ware"	%【ひび割れる】(〈罅割れる)  %% lex. compound 
 	wasure	{[scat v:v]} =forget=	%【忘れる】
 dashiwasure	{[scat v:v][comp v:v+v:v]} =forget_to_submit= "das+wasure"	%% synt. compound  +wasure ("forget")
+hariwasure	{[scat v:v][comp v:v+v:v]} =forget_to_stretch_and_fix= "har+wasure"	%% synt. compound  +wasure ("forget")
 irewasure	{[scat v:v][comp v:v+v:v]} =forget_to_put_in= "ire+wasure"
 kakiwasure	{[scat v:v][comp v:c+v:v]} =forget_to_write= "kak+wasure"
 kiwasure	{[scat v:v][comp v:v+v:v]} =forget_to_wear= "ki+wasure"
@@ -3103,6 +3254,7 @@ usuyogore	{[scat v:v]} =get_filthy= "usu_yogore"	%【薄汚れる】
 	yoroke	{[scat v:v]} =stagger=
 	yose	{[scat v:v]} =put_aside=	%【寄せる】
 hikiyose	{[scat v:v]} "hik_yose" =attract= %	引き寄せる		
+obikiyose	{[scat v:v]} "obik_yose" 	 =bait_with=	 %	おびき寄せる
 oshiyose	{[scat v:v]} "os_yose" =surge= %	押し寄せる		
 suiyose	{[scat v:v]} "suw_yose" =attract= %	吸い寄せる		
 toriyose	{[scat v:v]} "tor_yose" =order= %	取り寄せる		
@@ -3145,6 +3297,8 @@ shiaki	{[scat v:v:sub][comp v:ir+v:v]} =tired_of_doing= "su+aki"
 	kanji	{[scat v:v]} =feel=	%【感じる】
 	kari	{[scat v:v]} =borrow=	%【借りる】
 	ki	{[scat v:v]} =wear=	%【着る】
+	kooji	{[scat v:v]} =lecture=	%【講じる】  
+	kooji	{[scat v:v]} =adopt=	%【講じる】  
 	kokoromi 	{[scat v:v]} =attempt= %	試みる		
 	kori	{[scat v:v]} =learn=	%【懲りる】
 	kuchi	{[scat v:v]} =decay=	%【朽ちる】
@@ -3229,7 +3383,9 @@ torisugi	{[scat v:v][comp v:c+v:v]} =take_too_much= "tor+sugi"
 tsukaisugi	{[scat v:v][comp v:c+v:v]} =use_too_much= "tsukaw+sugi"
 tsukesugi	{[scat v:v][comp v:v+v:v]} =attach_too_much= "tsuke+sugi"
 tsukisugi	{[scat v:v][comp v:c+v:v]} =be_attached_too_much= "tsuk+sugi"
+tsukurisugi	{[scat v:v][comp v:c+v:v]} =make_too_much= "tsukur+sugi"
 yakisugi	{[scat v:v][comp v:c+v:v]} =roast_too_much=  "yak+sugi"
+wasuresugi	{[scat v:v][comp v:v+v:v]} =forget_too_much=  "wasure+sugi"
 yarisugi	{[scat v:v][comp v:c+v:v]} =do_too_much=  "yar+sugi"
 yorisugi	{[scat v:v][comp v:c+v:v]} =approach_too_much=  "yor+sugi"
 
@@ -3280,7 +3436,8 @@ michitari 	{[scat v:v]} "michi_tari" =be_sufficient= %	満ち足りる
 chikaratsuki	{[scat v:v]} "chikara_tsuki" =use_up_all_strength= %	力尽きる		
 	tsuuji	{[scat v:v]} =lead_to=	%【通じる】
 	tsuuji	{[scat v:v]} =make_understood=	%【通じる】
-	wabi 	{[scat v:v]} =apologise= %	詫びる		
+	utonji	{[scat v:v]} =alienate= % 疎んじる
+wabi 	{[scat v:v]} =apologise= %	詫びる		
 machiwabi	{[scat v:v]} "mat_wabi" =cant_await= %	待ち侘びる		
 	yoji	{[scat v:v]} =clamber=	%【よじる】(〈攀じる)
 	zonji	{[scat v:v]} =know_POL=	%存じる

@@ -3,7 +3,6 @@
 beki	{[scat smod]} =ought_to_do=
 beshi	{[scat smod]} =ought_to_do=
 chau	{[scat smod]} =isnt_it=
-na	{[scat smod]} =PRH=
 nichigainai	{[scat smod]} =no_doubt_that= "ni_chigai_nai"
 nichigainakatta	{[scat smod]} =no_doubt_that= "ni_chigai_nakatta"
 nichigaiarimasen	{[scat smod]} =no_doubt_that= "ni_chigai_arimasen"
@@ -27,4 +26,5 @@ rashii	{[scat smod]} =hearsay= "rashi-PRES"
 rashiku	{[scat smod]} =hearsay= "rashi-ADV"
 rashikute	{[scat smod]} =hearsay= "rashi-CONN"
 soo	{[scat smod]} =hearsay=
+na	{[scat smod]} =PRH=
 

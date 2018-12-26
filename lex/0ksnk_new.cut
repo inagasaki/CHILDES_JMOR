@@ -135,7 +135,7 @@ gusarito  {[scat adv:onoma]} =deeply=
 hissori  {[scat adv:onoma]} =quietly=
 honnori  {[scat adv:onoma]} =slight=
 ato  {[scat adv]} =another=
-jitsuwa  {[scat adv]} =jitsuwa= % conj でなく
+jitsuwa  {[scat adv]} =in_fact= % conj でなく
 kesshite	{[scat adv]} =at_all=	% not_necessarily でなく（これ自体には否定が入っていない）
 marude	{[scat adv]} =just=
 kanarazushimo	{[scat adv]} =necessarily= "kanarazu_shimo"	% not_necessarily でなく（これ自体には否定が入っていない）
@@ -169,3 +169,108 @@ beshi  {[scat smod]} =ought_to= % ought to do でなく
 
 % closed
 
+
+%%% 20181226
+aete	{[scat adv]} =daringly=
+anagachi	{[scat adv]} =not_necessarily=
+arakajime	{[scat adv]} =in_advance=
+atakamo	{[scat adv]} =as_if=
+atarikamawazu	{[scat adv]} =regardless_of_the_effect_on_others=
+ato	{[scat adv]} =another=
+battari	{[scat adv]} =unexpectedly=
+betsuni	{[scat adv]} =particularly=
+bisho	{[scat adv:onoma]} =soak_wet=
+burari	{[scat adv:onoma]} =aimlessly=
+chikaraippai	{[scat adv]} =with_all_one's_strength=
+chiratto	{[scat adv]} =at_a_glance=
+dekirudake	{[scat adv]} =all_possible_efforts=
+donoyooni	{[scat adv:deic:wh]} =how=
+dooyoo	{[scat adv]} =same=
+doppuri	{[scat adv:onoma]} =totally=
+en'en	{[scat adv]} =endlessly=
+fukabuka	{[scat adv]} =deeply=
+futo	{[scat adv]} =unintentionally=
+fuwatto	{[scat adv]} =softly=
+gaishite	{[scat adv]} =mostly=
+hatasshite	{[scat adv]} =sure_enough=
+hirarito	{[scat adv]} =hirarito=
+hissori	{[scat adv:onoma]} =quietly=
+hitoaji	{[scat adv]} =one_shade=
+hitorideni	{[scat adv]} =spontaneously=
+hitotsu	{[scat adv]} =just=
+honnori	{[scat adv:onoma]} =slightly=
+hotondo	{[scat adv]} =mostly=
+hyotto	{[scat adv]} =by_chance=
+ichiban	{[scat adv]} =most=
+imahitotsu	{[scat adv]} =not_quite=
+inochikaragara	{[scat adv]} =with_bare_life=
+irekawaritachikawari	{[scat adv]} =one_after_another=
+issoo	{[scat adv]} =more=
+iza	{[scat adv]} =well_then=
+izen	{[scat adv]} =still=
+kachitto	{[scat adv:onoma]} =firmly=
+kakushakuto	{[scat adv:onoma]} =vigorously=
+katsute	{[scat adv]} =once=
+kippari	{[scat adv:onoma]} =diffinitely=
+kiwamete	{[scat adv]} =extremely=
+kyuukyo	{[scat adv]} =in_haste=
+masaka	{[scat adv]} =unlikely=
+mashite	{[scat adv]} =not_to_speak_of=
+mashiteya	{[scat adv]} =not_to_speak_of=
+meramera	{[scat adv:onoma]} =in_flames=
+mirukarani	{[scat adv]} =so_as_to_be_visible=
+mohaya	{[scat adv]} =by_now=
+mojidoori	{[scat adv]} =literally=
+moo	{[scat adv]} =more=
+moosugu	{[scat adv]} =soon=
+namajikka	{[scat adv]} =by_halves=
+nandemo	{[scat adv]} =they_say=
+nanishiro	{[scat adv]} =at_any_rate=
+naniyori	{[scat adv]} =more_than_anything_else=
+nanra	{[scat adv]} =any_kind_of=
+nao	{[scat adv]} =still=
+nombiri	{[scat adv]} =leisurely=
+omeome	{[scat adv:onoma]} =tamely=
+ooini	{[scat adv]} =exceedingly=
+oriitte	{[scat adv]} =in_a_beseeching_manner=
+osokarehayakare	{[scat adv]} =sooner_or_later=
+osokutomo	{[scat adv]} =at_the_latest=
+potsunto	{[scat adv:onoma]} =solitarily=
+rakuraku	{[scat adv]} =easily=
+rokuni	{[scat adv]} =not_properly=
+samo	{[scat adv]} =just=
+sanzan	{[scat adv]} =severely=
+sashiatari	{[scat adv]} =for_the_time_being=
+sazo	{[scat adv]} =indeed=
+seezee	{[scat adv]} =to_the_utmost=
+sekaseka	{[scat adv:onoma]} =restlessly=
+shibashiba	{[scat adv]} =frequently=
+shimijimi	{[scat adv]} =heartily=
+soratakaku	{[scat adv]} =high_in_the_sky= "sora_takaku"
+soredemo	{[scat adv]} =nevertheless=
+sukunakutomo	{[scat adv]} =at_least=
+tabitabi	{[scat adv]} =often=
+tadachini	{[scat adv]} =immediately=
+tadatada	{[scat adv]} =quite=
+taitee	{[scat adv]} =generally=
+takadaka	{[scat adv]} =at_most=
+takaga	{[scat adv]} =at_most=
+tatoe	{[scat adv]} =even_if=
+tatta	{[scat adv]} =just=
+tattaima	{[scat adv]} =just_now=
+tenjite	{[scat adv]} =conversely=
+tetteeteki	{[scat adv]} =thoroughly=
+todonotsumari	{[scat adv]} =in_the_end=
+tokaku	{[scat adv]} =anyhow=
+tokini	{[scat adv]} =from_time_to_time=
+tokiori	{[scat adv]} =sometimes=
+tokitama	{[scat adv]} =sometimes=
+tomosuruto	{[scat adv]} =sometimes=
+tootee	{[scat adv]} =absolutely=
+tsuruntsurun	{[scat adv:onoma]} =slippery=
+tsuujoo	{[scat adv]} =usually=
+umaretsuki	{[scat adv]} =by_nature=
+unzari	{[scat adv]} =be_sick_of=
+uzuuzu	{[scat adv:onoma]} =eagarly=
+zokuzoku	{[scat adv]} =successively=
+zukezuke	{[scat adv:onoma]} =bluntly=

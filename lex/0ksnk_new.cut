@@ -174,6 +174,7 @@ beshi  {[scat smod]} =ought_to= % ought to do でなく
 aete	{[scat adv]} =daringly=
 anagachi	{[scat adv]} =not_necessarily=
 arakajime	{[scat adv]} =in_advance=
+aratamete	{[scat adv]} =again=
 atakamo	{[scat adv]} =as_if=
 atarikamawazu	{[scat adv]} =regardless_of_the_effect_on_others=
 ato	{[scat adv]} =another=
@@ -192,6 +193,7 @@ fukabuka	{[scat adv]} =deeply=
 futo	{[scat adv]} =unintentionally=
 fuwatto	{[scat adv]} =softly=
 gaishite	{[scat adv]} =mostly=
+goku	{[scat adv]} =very=
 hatasshite	{[scat adv]} =sure_enough=
 hirarito	{[scat adv]} =hirarito=
 hissori	{[scat adv:onoma]} =quietly=
@@ -204,15 +206,18 @@ hyotto	{[scat adv]} =by_chance=
 ichiban	{[scat adv]} =most=
 imahitotsu	{[scat adv]} =not_quite=
 inochikaragara	{[scat adv]} =with_bare_life=
+iraira	{[scat adv:onoma]} =in_a_flet=
 irekawaritachikawari	{[scat adv]} =one_after_another=
 issoo	{[scat adv]} =more=
 iza	{[scat adv]} =well_then=
 izen	{[scat adv]} =still=
+iwaba	{[scat adv]} =so_to_speak=
 kachitto	{[scat adv:onoma]} =firmly=
 kakushakuto	{[scat adv:onoma]} =vigorously=
 katsute	{[scat adv]} =once=
 kippari	{[scat adv:onoma]} =diffinitely=
 kiwamete	{[scat adv]} =extremely=
+kotoni	{[scat adv]} =especially=
 kyuukyo	{[scat adv]} =in_haste=
 masaka	{[scat adv]} =unlikely=
 mashite	{[scat adv]} =not_to_speak_of=
@@ -240,6 +245,7 @@ rakuraku	{[scat adv]} =easily=
 rokuni	{[scat adv]} =not_properly=
 samo	{[scat adv]} =just=
 sanzan	{[scat adv]} =severely=
+sappari	{[scat adv]} =at_all=
 sashiatari	{[scat adv]} =for_the_time_being=
 sazo	{[scat adv]} =indeed=
 seezee	{[scat adv]} =to_the_utmost=
@@ -248,6 +254,7 @@ shibashiba	{[scat adv]} =frequently=
 shimijimi	{[scat adv]} =heartily=
 soratakaku	{[scat adv]} =high_in_the_sky= "sora_takaku"
 soredemo	{[scat adv]} =nevertheless=
+sugusama	{[scat adv]} =immediately=
 sukunakutomo	{[scat adv]} =at_least=
 tabitabi	{[scat adv]} =often=
 tadachini	{[scat adv]} =immediately=
@@ -274,3 +281,9 @@ unzari	{[scat adv]} =be_sick_of=
 uzuuzu	{[scat adv:onoma]} =eagarly=
 zokuzoku	{[scat adv]} =successively=
 zukezuke	{[scat adv:onoma]} =bluntly=
+
+% utsushitor --> v:c|utsus-ASP:or-PRES=reflect または　v:c|utsus-ASP:or-PRES=move の他に複合語が必要
+utushitor {[scat v:c][comp v:c+v:c]} =move_take "utsus+tor" % 移し取る
+utushitor {[scat v:c][comp v:c+v:c]} =copy_take "utsus+tor" % 写し取る
+
+

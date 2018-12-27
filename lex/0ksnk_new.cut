@@ -133,7 +133,7 @@ burari  {[scat adv:onoma]} =aimlessly=
 gusarito  {[scat adv:onoma]} =deeply=
 hissori  {[scat adv:onoma]} =quietly=
 honnori  {[scat adv:onoma]} =slight=
-ato  {[scat adv]} =another=
+ato  {[scat adv]} =another/more=
 jitsuwa  {[scat adv]} =in_fact= % conj でなく
 kesshite	{[scat adv]} =at_all=	% not_necessarily でなく（これ自体には否定が入っていない）
 marude	{[scat adv]} =just=
@@ -170,8 +170,11 @@ beshi  {[scat smod]} =ought_to= % ought to do でなく
 
 
 %%% 20181227
+% = の後（あるいは後）の余計なスペースを削除してください chijikomar, jukus, iawase, manugare, araiguma, arare, suigyuu
+
 % adv
-aete	{[scat adv]} =daringly=
+aete	{[scat adv]} =daringly=a
+amari	{[scat adv]} =very_much=
 anagachi	{[scat adv]} =not_necessarily=
 arakajime	{[scat adv]} =in_advance=
 aratamete	{[scat adv]} =again=
@@ -226,7 +229,7 @@ meramera	{[scat adv:onoma]} =in_flames=
 mirukarani	{[scat adv]} =so_as_to_be_visible=
 mohaya	{[scat adv]} =by_now=
 mojidoori	{[scat adv]} =literally=
-moo	{[scat adv]} =more=
+moo	{[scat adv]} =another/more=
 moosugu	{[scat adv]} =soon=
 namajikka	{[scat adv]} =by_halves=
 nandemo	{[scat adv]} =they_say=
@@ -282,10 +285,40 @@ uzuuzu	{[scat adv:onoma]} =eagarly=
 zokuzoku	{[scat adv]} =successively=
 zukezuke	{[scat adv:onoma]} =bluntly=
 
+% noun
+jizen	{[scat n]} =before_the_event=
+jigo	{[scat n]} =after_the_event=
+kanji	{[scat n]} =kanji_character= % 単なる =character= でなく
+kare	{[scat n]} =boy_friend=
+kanojo	{[scat n]} =girl_friend=
+tonari	{[scat n]} =next=	% =next_door= では意味が狭すぎる
+gaikokugo	{[scat n]} =foreign_language=
+kabu	{[scat n]} =stock=
+kouma  {[scat n][comp n+n]} =foal= "ko+uma"
+kousagi  {[scat n][comp n+n]} =leveret= "ko+usagi"
+kogaisha  {[scat n][comp n+n]} =subsidiary_company= "ko+kaisha"
+koushi  {[scat n][comp n+n]} =calf= "ko+ushi"
+koinu  {[scat n][comp n+n]} =puppy= "ko+inu"
+kogitsune  {[scat n][comp n+n]} =little_fox= "ko+kitsune"
+koneko  {[scat n][comp n+n]} =kitten= "ko+neko"
+kobuta  {[scat n][comp n+n]} =little_pig= "ko+buta"
+
 % verb
+umare	{[scat v:v]} =be_born= %生まれる "umare&PASS" ではない
+ne	{[scat v:v]} =sleep=
+kakar	{[scat v:c]} =be_required=	% 時間がかかる
+yak	{[scat v:c]} =bake/fry/roast=	%【焼く】***
+das	{[scat v:c]} =send/submit=
+sabak	{[scat v:c]} =deal_with/judge=  % =dissemble= というエントリーは（dissembleという意味はないように思われるので）削除してよいのではないか？
+
+
 % utsushitor --> v:c|utsus-ASP:or-PRES=reflect または　v:c|utsus-ASP:or-PRES=move の他に複合語が必要
 utushitor {[scat v:c][comp v:c+v:c]} =move_take "utsus+tor" % 移し取る
 utushitor {[scat v:c][comp v:c+v:c]} =copy_take "utsus+tor" % 写し取る
+uridas {[scat v:c][comp v:c+v:c]} =put_on_sale "ur+das" % 売り出す
+
+% vn
+happyoo	{[scat n:vn]} =presentation=
 
 % conj
 chinamini	{[scat conj]} =by_the_way=
@@ -574,3 +607,4 @@ wakariaw	{[scat v:c][comp v:c+v:c]} =understand_each_other= "wakar+aw"
 wakarkane	{[scat v:v][comp v:v+v:v]} =understand_be.unable.to= "wakar+kane"
 yarikane	{[scat v:v][comp v:c+v:v]} =do_be_unabale_to= "yar+kane"
 yukikayow	{[scat v:c][comp v:c+v:c]} =pass= "yuk+kayow"
+

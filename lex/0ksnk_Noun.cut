@@ -1,5 +1,7 @@
 % noun
+akiya	{[scat n]} =unoccupied_house=
 Shisukogawa  {[scat n][comp npr+n]} =Cisco_side= "Shisuko+gawa"
+engawa  {[scat n]} =veranda=
 aitekata  {[scat n]} =other_party=
 ajiwai  {[scat n]} =taste=
 apurikeeshon  {[scat n]} =application=
@@ -38,6 +40,11 @@ gyooretsu  {[scat n]} =queue=
 gyooyoo  {[scat n]} =business=
 han'i  {[scat n]} =range=
 hibiki  {[scat n]} =sound=
+hokubu  {[scat n]} =the_north=
+hokusee  {[scat n]} =northwest=
+hokuseegawa  {[scat n][comp n+n]} =northwest_side= "hokusee+gawa"
+hokutoo  {[scat n]} =northeast=
+hokutoogawa  {[scat n][comp n+n]} =northeast_side= "hokutoo+gawa"
 hon'ya  {[scat n]} =book_store=
 hooritsuka  {[scat n]} =lawyer=
 hootekishikoo  {[scat n]} =legal_thinking= "hooteki_shikoo"
@@ -60,6 +67,9 @@ karuchaa  {[scat n]} =culture=
 keeyakusho  {[scat n]} =contract_document=
 kigyoo  {[scat n]} =company=
 kitagawa  {[scat n][comp n+n]} =north_side= "kita+gawa"
+soshikigawa  {[scat n][comp n+n]} =organization_side= "soshiki+gawa"
+higashigawa  {[scat n][comp n+n]} =east_side= "higashi+gawa"
+nishigawa  {[scat n][comp n+n]} =west_side= "nishi+gawa"
 kobuta  {[scat n][comp n+n]} =little_pig= "ko+buta"
 kogaisha  {[scat n][comp n+n]} =subsidiary_company= "ko+kaisha"
 kogitsune  {[scat n][comp n+n]} =little_fox= "ko+kitsune"
@@ -74,6 +84,11 @@ kurige  {[scat n]} =chestnut_coat=
 kyoogookankee  {[scat n][comp n:vn+n]} =competitive_relationship= "kyoogoo+kankee"
 kyoozonkankee  {[scat n][comp n:vn+n]} =symbiotic_relationship= "kyoozon+kankee"
 minamigawa  {[scat n][comp n+n]} =south_side= "minami+gawa"
+nambu  {[scat n]} =the_south=
+nansee  {[scat n]} =southwest=
+nanseegawa  {[scat n][comp n+n]} =southwest_side= "nansee+gawa"
+nantoo  {[scat n]} =southeast=
+nantoogawa  {[scat n][comp n+n]} =southeast_side= "nantoo+gawa"
 puurugawa  {[scat n][comp n+n]} =pool_side= "puuru+gawa"
 seefugawa  {[scat n][comp n+n]} =goverment_side= "seefu+gawa"
 shitagawa  {[scat n][comp n+n]} =lower_part= "shita+gawa"

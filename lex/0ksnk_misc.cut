@@ -1,0 +1,41 @@
+% ptl
+kamo  {[scat ptl:foc]} =perhaps=
+
+% smod
+daroo  {[scat smod]} =must=
+deshoo  {[scat smod]} =daroo&POL=
+beki  {[scat smod]} =ought_to= % ought to do でなく
+beshi  {[scat smod]} =ought_to= % ought to do でなく
+
+% deic
+kooshita  {[scat adn:deic:dem]} =like_this= % adn|koo_shita=such を変更
+aashita  {[scat adn:deic:dem]} =like_that=
+donoyooni  {[scat adv:deic:wh]} =how= "dono_yoo_ni"
+
+% conj
+chinamini	{[scat conj]} =by_the_way=
+ga	{[scat conj]} =but=
+ippoo	{[scat conj]} =on_the_other_hand=
+ja	{[scat conj]} =then=
+jaa	{[scat conj]} =then=
+katsu	{[scat conj]} =and=
+keredo	{[scat conj]} =but=
+keredomo	{[scat conj]} =but=
+kuwaete	{[scat conj]} =besides=
+mata	{[scat conj]} =and=
+matawa	{[scat conj]} =or=
+moshikuwa	{[scat conj]} =or=
+mottomo	{[scat conj]} =however=
+narabini	{[scat conj]} =and=
+oyobi	{[scat conj]} =and=
+sarani	{[scat conj]} =furthermore=
+saraniwa	{[scat conj]} =furthermore=
+shikashinagara	{[scat conj]} =but=
+shitagatte	{[scat conj]} =therefore=
+sooshite	{[scat conj]} =and_then=
+soremo	{[scat conj]} =and_in_addition_to_that=
+sorenishitemo	{[scat conj]} =nevertheless=
+toiunowa	{[scat conj]} =because=
+towaie	{[scat conj]} =nevertheless=
+towaittemo	{[scat conj]} =nevertheless=
+yotte	{[scat conj]} =therefore=

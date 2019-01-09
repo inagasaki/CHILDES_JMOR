@@ -287,3 +287,6 @@ tenrankai      {[scat n]} =exhibition= "tenran+kai"
 heesha	       {[scat n]} =this_company=
 burandohin     {[scat n]} =luxury_brand_goods "brando+hin"
 seehin	       {[scat n]} =product=
+shi	       {[scat n]} =city=
+kakaku	       {[scat n]} =price=
+

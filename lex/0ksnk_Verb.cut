@@ -332,6 +332,7 @@ ukidas	{[scat v:c][comp v:c+v:c]} =stand_out= "uk+das"
 ukide	{[scat v:v][comp v:c+v:v]} =stand_out= "uk+de"
 ukitat	{[scat v:c][comp v:c+v:c]} =become_restless= "uk+tat"
 umare	{[scat v:v]} =be_born= %生まれる "umare&PASS" ではない
+umidas	{[scat v:c][comp v:c+v:c]} =give_birth_take_out= "um+das"
 uridas {[scat v:c][comp v:c+v:c]} =put_on_sale "ur+das" % 売り出す
 ut	{[scat v:c]} =hit/shoot=	%【打つ】【撃つ】
 utaiage	{[scat v:v][comp v:c+v:v]} =celebrate= "utaw+age"

@@ -1,12 +1,13 @@
 % adji
 
 % adjn
-daishoosamazama  {[scat n:an]} =various=
-furatto  {[scat n:an]} =flat=
-iyokuteki  {[scat n:an]} =enthusiastic=
-kichi  {[scat n:an]} =known= % 【既知】、n でなく
-shimpai	{[scat n:an]} =anxious=
+daishoosamazama	{[scat n:an]} =various=
+furatto		{[scat n:an]} =flat=
+iyokuteki	{[scat n:an]} =enthusiastic=
+kichi		{[scat n:an]} =known= % 【既知】、n でなく
+shimpai		{[scat n:an]} =anxious=
 shimpaisoo	{[scat n:an]} =anxious_SEEMING= "shimpai_soo"
+yuniiku		{[scat n:an]} =unique=
 
 % adv
 aete	{[scat adv]} =daringly=a

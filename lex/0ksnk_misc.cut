@@ -3,7 +3,7 @@ kamo  {[scat ptl:foc]} =perhaps=
 
 % smod
 daroo  {[scat smod]} =must=
-deshoo  {[scat smod]} =daroo&POL=
+deshoo  {[scat smod]} =must= "daroo&POL"
 beki  {[scat smod]} =ought_to= % ought to do でなく
 beshi  {[scat smod]} =ought_to= % ought to do でなく
 

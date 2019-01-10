@@ -379,3 +379,7 @@ shimpai	{[scat n:vn]} =worry=	                %【心配】 sorrow でなく
 
 % 修正
 kashite	{[scat n][comp v:c+n]} =lender= "kas&GER+te" % "kasi&GER+te" でなく
+
+% by Kinjo 2018/01/09
+ondas	       {[scat v:c]} =expel=
+onde  {[scat v:v]} =get_out=

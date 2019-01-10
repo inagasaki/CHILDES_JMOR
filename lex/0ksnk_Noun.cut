@@ -272,3 +272,21 @@ yoo	{[scat n:fml]} =as/as_if/so_as_to= % apparently でなく
 
 
 % = の後（あるいは後）の余計なスペースを削除してください chijikomar, jukus, iawase, manugare, araiguma, arare, suigyuu
+
+% by Kinjo 2018/01/09
+naka	{[scat n]} =inside=
+gunshuu	{[scat n]} =crowd=
+tame	{[scat n]} =due_to=
+kinshi	{[scat n]} =gold_thread=
+shushoo	{[scat n]} =prime_minister=
+tatsumaki      {[scat n]} =tornado=
+tettoo	       {[scat n]} =steel_tower=
+sandoo	       {[scat n]} =mountain_path=
+minkan	       {[scat n]} =private=
+tenrankai      {[scat n]} =exhibition= "tenran+kai"
+heesha	       {[scat n]} =this_company=
+burandohin     {[scat n]} =luxury_brand_goods "brando+hin"
+seehin	       {[scat n]} =product=
+shi	       {[scat n]} =city=
+kakaku	       {[scat n]} =price=
+

@@ -141,6 +141,7 @@ sankasha	{[scat n]} =participant= "sanka_sha_PERSON" % 参加者
 sanretsusha	{[scat n]} =attendant= "sanretsu_sha_PERSON" % 参列者
 seefugawa  {[scat n][comp n+n]} =goverment_side= "seefu+gawa"
 seesansha	{[scat n]} =manufacturer= "seesan_sha_PERSON" % 生産者
+seeshin	{[scat n]} =mind= % 精神
 sekininsha	{[scat n]} =responsible_person= "sekinin_sha_PERSON" % 責任者
 shichoosha	{[scat n]} =audience= "shichoo_sha_PERSON" % 視聴者
 shidoosha	{[scat n]} =leader= "shidoo_sha_PERSON" % 指導者

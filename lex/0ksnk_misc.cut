@@ -6,11 +6,13 @@ daroo  {[scat smod]} =must=
 deshoo  {[scat smod]} =must= "daroo&POL"
 beki  {[scat smod]} =ought_to= % ought to do でなく
 beshi  {[scat smod]} =ought_to= % ought to do でなく
+bekarazu  {[scat smod]} =ought_to= "bekara-NEG" % ought to do でなく
 
 % deic
 kooshita  {[scat adn:deic:dem]} =like_this= % adn|koo_shita=such を変更
 aashita  {[scat adn:deic:dem]} =like_that=
 donoyooni  {[scat adv:deic:wh]} =how= "dono_yoo_ni"
+waga	   {[scat n:deic:prs]} =our=
 
 % conj
 chinamini	{[scat conj]} =by_the_way=

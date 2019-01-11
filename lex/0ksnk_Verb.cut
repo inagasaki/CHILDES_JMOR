@@ -95,10 +95,11 @@ hanemawar	{[scat v:c][comp v:v+v:c]} =jump_revolve= "hane_mawar"
 hans  {[scat v:c]} =be_against=
 hariowar	{[scat v:c][comp v:c+v:c]} =stretch_finish= "har+owar"
 hashirihajime	{[scat v:v][comp v:c+v:v]} =run_start= "hashir+hajime"
-hashirimawar	{[scat v:c][comp v:c+v:c]} =run_revolve= "hashir_mawar"
+hashirimawar	{[scat v:c][comp v:c+v:c]} =run_revolve= "hashir+mawar"
 hashirnuk	{[scat v:v][comp v:c+v:c]} =outrun= "hashir+nuk"
 hate	{[scat v:v]} =terminate= %	果てる
 hikisak {[scat v:c][comp v:c+v:c]} =pull_rupture=  "hik+sak"
+hikikonas {[scat v:c][comp v:c+v:c]} =play_manage=  "hik+konas"
 hoedas	{[scat v:c][comp v:v+v:c]} =began_to_bark= "hoe+das"
 hoehajime	{[scat v:v][comp v:v+v:v]} =bark_start= "hoe+hajime"
 iawase	{[scat v:v][comp v:v+v:v]} =be_combine= "i+awase"

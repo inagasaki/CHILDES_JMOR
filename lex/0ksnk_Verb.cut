@@ -85,9 +85,9 @@ fumikom	{[scat v:c][comp v:c+v:c]} =step_into= "fum+kom"
 furumaw  {[scat v:c]} =distribute=
 hakar  {[scat v:c]} =plan=
 hanas  {[scat v:c]} =speak=
-hanashiaw	{[scat v:c][comp v:c+v:c]} =discuss= "hanas+aw"
+hanashiaw	{[scat v:c][comp v:c+v:c]} =talk_each_other= "hanas+aw"
 hanashikom	{[scat v:c][comp v:c+v:c]} =talk_repeat= "hanas+kom"
-hanashitsuzuke	{[scat v:v][comp v:c+v:v]} =continue_speaking= "hanas+tsuzuke"
+hanashitsuzuke	{[scat v:v][comp v:c+v:v]} =speak_continue= "hanas+tsuzuke"
 hanaskom	{[scat v:c][comp v:c+v:c]} =talk_repeat= "hanas+kom"
 hanehajime	{[scat v:v][comp v:v+v:v]} =jump_start= "hane+hajime"
 hanemawar	{[scat v:c][comp v:v+v:c]} =jump_revolve= "hane_mawar"

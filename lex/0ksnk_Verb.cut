@@ -226,7 +226,7 @@ kiriowar	{[scat v:c][comp v:c+v:c]} =cut_finish= "kir+owar"
 makas	{[scat v:c]} =defeat=	%【負かす】
 mawar	{[scat v:c]} =revolve=
 mawas	{[scat v:c]} =revolve=
-mi	{[scat v:v]} =see/look=	%【見る】
+mi	{[scat v:v]} =see/look/watch=	%【見る】
 miage	{[scat v:v][comp v:v+v:v]} =look_up= "mi+age"
 mikir	{[scat v:c][comp v:v+v:c]} =watch_completely= "mi+kir"
 mikos	{[scat v:c][comp v:v+v:c]} =anticipate= "mi+kos"

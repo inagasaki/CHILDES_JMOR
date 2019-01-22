@@ -279,6 +279,7 @@ Supein	{[scat n:prop]} =Spain= % Supeen --> Supein
 kawari  {[scat n:fml]} =instead_of= % in_exchange_for でなく
 yoo	{[scat n:fml]} =as/as_if/so_as_to= % apparently でなく
 
+otto	{[scat n]} =husband=
 
 % = の後（あるいは後）の余計なスペースを削除してください chijikomar, jukus, iawase, manugare, araiguma, arare, suigyuu
 

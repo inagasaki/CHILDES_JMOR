@@ -290,4 +290,5 @@ burandohin     {[scat n]} =luxury_brand_goods "brando+hin"
 seehin	       {[scat n]} =product=
 shi	       {[scat n]} =city=
 kakaku	       {[scat n]} =price=
-
+kankyakuseki  {[scat n][comp n+n]} =audience_seat= "kankyaku+seki"
+kankyaku  {[scat n]} =audience=

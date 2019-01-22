@@ -300,4 +300,5 @@ shi	       {[scat n]} =city=
 kakaku	       {[scat n]} =price=
 kankyakuseki  {[scat n][comp n+n]} =audience_seat= "kankyaku+seki"
 kankyaku  {[scat n]} =audience=
-kikoo  {[scat n]} =weather=
+kikoo	{[scat n]} =weather=
+tanin	{[scat n]} =others=

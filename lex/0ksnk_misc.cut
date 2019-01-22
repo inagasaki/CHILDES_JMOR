@@ -44,3 +44,6 @@ yotte	{[scat conj]} =therefore=
 
 % q
 maitoshi	{[scat quant]} "mai_EVERY_toshi" =every_year=
+
+% vsfx sfxcat
+yoo {[scat vsfx] [sfxcat n] [allo OR vV vCi vPIw vAIt vTKi vTSi vAIs]} "yoo_WAY_OF"

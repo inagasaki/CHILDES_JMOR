@@ -1,4 +1,6 @@
 % adji
+arigata		{[scat adj]} =be_appreciated=
+arigatoo	{[scat adj][tense inf]} =be_appreciated= "arigata&ADV"
 
 % adjn
 chookiteki	{[scat n:an]} =long_term= "chooki_teki_LIKE"

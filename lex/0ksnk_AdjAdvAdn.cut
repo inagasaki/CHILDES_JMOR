@@ -53,6 +53,7 @@ zetsubooteki	{[scat n:an]} == "zetsuboo_teki_LIKE"
 
 % wh
 donoyooni	{[scat adv:deic:wh]} =how=
+donoyoona	{[scat adn:deic:wh]} =what_kind=
 
 % adv
 aete	{[scat adv]} =daringly=a
@@ -175,6 +176,7 @@ omoikitta   {[scat adn]} =daring=
 arayuru   {[scat adn]} =every=
 mishiranu   {[scat adn]} =unfamiliar=
 
+wazuka	{[scat n:an]} =slight=
 juuyoo         {[scat n:an]} =important=
 % by Kinjo 2018/01/09
 kunekune       {[scat adv:onoma]} =tortuous=

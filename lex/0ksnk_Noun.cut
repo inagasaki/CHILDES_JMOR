@@ -135,7 +135,9 @@ rikkoohosha	{[scat n]} =candidate= "rikkooho_sha_PERSON" % 立候補者
 riyoosha	{[scat n]} =user= "riyoo_sha_PERSON" % 利用者
 roodoosha	{[scat n]} =labor= "roodoo_sha_PERSON" % 労働者
 ryokoosha	{[scat n]} =traveler= "ryokoo_sha_PERSON"
+ryuugakusee	{[scat n]} =foreign_student= "ryuugaku_see_STUDENT"
 sagyoosha	{[scat n]} =operator= "sagyoo_sha_PERSON" % 作業者
+saikaigo	{[scat n]} =after_the_renewal= "saikai_go_AFTER"
 sakusha	{[scat n]} =author= "sakusha" % 作者
 sankasha	{[scat n]} =participant= "sanka_sha_PERSON" % 参加者
 sanretsusha	{[scat n]} =attendant= "sanretsu_sha_PERSON" % 参列者
@@ -143,6 +145,11 @@ seefugawa  {[scat n][comp n+n]} =goverment_side= "seefu+gawa"
 seesansha	{[scat n]} =manufacturer= "seesan_sha_PERSON" % 生産者
 seeshin	{[scat n]} =mind= % 精神
 sekininsha	{[scat n]} =responsible_person= "sekinin_sha_PERSON" % 責任者
+sekiyukiki	{[scat n]} =oil_crisis= "sekiyu_kiki"
+sekiyukikigo	{[scat n]} =after_the_oil_crisis= "sekiyu_kiki_go_AFTER"
+sekishokku	{[scat n]} =oil_crisis= "sekiyu_shokku"
+sekishokkugo	{[scat n]} =after_the_oil_crisis= "sekiyu_shokku_go_AFTER"
+sengo	{[scat n]} =after_the_war= "sen_go_AFTER"
 shichoosha	{[scat n]} =audience= "shichoo_sha_PERSON" % 視聴者
 shidoosha	{[scat n]} =leader= "shidoo_sha_PERSON" % 指導者
 shikaisha	{[scat n]} =chairperson= "shikai_sha_PERSON" % 司会者
@@ -161,6 +168,7 @@ shussekisha	{[scat n]} =attendant= "shusseki_sha_PERSON" % 出席者
 soonansha	{[scat n]} =victim= "soonan_sha_PERSON" % 遭難者
 soosha	{[scat n]} =runner= "soo_sha_PERSON" % 走者
 soshikigawa  {[scat n][comp n+n]} =organization_side= "soshiki+gawa"
+sotsugyoosee	{[scat n]} =alumnus/alumna= "sotsugyoo_see_STUDENT"
 tantoosha	{[scat n]} =person_in_charge= "tantoo_sha_PERSON"
 tantoosha	{[scat n]} =responsible_person= "tantoo_sha_PERSON" % 担当者
 tonari	{[scat n]} =next=	% =next_door= では意味が狭すぎる
@@ -290,4 +298,7 @@ burandohin     {[scat n]} =luxury_brand_goods "brando+hin"
 seehin	       {[scat n]} =product=
 shi	       {[scat n]} =city=
 kakaku	       {[scat n]} =price=
-
+kankyakuseki  {[scat n][comp n+n]} =audience_seat= "kankyaku+seki"
+kankyaku  {[scat n]} =audience=
+kikoo	{[scat n]} =weather=
+tanin	{[scat n]} =others=

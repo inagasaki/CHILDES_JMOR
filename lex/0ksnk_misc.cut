@@ -42,3 +42,5 @@ towaie	{[scat conj]} =nevertheless=
 towaittemo	{[scat conj]} =nevertheless=
 yotte	{[scat conj]} =therefore=
 
+% q
+maitoshi	{[scat quant]} "mai_EVERY_toshi" =every_year=

@@ -589,19 +589,22 @@ yurashihajime	{[scat v:v][comp v:c+v:v]} =shake_start= "yur&CAUS+hajime"
 yusurihajime	{[scat v:v][comp v:c+v:v]} =shake_start= "yusur+hajime"
 
 % vn
-happyoo	{[scat n:vn]} =giving_presentation=
-hen'yoo  {[scat n:vn]} =change=
-henkaku  {[scat n:vn]} =change=
-irai  {[scat n:vn]} =request=                  % requesting でなく
-jooba  {[scat n:vn]} =ride_horseback=
-kaishuu  {[scat n:vn]} =retrieve=              % retrieval でなく
-kan'yuu  {[scat n:vn]} =persuade=
-kanri  {[scat n:vn]} =manage=
-keeee  {[scat n:vn]} =manage=
-koobo  {[scat n:vn]} =publicly_recruit=
-kyoozon  {[scat n:vn]} =exist_together=
-nanka	{[scat n:vn]} =softening=
-shimpai	{[scat n:vn]} =worry=	                %【心配】 sorrow でなく
+happyoo		{[scat n:vn]} =giving_presentation=
+hen'yoo  	{[scat n:vn]} =change=
+henkaku  	{[scat n:vn]} =change=
+irai  		{[scat n:vn]} =requesting=
+jooba 		{[scat n:vn]} =ride_horseback=
+kaishuu  	{[scat n:vn]} =retrieve=
+kan'yuu  	{[scat n:vn]} =persuade=
+kanri  		{[scat n:vn]} =manage=
+keeee  		{[scat n:vn]} =manage=
+koobo  		{[scat n:vn]} =publicly_recruit=
+kyoozon  	{[scat n:vn]} =exist_together=
+nanka		{[scat n:vn]} =softening=
+saikai		{[scat n:vn]} =reopen=
+shimpai		{[scat n:vn]} =worry=	                %【心配】 sorrow でなく
+sotsugyoo	{[scat n:vn]} =graduation=
+ryuugaku	{[scat n:vn]} =study_abroad=
 
 % 修正
 kashite	{[scat n][comp v:c+n]} =lender= "kas&GER+te" % "kasi&GER+te" でなく

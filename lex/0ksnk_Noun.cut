@@ -442,7 +442,24 @@ omochaya  {[scat n]} "omocha_ya_SHOP" =toy_store= %おもちゃ屋
 %
 =======
 % by Hayashi 2019/01/23
+<<<<<<< HEAD
 seken   {[scat n]}      =society=
 omemoji {[scat n:vn]}   =view=
 enkai   {[scat n]}      =party=
+>>>>>>> add entries
+=======
+seken       {[scat n]}              =society=
+omemoji     {[scat n:vn]}           =view=
+enkai       {[scat n]}              =party=
+koopasu     {[scat n]}              =linguistic_corpus=
+gengodeeta  {[scat n][comp n+n]}    =linguistic_data=       "gengo+deeta"
+gengokaisekijoohoo {[scat n][comp n+n:vn+n]}   =linguistic_analysis=   "gengo+kaiseki+joohoo"
+toogokaisekijoohoo {[scat n][comp n+n:vn+n]}   =syntactic_analysis=   "toogo+kaiseki+joohoo"
+mokutekigo  {[scat n][comp n+n]}    =linguistic_object=    "mokuteki+go" % これは複合語かどうか怪しい
+shugo       {[scat n][comp n+n]}    =linguistic_subject=   "shu+go"
+tsuriibank  {[scat n]}              =treebank=
+gengokenkyuu    {[scat n][comp n+n:vn]} =linguistic_research= "gengo+kenkyuu"
+gengoshorishisutemukaihatsu {[scat n][comp n+n:vn+n+n:vn]} =development_of_NLP_system= "gengo+shori+shisutemu+kaihatsu"
+go          {[scat n]}              =word=
+ku          {[scat n]}              =phrase=
 >>>>>>> add entries

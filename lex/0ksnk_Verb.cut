@@ -620,3 +620,6 @@ kashite	{[scat n][comp v:c+n]} =lender= "kas&GER+te" % "kasi&GER+te" でなく
 % by Kinjo 2018/01/09
 ondas	       {[scat v:c]} =expel=
 onde  {[scat v:v]} =get_out=
+
+% by Hayashi 2018/01/23
+fuka           {[scat n:vn]}    =append=

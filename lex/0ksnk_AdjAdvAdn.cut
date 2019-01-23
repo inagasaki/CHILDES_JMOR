@@ -53,7 +53,8 @@ rekishiteki	{[scat n:an]} =historical= "rekishi_teki_LIKE"
 komponteki	{[scat n:an]} =essential= "kompon_teki_LIKE"
 saidai		{[scat n:an]} =greatest=
 arata		{[scat n:an]} =new=
-zetsubooteki	{[scat n:an]} == "zetsuboo_teki_LIKE"
+zetsubooteki	{[scat n:an]} =desperate= "zetsuboo_teki_LIKE"
+naibuteki	{[scat n:an]} =internal= "naibu_teki_LIKE"
 
 % wh
 donoyooni	{[scat adv:deic:wh]} =how=

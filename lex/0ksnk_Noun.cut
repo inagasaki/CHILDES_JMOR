@@ -65,6 +65,7 @@ higashigawa  {[scat n][comp n+n]} =east_sqide= "higashi+gawa"
 higisha	{[scat n]} =suspected_person= "higi_sha_PERSON" % 被疑者
 hisaisha	{[scat n]} =victim= "hisai_sha_PERSON" % 被災者
 hogosha	{[scat n]} =protector= "hogo_sha_PERSON" % 保護者
+hikari	{[scat n]} =light=
 hokoosha	{[scat n]} =walker= "hokoo_sha_PERSON" % 歩行者
 hokubu  {[scat n]} =the_north=
 hokusee  {[scat n]} =northwest=
@@ -142,7 +143,9 @@ sakusha	{[scat n]} =author= "sakusha" % 作者
 sankasha	{[scat n]} =participant= "sanka_sha_PERSON" % 参加者
 sanretsusha	{[scat n]} =attendant= "sanretsu_sha_PERSON" % 参列者
 seefugawa  {[scat n][comp n+n]} =goverment_side= "seefu+gawa"
+seemee	   {[scat n]} =life= % 生命
 seesansha	{[scat n]} =manufacturer= "seesan_sha_PERSON" % 生産者
+kabutogani	{[scat n]} =horseshoe_crab=
 seeshin	{[scat n]} =mind= % 精神
 sekininsha	{[scat n]} =responsible_person= "sekinin_sha_PERSON" % 責任者
 sekiyukiki	{[scat n]} =oil_crisis= "sekiyu_kiki"
@@ -184,6 +187,11 @@ toonin  {[scat n]} =the_person_in_question=
 toosha  {[scat n]} =this_company=
 tooshi  {[scat n]} =this_city=
 tozansha	{[scat n]} =mountain_climber= "tozan_sha_PERSON" % 登山者
+tansaibooseebutsu  {[scat n][comp n+n]} =unicellular_creature= "tansaiboo+seebutsu"
+tasaibooseebutsu  {[scat n][comp n+n]} =multicellular_creature= "tasaiboo+seebutsu"
+seebutsu  {[scat n]} =creature=
+tansaiboo  {[scat n]} =unicellular=
+tasaiboo  {[scat n]} =multicellular=
 uegawa  {[scat n][comp n+n]} =upper_part= "ue+gawa"
 umigawa  {[scat n][comp n+n]} =seaward_side= "umi+gawa"
 yakusha	{[scat n]} =actor= % 役者

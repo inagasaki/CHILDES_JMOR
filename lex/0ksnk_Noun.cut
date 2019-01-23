@@ -182,6 +182,7 @@ shoogaisha	{[scat n]} =handicapped_person= "shoogai_sha_PERSON" % 障害者
 shoohisha	{[scat n]} =consumer= "shoohi_sha_PERSON" % 消費者
 shoshinsha	{[scat n]} =beginner= "shoshin_sha_PERSON"
 shoyuusha	{[scat n]} =owner= "shoyuu_sha_PERSON" % 所有者
+shu		{[scat n]} =species= %種
 shusaisha	{[scat n]} =sponcor= "shusai_sha_PERSON" % 主催者
 shussekisha	{[scat n]} =attendant= "shusseki_sha_PERSON" % 出席者
 shuuki	{[scat n]} =cycle= % 周期

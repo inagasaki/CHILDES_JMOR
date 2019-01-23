@@ -302,3 +302,123 @@ kankyakuseki  {[scat n][comp n+n]} =audience_seat= "kankyaku+seki"
 kankyaku  {[scat n]} =audience=
 kikoo	{[scat n]} =weather=
 tanin	{[scat n]} =others=
+
+
+shookaki	{[scat n]} =fire_extinguisher= "shooka_ki_MACHINE"
+sentakki	{[scat n]}  "sentaku_ki_MACHINE" =laundry=	% 洗濯機
+sentakuki	{[scat n]}  "sentaku_ki_MACHINE" =laundry= 	% 洗濯機
+shimpan'in	{[scat n]} "shimpan_in_PERSON" =umpire_person=
+ekiin	{[scat n]} "eki_in_PERSON" =station_employee= 	% 駅員
+gaikokujin	{[scat n]} "gaikoku_jin_PERSON" =foreign=	% 外人
+giseesha	{[scat n]} "gisee_sha_PERSON" =victim=
+hanzaisha	{[scat n]} =criminal= "hanzai_sha_PERSON" 	% 犯罪
+kagakusha	{[scat n]} =scientist= "kagaku_sha_PERSON" 	% 科学
+ongakuka	{[scat n]} =music= "ongaku_ka_PERSON" 	% 音楽
+tantoosha	{[scat n]} "tantoo_sha_PERSON" =person_in_charge=
+uchuujin	{[scat n]} "uchuu_jin_PERSON" =alien= 	% 宇宙
+uchuusen	{[scat n]} "uchuu_sen_SHIP" =spaceship= 	% 宇宙船
+
+kon'yakusha	{[scat n]} "konyaku_sha_PERSON" =fiancee=
+
+haiensha	{[scat n]} =fire_engine_with_smoke_ejector=  "haien_sha_VEHICLE"	% 排煙車 +
+hashigosha	{[scat n]} =ladder_truck= "hashigo_sha_VEHICLE" 	% はしご車  梯子車
+kagakusha	{[scat n]} =chemical_fire_engine= "kagaku_sha_VEHICLE" 	% 化学車
+koshoosha	{[scat n]} =car_broken_down= "koshoo_sha_VEHICLE" 	%【故障】
+reetoosha	{[scat n]} =refrigerate=  "reetoo_sha_VEHICLE" 	% 冷凍車
+sansuisha	{[scat n]} =sprinkler_truck=  "sansui_sha_VEHICLE" 	% 散水車
+seesoosha	{[scat n]}  "seesoo_sha_VEHICLE" =garbage_truck=
+shingoosha	{[scat n]} =traffic_light_vehicle=   "shingoo_sha_VEHICLE"	% 信号車
+shingooshi	{[scat n]} =traffic_light_engineer=   "shingoo_shi"
+shoomeesha	{[scat n]} "shoomee_sha_VEHICLE" =illumination_car=
+shuushuusha	{[scat n]}  "shuushuu_sha_VEHICLE" =collecting_truck=
+suirikuryooyoosha	{[scat n]} =amphibious_vehicle=   "suirikuryooyoo_sha_VEHICLE"	% “水陸両用車
+takkyuubinsha	{[scat n]} "takkyuubin_sha_VEHICLE" =home_delivery_truck=
+tamokutekisha	{[scat n]} "tamokuteki_sha_VEHICLE" =multi_purpose_car= 	%多目的車
+temboosha	{[scat n]} =observation_car=  "temboo_sha_VEHICLE"	%【展望】
+umpansha	{[scat n]} =moving_van=   "umpan_sha_VEHICLE"
+yuubinsha	{[scat n]} =mail_van=   "yuubin_sha_VEHICLE"
+
+chindon'ya	{[scat n]} =street_musician= "chindon-ya_SHOP" 	% チンドン屋
+hakobiya	{[scat n]} "hakobi-ya_SHOP" =transporter=
+hikkoshiya	{[scat n]} "hikkoshi_ya_SHOP" =movers= 	% 引っ越し屋
+kowashiya	{[scat n]} "kowashi_ya_SHOP" =destroyer=
+naoshiya	{[scat n]} "naoshi_ya_SHOP" =repairman= 	% 直し屋
+nomiya	{[scat n]} "nomi_ya_SHOP" =pub= 	% 飲み屋
+owaiya	{[scat n]} "owai_ya_SHOP" =night_soil_gatherer= 	% おわい屋  汚穢屋
+
+kagakukan	{[scat n]} =science_museum=  "kagaku_kan_BLDG"	% 科学館
+kagakkan	{[scat n]} =science_museum=  "kagaku_kan_BLDG"	% 科学館
+kaiyuukan	{[scat n]} "kaiyuu_kan_BLDG" =Osaka_aquarium=  %大阪の海遊館
+eegakan	{[scat n]} =cinema= "eega_kan_BLDG"	% 映画館
+hakubutsukan	{[scat n]} =museum= "hakubutsu_kan_BLDG"	% 博物館
+jidookan	{[scat n]} =childrens_house= "jidoo_kan_BLDG"	% 児童館
+koominkan	{[scat n]} =public_hall= "koomin_kan_BLDG"	% 公民館
+suizokukan	{[scat n]} =aquarium= "suizoku_kan_BLDG"	% 水族館
+toshokan	{[scat n]} =library= "tosho_kan_BLDG"	% 図書館
+bijutsukan	{[scat n]} =art_museum= "bijutsu_kan_BLDG"	% 美術館
+
+butookai	{[scat n]} "butoo_kai_MEETING" =dance_ball=
+choonaikai	{[scat n]} =neighborhood_association= "choonai_kai_MEETING"	% 町内会
+undookai	{[scat n]} "undoo_kai_MEETING" =sports_meeting= % 運動会
+yuugikai	{[scat n]} "yuugi_kai_MEETING" =play_meeting=
+
+benjoba	{[scat n]} =lavatory= "benjo_ba_PLACE"	% 便所場
+chuurinjo	{[scat n]} =bicycle_parking_lot= "chuurin_jo_PLACE"	% 駐輪所
+
+doobutsuen	{[scat n]} "doobutsu_en_GARDEN" =zoo= 	% 動物園
+hoikuen	{[scat n]} =nursery_school= "hoiku_en_GARDEN"	% 保育園
+kooen	{[scat n]} =park= "koo_en_GARDEN"	% 公園
+teeen	{[scat n]} =jpn_garden= "tee_en_GARDEN"	% 庭園
+yoochien	{[scat n]} =kindergarten= "yoochi_en_GARDEN"	% 幼稚園
+yuuen	{[scat n]} =playground= "yuu_en_GARDEN"	% 遊園
+
+gokakukee	{[scat n]}  "gokaku_kee_FORM" =pentagon=	% 五角形
+rokkakkee	{[scat n]} "rokkaku_kee_FORM" =hexagon= % 六角形
+rokkakukee	{[scat n]} "rokkaku_kee_FORM" =hexagon= 	% 六角形
+sankakkee	{[scat n]}  "sankaku_kee_FORM" =triangle=  % 三角形
+sankakukee	{[scat n]}  "sankaku_kee_FORM" =triangle=	% 三角形
+shikakukee	{[scat n]} "shikaku_kee_FORM" =square=
+
+jisshuusee	{[scat n]} "jisshuu_see_STUD" =trainee= 	%【実習生】
+mahoodoo	{[scat n]} =magic= "mahoo_doo_HALL" 	% 魔法堂
+
+yasaishitsu	{[scat n]} "yasai_shitsu_ROOM" =vegetable_space= 	% 野菜
+yuugishitsu	{[scat n]} "yuugi_shitsu_ROOM" =play_room= 	% 遊戯室
+
+hon'yaku {[scat n]} =translation= % 翻訳
+eegakantoku {[scat n][comp n+n:n]} "eega+kantoku" =movie_director= % 映画監督
+Burajiru {[scat n:prop]} =Brazil= % ブラジル人
+Kankoku {[scat n:prop]} =South_Korea= % 韓国
+kankokujin {[scat n]} "kankoku_jin_PERSON" =South_Korean= % 韓国人
+kankokugo {[scat n]} "kankoku_go_LANGUAGE" =Korean= % 韓国語
+kissaten {[scat n]} "kissa_ten_SHOP=tearoom" =coffeeshop= % 喫茶店
+Shibuya {[scat n:prop]} =Shibuya= % 渋谷
+komedii {[scat n]} =comedy= % コメディ
+nanchaku {[scat num:cl]} "nan-chaku_PIECE" =how_many= % 何着
+gensanchi {[scat n]} "gensan_chi_PLACE" =origin= % 原産地
+Minamiafurika {[scat n:prop]} =South_Africa= % 南アフリカ
+jikokuhyoo {[scat n]} =timetable= % 時刻表
+machiaishitsu	{[scat n]} "machiai_shitsu_ROOM" =waiting_room= 	% 待合室
+hurugoro {[scat n]} "hiru_goro_AROUND" =around_noon= %昼ごろ
+tanjoobipaatii {[scat n][comp n+n:n]} "tanjoobi+paatii" =birthday_party= % 誕生日パーティー
+sokoku {[scat n]} =homeland= % 祖国
+sutoroberiiaji {[scat n]} "sutoroberii_aji_FLAVOR" =strawberry_flavor= % ストロベリー味
+tarento {[scat n]} =personality= % タレント
+karaoke {[scat n]} =karaoke= % カラオケ
+namazakana {[scat n][comp n+n:n]} "nama+sakana" =raw_fish= % 生魚
+gaikokugo {[scat n]} "gaikoku_go_LANGUAGE" =foreign_language= % 外国語
+kopiiki {[scat n]} "kopii_ki_MACHINE" =copier= % コピー機
+Kokuren {[scat n:prop]} =United_Nations= % 国連
+rirekisho {[scat n]} =resume= % 履歴書
+
+
+
+
+% 既にエントリーがあるが不適切なので以下の通りに修正する。
+kin'yoobi {[scat n]} =friday= % 金曜日 "konyoobi"ではなくkin'yoobi (参考:Kainoki_roman news_GMB 30|tree_for_jmor)
+pan'ya {[scat n]} "pan_ya_SHOP" =bakery= %パン屋
+nikuya {[scat n]} "niku_ya_SHOP" =butcher_shop= %肉屋
+hanaya {[scat n]} "hana_ya_SHOP" =flower_shop= %花屋
+hon'ya  {[scat n]} "book_ya_SHOP" =book_store= %本屋
+omochaya  {[scat n]} "omocha_ya_SHOP" =toy_store= %おもちゃ屋
+%

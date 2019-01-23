@@ -320,6 +320,7 @@ kankyaku  {[scat n]} =audience=
 kikoo	{[scat n]} =weather=
 tanin	{[scat n]} =others=
 
+<<<<<<< HEAD
 
 shookaki	{[scat n]} =fire_extinguisher= "shooka_ki_MACHINE"
 sentakki	{[scat n]}  "sentaku_ki_MACHINE" =laundry=	% 洗濯機
@@ -439,3 +440,9 @@ hanaya {[scat n]} "hana_ya_SHOP" =flower_shop= %花屋
 hon'ya  {[scat n]} "book_ya_SHOP" =book_store= %本屋
 omochaya  {[scat n]} "omocha_ya_SHOP" =toy_store= %おもちゃ屋
 %
+=======
+% by Hayashi 2019/01/23
+seken   {[scat n]}      =society=
+omemoji {[scat n:vn]}   =view=
+enkai   {[scat n]}      =party=
+>>>>>>> add entries

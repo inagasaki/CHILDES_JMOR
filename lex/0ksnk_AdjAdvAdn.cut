@@ -196,5 +196,10 @@ juuyoo         {[scat n:an]} =important=
 % by Kinjo 2018/01/09
 kunekune       {[scat adv:onoma]} =tortuous=
 
+<<<<<<< HEAD
 an'i {[scat n:an]} =easy=
 hoshi {[scat adj]} =desire=
+=======
+% by Hayashi 2018/01/23
+nanto   {[scat adv]}    =very=  % ex: なんと大きな桃じゃ！; cf.: なんて
+>>>>>>> add entries

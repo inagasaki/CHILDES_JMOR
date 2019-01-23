@@ -47,7 +47,11 @@ towaittemo	{[scat conj]} =nevertheless=
 yotte	{[scat conj]} =therefore=
 
 % q
-maitoshi	{[scat quant]} "mai_EVERY_toshi" =every_year=
+maitoshi	{[scat quant]} =every_year= "mai_EVERY_toshi"
+
+mairu	{[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numCBb numCBn2]} "mairu_MILE"
+shuukan	{[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numCBb numCBn2]} "shuukan_WEEK"
+
 
 % vsfx sfxcat
 yoo {[scat vsfx] [sfxcat n] [allo OR vV vCi vPIw vAIt vTKi vTSi vAIs]} "yoo_WAY_OF"

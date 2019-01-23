@@ -13,6 +13,10 @@ kooshita  {[scat adn:deic:dem]} =like_this= % adn|koo_shita=such を変更
 aashita  {[scat adn:deic:dem]} =like_that=
 donoyooni  {[scat adv:deic:wh]} =how= "dono_yoo_ni"
 waga	   {[scat n:deic:prs]} =our=
+jishin	{[scat n:deic:prs]} =self=
+gojishin	{[scat n:deic:prs]} "go_HON#jishin" =self=
+korera	{[scat n:deic:dem]} =this= "kore-ra_PL"
+
 
 % conj
 chinamini	{[scat conj]} =by_the_way=
@@ -43,7 +47,11 @@ towaittemo	{[scat conj]} =nevertheless=
 yotte	{[scat conj]} =therefore=
 
 % q
-maitoshi	{[scat quant]} "mai_EVERY_toshi" =every_year=
+maitoshi	{[scat quant]} =every_year= "mai_EVERY_toshi"
+
+mairu	{[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numCBb numCBn2]} "mairu_MILE"
+shuukan	{[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numCBb numCBn2]} "shuukan_WEEK"
+
 
 % vsfx sfxcat
 yoo {[scat vsfx] [sfxcat n] [allo OR vV vCi vPIw vAIt vTKi vTSi vAIs]} "yoo_WAY_OF"

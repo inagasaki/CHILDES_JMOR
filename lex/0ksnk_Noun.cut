@@ -227,17 +227,30 @@ ryokoosha	{[scat n]} =traveler= "ryokoo_sha_PERSON"
 ryuugakusee	{[scat n]} =foreign_student= "ryuugaku_see_STUDENT"
 sagyoosha	{[scat n]} =operator= "sagyoo_sha_PERSON" % 作業者
 saikaigo	{[scat n]} =after_the_renewal= "saikai_go_AFTER"
-sakusha	{[scat n]} =author= "sakusha" % 作者
-sandoo	       {[scat n]} =mountain_path=
+sakka		{[scat n]} =novelist= % 作家
+sakusha		{[scat n]} =author= % 作者
+sandoo	        {[scat n]} =mountain_path=
 sankakkee	{[scat n]}  "sankaku_kee_FORM" =triangle=  % 三角形
 sankakukee	{[scat n]}  "sankaku_kee_FORM" =triangle=	% 三角形
 sankasha	{[scat n]} =participant= "sanka_sha_PERSON" % 参加者
 sanretsusha	{[scat n]} =attendant= "sanretsu_sha_PERSON" % 参列者
 sansuisha	{[scat n]} =sprinkler_truck=  "sansui_sha_VEHICLE" 	% 散水車
-seebutsu  {[scat n]} =creature=
-seefugawa  {[scat n][comp n+n]} =goverment_side= "seefu+gawa"
-seehin	       {[scat n]} =product=
-seemee	   {[scat n]} =life= % 生命
+seebutsu  	{[scat n]} =creature=
+seefugawa  	{[scat n][comp n+n]} =goverment_side= "seefu+gawa"
+seehin	       	{[scat n]} =product=
+seeji	       	{[scat n]} =politics=
+seejidantai    	{[scat n][comp n+n]} =political_organization= "seeji+dantai"
+seejigakusha   	{[scat n][comp n+n]} =political_scientist= "seeji+gakusha"
+seejijookyoo   	{[scat n][comp n+n]} =political_situation= "seeji+jookyoo"
+seejika	       	{[scat n]} =politician= "seeji_ka_PERSON"
+seejikeezai    	{[scat n][comp n+n]} =politics_and_economics= "seeji+keezai"
+seejikisha     	{[scat n][comp n+n]} =political_correspondent= "seeji+kisha"
+seejimen       	{[scat n]} =political_matters= "seeji_men_SIDE"
+seejimondai    	{[scat n][comp n+n]} =political_issue= "seeji+mondai"
+seejiseedo     	{[scat n][comp n+n]} =political_system= "seeji+seedo"
+seejishakai    	{[scat n][comp n+n]} =politics_and_society= "seeji+shakai"
+seejitaisee    	{[scat n][comp n+n]} =political_system= "seeji+taisee"
+seemee	   	{[scat n]} =life= % 生命
 seesansha	{[scat n]} =manufacturer= "seesan_sha_PERSON" % 生産者
 seeshin	{[scat n]} =mind= % 精神
 seesoosha	{[scat n]}  "seesoo_sha_VEHICLE" =garbage_truck=
@@ -420,7 +433,6 @@ Supein	{[scat n:prop]} =Spain= % Supeen --> Supein
 kawari  {[scat n:fml]} =instead_of= % in_exchange_for でなく
 yoo	{[scat n:fml]} =as/as_if/so_as_to= % apparently でなく
 
-
 % = の後（あるいは後）の余計なスペースを削除してください chijikomar, jukus, iawase, manugare, araiguma, arare, suigyuu
 
 % 既にエントリーがあるが不適切なので以下の通りに修正する。
@@ -429,5 +441,3 @@ pan'ya {[scat n]} "pan_ya_SHOP" =bakery= %パン屋
 nikuya {[scat n]} "niku_ya_SHOP" =butcher_shop= %肉屋
 hanaya {[scat n]} "hana_ya_SHOP" =flower_shop= %花屋
 omochaya  {[scat n]} "omocha_ya_SHOP" =toy_store= %おもちゃ屋
-
-

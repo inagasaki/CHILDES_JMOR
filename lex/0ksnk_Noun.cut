@@ -114,7 +114,7 @@ hon'ya  {[scat n]} "book_ya_SHOP" =book_store= %本屋
 hon'yaku {[scat n]} =translation= % 翻訳
 hoomonsha	{[scat n]} =visitor= "hoomon_sha_PERSON" % 訪問者
 hooritsuka  {[scat n]} =lawyer=
-hootekishikoo  {[scat n]} =legal_thinking= "hooteki_shikoo"
+hootekishikoo  {[scat n][comp n:an+n} =legal_thinking= "hoo_teki_LIKE+shikoo"
 hurugoro {[scat n]} "hiru_goro_AROUND" =around_noon= %昼ごろ
 iinkai  {[scat n]} =committee=
 inshoo  {[scat n]} =impression=

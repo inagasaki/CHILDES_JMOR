@@ -587,6 +587,8 @@ yudeage	{[scat v:v][comp v:v+v:v]} =boil_up= "yude+age"
 yukikayow	{[scat v:c][comp v:c+v:c]} =pass= "yuk+kayow"
 yurashihajime	{[scat v:v][comp v:c+v:v]} =shake_start= "yur&CAUS+hajime"
 yusurihajime	{[scat v:v][comp v:c+v:v]} =shake_start= "yusur+hajime"
+ondas	       {[scat v:c]} =expel=
+onde	       {[scat v:v]} =get_out=
 
 % vn
 happyoo		{[scat n:vn]} =give_presentation=
@@ -613,13 +615,11 @@ ryuugaku	{[scat n:vn]} =study_abroad=
 kontorooru	{[scat n:vn]} =control=
 kanchi		{[scat n:vn]} =perceive=
 koodoo		{[scat n:vn]} =behave=
+omemoji {[scat n:vn]}   =view=
+fuka           {[scat n:vn]}    =append=
 
 % 修正
 kashite	{[scat n][comp v:c+n]} =lender= "kas&GER+te" % "kasi&GER+te" でなく
 
-% by Kinjo 2018/01/09
-ondas	       {[scat v:c]} =expel=
-onde  {[scat v:v]} =get_out=
 
-% by Hayashi 2018/01/23
-fuka           {[scat n:vn]}    =append=
+

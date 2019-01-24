@@ -7,9 +7,11 @@ hoshi 		{[scat adj]} =desire=
 % adjn
 an'i		{[scat n:an]} =easy=
 arata		{[scat n:an]} =new=
-chiteki		{[scat n:an]} =intellectual=
+chiteki		{[scat n:an]} =intellectual= "chi_teki_LIKE"
 chookiteki	{[scat n:an]} =long_term= "chooki_teki_LIKE"
+daihyooteki	{[scat n:an]} =typical= "daihyoo_teki_LIKE"
 daishoosamazama	{[scat n:an]} =various=
+dentooteki	{[scat n:an]} =traditional= "dentoo_teki_LIKE"
 eekyuu		{[scat n:an]} =everlasting=
 fuantee		{[scat n:an]} =unstable= "fu_NEG_antee"
 fukigen		{[scat n:an]} =in_bad_mood= "fu_NEG_kigen"
@@ -22,11 +24,19 @@ fushiawase	{[scat n:an]} =misfortune= "fu_NEG_shiawase"
 futsuu		{[scat n:an]} =normal=
 fuyoo		{[scat n:an]} =not_needed= "fu_NEG_yoo"
 gasatsu		{[scat n:an]} =crude=
+genjitsuteki	{[scat n:an]} =realistic= "genjitsu_teki_LIKE"
+genshiteki	{[scat n:an]} =primitive= "genshi_teki_LIKE"
+gutaiteki	{[scat n:an]} =concrete= "gutai_teki_LIKE" % すでにエントリーあるが修正した
 haruka		{[scat n:an]} =remote=
 himpan		{[scat n:an]} =frequently=
 hisoka		{[scat n:an]} =stealthy=
+honshitsuteki	{[scat n:an]} =essential= "honshitsu_teki_LIKE"
 hontoo		{[scat n:an]} =real=
+ippanteki	{[scat n:an]} =general= "ippan_teki_LIKE"
 iyokuteki	{[scat n:an]} =enthusiastic= "iyoku_teki_LIKE"
+jihatsuteki	{[scat n:an]} =spontaneous= "jihatsu_teki_LIKE"
+jisshitsuteki	{[scat n:an]} =substantial= "jisshitsu_teki_LIKE"
+juutenteki	{[scat n:an]} =prioritized= "juuten_teki_LIKE"
 juuyoo		{[scat n:an]} =important=
 kappatsu	{[scat n:an]} =active=
 keezaiteki	{[scat n:an]} =economic= "keezai_teki_LIKE"
@@ -36,31 +46,42 @@ kenkyo		{[scat n:an]} =modest=
 ketteeteki	{[scat n:an]} =decisive= "kettee_teki_LIKE"
 kichi		{[scat n:an]} =known= % 【既知】、n でなく
 kigaru		{[scat n:an]} =lighthearted=
+kihonteki	{[scat n:an]} =basic= "kihon_teki_LIKE"
 kiraku		{[scat n:an]} =carefree=
+kojinteki	{[scat n:an]} =personal= "kojin_teki_LIKE"
+kokusaiteki	{[scat n:an]} =international= "kokusai_teki_LIKE"
 komponteki	{[scat n:an]} =essential= "kompon_teki_LIKE"
+kookateki	{[scat n:an]} =effective= "kooka_teki_LIKE"
+kooritsuteki	{[scat n:an]} =efficient= "kooritsu_teki_LIKE"
 kyooretsu	{[scat n:an]} =intense=
 maemiki		{[scat n:an]} =positive=
 maji		{[scat n:an]} =serious=
 massugu		{[scat n:an]} =straight=
 meehaku		{[scat n:an]} =clear=
+mikaiketsu	{[scat n:an]} =unresolved= "mi_NEG_kaiketsu"
 miryokuteki	{[scat n:an]} =attractive= "miryoku_teki_LIKE"
 naibuteki	{[scat n:an]} =internal= "naibu_teki_LIKE"
 naibuteki	{[scat n:an]} =internal= "naibu_teki_LIKE"
 odayaka		{[scat n:an]} =mild=
 rekishiteki	{[scat n:an]} =historical= "rekishi_teki_LIKE"
 saidai		{[scat n:an]} =greatest=
+saishuuteki	{[scat n:an]} =final= "saishuu_teki_LIKE"
 saiwai		{[scat n:an]} =fortunate=
 seeryokuteki	{[scat n:an]} =energetic= "seeryoku_teki_LIKE"
 seesanteki	{[scat n:an]} =productive= "seesan_teki_LIKE"
 seeshiki	{[scat n:an]} =official=
 seeshinteki	{[scat n:an]} =mental= "seeshin_teki_LIKE"
 sekaiteki	{[scat n:an]} =global= "sekai_teki_LIKE"
+sekkyokuteki	{[scat n:an]} =active= "sekkyoku_teki_LIKE"
 sensai		{[scat n:an]} =delicate=
 shimpai		{[scat n:an]} =anxious=
 shimpaisoo	{[scat n:an]} =anxious= "shimpai-soo_SEEMING"
 shimpiteki	{[scat n:an]} =mysterious= "shimpi_teki_LIKE"
+shookyokuteki	{[scat n:an]} =inactive= "shookyoku_teki_LIKE"
+soogooteki	{[scat n:an]} =	comprehensive= "soogoo_teki_LIKE"
 sookyuu		{[scat n:an]} =urgent=
-tetteeteki	{[scat n:an]} =thoroughly=
+teekiteki	{[scat n:an]} =regular= "teeki_teki_LIKE"
+tetteeteki	{[scat n:an]} =thoroughly= "tettee_teki_LIKE"
 wazuka		{[scat n:an]} =slight=
 yasuraka	{[scat n:an]} =peaceful=
 yuniiku		{[scat n:an]} =unique=
@@ -69,6 +90,8 @@ yuukoo		{[scat n:an]} =valid=
 yuuryoku	{[scat n:an]} =weighty=
 yuuyoo  	{[scat n:an]}    =useful=
 zeetaku		{[scat n:an]} =luxurious=
+zenkokuteki	{[scat n:an]} =nationwide= "zenkoku_teki_LIKE"
+zemmenteki	{[scat n:an]} =fullscale= "zemmen_teki_LIKE"
 zetsubooteki	{[scat n:an]} =desperate= "zetsuboo_teki_LIKE"
 
 % wh

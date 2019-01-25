@@ -140,65 +140,66 @@ kagakusha  {[scat n]} =scientist= "kagaku_sha_PERSON"
 kaishagawa	{[scat n][comp n+n]} =company_side= "kaisha+gawa"
 kaiyuukan	{[scat n]} "kaiyuu_kan_BLDG" =Osaka_aquarium=  %大阪の海遊館
 kakaku	       {[scat n]} =price=
-kamigami  {[scat n]} =gods=        % reduplication は compound にせずに一語扱いでいいのでは? hitobito, kigi,hibi なども同様
-kanji	{[scat n]} =kanji_character= % 単なる =character= でなく
-kankeesha	{[scat n]} =person_concerned= "kankee_sha_PERSON" % 関係者
-kankokugo {[scat n]} "kankoku_go_LANGUAGE" =Korean= % 韓国語
-kankokujin {[scat n]} "kankoku_jin_PERSON" =South_Korean= % 韓国人
-kankookyaku  {[scat n]} =tourist=
-kankyaku  {[scat n]} =audience=
-kankyakuseki  {[scat n][comp n+n]} =audience_seat= "kankyaku+seki"
-kanojo	{[scat n]} =girl_friend=
-kanriryoo  {[scat n]} =administration_cost=
-karaoke {[scat n]} =karaoke= % カラオケ
-kare	{[scat n]} =boy_friend=
-karuchaa  {[scat n]} =culture=
-keekensha	{[scat n]} =person_with_experience= "keeken_sha_PERSON" % 経験者
-keesha	{[scat n]} =slope=
-keeyakusho  {[scat n]} =contract_document=
-kekka	{[scat n]} =result=	%【結果】 % vn で登録されているが、vn として使われることはないのでは？
-kenkyuusha	{[scat n]} =researcher= "kenkyuu_sha_PERSON" % 研究者
-kenryokusha	{[scat n]} =man_of_power= "kenryoku_sha_PERSON" % 権力者
-kigyoo  {[scat n]} =company=
-kikoo	{[scat n]} =weather=
-kinshi	{[scat n]} =gold_thread=
-kisha	{[scat n]} =ournalist= % 記者
-kissaten {[scat n]} "kissa_ten_SHOP=tearoom" =coffeeshop= % 喫茶店
-kitagawa  {[scat n][comp n+n]} =north_side= "kita+gawa"
-kobuta  {[scat n][comp n+n]} =little_pig= "ko+buta"
-kogaisha  {[scat n][comp n+n]} =subsidiary_company= "ko+kaisha"
-kogitsune  {[scat n][comp n+n]} =little_fox= "ko+kitsune"
-koinu  {[scat n][comp n+n]} =puppy= "ko+inu"
-kokkyoosen  {[scat n][comp n+n]} =nation al_border_line= "kokkyoo+sen" % n|kokkyoo-sen_LINE=border_line でなく、複合では?
-kokyaku  {[scat n]} =client=
-komedii {[scat n]} =comedy= % コメディ
-kon'yakusha	{[scat n]} "konyaku_sha_PERSON" =fiancee=
-kon'yakusha	{[scat n]} =fiancee= "kon'yaku_sha_PERSON"
-koneko  {[scat n][comp n+n]} =kitten= "ko+neko"
-kooen	{[scat n]} =park= "koo_en_GARDEN"	% 公園
+kamigami       {[scat n]} =gods=        % reduplication は compound にせずに一語扱いでいいのでは? hitobito, kigi,hibi なども同様
+kanji	       {[scat n]} =kanji_character= % 単なる =character= でなく
+kankeesha      {[scat n]} =person_concerned= "kankee_sha_PERSON" % 関係者
+kankokugo      {[scat n]} "kankoku_go_LANGUAGE" =Korean= % 韓国語
+kankokujin     {[scat n]} "kankoku_jin_PERSON" =South_Korean= % 韓国人
+kankookyaku    {[scat n]} =tourist=
+kankyaku       {[scat n]} =audience=
+kankyakuseki   {[scat n][comp n+n]} =audience_seat= "kankyaku+seki"
+kanojo	       {[scat n]} =girl_friend=
+kanriryoo      {[scat n]} =administration_cost=
+karaoke        {[scat n]} =karaoke= % カラオケ
+kare	       {[scat n]} =boy_friend=
+kareshi	       {[scat n]} =boy_friend=
+karuchaa       {[scat n]} =culture=
+keekensha      {[scat n]} =person_with_experience= "keeken_sha_PERSON" % 経験者
+keesha	       {[scat n]} =slope=
+keeyakusho     {[scat n]} =contract_document=
+kekka	       {[scat n]} =result=	%【結果】 % vn で登録されているが、vn として使われることはないのでは？
+kenkyuusha     {[scat n]} =researcher= "kenkyuu_sha_PERSON" % 研究者
+kenryokusha    {[scat n]} =man_of_power= "kenryoku_sha_PERSON" % 権力者
+kigyoo         {[scat n]} =company=
+kikoo	       {[scat n]} =weather=
+kinshi	       {[scat n]} =gold_thread=
+kisha	       {[scat n]} =ournalist= % 記者
+kissaten       {[scat n]} "kissa_ten_SHOP=tearoom" =coffeeshop= % 喫茶店
+kitagawa       {[scat n][comp n+n]} =north_side= "kita+gawa"
+kobuta         {[scat n][comp n+n]} =little_pig= "ko+buta"
+kogaisha       {[scat n][comp n+n]} =subsidiary_company= "ko+kaisha"
+kogitsune      {[scat n][comp n+n]} =little_fox= "ko+kitsune"
+koinu  	       {[scat n][comp n+n]} =puppy= "ko+inu"
+kokkyoosen     {[scat n][comp n+n]} =nation al_border_line= "kokkyoo+sen" % n|kokkyoo-sen_LINE=border_line でなく、複合では?
+kokyaku        {[scat n]} =client=
+komedii        {[scat n]} =comedy= % コメディ
+kon'yakusha    {[scat n]} "konyaku_sha_PERSON" =fiancee=
+kon'yakusha    {[scat n]} =fiancee= "kon'yaku_sha_PERSON"
+koneko         {[scat n][comp n+n]} =kitten= "ko+neko"
+kooen	       {[scat n]} =park= "koo_en_GARDEN"	% 公園
 koohosha	{[scat n]} =candidate= "kooho_sha_PERSON" % 候補者
 kookeesha	{[scat n]} =successor= "kookee_sha_PERSON" % 後継者
 koominkan	{[scat n]} =public_hall= "koomin_kan_BLDG"	% 公民館
-koopasu     {[scat n]}              =linguistic_corpus=
+koopasu     	{[scat n]}              =linguistic_corpus=
 kooreesha	{[scat n]} =elderly_person= "kooree_sha_PERSON" % 高齢者
-koosha	{[scat n]} =the_latter=
-kopiiki {[scat n]} "kopii_ki_MACHINE" =copier= % コピー機
+koosha		{[scat n]} =the_latter=
+kopiiki 	{[scat n]} "kopii_ki_MACHINE" =copier= % コピー機
 koshoosha	{[scat n]} =car_broken_down= "koshoo_sha_VEHICLE" 	%【故障】
-kouma  {[scat n][comp n+n]} =foal= "ko+uma"
-kousagi  {[scat n][comp n+n]} =leveret= "ko+usagi"
-koushi  {[scat n][comp n+n]} =calf= "ko+ushi"
+kouma  		{[scat n][comp n+n]} =foal= "ko+uma"
+kousagi  	{[scat n][comp n+n]} =leveret= "ko+usagi"
+koushi  	{[scat n][comp n+n]} =calf= "ko+ushi"
 kowashiya	{[scat n]} "kowashi_ya_SHOP" =destroyer=
-ku          {[scat n]}              =phrase=
-kurashi  {[scat n]} =life=
-kurige  {[scat n]} =chestnut_coat=
+ku          	{[scat n]} =phrase=
+kurashi  	{[scat n]} =life=
+kurige  	{[scat n]} =chestnut_coat=
 kyojuusha	{[scat n]} =inhabitant= "kyojuu_sha_PERSON" % 居住者
-kyoogookankee  {[scat n][comp n:vn+n]} =competitive_relationship= "kyoogoo+kankee"
-kyoozonkankee  {[scat n][comp n:vn+n]} =symbiotic_relationship= "kyoozon+kankee"
+kyoogookankee  	{[scat n][comp n:vn+n]} =competitive_relationship= "kyoogoo+kankee"
+kyoozonkankee  	{[scat n][comp n:vn+n]} =symbiotic_relationship= "kyoozon+kankee"
 machiaishitsu	{[scat n]} "machiai_shitsu_ROOM" =waiting_room= 	% 待合室
 mahoodoo	{[scat n]} =magic= "mahoo_doo_HALL" 	% 魔法堂
-minamigawa  {[scat n][comp n+n]} =south_side= "minami+gawa"
-minkan	       {[scat n]} =private=
-mokutekigo  {[scat n][comp n+n]}    =linguistic_object=    "mokuteki+go" % これは複合語かどうか怪しい
+minamigawa  	{[scat n][comp n+n]} =south_side= "minami+gawa"
+minkan	       	{[scat n]} =private=
+mokutekigo  	{[scat n][comp n+n]}    =linguistic_object=    "mokuteki+go" % これは複合語かどうか怪しい
 naka	{[scat n]} =inside=
 namazakana {[scat n][comp n+n:n]} "nama+sakana" =raw_fish= % 生魚
 nambu  {[scat n]} =the_south=

@@ -591,32 +591,72 @@ ondas	       {[scat v:c]} =expel=
 onde	       {[scat v:v]} =get_out=
 
 % vn
+atenige		{[scat n:vn]} =hit_and_run_away= "ate_nige&GER"	% 当て逃げ
+daihyoo		{[scat n:vn:} =represent=
+fuka           	{[scat n:vn]} =append=
 happyoo		{[scat n:vn]} =give_presentation=
+hatten		{[scat n:vn]} =develop=
 hen'yoo  	{[scat n:vn]} =change=
 henkaku  	{[scat n:vn]} =change=
-irai  		{[scat n:vn]} =request=
-jooba 		{[scat n:vn]} =ride_horseback=
+hikinige	{[scat n:vn]} =hit_and_run_away= "hik_nige&GER"	%【ひき逃げ】(〈轢き逃げ)
+hookoku		{[scat n:vn]} =report=
+hyoogen		{[scat n:vn]} =express=
 hyooka 		{[scat n:vn]} =evaluate=
-kashoohyooka	{[scat n:vn]} =underestimate= "kashoo_hyooka"
+irai  		{[scat n:vn]} =request=
+jisshi		{[scat n:vn]} =put_into_practice=
+jooba 		{[scat n:vn]} =ride_horseback=
+jushoo		{[scat n:vn:} =be_awarded=
 kadaihyooka	{[scat n:vn]} =overestimate= "kadai_hyooka"
+kaiketsu	{[scat n:vn]} =solve=
+kaisai		{[scat n:vn]} =open=
+kaisee		{[scat n:vn]} =amend=
 kaishuu  	{[scat n:vn]} =retrieve=
+kaketsu		{[scat n:vn]} =approve=
+kakuho		{[scat n:vn]} =secure=
+kakunin		{[scat n:vn]} =confirm=
+kakutoku	{[scat n:vn:} =obtain=
 kan'yuu  	{[scat n:vn]} =persuade=
-kanri  		{[scat n:vn]} =manage=
-keeee  		{[scat n:vn]} =manage=
-koobo  		{[scat n:vn]} =publicly_recruit=
-kyoozon  	{[scat n:vn]} =exist_together=
-nanka		{[scat n:vn]} =soften=
-saikai		{[scat n:vn]} =reopen=
-seesan		{[scat n:vn]} =produce=
-shimpai		{[scat n:vn]} =worry=	                %【心配】 sorrow でなく
-sotsugyoo	{[scat n:vn]} =graduation=
-suimin		{[scat n:vn]} =sleep=
-ryuugaku	{[scat n:vn]} =study_abroad=
-kontorooru	{[scat n:vn]} =control=
 kanchi		{[scat n:vn]} =perceive=
+kanri  		{[scat n:vn]} =manage=
+kansee		{[scat n:vn]} =complete=
+kashoohyooka	{[scat n:vn]} =underestimate= "kashoo_hyooka"
+katsuyoo	{[scat n:vn]} =utilize=
+keeee 		{[scat n:vn]} =manage=
+kekkon		{[scat n:vn]} =marry=
+kitai		{[scat n:vn:} =expect=
+kontorooru	{[scat n:vn]} =control=
+koobo  		{[scat n:vn]} =publicly_recruit=
 koodoo		{[scat n:vn]} =behave=
-omemoji {[scat n:vn]}   =view=
-fuka           {[scat n:vn]}    =append=
+kuinige		{[scat n:vn]} =eat_and_run_away= "kuw_nige&GER"  % 食い逃げ
+kyojyuu		{[scat n:vn]} =live=
+kyoozon  	{[scat n:vn]} =exist_together=
+mochinige	{[scat n:vn]} =take_and_run_away= "nor_nige&GER"  % 持ち逃げ
+nanka		{[scat n:vn]} =soften=
+norinige	{[scat n:vn]} =ride_and_run_away= "nor_nige&GER"  % 乗り逃げ
+omemoji 	{[scat n:vn]} =view=
+ryuugaku	{[scat n:vn]} =study_abroad=
+saikai		{[scat n:vn]} =reopen=
+seekan		{[scat n:vn]} =come_back_alive=
+seesan		{[scat n:vn]} =produce=
+setchi		{[scat n:vn]} =set_up=
+shifuto		{[scat n:vn]} =shift=
+shimpai		{[scat n:vn]} =worry=	                %【心配】 sorrow でなく
+shiyoo		{[scat n:vn:} =use=
+shusseki	{[scat n:vn:} =attend=
+sotsugyoo	{[scat n:vn]} =graduate=
+suimin		{[scat n:vn]} =sleep=
+suishin		{[scat n:vn]} =propel=
+taioo		{[scat n:vn]} =correspond=
+taioo		{[scat n:vn]} =cope=
+taisho		{[scat n:vn]} =cope=
+taizai		{[scat n:vn]} =stay=
+teekyoo		{[scat n:vn]} =offer=
+teeshutsu	{[scat n:vn]} =present=
+tenkai		{[scat n:vn]} =develop= % 展開
+tenkai		{[scat n:vn]} =rotate= % 転回
+tettai		{[scat n:vn]} =retreat=
+unten		{[scat n:vn]} =drive=
+yonige	        {[scat n:vn]} =flee_by_night= "yo_nige&GER" % 夜逃げ
 
 % 修正
 kashite	{[scat n][comp v:c+n]} =lender= "kas&GER+te" % "kasi&GER+te" でなく

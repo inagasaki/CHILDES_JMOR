@@ -1,5 +1,40 @@
 % verb
 
+age	{[scat v:v]} =mention=
+ais	{[scat v:c]} =love=                   % 【愛す】（「愛す.べき」）
+atar	{[scat v:c]} =be_in_charge=
+azukar	{[scat v:c]} =take_custody=	%【預かる】
+chigaw	{[scat v:c]} =differ=	%【違う】
+chikazuk	{[scat v:c]} =approach=	%【近づく】(近付く)
+das	{[scat v:c]} =send/submit=
+dekake	{[scat v:v]} =go_out=
+deki	{[scat v:v]} =be_made=
+demawar	{[scat v:c]} "demawar" =appear_abundantly= %	出回る		
+furumaw	{[scat v:c]} =distribute=
+hakar	{[scat v:c]} =plan=
+hanas	{[scat v:c]} =speak=
+hans	{[scat v:c]} =be_against=
+hate	{[scat v:v]} =terminate= %	果てる
+ikar	{[scat v:c]} =get_angry=
+kakar	{[scat v:c]} =be_required=	% 時間がかかる
+kik	{[scat v:c]} =hear/listen=	%【聴く】
+kikoe	{[scat v:v]} =be_heard=
+makas	{[scat v:c]} =defeat=	%【負かす】
+mawar	{[scat v:c]} =revolve=
+mawas	{[scat v:c]} =revolve=
+mi	{[scat v:v]} =see/look/watch=	%【見る】
+ne	{[scat v:v]} =sleep=
+sabak	{[scat v:c]} =deal_with/judge=  % =dissemble= というエントリーは（dissembleという意味はないように思われるので）削除してよいのではないか？
+sakeb	{[scat v:c]} =shout=
+sute	{[scat v:v]} =discard=	%【捨てる】(《棄てる)
+uchikom	{[scat v:c]} =be_absorbed_in= % "ut_kom" の一語化
+umare	{[scat v:v]} =be_born= %生まれる "umare&PASS" ではない
+ut	{[scat v:c]} =hit/shoot=	%【打つ】【撃つ】
+yak	{[scat v:c]} =bake/fry/roast=	%【焼く】***
+ondas	{[scat v:c]} =expel=
+onde	{[scat v:v]} =get_out=
+
+% v+v
 % utsushitor --> v:c|utsus-ASP:or-PRES=reflect または　v:c|utsus-ASP:or-PRES=move の他に複合語が必要
 abakidas	{[scat v:c][comp v:c+v:c]} =uncover_take_out= "abak+das"
 abakitate	{[scat v:c][comp v:c+v:v]} =uncover_stand= "abak+tate"
@@ -13,8 +48,6 @@ afurede	{[scat v:v][comp v:v+v:v]} =overflow_get_out= "afure+de"
 afurekaet	{[scat v:c][comp v:v+v:c]} =overflow_return= "afure+kaet"
 afureochi	{[scat v:c][comp v:v+v:v]} =overflow_fall= "afure+ochi"
 agarikom	{[scat v:c][comp v:c+v:c]} =rise_go_in= "agar+kom"
-age  {[scat v:v]} =mention=
-ais	{[scat v:c]} =love=                   % 【愛す】（「愛す.べき」）
 akehanas	{[scat v:c][comp v:v+v:c]} =open= "ake+hanas"
 akeharaw	{[scat v:c][comp v:v+v:c]} =vacate= "ake+haraw"
 akehiroge	{[scat v:v][comp v:v+v:v]} =open_wide= "ake+hiroge"
@@ -46,32 +79,24 @@ arawarede	{[scat v:v][comp v:v+v:v]} =appear_get_out= "araware+de"
 arehate	{[scat v:v][comp v:v+v:v]} =get_rough_end= "are+hate"
 arekuruw	{[scat v:c][comp v:v+v:c]} =get_rough_go_mad= "are+kuruw"
 aritsuk	{[scat v:v][comp v:ir+v:c]} =be_attach= "ar+tsuk"
-arukimawar	{[scat v:c][comp v:c+v:c]} =walk_revolve= "aruk_mawar"  			%% lex. compound
+arukimawar	{[scat v:c][comp v:c+v:c]} =walk_revolve= "aruk_mawar" %% lex. compound
 asobikuras	{[scat v:c][comp v:c+v]} =idle_away= "asob+kuras"
 asobimawar	{[scat v:c][comp v:c+v:c]} =play_around= "asob_mawar"
 asobiowar	{[scat v:c][comp v:c+v:c]} =play_finish= "asob+owar"		
 asobitawamure	{[scat v:v][comp v:c+v:v]} =frolic= "asob+tawamure"
 asobitsukare	{[scat v:v][comp v:c+v:v]} =play_oneself_tired= "asob+tsukare"
-atar  {[scat v:c]} =be_in_charge=
 atarichiras	{[scat v:c][comp v:c+v:c]} =vent= "atar+chiras"
 atehamar	{[scat v:c][comp v:v+v:C]} =apply= "ate+hamar"
 atehame	{[scat v:v][comp v:v+v:v]} =apply= "ate+hame"
 atekom	{[scat v:c][comp v:v+v:c]} =expect_go_in= "ate+kom"
 atetsuke	{[scat v:v][comp v:v+v:v]} =insinuate= "ate+tsuke"
 awasemot	{[scat v:c][comp v:v+v:c]} =combine_hold= "awase+mot"
-ayumide {[scat v:c][comp v:c+v:v]} =walk_get_out=  "ayum+de" % なぜか ayum-ASP-... という出力になってしまう
+ayumide	{[scat v:c][comp v:c+v:v]} =walk_get_out=  "ayum+de" % なぜか ayum-ASP-... という出力になってしまう
 ayumiyor	{[scat v:c][comp v:c+v:c]} =walk_approach= "ayum+yor"
 azakeriwaraw	{[scat v:c][comp v:c+v:c]} =scoff_at= "azaker+waraw"
-azukar	{[scat v:c]} =take_custody=	%【預かる】
 azukarishir	{[scat v:c][comp v:c+v:c]} =have_concern_with= "azukar+shir"
 azukeire	{[scat v:v][comp v:v+v:v]} =deposit= "azuke+ire"
-chigaw	{[scat v:c]} =differ=	%【違う】
-chikazuk	{[scat v:c]} =approach=	%【近づく】(近付く)
-das	{[scat v:c]} =send/submit=
 deinaos	{[scat v:c][comp v:c+v:c]} =come_again= "de+naos"
-dekake  {[scat v:v]} =go_out=
-deki  {[scat v:v]} =be_made=
-demawar	{[scat v:c]} "demawar" =appear_abundantly= %	出回る		
 egakidas	{[scat v:c][comp v:c+v:c]} =depict= "egak+das"
 eguridas	{[scat v:c][comp v:c+v:c]} =hollow_out= "egur+das"
 egurikom	{[scat v:c][comp v:c+v:c]} =hollow_into= "egur+kom"
@@ -82,23 +107,18 @@ erabitor	{[scat v:c][comp v:c+v:c]} =select_take= "erab+tor"
 erinuk	{[scat v:c][comp v:c+v:c]} =single_out= "er+nuk"
 fukihajime	{[scat v:v][comp v:c+v:v]} =blow_start= "fuk+hajime"
 fumikom	{[scat v:c][comp v:c+v:c]} =step_into= "fum+kom"
-furumaw  {[scat v:c]} =distribute=
-hakar  {[scat v:c]} =plan=
-hanas  {[scat v:c]} =speak=
 hanashiaw	{[scat v:c][comp v:c+v:c]} =talk_each_other= "hanas+aw"
 hanashikom	{[scat v:c][comp v:c+v:c]} =talk_repeat= "hanas+kom"
 hanashitsuzuke	{[scat v:v][comp v:c+v:v]} =speak_continue= "hanas+tsuzuke"
 hanaskom	{[scat v:c][comp v:c+v:c]} =talk_repeat= "hanas+kom"
 hanehajime	{[scat v:v][comp v:v+v:v]} =jump_start= "hane+hajime"
 hanemawar	{[scat v:c][comp v:v+v:c]} =jump_revolve= "hane_mawar"
-hans  {[scat v:c]} =be_against=
 hariowar	{[scat v:c][comp v:c+v:c]} =stretch_finish= "har+owar"
 hashirihajime	{[scat v:v][comp v:c+v:v]} =run_start= "hashir+hajime"
 hashirimawar	{[scat v:c][comp v:c+v:c]} =run_revolve= "hashir+mawar"
 hashirnuk	{[scat v:v][comp v:c+v:c]} =outrun= "hashir+nuk"
-hate	{[scat v:v]} =terminate= %	果てる
-hikisak {[scat v:c][comp v:c+v:c]} =pull_rupture=  "hik+sak"
-hikikonas {[scat v:c][comp v:c+v:c]} =play_manage=  "hik+konas"
+hikisak	{[scat v:c][comp v:c+v:c]} =pull_rupture=  "hik+sak"
+hikikonas	{[scat v:c][comp v:c+v:c]} =play_manage=  "hik+konas"
 hoedas	{[scat v:c][comp v:v+v:c]} =began_to_bark= "hoe+das"
 hoehajime	{[scat v:v][comp v:v+v:v]} =bark_start= "hoe+hajime"
 iawase	{[scat v:v][comp v:v+v:v]} =be_combine= "i+awase"
@@ -151,7 +171,6 @@ iiyor	{[scat v:c][comp v:c+v:c]} =court= "iw+yor"
 ijikurimawas	{[scat v:c][comp v:c+v:c]} =fiddle_around= "ijikur+mawas"
 ijirihajime	{[scat v:v][comp v:c+v:v]} =finger_start= "ijir+hajime"
 ikake	{[scat v:v][comp v:v+v:v]} =shoot_at= "i+kake"
-ikar	{[scat v:c]} =get_angry=
 ikarikuruw	{[scat v:c][comp v:c+v:c]} =rage= "ikar+kuruw"
 ikedor	{[scat v:c][comp v:v+v:c]} =capture_alive= "ike+dor"
 ikekae	{[scat v:v][comp v:v+v:v]} =replace= "ike+kae"
@@ -208,7 +227,6 @@ kaiage	{[scat v:v][comp v:c+v:v]} =buy_up= "kaw+age"
 kaiasar	{[scat v:c][comp v:c+v:c]} =buy_look_for= "kaw+asar"
 kaiatsume	{[scat v:v][comp v:c+v:v]} =buy_gather= "kaw+atsume"
 kaiire	{[scat v:v][comp v:c+v:v]} =buy_in= "kaw+ire"
-kakar	{[scat v:c]} =be_required=	% 時間がかかる
 kakehajime	{[scat v:v][comp v:v+v:v]} =run_start= "kake+hajime"
 kakemawar	{[scat v:c][comp v:v+v:c]} =run_revolve= "kake_mawar"
 kakezurimawar	{[scat v:c][comp v:c+v:c]} =run_revolve= "kakezur_mawar"
@@ -219,14 +237,8 @@ kaknokos	{[scat v:c][comp v:c+v:c]} =leave_text_unwritten= "kak+nokos"
 karehajime	{[scat v:v][comp v:v+v:v]} =wither_start= "kare+hajime"
 kawakimakur	{[scat v:c][comp v:c+v:c]} =dry_recur= "kawak+makur"
 kazoeowar	{[scat v:c][comp v:v+v:c]} =count_finish= "kazoe+owar"
-kik	{[scat v:c]} =hear/listen=	%【聴く】
-kikoe	{[scat v:v]} =hear/be_heard=
 kirihajime	{[scat v:v][comp v:c+v:v]} =cut_start= "kir+hajime"
 kiriowar	{[scat v:c][comp v:c+v:c]} =cut_finish= "kir+owar"
-makas	{[scat v:c]} =defeat=	%【負かす】
-mawar	{[scat v:c]} =revolve=
-mawas	{[scat v:c]} =revolve=
-mi	{[scat v:v]} =see/look/watch=	%【見る】
 miage	{[scat v:v][comp v:v+v:v]} =look_up= "mi+age"
 mikir	{[scat v:c][comp v:v+v:c]} =watch_completely= "mi+kir"
 mikos	{[scat v:c][comp v:v+v:c]} =anticipate= "mi+kos"
@@ -240,7 +252,6 @@ mukaiaw	{[scat v:c][comp v:c+v:c]} =face_each_other= "mukaw+aw"
 nakihajime	{[scat v:v][comp v:c+v:v]} =cry_start= "nak+hajime"
 namemakur	{[scat v:c][comp v:v+v:c]} =lick_recur= "name+makur"
 nariowar	{[scat v:c][comp v:c+v:c]} =ring_finish= "nar+owar"
-ne	{[scat v:v]} =sleep=
 nigemawar	{[scat v:c][comp v:v+v:c]} =escape_revolve= "nige_mawar"
 noborihajime	{[scat v:v][comp v:c+v:v]} =climb_start= "nobor+hajime"
 nomihajime	{[scat v:v][comp v:c+v:v]} =drink_start= "nom+hajime"
@@ -421,11 +432,9 @@ oyogide	{[scat v:v][comp v:c+v:v]} =swim_get_out= "oyog+de"
 oyogikon	{[scat v:c][comp v:c+v:c]} =swim_repeat= "oyog+kon"
 oyogitsuk	{[scat v:c][comp v:c+v:c]} =swim_arrive= "oyog+tsuk"
 oyogiwatar	{[scat v:c][comp v:c+v:c]} =swim_cross= "oyog+watar"
-sabak	{[scat v:c]} =deal_with/judge=  % =dissemble= というエントリーは（dissembleという意味はないように思われるので）削除してよいのではないか？
 sagashihajime	{[scat v:v][comp v:c+v:v]} =search_start= "sagas+hajime"
 sagashimawar	{[scat v:c][comp v:c+v:c]} =search_revolve= "sagas_mawar"
 sagashimotome	{[scat v:v][comp v:c+v:v]} =search_desire= "sagas+motome"
-sakeb	{[scat v:c]} =shout=
 sakebihajime	{[scat v:v][comp v:c+v:v]} =shout_start= "sakeb+hajime"
 shihajime	{[scat v:v:sub][comp v:ir+v:v]} =do_start= "su+hajime"
 shikakar	{[scat v:c:sub][comp v:c+v:c]} =do_be_about_to_do= "su+kakar"
@@ -439,7 +448,6 @@ shioe	{[scat v:v][comp v:ir+v:v]} =do_finish= "su+oe"
 shiowar	{[scat v:c:sub][comp v:ir+v:c]} =do_finish= "su+owar"
 shiowar	{[scat v:c][comp v:ir+v:c]} =do_finish= "su+owar"
 suminare	{[scat v:v][comp v:c+v:v]} =get_used_to_living_in= "sum+nare"
-sute	{[scat v:v]} =discard=	%【捨てる】(《棄てる)
 tabehajime	{[scat v:v][comp v:v+v:v]} =eat_start= "tabe+hajime"
 tabeowar	{[scat v:c][comp v:v+v:c]} =eat_finish= "tabe+owar"
 tachimawar	{[scat v:c][comp v:c+v:c]} =walk_revolve= "tat_mawar" %	立ち回る		
@@ -469,22 +477,21 @@ uchikae	{[scat v:v][comp v:c+v:v]} =move_change= "ut+kae"
 uchikaes	{[scat v:c][comp v:c+v:c]} =hit_back= "ut+kaes"
 uchikakar	{[scat v:c][comp v:c+v:c]} =hit_try_to= "ut+kakar"
 uchikake	{[scat v:v][comp v:c+v:v]} =put_on= "ut+kake"
-uchikat		{[scat v:c][comp v:c+v:c]} =hit_win= "ut+kat"
-uchikir		{[scat v:c][comp v:c+v:c]} =break_off= "ut+kir"
-uchikom		{[scat v:c][comp v:c+v:c]} =hit/shoot_impact= "ut+kom"
-uchikom		{[scat v:c]} =be_absorbed_in= % "ut_kom" の一語化
+uchikat	{[scat v:c][comp v:c+v:c]} =hit_win= "ut+kat"
+uchikir	{[scat v:c][comp v:c+v:c]} =break_off= "ut+kir"
+uchikom	{[scat v:c][comp v:c+v:c]} =hit/shoot_impact= "ut+kom"
 uchikoros	{[scat v:c][comp v:c+v:c]} =hit/shoot_kill= "ut+koros"
 uchikowas	{[scat v:c][comp v:c+v:c]} =hit/shoot_break= "ut+kowas"
 uchikudak	{[scat v:c][comp v:c+v:c]} =hit_crush= "ut+kudak"
 uchimakas	{[scat v:c][comp v:c+v:c]} =hit/shoot_beat= "ut+makas"
 uchimake	{[scat v:v][comp v:c+v:v]} =hit/shoot_lose= "ut+make"
 uchimakur	{[scat v:c][comp v:c+v:c]} =hit/shoot_recur= "ut+makur"	%【撃ちまくる】(撃ち〈捲る)
-uchinar		{[scat v:c][comp v:c+v:c]} =hit/shoot_sound= "ut+nar"
-uchinuk		{[scat v:c][comp v:c+v:c]} =hit/shoot_through= "ut+nuk"
+uchinar	{[scat v:c][comp v:c+v:c]} =hit/shoot_sound= "ut+nar"
+uchinuk	{[scat v:c][comp v:c+v:c]} =hit/shoot_through= "ut+nuk"
 uchioros	{[scat v:c][comp v:c+v:c]} =hit/shoot_lower= "ut+oros"
 uchiotos	{[scat v:c][comp v:c+v:c]} =hit/shoot_down= "ut+otos"
 uchitaos	{[scat v:c][comp v:c+v:c]} =hit_knock_down= "ut+taos"
-uchitor		{[scat v:c][comp v:c+v:c]} =hit/shoot_take= "ut+tor"
+uchitor	{[scat v:c][comp v:c+v:c]} =hit/shoot_take= "ut+tor"
 uchitsuke	{[scat v:c][comp v:c+v:v]} =hit/shoot_attach= "ut+tsuke"
 uekae	{[scat v:v][comp v:v+v:v]} =transplant= "ue+kae"
 uekom	{[scat v:c][comp v:v+v:c]} =plant_impact= "ue+kom"
@@ -493,7 +500,7 @@ ugokihajime	{[scat v:v][comp v:c+v:v]} =move_start= "ugok+hajime"
 ugokimawar	{[scat v:c][comp v:c+v:c]} =move_revolve= "ugok+mawar"
 ukabiagar	{[scat v:c][comp v:c+v:c]} =emerge= "ukab+agar"
 ukabidas	{[scat v:c][comp v:c+v:c]} =emerge= "ukab+das"
-ukabide		{[scat v:v][comp v:c+v:v]} =surface= "ukab+de"
+ukabide	{[scat v:v][comp v:c+v:v]} =surface= "ukab+de"
 ukagaishir	{[scat v:c][comp v:c+v:c]} =catch_a_glance_into= "ukagaw+shir"
 ukarearuk	{[scat v:c][comp v:v+v:c]} =walk_in_high_spirits= "ukare+aruk"
 ukarede	{[scat v:v][comp v:v+v:v]} =go_out_on_a_spree= "ukare+de"
@@ -512,7 +519,6 @@ ukiagar	{[scat v:c][comp v:c+v:c]} =float_up= "uk+agar"
 ukidas	{[scat v:c][comp v:c+v:c]} =stand_out= "uk+das"
 ukide	{[scat v:v][comp v:c+v:v]} =stand_out= "uk+de"
 ukitat	{[scat v:c][comp v:c+v:c]} =become_restless= "uk+tat"
-umare	{[scat v:v]} =be_born= %生まれる "umare&PASS" ではない
 umareawas	{[scat v:c][comp v:v+v:c]} =be_born_fit= "umare+awas"
 umareawase	{[scat v:c][comp v:v+v:v]} =be_born_fit= "umare+awase"
 umarede	{[scat v:v][comp v:v+v:v]} =be_born_get_out= "umare+de"
@@ -547,7 +553,6 @@ urishibur	{[scat v:c][comp v:c+v:c]} =sell_hesitate= "ur+shibur"
 uritobas	{[scat v:c][comp v:c+v:c]} =clear= "ur+tobas"
 uritsuke	{[scat v:v][comp v:c+v:v]} =palm_off= "ur+tsuke"
 uriwatas	{[scat v:c][comp v:c+v:c]} =sell_over= "ur+watas"
-ut	{[scat v:c]} =hit/shoot=	%【打つ】【撃つ】
 utaiage	{[scat v:v][comp v:c+v:v]} =celebrate= "utaw+age"
 utaifurus	{[scat v:c][comp v:c+v:c]} =sing_repeatedly= "utaw+furus"
 utaikake	{[scat v:v][comp v:c+v:v]} =sing_to= "utaw+kake"
@@ -570,13 +575,12 @@ utsushitor	{[scat v:c][comp v:c+v:c]} =move_take= "utsus+tor"
 utsushiue	{[scat v:c][comp v:c+v:v]} =move_plant= "utsus+ue"
 uttaede	{[scat v:v][comp v:v+v:v]} =appeal_get_out= "uttae+de"
 uttaekake	{[scat v:v][comp v:v+v:v]} =appeal_to= "uttae+kake"
-utushitor {[scat v:c][comp v:c+v:c]} =copy_take "utsus+tor" % 写し取る
-utushitor {[scat v:c][comp v:c+v:c]} =move_take "utsus+tor" % 移し取る
+utushitor	{[scat v:c][comp v:c+v:c]} =copy_take "utsus+tor" % 写し取る
+utushitor	{[scat v:c][comp v:c+v:c]} =move_take "utsus+tor" % 移し取る
 uzumekom	{[scat v:c][comp v:v+v:c]} =bury_impact= "uzume+kom"
 wakariaw	{[scat v:c][comp v:c+v:c]} =understand_each_other= "wakar+aw"
 wakarikane	{[scat v:v][comp v:v+v:v]} =understand_be.unable.to= "wakar+kane"
 warikir	{[scat v:v][comp v:c+v:c]} =adopt_a_clearcut_attitude= "war+kir"
-yak	{[scat v:c]} =bake/fry/roast=	%【焼く】***
 yarikane	{[scat v:v][comp v:c+v:v]} =do_be_unabale_to= "yar+kane"
 yariowar	{[scat v:c][comp v:c+v:c]} =do_finish= "yar+owar"
 yomiayamar	{[scat v:v][comp v:c+v:c]} =read_err= "yomi+ayamar"
@@ -587,76 +591,74 @@ yudeage	{[scat v:v][comp v:v+v:v]} =boil_up= "yude+age"
 yukikayow	{[scat v:c][comp v:c+v:c]} =pass= "yuk+kayow"
 yurashihajime	{[scat v:v][comp v:c+v:v]} =shake_start= "yur&CAUS+hajime"
 yusurihajime	{[scat v:v][comp v:c+v:v]} =shake_start= "yusur+hajime"
-ondas	       {[scat v:c]} =expel=
-onde	       {[scat v:v]} =get_out=
 
 % vn
-atenige		{[scat n:vn]} =hit_and_run_away= "ate_nige&GER"	% 当て逃げ
-daihyoo		{[scat n:vn:} =represent=
-fuka           	{[scat n:vn]} =append=
-happyoo		{[scat n:vn]} =give_presentation=
-hatten		{[scat n:vn]} =develop=
-hen'yoo  	{[scat n:vn]} =change=
-henkaku  	{[scat n:vn]} =change=
+atenige	{[scat n:vn]} =hit_and_run_away= "ate_nige&GER"	% 当て逃げ
+daihyoo	{[scat n:vn:} =represent=
+fuka	{[scat n:vn]} =append=
+happyoo	{[scat n:vn]} =give_presentation=
+hatten	{[scat n:vn]} =develop=
+hen'yoo	{[scat n:vn]} =change=
+henkaku	{[scat n:vn]} =change=
 hikinige	{[scat n:vn]} =hit_and_run_away= "hik_nige&GER"	%【ひき逃げ】(〈轢き逃げ)
-hookoku		{[scat n:vn]} =report=
-hyoogen		{[scat n:vn]} =express=
-hyooka 		{[scat n:vn]} =evaluate=
-irai  		{[scat n:vn]} =request=
-jisshi		{[scat n:vn]} =put_into_practice=
-jooba 		{[scat n:vn]} =ride_horseback=
-jushoo		{[scat n:vn:} =be_awarded=
+hookoku	{[scat n:vn]} =report=
+hyoogen	{[scat n:vn]} =express=
+hyooka	{[scat n:vn]} =evaluate=
+irai	{[scat n:vn]} =request=
+jisshi	{[scat n:vn]} =put_into_practice=
+jooba	{[scat n:vn]} =ride_horseback=
+jushoo	{[scat n:vn:} =be_awarded=
 kadaihyooka	{[scat n:vn]} =overestimate= "kadai_hyooka"
 kaiketsu	{[scat n:vn]} =solve=
-kaisai		{[scat n:vn]} =open=
-kaisee		{[scat n:vn]} =amend=
-kaishuu  	{[scat n:vn]} =retrieve=
-kaketsu		{[scat n:vn]} =approve=
-kakuho		{[scat n:vn]} =secure=
-kakunin		{[scat n:vn]} =confirm=
+kaisai	{[scat n:vn]} =open=
+kaisee	{[scat n:vn]} =amend=
+kaishuu	{[scat n:vn]} =retrieve=
+kaketsu	{[scat n:vn]} =approve=
+kakuho	{[scat n:vn]} =secure=
+kakunin	{[scat n:vn]} =confirm=
 kakutoku	{[scat n:vn:} =obtain=
-kan'yuu  	{[scat n:vn]} =persuade=
-kanchi		{[scat n:vn]} =perceive=
-kanri  		{[scat n:vn]} =manage=
-kansee		{[scat n:vn]} =complete=
+kan'yuu	{[scat n:vn]} =persuade=
+kanchi	{[scat n:vn]} =perceive=
+kanri	{[scat n:vn]} =manage=
+kansee	{[scat n:vn]} =complete=
 kashoohyooka	{[scat n:vn]} =underestimate= "kashoo_hyooka"
 katsuyoo	{[scat n:vn]} =utilize=
-keeee 		{[scat n:vn]} =manage=
-kekkon		{[scat n:vn]} =marry=
-kitai		{[scat n:vn:} =expect=
+keeee	{[scat n:vn]} =manage=
+kekkon	{[scat n:vn]} =marry=
+kitai	{[scat n:vn:} =expect=
 kontorooru	{[scat n:vn]} =control=
-koobo  		{[scat n:vn]} =publicly_recruit=
-koodoo		{[scat n:vn]} =behave=
-kuinige		{[scat n:vn]} =eat_and_run_away= "kuw_nige&GER"  % 食い逃げ
-kyojyuu		{[scat n:vn]} =live=
-kyoozon  	{[scat n:vn]} =exist_together=
+koobo	{[scat n:vn]} =publicly_recruit=
+koodoo	{[scat n:vn]} =behave=
+kuinige	{[scat n:vn]} =eat_and_run_away= "kuw_nige&GER"  % 食い逃げ
+kyojyuu	{[scat n:vn]} =live=
+kyoozon	{[scat n:vn]} =exist_together=
 mochinige	{[scat n:vn]} =take_and_run_away= "nor_nige&GER"  % 持ち逃げ
-nanka		{[scat n:vn]} =soften=
+nanka	{[scat n:vn]} =soften=
 norinige	{[scat n:vn]} =ride_and_run_away= "nor_nige&GER"  % 乗り逃げ
-omemoji 	{[scat n:vn]} =view=
+omemoji	{[scat n:vn]} =view=
 ryuugaku	{[scat n:vn]} =study_abroad=
-saikai		{[scat n:vn]} =reopen=
-seekan		{[scat n:vn]} =come_back_alive=
-seesan		{[scat n:vn]} =produce=
-setchi		{[scat n:vn]} =set_up=
-shifuto		{[scat n:vn]} =shift=
-shimpai		{[scat n:vn]} =worry=	                %【心配】 sorrow でなく
-shiyoo		{[scat n:vn:} =use=
+saikai	{[scat n:vn]} =reopen=
+seekan	{[scat n:vn]} =come_back_alive=
+seesan	{[scat n:vn]} =produce=
+setchi	{[scat n:vn]} =set_up=
+shifuto	{[scat n:vn]} =shift=
+shimpai	{[scat n:vn]} =worry=	                %【心配】 sorrow でなく
+shiyoo	{[scat n:vn:} =use=
 shusseki	{[scat n:vn:} =attend=
 sotsugyoo	{[scat n:vn]} =graduate=
-suimin		{[scat n:vn]} =sleep=
-suishin		{[scat n:vn]} =propel=
-taioo		{[scat n:vn]} =correspond=
-taioo		{[scat n:vn]} =cope=
-taisho		{[scat n:vn]} =cope=
-taizai		{[scat n:vn]} =stay=
-teekyoo		{[scat n:vn]} =offer=
+suimin	{[scat n:vn]} =sleep=
+suishin	{[scat n:vn]} =propel=
+taioo	{[scat n:vn]} =correspond=
+taioo	{[scat n:vn]} =cope=
+taisho	{[scat n:vn]} =cope=
+taizai	{[scat n:vn]} =stay=
+teekyoo	{[scat n:vn]} =offer=
 teeshutsu	{[scat n:vn]} =present=
-tenkai		{[scat n:vn]} =develop= % 展開
-tenkai		{[scat n:vn]} =rotate= % 転回
-tettai		{[scat n:vn]} =retreat=
-unten		{[scat n:vn]} =drive=
-yonige	        {[scat n:vn]} =flee_by_night= "yo_nige&GER" % 夜逃げ
+tenkai	{[scat n:vn]} =develop= % 展開
+tenkai	{[scat n:vn]} =rotate= % 転回
+tettai	{[scat n:vn]} =retreat=
+unten	{[scat n:vn]} =drive=
+yonige	{[scat n:vn]} =flee_by_night= "yo_nige&GER" % 夜逃げ
 
 % 修正
 kashite	{[scat n][comp v:c+n]} =lender= "kas&GER+te" % "kasi&GER+te" でなく

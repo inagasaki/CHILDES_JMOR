@@ -325,6 +325,8 @@ yuugishitsu	{[scat n]} "yuugi_shitsu_ROOM" =play_room= 	% 遊戯室
 yuukensha	{[scat n]} =elector= "yuuken_sha_PERSON" % 有権者
 yuushoosha	{[scat n]} =champion= "yuushoo_sha_PERSON" % 優勝者
 zensha	{[scat n]} =the_former=
+omoi  {[scat n]} =thought=    %【思い】
+hiyoo	{[scat n]} =cost=	% 費用
 
  _jin, _go --> n:prop でなく n
 amerikajin	{[scat n]} =American_person= "amerika_jin"

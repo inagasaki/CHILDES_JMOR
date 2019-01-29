@@ -662,6 +662,8 @@ yonige	{[scat n:vn]} =flee_by_night= "yo_nige&GER" % 夜逃げ
 
 % 修正
 kashite	{[scat n][comp v:c+n]} =lender= "kas&GER+te" % "kasi&GER+te" でなく
+michibik	{[scat v:c]} =guide= "michibik"	%【導く】 % mich_hik から境界をとる
+tanabik	{[scat v:c]} =trail= "tanabik"	%【たなびく/棚引く】 % taba_hik から境界をとる
 
 
 

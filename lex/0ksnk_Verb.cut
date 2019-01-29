@@ -325,7 +325,7 @@ omoiatar	{[scat v:c][comp v:c+v:c]} =think_hit_on= "omow+atar"
 omoiawase	{[scat v:v][comp v:c+v:v]} =think_combine= "omow+awase"
 omoichigae	{[scat v:v][comp v:c+v:v]} =think_be_wrong= "omow+chigae"
 omoidas	{[scat v:c][comp v:c+v:c]} =remember= "omow+das"
-omoiekak	{[scat v:c][comp v:c+v:c]} =think_draw= "omow+e_kak" "omowe_kak"
+omoiekak	{[scat v:c][comp v:c+v:c]} =think_draw= "omow+e_kak"	%"omowe_kak"
 omoiiitar	{[scat v:c][comp v:c+v:c]} =think_extend_to= "omoi+itar"
 omoiikogare	{[scat v:v][comp v:c+v:v]} =think_long= "omoi+kogare"
 omoikaes	{[scat v:c][comp v:c+v:c]} =think_give_back= "omow+kaes"
@@ -575,8 +575,8 @@ utsushitor	{[scat v:c][comp v:c+v:c]} =move_take= "utsus+tor"
 utsushiue	{[scat v:c][comp v:c+v:v]} =move_plant= "utsus+ue"
 uttaede	{[scat v:v][comp v:v+v:v]} =appeal_get_out= "uttae+de"
 uttaekake	{[scat v:v][comp v:v+v:v]} =appeal_to= "uttae+kake"
-utushitor	{[scat v:c][comp v:c+v:c]} =copy_take "utsus+tor" % 写し取る
-utushitor	{[scat v:c][comp v:c+v:c]} =move_take "utsus+tor" % 移し取る
+utushitor	{[scat v:c][comp v:c+v:c]} =copy_take= "utsus+tor" % 写し取る
+utushitor	{[scat v:c][comp v:c+v:c]} =move_take= "utsus+tor" % 移し取る
 uzumekom	{[scat v:c][comp v:v+v:c]} =bury_impact= "uzume+kom"
 wakariaw	{[scat v:c][comp v:c+v:c]} =understand_each_other= "wakar+aw"
 wakarikane	{[scat v:v][comp v:v+v:v]} =understand_be.unable.to= "wakar+kane"
@@ -594,7 +594,7 @@ yusurihajime	{[scat v:v][comp v:c+v:v]} =shake_start= "yusur+hajime"
 
 % vn
 atenige	{[scat n:vn]} =hit_and_run_away= "ate_nige&GER"	% 当て逃げ
-daihyoo	{[scat n:vn:} =represent=
+daihyoo	{[scat n:vn]} =represent=
 fuka	{[scat n:vn]} =append=
 happyoo	{[scat n:vn]} =give_presentation=
 hatten	{[scat n:vn]} =develop=
@@ -607,7 +607,7 @@ hyooka	{[scat n:vn]} =evaluate=
 irai	{[scat n:vn]} =request=
 jisshi	{[scat n:vn]} =put_into_practice=
 jooba	{[scat n:vn]} =ride_horseback=
-jushoo	{[scat n:vn:} =be_awarded=
+jushoo	{[scat n:vn]} =be_awarded=
 kadaihyooka	{[scat n:vn]} =overestimate= "kadai_hyooka"
 kaiketsu	{[scat n:vn]} =solve=
 kaisai	{[scat n:vn]} =open=
@@ -616,7 +616,7 @@ kaishuu	{[scat n:vn]} =retrieve=
 kaketsu	{[scat n:vn]} =approve=
 kakuho	{[scat n:vn]} =secure=
 kakunin	{[scat n:vn]} =confirm=
-kakutoku	{[scat n:vn:} =obtain=
+kakutoku	{[scat n:vn]} =obtain=
 kan'yuu	{[scat n:vn]} =persuade=
 kanchi	{[scat n:vn]} =perceive=
 kanri	{[scat n:vn]} =manage=
@@ -625,7 +625,7 @@ kashoohyooka	{[scat n:vn]} =underestimate= "kashoo_hyooka"
 katsuyoo	{[scat n:vn]} =utilize=
 keeee	{[scat n:vn]} =manage=
 kekkon	{[scat n:vn]} =marry=
-kitai	{[scat n:vn:} =expect=
+kitai	{[scat n:vn]} =expect=
 kontorooru	{[scat n:vn]} =control=
 koobo	{[scat n:vn]} =publicly_recruit=
 koodoo	{[scat n:vn]} =behave=
@@ -643,8 +643,8 @@ seesan	{[scat n:vn]} =produce=
 setchi	{[scat n:vn]} =set_up=
 shifuto	{[scat n:vn]} =shift=
 shimpai	{[scat n:vn]} =worry=	                %【心配】 sorrow でなく
-shiyoo	{[scat n:vn:} =use=
-shusseki	{[scat n:vn:} =attend=
+shiyoo	{[scat n:vn]} =use=
+shusseki	{[scat n:vn]} =attend=
 sotsugyoo	{[scat n:vn]} =graduate=
 suimin	{[scat n:vn]} =sleep=
 suishin	{[scat n:vn]} =propel=

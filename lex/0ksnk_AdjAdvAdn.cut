@@ -150,7 +150,7 @@ donoyooni	{[scat adv:deic:wh]} =how=
 donoyoona	{[scat adn:deic:wh]} =what_kind=
 
 % adv
-aete	{[scat adv]} =daringly=a
+aete	{[scat adv]} =daringly=
 amari	{[scat adv]} =very_much=
 anagachi	{[scat adv]} =not_necessarily=
 arakajime	{[scat adv]} =in_advance=
@@ -264,7 +264,7 @@ unzari	{[scat adv:onoma]} =be_sick_of=
 uzuuzu	{[scat adv:onoma]} =eagarly=
 zokuzoku	{[scat adv:onoma]} =successively=
 zukezuke	{[scat adv:onoma]} =bluntly=
-nanto	{[scat adv]}    =very=  % ex: なんと大きな桃じゃ！; cf.: なんて
+nanto	{[scat adv]}    =very=  % eg: なんと大きな桃じゃ！; cf.: なんて
 kunekune	{[scat adv:onoma]} =tortuous=
 
 % adnominal (pnl)

@@ -14,7 +14,7 @@ buchoo	{[scat n]} =division_head=
 buka	{[scat n]} =subordinate=
 bun'ya	{[scat n]} =field=
 burandingu	{[scat n]} =branding=
-burandohin	{[scat n]} =luxury_brand_goods "brando_hin_GOODS"
+burandohin	{[scat n]} =luxury_brand_goods= "brando_hin_GOODS"
 bushoo	{[scat n]} =military_commander=
 bussan	{[scat n]} =product=
 butookai	{[scat n]} "butoo_kai_MEETING" =dance_ball=
@@ -405,7 +405,7 @@ gengokenkyuu	{[scat n][comp n+n:vn]} =linguistic_research= "gengo+kenkyuu"
 gengoshorishisutemukaihatsu	{[scat n][comp n+n:vn+n+n:vn]} =development_of_NLP_system= "gengo+shori+shisutemu+kaihatsu"
 gorufukurabu	{[scat n][comp n+n]} =golf_club= "gorufu+kurabu"
 gorufukurabusetto	{[scat n][comp n+n+n]} =golf_club_set= "gorufu+kurabu+setto"
-hootekishikoo	{[scat n][comp n:an+n} =legal_thinking= "hoo_teki_LIKE+shikoo"
+hootekishikoo	{[scat n][comp n:an+n]} =legal_thinking= "hoo_teki_LIKE+shikoo"
 kankyakuseki	{[scat n][comp n+n]} =audience_seat= "kankyaku+seki"
 kobuta	{[scat n][comp n+n]} =little_pig= "ko+buta"
 kogaisha	{[scat n][comp n+n]} =subsidiary_company= "ko+kaisha"

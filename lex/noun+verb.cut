@@ -389,7 +389,7 @@ bichanure	{[scat n:vn][comp onoma+v:v]} =be_soaked= "bicha+nure&GER"
 bichonure	{[scat n:vn][comp onoma+v:v]} =be_soaked= "bicho+nure&GER"
 gochamaze	{[scat n][comp onoma+v:v]} =jumbled_together= "gocha+maze&GER"
 gurugurugurumaki	{[scat n:mot][comp onoma+v:c]} =round_roll= "guruguruguru+mak-GER"
-gorone		{[scat n:vn][comp onoma+v:v} =sleep_on_floor= "goro+ne&GER"	%【ごろ寝】
+gorone	{[scat n:vn][comp onoma+v:v]} =sleep_on_floor= "goro+ne&GER"	%【ごろ寝】
 gurumaki	{[scat n:mot][comp onoma+v:c]} =round_roll= "guru+mak-GER"
 gyuugyuuzume	{[scat n:vn][comp onoma+v:v]} =stuffing_in= "guchagucha+tsume&GER"
 tsubutsubuatsume	{[scat n:vn][comp n+v:v]} =gathering_lumps= "tsubutsubu+atsume&GER"

@@ -476,3 +476,14 @@ Rondon	{[scat n:prop]} =London=
 haiburiddo	{[scat n]} =hybrid= % ハイブリッド
 karushiumu {[scat n]} =calcium= % カルシウム
 shindansho {[scat n]} =medical_certificate= "shindan_sho_LETTER" % 診断書
+
+
+% suzuki
+anzenkijun	{[scat n][comp n+n]} =safety_standard= "anzen+kijun"
+kikisentee	{[scat n][comp n+n]} =equipment_selection= "kiki+sentee"
+konekutaa	{[scat n]} =connector
+kyakusaki	{[scat n]} =client=
+seegyoban	{[scat n]} =control_panel
+sentee		{[scat n:vn]} =selection
+tebikisho	{[scat n]} =manual=
+

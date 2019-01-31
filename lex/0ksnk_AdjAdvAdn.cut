@@ -87,6 +87,7 @@ kiraku	{[scat n:an]} =carefree=
 kojinteki	{[scat n:an]} =personal= "kojin_teki_LIKE"
 kokusaiteki	{[scat n:an]} =international= "kokusai_teki_LIKE"
 komponteki	{[scat n:an]} =essential= "kompon_teki_LIKE"
+koofuku	{[scat n:an]} =happy=
 kookateki	{[scat n:an]} =effective= "kooka_teki_LIKE"
 kooritsuteki	{[scat n:an]} =efficient= "kooritsu_teki_LIKE"
 kooteeteki	{[scat n:an]}  =affirmative=  "kootee_teki_LIKE" % 肯定的

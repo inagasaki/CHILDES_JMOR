@@ -2,11 +2,23 @@
 kamo	{[scat ptl:foc]} =perhaps= 
 
 % smod
-daroo	{[scat smod]} =must=
-deshoo	{[scat smod]} =must= "daroo&POL"
+daroo	{[scat smod]} =INFR=
+yaroo	{[scat smod]} =INFR=
+yaro	{[scat smod]} =INFR=
+dearoo	{[scat smod]} =INFR=
+deshoo	{[scat smod]} =INFR= "daroo&POL"
+rashii	{[scat smod]} =SENS= "rashi-PRES"     % sensory evidential mood, hearsay ではない, soo --> hearsay
+rashi	{[scat smod]} =SENS= "rashi&PRES"
+rashikatta     {[scat smod]} =SENS= "rashi-PAST"
+rashiku	{[scat smod]} =SENS= "rashi-ADV"
+mitai	{[scat smod]} =INFR= "mita-PRES"
+midai	{[scat smod]} =INFR= "mita-PRES"
 beki	{[scat smod]} =ought_to= % ought to do でなく
 beshi	{[scat smod]} =ought_to= % ought to do でなく
-bekarazu	{[scat smod]} =ought_to= "bekara-NEG" % ought to do でなく
+bekarazu	{[scat smod]} =ought_to= "bekara-NEG"
+beku	{[scat smod]} =ought_to= "beki&ADV"
+soo	{[scat smod]} =HEARSAY=  % hearsay を大文字に
+yoo	{[scat smod]} =SENS=
 
 % deic
 kooshita	{[scat adn:deic:dem]} =like_this= % adn|koo_shita=such を変更
@@ -16,7 +28,6 @@ waga	{[scat n:deic:prs]} =our=
 jishin	{[scat n:deic:prs]} =self=
 gojishin	{[scat n:deic:prs]} "go_HON#jishin" =self=
 korera	{[scat n:deic:dem]} =this= "kore-ra_PL"
-
 
 % conj
 chinamini	{[scat conj]} =by_the_way=

@@ -166,6 +166,7 @@ komedii	{[scat n]} =comedy= % コメディ
 kon'yakusha	{[scat n]} =fiancee= "konyaku_sha_PERSON"
 kon'yakusha	{[scat n]} =fiancee= "kon'yaku_sha_PERSON"
 kooen	{[scat n]} =park= "koo_en_GARDEN" % 公園
+koofuku	{[scat n]} =happiness=
 koohosha	{[scat n]} =candidate= "kooho_sha_PERSON" % 候補者
 kookeesha	{[scat n]} =successor= "kookee_sha_PERSON" % 後継者
 koominkan	{[scat n]} =public_hall= "koomin_kan_BLDG" % 公民館

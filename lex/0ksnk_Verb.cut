@@ -666,4 +666,5 @@ michibik	{[scat v:c]} =guide= "michibik"	%【導く】 % mich_hik から境界�
 tanabik	{[scat v:c]} =trail= "tanabik"	%【たなびく/棚引く】 % taba_hik から境界をとる
 
 
-
+% by Hayashi 2019/1/30
+kake {[scat v:v]} =hang= % 帽子をハンガーに_掛ける_

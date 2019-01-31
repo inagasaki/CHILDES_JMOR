@@ -106,6 +106,7 @@ hon'ya	{[scat n]} =book_store= "book_ya_SHOP" %本屋
 hon'yaku	{[scat n]} =translation= % 翻訳
 hoomonsha	{[scat n]} =visitor= "hoomon_sha_PERSON" % 訪問者
 hooritsuka	{[scat n]} =lawyer=
+horaa	{[scat n]} =horror= % ホラー
 hurugoro	{[scat n]} =around_noon= "hiru_goro_AROUND" %昼ごろ
 iinkai	{[scat n]} =committee=
 inshoo	{[scat n]} =impression=
@@ -206,7 +207,7 @@ raijoosha	{[scat n]} =visitor= "raijoo_sha_PERSON" % 来場者
 reetoosha	{[scat n]} =refrigerate= "reetoo_sha_VEHICLE" % 冷凍車
 rieki	{[scat n]} =profit=
 rikkoohosha	{[scat n]} =candidate= "rikkooho_sha_PERSON" % 立候補者
-rireki	{[scat n]} =history=	
+rireki	{[scat n]} =history=
 rirekisho	{[scat n]} =resume= "rireki_sho_LETTER" % 履歴書
 riyoosha	{[scat n]} =user= "riyoo_sha_PERSON" % 利用者
 rokkakkee	{[scat n]} =hexagon= "rokkaku_kee_FORM" % 六角形
@@ -423,6 +424,7 @@ gengoshorishisutemukaihatsu	{[scat n][comp n+n:vn+n+n:vn]} =development_of_NLP_s
 gorufukurabu	{[scat n][comp n+n]} =golf_club= "gorufu+kurabu"
 gorufukurabusetto	{[scat n][comp n+n+n]} =golf_club_set= "gorufu+kurabu+setto"
 hootekishikoo	{[scat n][comp n:an+n]} =legal_thinking= "hoo_teki_LIKE+shikoo"
+horaaeega	{[scat n][comp n+n]} =horror_movie= "horaa+eega" % ホラー映画
 kankyakuseki	{[scat n][comp n+n]} =audience_seat= "kankyaku+seki"
 kobuta	{[scat n][comp n+n]} =little_pig= "ko+buta"
 kogaisha	{[scat n][comp n+n]} =subsidiary_company= "ko+kaisha"
@@ -466,3 +468,11 @@ pan'ya	{[scat n]} =bakery= "pan_ya_SHOP" %パン屋
 nikuya	{[scat n]} =butcher_shop= "niku_ya_SHOP" %肉屋
 hanaya	{[scat n]} =flower_shop= "hana_ya_SHOP" %花屋
 omochaya	{[scat n]} =toy_store= "omocha_ya_SHOP" %おもちゃ屋
+hare	{[scat n]} =sunny= % 晴れ
+
+
+iimeeru	{[scat n]} =email= % eメール
+Rondon	{[scat n:prop]} =London=
+haiburiddo	{[scat n]} =hybrid= % ハイブリッド
+karushiumu {[scat n]} =calcium= % カルシウム
+shindansho {[scat n]} =medical_certificate= "shindan_sho_LETTER" % 診断書

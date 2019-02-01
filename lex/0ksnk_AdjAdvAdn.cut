@@ -84,6 +84,7 @@ kihonteki	{[scat n:an]} =basic= "kihon_teki_LIKE"
 kikaiteki	{[scat n:an]}  =mechanical=  "kikai_teki_LIKE" % 機械的
 kindaiteki	{[scat n:an]}  =modern=  "kindai_teki_LIKE" % 近代的
 kiraku	{[scat n:an]} =carefree=
+kisoteki	{[scat n]} =basic= "kiso_teki_LIKE" % 基礎的
 kojinteki	{[scat n:an]} =personal= "kojin_teki_LIKE"
 kokusaiteki	{[scat n:an]} =international= "kokusai_teki_LIKE"
 komponteki	{[scat n:an]} =essential= "kompon_teki_LIKE"

@@ -596,6 +596,7 @@ yusurihajime	{[scat v:v][comp v:c+v:v]} =shake_start= "yusur+hajime"
 atenige	{[scat n:vn]} =hit_and_run_away= "ate_nige&GER"	% 当て逃げ
 daihyoo	{[scat n:vn]} =represent=
 fuka	{[scat n:vn]} =append=
+gakushuu	{[scat n:vn]} =learning= % 学習
 happyoo	{[scat n:vn]} =give_presentation=
 hatten	{[scat n:vn]} =develop=
 hen'yoo	{[scat n:vn]} =change=
@@ -635,12 +636,15 @@ kyoozon	{[scat n:vn]} =exist_together=
 mochinige	{[scat n:vn]} =take_and_run_away= "nor_nige&GER"  % 持ち逃げ
 nanka	{[scat n:vn]} =soften=
 norinige	{[scat n:vn]} =ride_and_run_away= "nor_nige&GER"  % 乗り逃げ
+nyuugaku	{[scat n:vn]} =entrance_into_school= % 入学
+nyuusha	{[scat n:vn]} =	entering_company=
 omemoji	{[scat n:vn]} =view=
 ryuugaku	{[scat n:vn]} =study_abroad=
 saikai	{[scat n:vn]} =reopen=
 seekan	{[scat n:vn]} =come_back_alive=
 seesan	{[scat n:vn]} =produce=
 setchi	{[scat n:vn]} =set_up=
+shidoo	{[scat n:vn]} =guide= % 指導
 shifuto	{[scat n:vn]} =shift=
 shimpai	{[scat n:vn]} =worry=	                %【心配】 sorrow でなく
 shiyoo	{[scat n:vn]} =use=
@@ -648,15 +652,17 @@ shusseki	{[scat n:vn]} =attend=
 sotsugyoo	{[scat n:vn]} =graduate=
 suimin	{[scat n:vn]} =sleep=
 suishin	{[scat n:vn]} =propel=
-taioo	{[scat n:vn]} =correspond=
 taioo	{[scat n:vn]} =cope=
+taioo	{[scat n:vn]} =correspond=
 taisho	{[scat n:vn]} =cope=
 taizai	{[scat n:vn]} =stay=
+teechaku	{[scat n:vn]} =fixing=
 teekyoo	{[scat n:vn]} =offer=
 teeshutsu	{[scat n:vn]} =present=
 tenkai	{[scat n:vn]} =develop= % 展開
 tenkai	{[scat n:vn]} =rotate= % 転回
 tettai	{[scat n:vn]} =retreat=
+toohyoo	{[scat n:vn]} =voting=
 unten	{[scat n:vn]} =drive=
 yonige	{[scat n:vn]} =flee_by_night= "yo_nige&GER" % 夜逃げ
 

@@ -61,6 +61,7 @@ yotte	{[scat conj]} =therefore=
 
 % q
 maitoshi	{[scat quant]} =every_year= "mai_EVERY_toshi"
+zen'in	{[scat quant]} =all_members= 	% 全員 
 
 mairu	{[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numCBb numCBn2]} "mairu_MILE"
 shuukan	{[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numCBb numCBn2]} "shuukan_WEEK"

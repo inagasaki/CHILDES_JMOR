@@ -1,3 +1,6 @@
+% 連語
+hokanaranai {[scat v:c]} =be_nothing_other_than= "hokanarana-PRES"
+
 % verb
 
 age	{[scat v:v]} =mention=
@@ -74,6 +77,7 @@ arainagas	{[scat v:c][comp v:c+v:c]} =wash_pour= "araw+nagas"
 araiotos	{[scat v:c][comp v:c+v:c]} =wash_drop= "araw+otos"
 araiowar	{[scat v:c][comp v:c+v:c]} =wash_finish= "araw+owar"
 araitate	{[scat v:v][comp v:c+v:v]} =wash_stand= "araw+tate"
+ganaritate	{[scat v:v][comp v:c+v:v]} =yell_out= "ganar+tate"
 ariamar	{[scat v:c][comp v:ir+v:c]} =be_left_over= "ar+amar"
 arawarede	{[scat v:v][comp v:v+v:v]} =appear_get_out= "araware+de"
 arehate	{[scat v:v][comp v:v+v:v]} =get_rough_end= "are+hate"

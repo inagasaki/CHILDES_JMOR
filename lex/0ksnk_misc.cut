@@ -59,6 +59,10 @@ towaie	{[scat conj]} =nevertheless=
 towaittemo	{[scat conj]} =nevertheless=
 yotte	{[scat conj]} =therefore=
 
+% num
+ichinenjuu	{[scat num]} =one= "ichi-nen_YEAR-juu_THROUGHOUT" % 修正希望
+ichinichijuu	{[scat num]} =one= "ichi-nichi_DAY-juu_THROUGHOUT" % 修正希望			
+
 % q
 maitoshi	{[scat quant]} =every_year= "mai_EVERY_toshi"
 zen'in	{[scat quant]} =all_members= 	% 全員 

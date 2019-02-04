@@ -511,12 +511,33 @@ shindansho {[scat n]} =medical_certificate= "shindan_sho_LETTER" % 診断書
 
 
 % suzuki
-anzenkijun	{[scat n][comp n+n]} =safety_standard= "anzen+kijun"
-kikisentee	{[scat n][comp n+n:vn]} =equipment_selection= "kiki+sentee"
+baaya		{[scat n]} =nanny=
+bunsai		{[scat n]} =literary_talent=
+dandori		{[scat n]} =plan=
+essee		{[scat n]} =essay=	
+hatchuu		{[scat n]} =order=
+koko		{[scat n]} =each=
 konekutaa	{[scat n]} =connector=
+koosee		{[scat n:vn]} =proofreading=
 kyakusaki	{[scat n]} =client=
+kyuuryoo	{[scat n]} =salary=
+miryoo		{[scat n:vn]} =fascination=
+nazukeoya	{[scat n]} =godparent
+oriori		{[scat n]} =sometimes=
+saikoo		{[scat n]} =second_proof=
+sakana		{[scat n]} =side_dish= %（酒の）肴
+sankoo		{[scat n]} =third_proof=
 seegyoban	{[scat n]} =control_panel=
 sentee		{[scat n:vn]} =selection=
+shanai		{[scat n]} =in_the_office=
+shokoo		{[scat n]} =first_proof= %初校
+shomee		{[scat n]} =book_title=
+shoten		{[scat n]} =book_store=
 tebikisho	{[scat n]} =manual= "tebiki_sho_LETTER"
+waga		{[scat n:deic:prs]} =my=
 
+anzenkijun	{[scat n][comp n+n]} =safety_standard= "anzen+kijun"
+kikisentee	{[scat n][comp n+n:vn]} =equipment_selection= "kiki+sentee"
+noonyuugyoosha	{[scat n][comp n:vn+n]} =supplier= "noonyuu+gyoosha=
 
+hoo		{[scat n:fml]} =one=

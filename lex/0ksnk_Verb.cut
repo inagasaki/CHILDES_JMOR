@@ -27,6 +27,7 @@ mawar	{[scat v:c]} =revolve=
 mawas	{[scat v:c]} =revolve=
 mi	{[scat v:v]} =see/look/watch=	%【見る】
 ne	{[scat v:v]} =sleep=
+oishiger	{[scat v:c]} =be_overgrown=
 sabak	{[scat v:c]} =deal_with/judge=  % =dissemble= というエントリーは（dissembleという意味はないように思われるので）削除してよいのではないか？
 sakeb	{[scat v:c]} =shout=
 sute	{[scat v:v]} =discard=	%【捨てる】(《棄てる)
@@ -36,7 +37,6 @@ ut	{[scat v:c]} =hit/shoot=	%【打つ】【撃つ】
 yak	{[scat v:c]} =bake/fry/roast=	%【焼く】***
 ondas	{[scat v:c]} =expel=
 onde	{[scat v:v]} =get_out=
-seraresoo	{[scat n:an]} =do= "se-PASS-soo_SEEMING"
 
 % 修正希望
 arienai	{[scat v:ir][tense pres]} =be= "ar-POT-NEG-PRES"
@@ -240,12 +240,13 @@ kaiasar	{[scat v:c][comp v:c+v:c]} =buy_look_for= "kaw+asar"
 kaiatsume	{[scat v:v][comp v:c+v:v]} =buy_gather= "kaw+atsume"
 kaiire	{[scat v:v][comp v:c+v:v]} =buy_in= "kaw+ire"
 kakehajime	{[scat v:v][comp v:v+v:v]} =run_start= "kake+hajime"
-kakemawar	{[scat v:c][comp v:v+v:c]} =run_revolve= "kake_mawar"
-kakezurimawar	{[scat v:c][comp v:c+v:c]} =run_revolve= "kakezur_mawar"
+kakemawar	{[scat v:c][comp v:v+v:c]} =run_revolve= "kake+mawar"
+kakezurimawar	{[scat v:c][comp v:c+v:c]} =run_revolve= "kakezur+mawar"
 kakihajime	{[scat v:v][comp v:c+v:v]} =write_start= "kak+hajime"
+kakioros	{[scat v:c][comp v:c+v:c]} =compose= "kak+oros"
 kakioe	{[scat v:v][comp v:c+v:v]} =finish_writing= "kak+oe"
 kakiowar	{[scat v:c][comp v:c+v:c]} =write_finish= "kak+owar"
-kaknokos	{[scat v:c][comp v:c+v:c]} =leave_text_unwritten= "kak+nokos"
+kakinokos	{[scat v:c][comp v:c+v:c]} =leave_text_unwritten= "kak+nokos"
 karehajime	{[scat v:v][comp v:v+v:v]} =wither_start= "kare+hajime"
 kawakimakur	{[scat v:c][comp v:c+v:c]} =dry_recur= "kawak+makur"
 kazoeowar	{[scat v:c][comp v:v+v:c]} =count_finish= "kazoe+owar"
@@ -254,7 +255,7 @@ kiriowar	{[scat v:c][comp v:c+v:c]} =cut_finish= "kir+owar"
 miage	{[scat v:v][comp v:v+v:v]} =look_up= "mi+age"
 mikir	{[scat v:c][comp v:v+v:c]} =watch_completely= "mi+kir"
 mikos	{[scat v:c][comp v:v+v:c]} =anticipate= "mi+kos"
-mimawar	{[scat v:c][comp v:v+v:c]} =look_revolve= "mi_mawar"
+mimawar	{[scat v:c][comp v:v+v:c]} =look_revolve= "mi+mawar"
 minare	{[scat v:v][comp v:c+v:v]} =be_familiar= "mi+nare"
 miowar	{[scat v:c][comp v:v+v:c]} =watch_finish= "mi+owar"
 mitetor	{[scat v:c][comp v:v+v:c]} =see_and_get= "mite+tor"
@@ -264,12 +265,12 @@ mukaiaw	{[scat v:c][comp v:c+v:c]} =face_each_other= "mukaw+aw"
 nakihajime	{[scat v:v][comp v:c+v:v]} =cry_start= "nak+hajime"
 namemakur	{[scat v:c][comp v:v+v:c]} =lick_recur= "name+makur"
 nariowar	{[scat v:c][comp v:c+v:c]} =ring_finish= "nar+owar"
-nigemawar	{[scat v:c][comp v:v+v:c]} =escape_revolve= "nige_mawar"
+nigemawar	{[scat v:c][comp v:v+v:c]} =escape_revolve= "nige+mawar"
 noborihajime	{[scat v:v][comp v:c+v:v]} =climb_start= "nobor+hajime"
 nomihajime	{[scat v:v][comp v:c+v:v]} =drink_start= "nom+hajime"
 nomiowar	{[scat v:c][comp v:c+v:c]} =drink_finish= "nom+owar"
 nordas	{[scat v:c][comp v:c+v:c]} =lean= "nor+das"
-notauchimawar	{[scat v:c][comp v:c+v:c]} =writhe_revolve= "notaut_mawar" %	のた打ち回る
+notauchimawar	{[scat v:c][comp v:c+v:c]} =writhe_revolve= "notaut+mawar" %	のた打ち回る
 nuriowar	{[scat v:c][comp v:c+v:c]} =paint_finish= "nur+owar"
 obieagar	{[scat v:c][comp v:v+v:c]} =be_scared_terribly= "obie+agar"
 obikidas	{[scat v:c][comp v:c+v:c]} =lure_out= "obik+das"
@@ -283,7 +284,7 @@ ochikom	{[scat v:c][comp v:v+v:c]} =fall_in= "ochi+kom"
 ochinobi	{[scat v:v][comp v:v+v:v]} =escape= "ochi+nobi"
 ochitsuk	{[scat v:c][comp v:v+v:c]} =settle= "ochi+tsuk"
 ochitsuke	{[scat v:v][comp v:v+v:v]} =quieten= "ochi+tsuke"
-ochitsukiharaw	{[scat v:c][comp v:c+v:c]} =keep_cool= "ochi_tsuk+haraw"
+ochitsukiharaw	{[scat v:c][comp v:c+v:c]} =keep_cool= "ochitsuk+haraw"
 odateage	{[scat v:v][comp v:v+v:v]} =jolly_up= "odate+age"
 odoriagar	{[scat v:c][comp v:c+v:c]} =spring_up= "odor+agar"
 odoride	{[scat v:v][comp v:c+v:v]} =spring_out= "odor+de"
@@ -310,9 +311,8 @@ oimawas	{[scat v:c][comp v:c+v:c]} =chase_about= "ow+mawas"
 oimotome	{[scat v:v][comp v:c+v:v]} =pursue= "ow+motome"
 oinuk	{[scat v:c][comp v:c+v:c]} =pass= "ow+nuk"
 oiotos	{[scat v:c][comp v:c+v:c]} =chase_drop= "ow+otos"
-oishiger	{[scat v:c][comp v:v+v:c]} =be_overgrown= "oi+shiger"
 oisugar	{[scat v:c][comp v:c+v:c]} =chase_bear_on= "ow+sugar"
-oitat	{[scat v:c][comp v:v+v:c]} =grow_stand= "oi+tat"
+oitat	{[scat v:c][comp v:v+v:c]} =grow_stand= "ow+tat"
 oitate	{[scat v:v][comp v:c+v:v]} =drive_out= "ow+tate"
 oitsuk	{[scat v:c][comp v:c+v:c]} =catch_up= "ow+tsuk"
 oitsume	{[scat v:v][comp v:c+v:v]} =corner= "ow+tsume"
@@ -337,7 +337,7 @@ omoiatar	{[scat v:c][comp v:c+v:c]} =think_hit_on= "omow+atar"
 omoiawase	{[scat v:v][comp v:c+v:v]} =think_combine= "omow+awase"
 omoichigae	{[scat v:v][comp v:c+v:v]} =think_be_wrong= "omow+chigae"
 omoidas	{[scat v:c][comp v:c+v:c]} =remember= "omow+das"
-omoiekak	{[scat v:c][comp v:c+v:c]} =think_draw= "omow+e_kak"	%"omowe_kak"
+omoiekak	{[scat v:c][comp v:c+v:c]} =think_draw= "omow+egak"
 omoiiitar	{[scat v:c][comp v:c+v:c]} =think_extend_to= "omoi+itar"
 omoiikogare	{[scat v:v][comp v:c+v:v]} =think_long= "omoi+kogare"
 omoikaes	{[scat v:c][comp v:c+v:c]} =think_give_back= "omow+kaes"
@@ -667,6 +667,7 @@ kasseeka	{[scat n:vn]} =vitalization= "kassee_ka_BECOMING" % 活性化
 katsuyoo	{[scat n:vn]} =utilize=
 keeee	{[scat n:vn]} =manage=
 kekkon	{[scat n:vn]} =marry=
+kenshoo	{[scat n:vn]} =seeing_one's_own_character_without_obstruction;=  % 見性
 kenzaika	{[scat n:vn]} =becoming apparent= "kenzai_ka_BECOMING" % 顕在化
 kika	{[scat n:vn]} =naturalization= "ki_ka_BECOMING" % 帰化
 kikaika	{[scat n:vn]} =mechanization= "kikai_ka_BECOMING" % 機械化
@@ -688,6 +689,7 @@ norinige	{[scat n:vn]} =ride_and_run_away= "nor_nige&GER"  % 乗り逃げ
 nyuugaku	{[scat n:vn]} =entrance_into_school= % 入学
 nyuusha	{[scat n:vn]} =	entering_company=
 omemoji	{[scat n:vn]} =view=
+rendoo	{[scat n:vn]} =interlocking= % 連動
 risooka	{[scat n:vn]} =idealization= "risoo_ka_BECOMING" % 理想化
 rooka	{[scat n:vn]} =aging= "roo_ka_BECOMING" % 老化
 ryokka	{[scat n:vn]} =tree_planting= "ryok_ka_BECOMING" % 緑化
@@ -735,7 +737,7 @@ zuihitsuka	{[scat n:vn]} =making_an_essay= "zuihitsu_ka_BECOMING" % 随筆化
 % 修正
 kashite	{[scat n][comp v:c+n]} =lender= "kas&GER+te" % "kasi&GER+te" でなく
 michibik	{[scat v:c]} =guide= "michibik"	%【導く】 % mich_hik から境界をとる
-tanabik	{[scat v:c]} =trail= "tanabik"	%【たなびく/棚引く】 % taba_hik から境界をとる
+tanabik	{[scat v:c]} =trail= "tanabik"	%【たなびく/棚引く】 % tana_hik から境界をとる
 eegaka	{[scat n:vn]} =making_a_movie= "eega_ka_BECOMING" % 映画化
 
 % by Hayashi 2019/1/30

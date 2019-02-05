@@ -511,17 +511,28 @@ shindansho {[scat n]} =medical_certificate= "shindan_sho_LETTER" % 診断書
 
 
 % suzuki
+anken	{[scat n]} =matter=
 baaya		{[scat n]} =nanny=
 bunsai		{[scat n]} =literary_talent=
+chakushu	{[scat n:vn]} =start=
+choosa		{[scat n:vn]} =examination= 
 dandori		{[scat n]} =plan=
-essee		{[scat n]} =essay=	
+essee		{[scat n]} =essay=
+gairoju		{[scat n]} =street_tree=
+gairyaku	{[scat n]} =outline=
+go		{[scat n]} =after= % 後
 hatchuu		{[scat n]} =order=
+hizashi		{[scat n]} =sun_rays=
+in'ee		{[scat n]} =shadow=
+jikkoo		{[scat n:vn]} =execution=
 koko		{[scat n]} =each=
 konekutaa	{[scat n]} =connector=
 koosee		{[scat n:vn]} =proofreading=
 kyakusaki	{[scat n]} =client=
 kyuuryoo	{[scat n]} =salary=
+manazashi	{[scat n]} =look=
 miryoo		{[scat n:vn]} =fascination=
+natsumoyoo	{[scat n]} =summer_weather=
 nazukeoya	{[scat n]} =godparent
 oriori		{[scat n]} =sometimes=
 saikoo		{[scat n]} =second_proof=
@@ -529,15 +540,33 @@ sakana		{[scat n]} =side_dish= %（酒の）肴
 sankoo		{[scat n]} =third_proof=
 seegyoban	{[scat n]} =control_panel=
 sentee		{[scat n:vn]} =selection=
+setsuritsu	{[scat n:vn]} =establishment=
+shamee		{[scat n]} =company_name=
 shanai		{[scat n]} =in_the_office=
+shingaisha	{[scat n]} =new_company=
 shokoo		{[scat n]} =first_proof= %初校
 shomee		{[scat n]} =book_title=
 shoten		{[scat n]} =book_store=
+shitsuryoo	{[scat n]} =mass=
+tachiage	{[scat n:vn]} =starting_up= 
 tebikisho	{[scat n]} =manual= "tebiki_sho_LETTER"
+toosho		{[scat n]} =at_first=
+tsuyu		{[scat n]} =rainy_season=
 waga		{[scat n:deic:prs]} =my=
 
+Fukuoka		{[scat n:prop]} =Fukuoka=
+
+
 anzenkijun	{[scat n][comp n+n]} =safety_standard= "anzen+kijun"
+daihyooshagyoomudaikoosha      {[scat n][comp n+n+n]} =business_agent_of_the_representative= "daihyoo_sha_PERSON+gyoomu+daikoo_sha_PERSON"
+kaishasaisee		       {[scat n][comp n+n:vn]} =regeneration_of_the_company= "kaisha+saisee"
 kikisentee	{[scat n][comp n+n:vn]} =equipment_selection= "kiki+sentee"
-noonyuugyoosha	{[scat n][comp n:vn+n]} =supplier= "noonyuu+gyoosha=
+Kyuushuuchihoo	{[scat n:prop][comp n:prop+n]} =the_Kyuusyuu_region= "Kyuushuu+chihoo"
+noonyuugyoosha	{[scat n][comp n:vn+n]} =supplier= "noonyuu+gyoosha"
+saikenkaishi	{[scat n][comp n:vn+n:vn]} =beginning_of_the_reconstruction= "saiken+kaishi"
+saiseesukiimu	{[scat n][comp n:vn+n]} =scheme_of_the_regeneration= "saisee+sukiimu"
+shachoodaikoo	{[scat n][comp n+n]} =acting_president= "shachoo+daikoo"
+untenshikin	{[scat n][comp n:vn+n]} =working_capital= "unten+shikin"
+yakuinkoosee	{[scat n][comp n+n]} =list_of_directors= "yakuin+koosee"
 
 hoo		{[scat n:fml]} =one=

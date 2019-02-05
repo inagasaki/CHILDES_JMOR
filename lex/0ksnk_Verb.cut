@@ -36,6 +36,14 @@ ut	{[scat v:c]} =hit/shoot=	%【打つ】【撃つ】
 yak	{[scat v:c]} =bake/fry/roast=	%【焼く】***
 ondas	{[scat v:c]} =expel=
 onde	{[scat v:v]} =get_out=
+seraresoo	{[scat n:an]} =do= "se-PASS-soo_SEEMING"
+
+% 修正希望
+arienai	{[scat v:ir][tense pres]} =be= "ar-POT-NEG-PRES"
+arienakatta	{[scat v:ir][tense past]} =be= "ar-POT-NEG-PAST"
+arieru	{[scat v:ir][tense pres]} =be= "ar-POT-PRES"
+ariuru	{[scat v:ir][tense pres]} =be= "ar-POT-PRES"
+
 
 % v+v
 % utsushitor --> v:c|utsus-ASP:or-PRES=reflect または　v:c|utsus-ASP:or-PRES=move の他に複合語が必要
@@ -695,6 +703,7 @@ setchi	{[scat n:vn]} =set_up=
 shidoo	{[scat n:vn]} =guide= % 指導
 shifuto	{[scat n:vn]} =shift=
 shimpai	{[scat n:vn]} =worry=	                %【心配】 sorrow でなく
+shimpo	{[scat n:vn]} =progres=
 shinkakuka	{[scat n:vn]} =deification= "shinkaku_ka_BECOMING" % 神格化
 shinkokuka	{[scat n:vn]} =becoming_more_serious= "shinkoku_ka_BECOMING"
 shiyoo	{[scat n:vn]} =use=

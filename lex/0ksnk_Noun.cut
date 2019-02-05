@@ -142,6 +142,7 @@ kagakusha	{[scat n]} =scientist= "kagaku_sha_PERSON" % 科学
 kaishagawa	{[scat n]} =company_side= "kaisha_gawa_SIDE"
 kaiyuukan	{[scat n]} =Osaka_aquarium= "kaiyuu_kan_BLDG" %大阪の海遊館
 kakaku	{[scat n]} =price=
+kako	{[scat n]} =past=
 kamigami	{[scat n]} =gods= % reduplication は compound にせずに一語扱いでいいのでは? hitobito, kigi,hibi なども同様
 kanji	{[scat n]} =kanji_character= % 単なる =character= でなく
 kankeesha	{[scat n]} =person_concerned= "kankee_sha_PERSON" % 関係者
@@ -151,6 +152,7 @@ kankoochi	{[scat n]} =tourist_spot= "kankoo_chi_PLACE"
 kankookyaku	{[scat n]} =tourist= "kankoo_kyaku_GUEST"
 kankyaku	{[scat n]} =audience= "kan_kyaku_GUEST"
 kanojo	{[scat n]} =girl_friend=
+kanosee	{[scat n]} =likelihood= "kanoo_see_NATURE"
 kanriryoo	{[scat n]} =administration_cost=
 karaoke	{[scat n]} =karaoke= % カラオケ
 kare	{[scat n]} =boy_friend=
@@ -184,6 +186,7 @@ koominkan	{[scat n]} =public_hall= "koomin_kan_BLDG" % 公民館
 koopasu	{[scat n]} =linguistic_corpus=
 kooreesha	{[scat n]} =elderly_person= "kooree_sha_PERSON" % 高齢者
 koosha	{[scat n]} =the_latter=
+koosoku	{[scat n]} =school_rules=
 kooza	{[scat n]} =account= % 口座
 kopiiki	{[scat n]} =copier= "kopii_ki_MACHINE" % コピー機
 koshoosha	{[scat n]} =car_broken_down= "koshoo_sha_VEHICLE" %【故障】
@@ -246,6 +249,7 @@ seejika	{[scat n]} =politician= "seeji_ka_PERSON"
 seejimen	{[scat n]} =political_matters= "seeji_men_SIDE"
 seemee	{[scat n]} =life= % 生命
 seesansha	{[scat n]} =manufacturer= "seesan_sha_PERSON" % 生産者
+seeseki	{[scat n]} =result= % 成績
 seeshin	{[scat n]} =mind= % 精神
 seesoosha	{[scat n]} =garbage_truck= "seesoo_sha_VEHICLE"
 seken	{[scat n]} =society=
@@ -359,6 +363,7 @@ yuukensha	{[scat n]} =elector= "yuuken_sha_PERSON" % 有権者
 yuushoosha	{[scat n]} =champion= "yuushoo_sha_PERSON" % 優勝者
 zaisan	{[scat n]} =property=
 zensha	{[scat n]} =the_former=
+hoogen	{[scat n]} =dialect=
 
 _jin, _go --> n:prop でなく n
 amerikajin	{[scat n]} =American_person= "amerika_jin"
@@ -501,7 +506,7 @@ nikuya	{[scat n]} =butcher_shop= "niku_ya_SHOP" %肉屋
 hanaya	{[scat n]} =flower_shop= "hana_ya_SHOP" %花屋
 omochaya	{[scat n]} =toy_store= "omocha_ya_SHOP" %おもちゃ屋
 hare	{[scat n]} =sunny= % 晴れ
-hijoo	{[scat n]} =state_of_emergency= % 非常（の際には） このグロスで n:an の登録があるが、形容動詞の用法に対するグロスは extreem の方が適切と考えられる。
+hijoo	{[scat n]} =state_of_emergency= % 非常（の際には） このグロスで n:an の登録があるが、形容動詞の用法に対するグロスは extreme の方が適切と考えられる。
 
 iimeeru	{[scat n]} =email= % eメール
 Rondon	{[scat n:prop]} =London=

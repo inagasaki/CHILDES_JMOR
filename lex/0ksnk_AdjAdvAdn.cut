@@ -6,6 +6,7 @@ hoshi	{[scat adj]} =desire=
 yo	{[scat adj]} =good= % 「よい」と「いい」を分ける
 
 % adjn
+korishoo	{[scat n:an]} =perfectionist= % 凝り性
 akeppanashi	{[scat n:an][comp v:v+v:c]} =of_an_open_nature= "ake+hanashi" % 明けっぱなし
 akeppanashi	{[scat n:an][comp v:v+v:c]} =open_for_a_long_time= "ake+hanashi" % 開けっ放し
 an'i	{[scat n:an]} =easy=

@@ -125,6 +125,7 @@ seeshinteki	{[scat n:an]} =mental= "seeshin_teki_LIKE"
 sekaiteki	{[scat n:an]} =global= "sekai_teki_LIKE"
 sekkyokuteki	{[scat n:an]} =active= "sekkyoku_teki_LIKE"
 sensai	{[scat n:an]} =delicate=
+seraresoo {[scat n:an]} =do= "se-PASS-soo_SEEMING"
 shajitsuteki	{[scat n:an]}  =naturalistic=  "shajitsu_teki_LIKE" % 写実的
 shikakuteki	{[scat n:an]}  =visual=  "shikaku_teki_LIKE" % 視覚的
 shimpai	{[scat n:an]} =anxious=

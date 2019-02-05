@@ -744,4 +744,10 @@ eegaka	{[scat n:vn]} =making_a_movie= "eega_ka_BECOMING" % 映画化
 kake {[scat v:v]} =hang= % 帽子をハンガーに_掛ける_
 
 % suzuki
+ake	{[scat v:v]} =be_over= % 明ける
+hokusoem       {[scat v:c]} =chuckle=      
+mukaw	{[scat v:c]} =go=
 
+dekiagar       {[scat v:c][comp v:v+v:c]} =be_completed= "deki+agar"
+furisosog      {[scat v:c][comp v:c+v:c]} =shower_down= "fur+sosog"
+hikiuke	       {[scat v:v][comp v:c+v:v]} =take_over= "hik+uke"

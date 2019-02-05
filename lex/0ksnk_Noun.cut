@@ -195,6 +195,7 @@ kaishagawa	{[scat n]} =company_side= "kaisha_gawa_SIDE"
 kaiyoosee	{[scat n]} =marine= "kaiyoo_see_NATURE" % 海洋性
 kaiyuukan	{[scat n]} =Osaka_aquarium= "kaiyuu_kan_BLDG" %大阪の海遊館
 kakaku	{[scat n]} =price=
+kako	{[scat n]} =past=
 kamigami	{[scat n]} =gods= % reduplication は compound にせずに一語扱いでいいのでは? hitobito, kigi,hibi なども同様
 kanji	{[scat n]} =kanji_character= % 単なる =character= でなく
 kanjusee	{[scat n]} =sensitivity= "kanjusee" % 感受性
@@ -472,6 +473,7 @@ yuushoosha	{[scat n]} =champion= "yuushoo_sha_PERSON" % 優勝者
 yuuyoosee	{[scat n]} =usefulness= "yuuyoo_see_NATURE" % 有用性
 zaisan	{[scat n]} =property=
 zensha	{[scat n]} =the_former=
+hoogen	{[scat n]} =dialect=
 
 _jin, _go --> n:prop でなく n
 amerikajin	{[scat n]} =American_person= "amerika_jin"
@@ -614,7 +616,7 @@ nikuya	{[scat n]} =butcher_shop= "niku_ya_SHOP" %肉屋
 hanaya	{[scat n]} =flower_shop= "hana_ya_SHOP" %花屋
 omochaya	{[scat n]} =toy_store= "omocha_ya_SHOP" %おもちゃ屋
 hare	{[scat n]} =sunny= % 晴れ
-hijoo	{[scat n]} =state_of_emergency= % 非常（の際には） このグロスで n:an の登録があるが、形容動詞の用法に対するグロスは extreem の方が適切と考えられる。
+hijoo	{[scat n]} =state_of_emergency= % 非常（の際には） このグロスで n:an の登録があるが、形容動詞の用法に対するグロスは extreme の方が適切と考えられる。
 
 iimeeru	{[scat n]} =email= % eメール
 Rondon	{[scat n:prop]} =London=
@@ -624,17 +626,28 @@ shindansho {[scat n]} =medical_certificate= "shindan_sho_LETTER" % 診断書
 
 
 % suzuki
+anken	{[scat n]} =matter=
 baaya		{[scat n]} =nanny=
 bunsai		{[scat n]} =literary_talent=
+chakushu	{[scat n:vn]} =start=
+choosa		{[scat n:vn]} =examination= 
 dandori		{[scat n]} =plan=
-essee		{[scat n]} =essay=	
+essee		{[scat n]} =essay=
+gairoju		{[scat n]} =street_tree=
+gairyaku	{[scat n]} =outline=
+go		{[scat n]} =after= % 後
 hatchuu		{[scat n]} =order=
+hizashi		{[scat n]} =sun_rays=
+in'ee		{[scat n]} =shadow=
+jikkoo		{[scat n:vn]} =execution=
 koko		{[scat n]} =each=
 konekutaa	{[scat n]} =connector=
 koosee		{[scat n:vn]} =proofreading=
 kyakusaki	{[scat n]} =client=
 kyuuryoo	{[scat n]} =salary=
+manazashi	{[scat n]} =look=
 miryoo		{[scat n:vn]} =fascination=
+natsumoyoo	{[scat n]} =summer_weather=
 nazukeoya	{[scat n]} =godparent
 oriori		{[scat n]} =sometimes=
 saikoo		{[scat n]} =second_proof=
@@ -642,15 +655,32 @@ sakana		{[scat n]} =side_dish= %（酒の）肴
 sankoo		{[scat n]} =third_proof=
 seegyoban	{[scat n]} =control_panel=
 sentee		{[scat n:vn]} =selection=
+setsuritsu	{[scat n:vn]} =establishment=
+shamee		{[scat n]} =company_name=
 shanai		{[scat n]} =in_the_office=
+shingaisha	{[scat n]} =new_company=
 shokoo		{[scat n]} =first_proof= %初校
 shomee		{[scat n]} =book_title=
 shoten		{[scat n]} =book_store=
+shitsuryoo	{[scat n]} =mass=
+tachiage	{[scat n:vn]} =starting_up= 
 tebikisho	{[scat n]} =manual= "tebiki_sho_LETTER"
+toosho		{[scat n]} =at_first=
+tsuyu		{[scat n]} =rainy_season=
 waga		{[scat n:deic:prs]} =my=
 
+Fukuoka		{[scat n:prop]} =Fukuoka=
 anzenkijun	{[scat n][comp n:an+n]} =safety_standard= "anzen+kijun"
+daihyooshagyoomudaikoosha      {[scat n][comp n+n+n]} =business_agent_of_the_representative= "daihyoo_sha_PERSON+gyoomu+daikoo_sha_PERSON"
+kaishasaisee		       {[scat n][comp n+n:vn]} =regeneration_of_the_company= "kaisha+saisee"
+
 kikisentee	{[scat n][comp n+n:vn]} =equipment_selection= "kiki+sentee"
-noonyuugyoosha	{[scat n][comp n:vn+n]} =supplier= "noonyuu+gyoosha=
+Kyuushuuchihoo	{[scat n:prop][comp n:prop+n]} =the_Kyuusyuu_region= "Kyuushuu+chihoo"
+noonyuugyoosha	{[scat n][comp n:vn+n]} =supplier= "noonyuu+gyoosha"
+saikenkaishi	{[scat n][comp n:vn+n:vn]} =beginning_of_the_reconstruction= "saiken+kaishi"
+saiseesukiimu	{[scat n][comp n:vn+n]} =scheme_of_the_regeneration= "saisee+sukiimu"
+shachoodaikoo	{[scat n][comp n+n]} =acting_president= "shachoo+daikoo"
+untenshikin	{[scat n][comp n:vn+n]} =working_capital= "unten+shikin"
+yakuinkoosee	{[scat n][comp n+n]} =list_of_directors= "yakuin+koosee"
 
 hoo		{[scat n:fml]} =one=

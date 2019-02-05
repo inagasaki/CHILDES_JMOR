@@ -142,6 +142,7 @@ kagakusha	{[scat n]} =scientist= "kagaku_sha_PERSON" % 科学
 kaishagawa	{[scat n]} =company_side= "kaisha_gawa_SIDE"
 kaiyuukan	{[scat n]} =Osaka_aquarium= "kaiyuu_kan_BLDG" %大阪の海遊館
 kakaku	{[scat n]} =price=
+kako	{[scat n]} =past=
 kamigami	{[scat n]} =gods= % reduplication は compound にせずに一語扱いでいいのでは? hitobito, kigi,hibi なども同様
 kanji	{[scat n]} =kanji_character= % 単なる =character= でなく
 kankeesha	{[scat n]} =person_concerned= "kankee_sha_PERSON" % 関係者
@@ -359,6 +360,7 @@ yuukensha	{[scat n]} =elector= "yuuken_sha_PERSON" % 有権者
 yuushoosha	{[scat n]} =champion= "yuushoo_sha_PERSON" % 優勝者
 zaisan	{[scat n]} =property=
 zensha	{[scat n]} =the_former=
+hoogen	{[scat n]} =dialect=
 
 _jin, _go --> n:prop でなく n
 amerikajin	{[scat n]} =American_person= "amerika_jin"
@@ -501,7 +503,7 @@ nikuya	{[scat n]} =butcher_shop= "niku_ya_SHOP" %肉屋
 hanaya	{[scat n]} =flower_shop= "hana_ya_SHOP" %花屋
 omochaya	{[scat n]} =toy_store= "omocha_ya_SHOP" %おもちゃ屋
 hare	{[scat n]} =sunny= % 晴れ
-hijoo	{[scat n]} =state_of_emergency= % 非常（の際には） このグロスで n:an の登録があるが、形容動詞の用法に対するグロスは extreem の方が適切と考えられる。
+hijoo	{[scat n]} =state_of_emergency= % 非常（の際には） このグロスで n:an の登録があるが、形容動詞の用法に対するグロスは extreme の方が適切と考えられる。
 
 iimeeru	{[scat n]} =email= % eメール
 Rondon	{[scat n:prop]} =London=

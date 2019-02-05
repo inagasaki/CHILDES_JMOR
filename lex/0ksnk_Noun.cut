@@ -517,58 +517,87 @@ shindansho {[scat n]} =medical_certificate= "shindan_sho_LETTER" % 診断書
 
 % suzuki
 anken	{[scat n]} =matter=
+ate	{[scat n]} =expectation=
 baaya		{[scat n]} =nanny=
+baburu		{[scat n]} =bubble_economy=
 bunsai		{[scat n]} =literary_talent=
+buntan		{[scat n:vn]} =assignation= 
 chakushu	{[scat n:vn]} =start=
 choosa		{[scat n:vn]} =examination= 
 dandori		{[scat n]} =plan=
 essee		{[scat n]} =essay=
 gairoju		{[scat n]} =street_tree=
 gairyaku	{[scat n]} =outline=
-go		{[scat n]} =after= % 後
+gaku		{]scat n]} =amount_of_money=
+genkoo		{[scat n]} =draft=
+go		{[scat n]} =after= %後
 hatchuu		{[scat n]} =order=
+henshuu		{[scat n:vn]} =edit=
 hizashi		{[scat n]} =sun_rays=
+hoken		{[scat n]} =insurance=
+hokenkin	{[scat n]} =insurance_money=
 in'ee		{[scat n]} =shadow=
+ippashi		{[scat n]} =competent_enough=
 jikkoo		{[scat n:vn]} =execution=
+jihishuppan	{[scat n]} =self_publishing= "jihi_shuppan"
+kaigairyokoo	{[scat n]} =overseas_trip= "kaigai_ryokoo"
+kazokushuppan	{[scat n]} =family_publishing= "kazoku_shuppan"
+kitsujitsu	{[scat n]} =lucky_day=
+kingaku		{[scat n]} =amount_of_money=
 koko		{[scat n]} =each=
 konekutaa	{[scat n]} =connector=
 koosee		{[scat n:vn]} =proofreading=
+kugiri		{[scat n]} =divide_off=
 kyakusaki	{[scat n]} =client=
 kyuuryoo	{[scat n]} =salary=
 manazashi	{[scat n]} =look=
+machi		{[scat n:vn]} =waiting= %待ち
+manki		{[scat n]} =expiration=
 miryoo		{[scat n:vn]} =fascination=
 natsumoyoo	{[scat n]} =summer_weather=
 nazukeoya	{[scat n]} =godparent
+ooentai		{[scat n]} =supporters=
 oriori		{[scat n]} =sometimes=
-saikoo		{[scat n]} =second_proof=
+ritsu		{[scat n]} =rate=
+saikoo		{[scat n]} =second_proof= %再校
 sakana		{[scat n]} =side_dish= %（酒の）肴
-sankoo		{[scat n]} =third_proof=
+sankoo		{[scat n]} =third_proof= %三校
 seegyoban	{[scat n]} =control_panel=
 sentee		{[scat n:vn]} =selection=
 setsuritsu	{[scat n:vn]} =establishment=
 shamee		{[scat n]} =company_name=
 shanai		{[scat n]} =in_the_office=
+shashinka	{[scat n]} =photographer=
 shingaisha	{[scat n]} =new_company=
 shokoo		{[scat n]} =first_proof= %初校
 shomee		{[scat n]} =book_title=
 shoten		{[scat n]} =book_store=
+shuppangaisha	{[scat n]} =publisher= "shuppan_gaisha"
+shuppansha	{[scat n]} =publisher=
 shitsuryoo	{[scat n]} =mass=
-tachiage	{[scat n:vn]} =starting_up= 
+tachiage	{[scat n:vn]} =starting_up=
+taihensa	{[scat n]} =difficulty=
+taisetsusa	{[scat n]} =importance=
 tebikisho	{[scat n]} =manual= "tebiki_sho_LETTER"
+teekiyokin	{[scat n]} =term_deposit= "teeki_yokin"
+teenen		{[scat n]} =retirement=
 toosho		{[scat n]} =at_first=
 tsuyu		{[scat n]} =rainy_season=
 waga		{[scat n:deic:prs]} =my=
+yooroohoken	{[scat n]} =old_age_insurance= "yooroo_hoken"
+zerokinri	{[scat n]} =zero_interest_rate= "zero_kinri"
 
 Fukuoka		{[scat n:prop]} =Fukuoka=
-
+Heesee		{[scat n:prop]} =Heesee_era=
 
 anzenkijun	{[scat n][comp n+n]} =safety_standard= "anzen+kijun"
+bunshooboshuu	{[scat n:vn][comp n+n:vn]} =call_for_papers= "bunshoo+boshuu"
 daihyooshagyoomudaikoosha      {[scat n][comp n+n+n]} =business_agent_of_the_representative= "daihyoo_sha_PERSON+gyoomu+daikoo_sha_PERSON"
-kaishasaisee		       {[scat n][comp n+n:vn]} =regeneration_of_the_company= "kaisha+saisee"
-kikisentee	{[scat n][comp n+n:vn]} =equipment_selection= "kiki+sentee"
+kaishasaisee		       {[scat n:vn][comp n+n:vn]} =regeneration_of_the_company= "kaisha+saisee"
+kikisentee	{[scat n:vn][comp n+n:vn]} =equipment_selection= "kiki+sentee"
 Kyuushuuchihoo	{[scat n:prop][comp n:prop+n]} =the_Kyuusyuu_region= "Kyuushuu+chihoo"
 noonyuugyoosha	{[scat n][comp n:vn+n]} =supplier= "noonyuu+gyoosha"
-saikenkaishi	{[scat n][comp n:vn+n:vn]} =beginning_of_the_reconstruction= "saiken+kaishi"
+saikenkaishi	{[scat n:vn][comp n:vn+n:vn]} =beginning_of_the_reconstruction= "saiken+kaishi"
 saiseesukiimu	{[scat n][comp n:vn+n]} =scheme_of_the_regeneration= "saisee+sukiimu"
 shachoodaikoo	{[scat n][comp n+n]} =acting_president= "shachoo+daikoo"
 untenshikin	{[scat n][comp n:vn+n]} =working_capital= "unten+shikin"

@@ -82,3 +82,5 @@ yoo	{[scat vtense] [tense inf] [allo OR vV vBKo vTSi]} "DELB/HORT/INFR"
 yo	{[scat vtense] [tense inf] [allo OR vV vBKo vTSi]} "DELB/HORT/INFR"
 oo	{[scat vtense] [tense inf] [allo OR vC vRw]} "DELB/HORT/INFR"
 
+% suzuki
+shitemiruto	{[scat conj]} =if_so=

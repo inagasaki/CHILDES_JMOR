@@ -3,6 +3,7 @@ arigata	{[scat adj]} =be_appreciated=
 arigatoo	{[scat adj][tense inf]} =be_appreciated= "arigata&ADV"
 ichijirushi	{[scat adj]} =remarkable=
 hoshi	{[scat adj]} =desire=
+yo	{[scat adj]} =good= % 「よい」と「いい」を分ける
 
 % adjn
 akeppanashi	{[scat n:an][comp v:v+v:c]} =of_an_open_nature= "ake+hanashi" % 明けっぱなし
@@ -87,6 +88,7 @@ kiraku	{[scat n:an]} =carefree=
 kisoteki	{[scat n]} =basic= "kiso_teki_LIKE" % 基礎的
 kojinteki	{[scat n:an]} =personal= "kojin_teki_LIKE"
 kokusaiteki	{[scat n:an]} =international= "kokusai_teki_LIKE"
+komaka	{[scat n:an]} =detailed=
 komponteki	{[scat n:an]} =essential= "kompon_teki_LIKE"
 koofuku	{[scat n:an]} =happy=
 kookateki	{[scat n:an]} =effective= "kooka_teki_LIKE"
@@ -240,6 +242,7 @@ osokarehayakare	{[scat adv]} =sooner_or_later=
 osokutomo	{[scat adv]} =at_the_latest=
 potsunto	{[scat adv:onoma]} =solitarily=
 rakuraku	{[scat adv]} =easily=
+reenogotoku	{[scat adv]} =as_usual=
 rokuni	{[scat adv]} =not_properly=
 samo	{[scat adv]} =just=
 sanzan	{[scat adv]} =severely=

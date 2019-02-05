@@ -33,6 +33,8 @@ korera	{[scat n:deic:dem]} =this= "kore-ra_PL"
 
 % conj
 chinamini	{[scat conj]} =by_the_way=
+datosuruto	{[scat conj]} =assuming_that=
+desuga	{[scat conj]} =but=
 ga	{[scat conj]} =but=
 ippoo	{[scat conj]} =on_the_other_hand=
 ja	{[scat conj]} =then=

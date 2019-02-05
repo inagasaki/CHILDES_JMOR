@@ -151,6 +151,7 @@ kankoochi	{[scat n]} =tourist_spot= "kankoo_chi_PLACE"
 kankookyaku	{[scat n]} =tourist= "kankoo_kyaku_GUEST"
 kankyaku	{[scat n]} =audience= "kan_kyaku_GUEST"
 kanojo	{[scat n]} =girl_friend=
+kanosee	{[scat n]} =likelihood= "kanoo_see_NATURE"
 kanriryoo	{[scat n]} =administration_cost=
 karaoke	{[scat n]} =karaoke= % カラオケ
 kare	{[scat n]} =boy_friend=
@@ -184,6 +185,7 @@ koominkan	{[scat n]} =public_hall= "koomin_kan_BLDG" % 公民館
 koopasu	{[scat n]} =linguistic_corpus=
 kooreesha	{[scat n]} =elderly_person= "kooree_sha_PERSON" % 高齢者
 koosha	{[scat n]} =the_latter=
+koosoku	{[scat n]} =school_rules=
 kooza	{[scat n]} =account= % 口座
 kopiiki	{[scat n]} =copier= "kopii_ki_MACHINE" % コピー機
 koshoosha	{[scat n]} =car_broken_down= "koshoo_sha_VEHICLE" %【故障】
@@ -246,6 +248,7 @@ seejika	{[scat n]} =politician= "seeji_ka_PERSON"
 seejimen	{[scat n]} =political_matters= "seeji_men_SIDE"
 seemee	{[scat n]} =life= % 生命
 seesansha	{[scat n]} =manufacturer= "seesan_sha_PERSON" % 生産者
+seeseki	{[scat n]} =result= % 成績
 seeshin	{[scat n]} =mind= % 精神
 seesoosha	{[scat n]} =garbage_truck= "seesoo_sha_VEHICLE"
 seken	{[scat n]} =society=

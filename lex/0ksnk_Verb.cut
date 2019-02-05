@@ -37,6 +37,7 @@ ut	{[scat v:c]} =hit/shoot=	%【打つ】【撃つ】
 yak	{[scat v:c]} =bake/fry/roast=	%【焼く】***
 ondas	{[scat v:c]} =expel=
 onde	{[scat v:v]} =get_out=
+shikir	{[scat v:c]} =manage=
 
 % 修正希望
 arienai	{[scat v:ir][tense pres]} =be= "ar-POT-NEG-PRES"

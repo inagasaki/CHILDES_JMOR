@@ -36,6 +36,7 @@ ut	{[scat v:c]} =hit/shoot=	%【打つ】【撃つ】
 yak	{[scat v:c]} =bake/fry/roast=	%【焼く】***
 ondas	{[scat v:c]} =expel=
 onde	{[scat v:v]} =get_out=
+shikir	{[scat v:c]} =manage=
 
 % v+v
 % utsushitor --> v:c|utsus-ASP:or-PRES=reflect または　v:c|utsus-ASP:or-PRES=move の他に複合語が必要

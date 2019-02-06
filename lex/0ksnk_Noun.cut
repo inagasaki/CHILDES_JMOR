@@ -697,23 +697,15 @@ waga		{[scat n:deic:prs]} =my=
 yooroohoken	{[scat n]} =old_age_insurance= "yooroo_hoken"
 zerokinri	{[scat n]} =zero_interest_rate= "zero_kinri"
 
-Fukuoka		{[scat n:prop]} =Fukuoka=
-<<<<<<< HEAD
-Heesee		{[scat n:prop]} =Heesee_era=
 
-anzenkijun	{[scat n][comp n+n]} =safety_standard= "anzen+kijun"
+Fukuoka		{[scat n:prop]} =Fukuoka=
+Heesee		{[scat n:prop]} =Heesee_era=
+Kyuushuuchihoo	{[scat n:prop][comp n:prop+n]} =the_Kyuusyuu_region= "Kyuushuu+chihoo"
+anzenkijun	{[scat n][comp n:an+n]} =safety_standard= "anzen+kijun"
 bunshooboshuu	{[scat n:vn][comp n+n:vn]} =call_for_papers= "bunshoo+boshuu"
 daihyooshagyoomudaikoosha      {[scat n][comp n+n+n]} =business_agent_of_the_representative= "daihyoo_sha_PERSON+gyoomu+daikoo_sha_PERSON"
 kaishasaisee		       {[scat n:vn][comp n+n:vn]} =regeneration_of_the_company= "kaisha+saisee"
 kikisentee	{[scat n:vn][comp n+n:vn]} =equipment_selection= "kiki+sentee"
-=======
-anzenkijun	{[scat n][comp n:an+n]} =safety_standard= "anzen+kijun"
-daihyooshagyoomudaikoosha      {[scat n][comp n+n+n]} =business_agent_of_the_representative= "daihyoo_sha_PERSON+gyoomu+daikoo_sha_PERSON"
-kaishasaisee		       {[scat n][comp n+n:vn]} =regeneration_of_the_company= "kaisha+saisee"
-
-kikisentee	{[scat n][comp n+n:vn]} =equipment_selection= "kiki+sentee"
->>>>>>> bcf448c81eb15cbefcd39c3593a391414ab98123
-Kyuushuuchihoo	{[scat n:prop][comp n:prop+n]} =the_Kyuusyuu_region= "Kyuushuu+chihoo"
 noonyuugyoosha	{[scat n][comp n:vn+n]} =supplier= "noonyuu+gyoosha"
 saikenkaishi	{[scat n:vn][comp n:vn+n:vn]} =beginning_of_the_reconstruction= "saiken+kaishi"
 saiseesukiimu	{[scat n][comp n:vn+n]} =scheme_of_the_regeneration= "saisee+sukiimu"

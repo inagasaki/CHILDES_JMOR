@@ -6,7 +6,6 @@ hoshi	{[scat adj]} =desire=
 yo	{[scat adj]} =good= % 「よい」と「いい」を分ける
 
 % adjn
-korishoo	{[scat n:an]} =perfectionist= % 凝り性
 akeppanashi	{[scat n:an][comp v:v+v:c]} =of_an_open_nature= "ake+hanashi" % 明けっぱなし
 akeppanashi	{[scat n:an][comp v:v+v:c]} =open_for_a_long_time= "ake+hanashi" % 開けっ放し
 an'i	{[scat n:an]} =easy=
@@ -54,6 +53,7 @@ honnooteki	{[scat n:an]}  =instinctive=  "honnoo_teki_LIKE" % 本能的
 honshitsuteki	{[scat n:an]} =essential= "honshitsu_teki_LIKE"
 hontoo	{[scat n:an]} =real=
 hooteki	{[scat n:an]}  =legal=  "hoo_teki_LIKE" % 法的
+hyoojunteki	{[scat n:an]} =standard= "hyoojun_teki_LIKE"
 ichijiteki	{[scat n:an]}  =temporary=  "ichiji_teki_LIKE" % 一時的
 ippanteki	{[scat n:an]} =general= "ippan_teki_LIKE"
 ippooteki	{[scat n:an]}  =one_sided=  "ippoo_teki_LIKE" % 一方的
@@ -95,9 +95,11 @@ koofuku	{[scat n:an]} =happy=
 kookateki	{[scat n:an]} =effective= "kooka_teki_LIKE"
 kooritsuteki	{[scat n:an]} =efficient= "kooritsu_teki_LIKE"
 kooteeteki	{[scat n:an]}  =affirmative=  "kootee_teki_LIKE" % 肯定的
+korishoo	{[scat n:an]} =perfectionist= % 凝り性
 kyooretsu	{[scat n:an]} =intense=
 maemiki	{[scat n:an]} =positive=
 maji	{[scat n:an]} =serious=
+makkuro	{[scat n:an]} =pitch_black=
 massugu	{[scat n:an]} =straight=
 meehaku	{[scat n:an]} =clear=
 metta	{[scat n:an]}  =rash=  % 滅多
@@ -217,6 +219,7 @@ kesshite	{[scat adv]} =at_all=	% not_necessarily でなく（これ自体には�
 kippari	{[scat adv:onoma]} =diffinitely=
 kiwamete	{[scat adv]} =extremely=
 kotoni	{[scat adv]} =especially=
+kuchiguchini   {[scat adv]} =severally=
 kunekune	{[scat adv:onoma]} =tortuous=
 kyuukyo	{[scat adv]} =in_haste=
 marude	{[scat adv]} =just=

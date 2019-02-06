@@ -12,7 +12,7 @@ chikazuk	{[scat v:c]} =approach=	%【近づく】(近付く)
 das	{[scat v:c]} =send/submit=
 dekake	{[scat v:v]} =go_out=
 deki	{[scat v:v]} =be_made=
-demawar	{[scat v:c]} "demawar" =appear_abundantly= %	出回る		
+demawar	{[scat v:c]} "demawar" =appear_abundantly= %	出回る
 furumaw	{[scat v:c]} =distribute=
 hakar	{[scat v:c]} =plan=
 hanas	{[scat v:c]} =speak=
@@ -95,7 +95,7 @@ aritsuk	{[scat v:v][comp v:ir+v:c]} =be_attach= "ar+tsuk"
 arukimawar	{[scat v:c][comp v:c+v:c]} =walk_revolve= "aruk_mawar" %% lex. compound
 asobikuras	{[scat v:c][comp v:c+v]} =idle_away= "asob+kuras"
 asobimawar	{[scat v:c][comp v:c+v:c]} =play_around= "asob_mawar"
-asobiowar	{[scat v:c][comp v:c+v:c]} =play_finish= "asob+owar"		
+asobiowar	{[scat v:c][comp v:c+v:c]} =play_finish= "asob+owar"
 asobitawamure	{[scat v:v][comp v:c+v:v]} =frolic= "asob+tawamure"
 asobitsukare	{[scat v:v][comp v:c+v:v]} =play_oneself_tired= "asob+tsukare"
 atarichiras	{[scat v:c][comp v:c+v:c]} =vent= "atar+chiras"
@@ -456,14 +456,14 @@ shimakur	{[scat v:c:sub][comp v:ir+v:c]} =do_recur= "su+makur"
 shimakur	{[scat v:c][comp v:ir+v:c]} =do_recur= "su+makur"
 shimekir	{[scat v:c][comp v:v+v:c]} =close_up_completely= "shime+kir"
 shinokos	{[scat v:c][comp v:ir+v:c]} =leave_undone= "su+nokos"
-shioe	{[scat v:v:sub][comp v:ir+v:v]} =do_finish= "su+oe"	
+shioe	{[scat v:v:sub][comp v:ir+v:v]} =do_finish= "su+oe"
 shioe	{[scat v:v][comp v:ir+v:v]} =do_finish= "su+oe"
 shiowar	{[scat v:c:sub][comp v:ir+v:c]} =do_finish= "su+owar"
 shiowar	{[scat v:c][comp v:ir+v:c]} =do_finish= "su+owar"
 suminare	{[scat v:v][comp v:c+v:v]} =get_used_to_living_in= "sum+nare"
 tabehajime	{[scat v:v][comp v:v+v:v]} =eat_start= "tabe+hajime"
 tabeowar	{[scat v:c][comp v:v+v:c]} =eat_finish= "tabe+owar"
-tachimawar	{[scat v:c][comp v:c+v:c]} =walk_revolve= "tat_mawar" %	立ち回る		
+tachimawar	{[scat v:c][comp v:c+v:c]} =walk_revolve= "tat_mawar" %	立ち回る
 takasugi	{[scat v:v][comp adj+v:v]} =high_too_much= "taka+sugi"
 terashiage	{[scat v:v][comp v:c+v:v]} =shine_scorchingly= "teras+age"
 tobidashihajime	{[scat v:v][comp v:c+v:c+v:v]} =fly_go_out_start= "tob+das+hajime"
@@ -606,7 +606,7 @@ yurashihajime	{[scat v:v][comp v:c+v:v]} =shake_start= "yur&CAUS+hajime"
 yusurihajime	{[scat v:v][comp v:c+v:v]} =shake_start= "yusur+hajime"
 
 % vn
-atenige	{[scat n:vn]} =hit_and_run_away= "ate_nige&GER"	% 当て逃げ
+atenige	{[scat n:vn]} =hit_and_run_away= "ate_nige"	% 当て逃げ
 bika	{[scat n:vn]} =beautification= "bi_ka_BECOMING" % 美化
 bunka	{[scat n:vn]} =differentiation= "bun_ka_BECOMING" % 分化
 chinseeka	{[scat n:vn]} =calming_down= "chinsee_ka_BECOMING" % 鎮静化
@@ -630,7 +630,7 @@ happyoo	{[scat n:vn]} =give_presentation=
 hatten	{[scat n:vn]} =develop=
 hen'yoo	{[scat n:vn]} =change=
 henkaku	{[scat n:vn]} =change=
-hikinige	{[scat n:vn]} =hit_and_run_away= "hik_nige&GER"	%【ひき逃げ】(〈轢き逃げ)
+hikinige	{[scat n:vn]} =hit_and_run_away= "hik_nige"	%【ひき逃げ】(〈轢き逃げ)
 honkakuka	{[scat n:vn]} =proceeding_at_full_tilt= "honkaku_ka_BECOMING" % 本格化
 hookoku	{[scat n:vn]} =report=
 hyoogen	{[scat n:vn]} =express=
@@ -680,13 +680,13 @@ koodoka	{[scat n:vn]} =advancement= "koodo_ka_BECOMING" % 高度化
 koodoo	{[scat n:vn]} =behave=
 kooka	{[scat n:vn]} =hardening= "koo_ka_BECOMING" % 硬化
 kooreeka	{[scat n:vn]} =aging= "kooree_ka_BECOMING" % 高齢化
-kuinige	{[scat n:vn]} =eat_and_run_away= "kuw_nige&GER"  % 食い逃げ
+kuinige	{[scat n:vn]} =eat_and_run_away= "kuw_nige"  % 食い逃げ
 kyojyuu	{[scat n:vn]} =live=
 kyooka	{[scat n:vn]} =enlightenment= "kyoo_ka_BECOMING" % 教化
 kyoozon	{[scat n:vn]} =exist_together=
-mochinige	{[scat n:vn]} =take_and_run_away= "nor_nige&GER"  % 持ち逃げ
+mochinige	{[scat n:vn]} =take_and_run_away= "nor_nige"  % 持ち逃げ
 nanka	{[scat n:vn]} =soften=
-norinige	{[scat n:vn]} =ride_and_run_away= "nor_nige&GER"  % 乗り逃げ
+norinige	{[scat n:vn]} =ride_and_run_away= "nor_nige"  % 乗り逃げ
 nyuugaku	{[scat n:vn]} =entrance_into_school= % 入学
 nyuusha	{[scat n:vn]} =	entering_company=
 omemoji	{[scat n:vn]} =view=
@@ -732,11 +732,11 @@ tokka	{[scat n:vn]} =specialization= "tok_ka_BECOMING" % 特化
 toohyoo	{[scat n:vn]} =voting=
 unten	{[scat n:vn]} =drive=
 yabanka	{[scat n:vn]} =barbarianization= "yaban_ka_BECOMING" % 野蛮化
-yonige	{[scat n:vn]} =flee_by_night= "yo_nige&GER" % 夜逃げ
+yonige	{[scat n:vn]} =flee_by_night= "yo_nige" % 夜逃げ
 zuihitsuka	{[scat n:vn]} =making_an_essay= "zuihitsu_ka_BECOMING" % 随筆化
 
 % 修正
-kashite	{[scat n][comp v:c+n]} =lender= "kas&GER+te" % "kasi&GER+te" でなく
+kashite	{[scat n][comp v:c+n]} =lender= "kas+te" % "kasi+te" でなく
 michibik	{[scat v:c]} =guide= "michibik"	%【導く】 % mich_hik から境界をとる
 tanabik	{[scat v:c]} =trail= "tanabik"	%【たなびく/棚引く】 % tana_hik から境界をとる
 eegaka	{[scat n:vn]} =making_a_movie= "eega_ka_BECOMING" % 映画化
@@ -747,7 +747,7 @@ kake {[scat v:v]} =hang= % 帽子をハンガーに_掛ける_
 % suzuki
 ake	{[scat v:v]} =be_over= %明ける
 bur	{[scat v:c]} =pretend_to_be= %〜ぶる
-hokusoem       {[scat v:c]} =chuckle=      
+hokusoem       {[scat v:c]} =chuckle=
 mukaw	{[scat v:c]} =go=
 tegake	{[scat v:v]} =manage=
 

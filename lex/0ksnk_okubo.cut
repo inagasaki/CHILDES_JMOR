@@ -1,0 +1,188 @@
+%noun
+
+shiharai	{[scat n:vn]} =payment=
+shorui	{[scat n]} =document=
+
+nobori	{[scat n:vn]} =going_up=	%上り
+kudari	{[scat n:vn]} =going_down=	%下（くだ）り
+nori {[scat n:vn]} =riding=	%乗り
+midare	{[scat n:vn]} =disorder=	%乱れ
+majiwari	{[scat n:vn]} =intersection=	%交わり
+shiage	{[scat n:vn]} =finishing_up=	%仕上げ
+shiwake {[scat n:vn]} =sorting_out=	%仕分け
+shikake {[scat n:vn]} =trick/trap=	%仕掛け
+shikake {[scat n:vn]} =mechanism/set_up=	%仕掛け
+shikake {[scat n:vn]} =challenge=	%仕掛け
+kawari {[scat n:vn]} =substitute=	%代わり
+fuse {[scat n:vn]} =lying_down=	%伏せ
+nobi {[scat n:vn]} =stretchin/growing=	%伸び
+tsukuri {[scat n:vn]} =structure/build=	%作り %造り
+tsukai {[scat n:vn]} =use/usage=	%使い
+kari {[scat n:vn]} =debt/loan=	%借り
+moyooshi {[scat n:vn]} =event=	%催し
+hataraki {[scat n:vn]} =working=	%働き
+iri {[scat n:vn]} =entering/attendance=	%入り
+utsushi {[scat n:vn]} =copy/duplicate=	%写し
+hiyakashi {[scat n:vn]} =teasing=	%冷やかし
+wake {[scat n:vn]} =share/portion=	%分け
+kirikae {[scat n:vn]} =switching=	%切り替え
+kire {[scat n:vn]} =piece/fragment=	%切れ
+wakare {[scat n:vn]} =parting/farewell=	%別れ
+kiki {[scat n:vn]} =efficiency=	%利き
+wariate {[scat n:vn]} =allocation=	%割り当て
+tasuke {[scat n:vn]} =help=	%助け
+ugoki {[scat n:vn]} =movement=	%動き
+tsutome {[scat n:vn]} =duty=	%務め
+kachi {[scat n:vn]} =win=	%勝ち
+tsutome {[scat n:vn]} =work=	%勤め
+susume {[scat n:vn]} =recommendation=	%勧め
+sakebi {[scat n:vn]} =shout/outcry=	%叫び
+tsubuyaki {[scat n:vn]} =murmuring=	%呟き
+unari {[scat n:vn]} =groaning=	%唸り
+toi {[scat n:vn]} =question/asking=	%問い
+sasayaki {[scat n:vn]} =whispering=	%囁き
+mawashi {[scat n:vn]} =mawashi/belt=	%回し
+kakomi {[scat n:vn]} =enclosure=	%囲み
+kawari {[scat n:vn]} =change/alternation=	%変わり
+hazure {[scat n:vn]} =miss=	%外れ
+hazure {[scat n:vn]} =outskirts=	%外れ
+konomi {[scat n:vn]} =preference=	%好み
+samatage {[scat n:vn]} =hinderance=	%妨げ
+hajimari {[scat n:vn]} =beginning=	%始まり
+mamori {[scat n:vn]} =defense=	%守り
+sadame {[scat n:vn]} =regulation/fate=	%定め
+minori {[scat n:vn]} =crop/fruitfulness=	%実り
+sasshi{[scat n:vn]} =guess/consideration=	%察し
+kaeri {[scat n:vn]} =return=	%帰り
+hirogari {[scat n:vn]} =spreading=	%広がり
+hiki {[scat n:vn]} =pull=	%引き
+machi {[scat n:vn]} =waiting=	%待ち
+hohoemi {[scat n:vn]} =smile=	%微笑み
+ikari {[scat n:vn]} =anger=	%怒り
+obie {[scat n:vn]} =scariness=	%怯え
+osore {[scat n:vn]} =fear/apprehension=	%恐れ
+osore {[scat n:vn]} =awe=	%恐れ
+kui {[scat n:vn]} =regret=	%悔い
+satori {[scat n:vn]} =awakening=	%悟り
+kanashimi {[scat n:vn]} =sadness=	%悲しみ
+nagusame {[scat n:vn]} =comfort=	%慰め
+urei {[scat n:vn]} =sorrow/anxiety=	%憂い
+tatakai {[scat n:vn]} =fight=	%戦い %闘い
+modori {[scat n:vn]} =return=	%戻り
+atsukai {[scat n:vn]} =handling=	%扱い
+osae {[scat n:vn]} =weight/control=	%抑え
+ori {[scat n:vn]} =folding=	%折り
+nuki {[scat n:vn]} =pulling_out=	%抜き
+oshi {[scat n:vn]} =pushing=	%押し
+maneki {[scat n:vn]} =invitation=	%招き
+mochi {[scat n:vn]} =durability=	%持ち
+furi {[scat n:vn]} =shake,swing=	%振り
+hikae {[scat n:vn]} =reserve=	%控え
+yure {[scat n:vn]} =shaking=	%揺れ
+sasae {[scat n:vn]} =support=	%支え
+sukui {[scat n:vn]} =rescue/salvation=	%救い
+shiki {[scat n:vn]} =covering=	%敷き
+ake {[scat n:vn]} =dawn/beginning=	%明け
+kure {[scat n:vn]} =dusk=	%暮れ
+nozomi {[scat n:vn]} =hope=	%望み
+kamae {[scat n:vn]} =posture=	%構え
+ayumi {[scat n:vn]} =walking/progress=	%歩み
+nokori {[scat n:vn]} =remnant/balance=	%残り
+motome {[scat n:vn]} =claim/request=	%求め
+yogore {[scat n:vn]} =dirt=	%汚れ
+kegare {[scat n:vn]} =stigma=	%汚れ
+kimari {[scat n:vn]} =rule/order=	%決まり
+tomari {[scat n:vn]} =stay=	%泊り
+naki {[scat n:vn]} =crying=	%泣き
+oyogi {[scat n:vn]} =swimming=	%泳ぎ
+nagare {[scat n:vn]} =stream/flowing=	%流れ
+suberi {[scat n:vn]} =sliding=	%滑り
+more {[scat n:vn]} =leak=	%漏れ
+aseri {[scat n:vn]} =impatience=	%焦り
+kurui {[scat n:vn]} =disorder=	%狂い
+kurui {[scat n:vn]} =malfunction=	%狂い
+nerai {[scat n:vn]} =aim/purpose=	%狙い
+araware {[scat n:vn]} =manifestation=	%現れ %現われ %表れ
+umare {[scat n:vn]} =birth/birthplace=	%生まれ %生れ
+umi {[scat n:vn]} =giving_birth=	%産み
+umi {[scat n:vn]} =creation/pruduction=	%生み
+utagai {[scat n:vn]} =doubt=	%疑い
+tsukare {[scat n:vn]} =tiredness=	%疲れ
+sakari {[scat n:vn]} =peak/prime=	%盛り
+mori {[scat n:vn]} =serving/helping=	%盛り
+nemuri {[scat n:vn]} =sleep=	%眠り
+nagame {[scat n:vn]} = view=	%眺め
+shirase {[scat n:vn]} =news=	%知らせ
+migaki {[scat n:vn]} =polish/improvement=	%磨き
+inori {[scat n:vn]} =prayer=	%祈り
+iwai {[scat n:vn]} =celebration=	%祝い
+tsuki {[scat n:vn]} =thrust=	%突き
+warai {[scat n:vn]} =laughter=	%笑い
+kotae {[scat n:vn]} =answer=	%答え
+musubi {[scat n:vn]} =knot=	%結び
+musubi {[scat n:vn]} =end/conclusion=	%結び
+tsuzuki {[scat n:vn]} =continuation/sequel=	%続き
+shime {[scat n:vn]} =fastening=	%締め
+shime {[scat n:vn]} =completion/total=	%締め
+tsunagari {[scat n:vn]} =connection=	%繋がり
+kikoe {[scat n:vn]} =reputation/impression=	%聞こえ
+kikoe {[scat n:vn]} =sonority=	%聞こえ
+sodachi {[scat n:vn]} =upbringing/grownth=	%育ち
+itari {[scat n:vn]} =climax=	%至り
+are {[scat n:vn]} =roughness=	%荒れ
+ochitsuki {[scat n:vn]} =calmness=	%落ち着き
+okonai {[scat n:vn]} =deed=	%行い
+yosooi {[scat n:vn]} =clothes=	%装い
+yosooi {[scat n:vn]} =appearance/look=	%装い
+nozoki {[scat n:vn]} =peeping=	%覗き
+otozure {[scat n:vn]} = visit/arrival=	%訪れ
+yurushi {[scat n:vn]} =pardon=	%許し
+uttae {[scat n:vn]} =lawsuit/apeal=	%訴え
+tameshi {[scat n:vn]} =trial=	%試し
+kokoromi {[scat n:vn]} =attempt=	%試み
+chikai {[scat n:vn]} =oath=	%誓い
+katari {[scat n:vn]} =talk/naration=	%語り
+yomi {[scat n:vn]} =reading=	%読み
+yomi {[scat n:vn]} =insight=	%読み
+shirabe {[scat n:vn]} =investigatin=	%調べ
+shirabe {[scat n:vn]} =melody=	%調べ
+takuwae {[scat n:vn]} =savings=	%貯え
+makanai {[scat n:vn]} =boarding/supplying_food=	%賄い
+hashiri {[scat n:vn]} =run=	%走り
+kagayaki {[scat n:vn]} =brightness=	%輝き
+mukae {[scat n:vn]} =welcome/picking_up=	%迎え
+mayoi {[scat n:vn]} =hesitation=	%迷い
+okure {[scat n:vn]} =delay=	%遅れ
+yoi {[scat n:vn]} =drunkness=	%酔い
+kasanari {[scat n:vn]} =overlap=	%重なり
+kitae {[scat n:vn]} =forging/training=	%鍛え
+hiraki {[scat n:vn]} =opeing=	%開き
+hiraki {[scat n:vn]} =gap=	%開き
+machigae {[scat n:vn]} =mistake=	%間違え
+kakawari {[scat n:vn]} =ralation=	%関わり
+kagiri {[scat n:vn]} =limit=	%限り
+hedate {[scat n:vn]} =partition/discrimination=	%隔て
+kakushi {[scat n:vn]} =hiding=	%隠し
+atsumari {[scat n:vn]} =gathering=	%集まり %集り
+furue {[scat n:vn]} =shivering=	%震え %顫え
+itadaki {[scat n:vn]} =summit=	%頂き
+unazuki {[scat n:vn]} =nod=	%頷き
+tanomi {[scat n:vn]} =request=	%頼み
+tanomi {[scat n:vn]} =reliance/trust=	%頼み
+negai {[scat n:vn]} =wish=	%願い
+ue {[scat n:vn]} =hunger=	%飢え
+sawagi {[scat n:vn]} =noise/hustle=	%騒ぎ
+odoroki {[scat n:vn]} =surprise=	%驚き
+takamari {[scat n:vn]} =rise/surge=	%高まり
+
+
+
+
+
+
+%%% 既存のエントリーの修正 %%%
+% n|ita-mi_TASTE=aching % jmoriで「痛み」で検索すると出てくる。-miの訳がTASTEになっているが、名詞派生の接尾辞として扱う方が適切。
+% n|kanashi-mi_TASTE=sad
+% n|tanoshi-mi_TASTE=delightful
+% n|kurushi-mi_TASTE=painful
+% n|shitashi-mi_TASTE=familiar

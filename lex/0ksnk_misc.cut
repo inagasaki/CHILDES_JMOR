@@ -1,5 +1,6 @@
 % ptl
 kamo	{[scat ptl:foc]} =perhaps= 
+nagara	{[scat ptl:conj]} =although= % 動詞接尾辞の「ながら」と区別する、ptl:foc のエントリーは削除
 
 % smod
 daroo	{[scat smod]} =INFR=
@@ -77,6 +78,8 @@ jikan	{[scat numclsfx] [allo OR numBFa numBBk numCFa numCFn numCBa numCBn1 numCB
 
 % vsfx sfxcat
 yoo	{[scat vsfx] [sfxcat n] [allo OR vV vCi vPIw vAIt vTKi vTSi vAIs]} "yoo_WAY_OF"
+
+zuni	{[scat vtense] [tense inf] [allo OR vV vCa vBKo vTSi vTSe vNNr]} "NEG&ADV"
 
 % intentitive	######## 意志 (Deliberative)、勧誘 (Hortative)、推量 (Inferential) のハイブリッド
 yoo	{[scat vtense] [tense inf] [allo OR vV vBKo vTSi]} "DELB/HORT/INFR"

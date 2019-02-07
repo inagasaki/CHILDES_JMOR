@@ -69,7 +69,7 @@ dashimono	{[scat n]} =program=
 dekigoto	{[scat n]} =event=
 desaki	{[scat n]} =gateway=
 dezainsee	{[scat n]} =designability= "dezain_see_NATURE" % デザイン性
-dezainsensu	{[scat n][comp n:vn+n} =design_sense= "dezain+sensu"
+dezainsensu	{[scat n][comp n:vn+n]} =design_sense= "dezain+sensu"
 dokujisee	{[scat n]} =originality= "dokuji_see_NATURE" % 独自性
 dokusaisha	{[scat n]} =dictator= "dokusai_sha_PERSON" % 独裁者
 dokusee	{[scat n]} =toxicity= "doku_see_NATURE" % 毒性
@@ -737,7 +737,7 @@ dandori		{[scat n]} =plan=
 essee		{[scat n]} =essay=
 gairoju		{[scat n]} =street_tree=
 gairyaku	{[scat n]} =outline=
-gaku		{]scat n]} =amount_of_money=
+gaku		{[scat n]} =amount_of_money=
 genkoo		{[scat n]} =draft=
 go		{[scat n]} =after= %後
 hatchuu		{[scat n]} =order=
@@ -764,7 +764,7 @@ machi		{[scat n:vn]} =waiting= %待ち
 manki		{[scat n]} =expiration=
 miryoo		{[scat n:vn]} =fascination=
 natsumoyoo	{[scat n]} =summer_weather=
-nazukeoya	{[scat n]} =godparent
+nazukeoya	{[scat n]} =godparent=
 ooentai		{[scat n]} =supporters=
 oriori		{[scat n]} =sometimes=
 ritsu		{[scat n]} =rate=

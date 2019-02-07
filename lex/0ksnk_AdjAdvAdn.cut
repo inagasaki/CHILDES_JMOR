@@ -4,6 +4,25 @@ arigatoo	{[scat adj][tense inf]} =be_appreciated= "arigata&ADV"
 ichijirushi	{[scat adj]} =remarkable=
 hoshi	{[scat adj]} =desire=
 yo	{[scat adj]} =good= % 「よい」と「いい」を分ける
+aojiro	{[scat adj]} =pale= % 青白い
+
+aojiroki	{[scat adj][tense inf]} =pale= "aojiro-ki_ADN"
+ashiki	{[scat adj][tense inf]} =bad= "a-shiki_ADN"
+ooki	{[scat adj][tense inf]} =many= "oo-ki_ADN"
+hazukashi	{[scat adj][tense pres]} =ashamed= "hazuka-shi_PRES"
+mattaki	{[scat adj][tense inf]} =complete= "matta-ki_ADN"
+okashi	{[scat adj][tense pres]} =strange= "oka-shi_PRES"
+semashi	{[scat adj][tense pres]} =narrow= "sema-shi_PRES" % シク活用「狭し」
+utsukushiki	{[scat adj][tense inf]} =beautiful= "utsuku-shiki_ADN"
+yamunashi	{[scat adj][tense pres]} =no_choice_but_to= "yamuna-shi_PRES"
+yoki	{[scat adj][tense inf]} =good= "yo-ki_ADN"
+yoshi	{[scat adj][tense pres]} =good= "yo-shi_PRES" % シク活用「よし」
+
+yosasoo	{[scat n:an]} =good= "yo-soo_SEEMING" % yosasoo のもうひとつのエントリーを消してもらうこと
+
+naki	{[scat v:ir][tense inf]} =be= "ar&NEG-ki_ADN"
+nashi	{[scat v:ir][tense pres]} =be= "ar&NEG-shi_PRES"
+nasasoo	{[scat n:an]} =be= "ar&NEG-soo_SEEMING"
 
 % adjn
 akeppanashi	{[scat n:an][comp v:v+v:c]} =of_an_open_nature= "ake+hanashi" % 明けっぱなし

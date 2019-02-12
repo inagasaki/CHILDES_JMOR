@@ -756,3 +756,14 @@ tegake	{[scat v:v]} =manage=
 dekiagar       {[scat v:c][comp v:v+v:c]} =be_completed= "deki+agar"
 furisosog      {[scat v:c][comp v:c+v:c]} =shower_down= "fur+sosog"
 hikiuke	       {[scat v:v][comp v:c+v:v]} =take_over= "hik+uke"
+
+% kishiyama
+yosoku	{[scat n:vn]} =predict=
+ooji	{[scat v:v]} =respond= %	応じる		
+dooji	{[scat v:v]} =be_perturbed= %	動じる
+fuuji	{[scat v:v]} =suppress= %	封じる		
+karonji	{[scat v:v]} =underrate= %	軽んじる		
+kinji	{[scat v:v]} =forbid= %	禁じる		
+meeji	{[scat v:v]} =command= %	命じる		
+menji	{[scat v:v]} =exempt= %	免じる		
+nenji	{[scat v:v]} =wish= %	念じる		

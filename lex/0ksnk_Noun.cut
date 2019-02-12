@@ -795,7 +795,7 @@ tsuyu		{[scat n]} =rainy_season=
 waga		{[scat n:deic:prs]} =my=
 yooroohoken	{[scat n]} =old_age_insurance= "yooroo_hoken"
 zerokinri	{[scat n]} =zero_interest_rate= "zero_kinri"
-
+shuunyuu	{[scat n]} =income=	% 収入
 
 Fukuoka		{[scat n:prop]} =Fukuoka=
 Heesee		{[scat n:prop]} =Heesee_era=

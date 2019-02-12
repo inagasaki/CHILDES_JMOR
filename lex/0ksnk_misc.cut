@@ -88,3 +88,6 @@ oo	{[scat vtense] [tense inf] [allo OR vC vRw]} "DELB/HORT/INFR"
 
 % suzuki
 shitemiruto	{[scat conj]} =if_so=
+
+%prefix
+doo	{[scat pfx] [pcat n]} "doo_SAID"	% 同 

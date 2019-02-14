@@ -610,7 +610,7 @@ Kameokashi	{[scat n:prop]} =Kameoka_city= "Kameoka_shi"
 Kankoku	{[scat n:prop]} =South_Korea= % 韓国
 Ken'ichi	{[scat n:prop]} =Ken'ichi=
 Kitaakitashi	{[scat n:prop]} =Kitaakita_city= "Kitaakita_shi"
-Kitakita	{[scat n:prop]} =Kitaakita=
+Kitaakita	{[scat n:prop]} =Kitaakita=
 Kokuren	{[scat n:prop]} =United_Nations= % 国連
 Koobeshi	{[scat n:prop]} =Kobe_city= "Koobe_shi"
 Kyarawee	{[scat n:prop]} =Callaway=
@@ -817,3 +817,44 @@ yakuinkoosee	{[scat n][comp n+n]} =list_of_directors= "yakuin+koosee"
 
 hoo		{[scat n:fml]} =one=
 
+% Hayashi 2019/2/14
+chijisen {[scat n]} =gubernatorial_election=
+shichoosen {[scat n]} =mayoral_election=
+kennaishichoosen {[scat n][comp n+n]} =mayoral_election_within_a_prefecture= "kennnai+shichoosen"
+genpatsujiko {[scat n][comp n+n]} =nuclear_power_plant_accident= "genpatsu+jiko"
+chiikisaisee {[scat n:vn][comp n+n:vn]} =revival_of_provincial_areas= "chiiki+saisee"
+chihoojichi {[scat n][comp n+n]} =local_autonomy= "chihoo+jichi"
+hassinryoku {[scat n]} =communicativity= % 複合名詞ではない：*発信のりょく
+oogatasenkyo {[scat n][comp n:an+n]} =large_scale_election= "oogata+senkyo"
+ninkimanryoo {[scat n][comp n+n:vn]} =expiration_of_tenure= "ninki+manryoo"
+manryoo {[scat n:vn]} =expiration=
+fukushimakenchijisen {[scat n][comp n:prop+n]} =election_of_the_governor_of_Fukushima_prefecture= "fukushimaken+chijisen" % */#福島の県
+fukushimaken {[scat n:prop]} =Fukushima_prefecture=
+minamisoomashi {[scat n:prop]} =Minami_Sooma_city=
+kokuseesenkyo {[scat n:n][scat n+n]} =national_election=
+Satooshi {[scat n:prop]} =Satoo-shi_HON= 
+dookoo {[scat n]} =move= % 動向
+shoooten {[scat n]} =focus=
+Jimin {[scat n:prop]} =LDP= % 自民
+dokujikooho {[scat n:n][comp n+n]} =original_candidate= "dokuji+kooho"
+yooritsu {[scat n:vn]} =putting_up= 
+Minshu {[scat n:prop]} =DPJ= % 民主（党）
+shudookenkakuho {[scat n:n][comp n+n:vn]} =securing_initiative= "shudooken+kakuho"
+yakki {[scat n]} =wrought_up= % 躍起
+genshoku {[scat n]} =incumbent=
+Satooyuuheeshi {[scat n:prop][comp n:prop+n:prop]} "Satoo-Yuuhee-shi_HON"
+Fukushimadaiichigempatsujiko {[scat n:prop][comp n:prop+n+n]} =Fukushima_Daiichi_nuclear_disaster= "Fukushimadaiichi+genpatsu+jiko"
+fukkoo {[scat n:vn]} =reconstruction=
+maishin {[scat n:vn]} =striving=
+meigen {[scat n:vn]} =declaration=
+jimotoseekaikankeesha {[scat n][comp n+n+n]} =people_involved_in_the_local_political_circle= "jimoto+seekai+kankeesha"
+dankai {[scat n]} =stage=
+rikooho {[scat n]} =candidacy=
+kankyoo {[scat n]} =environment=
+sakunen {[scat n]} =last_year=
+rakusen {[scat n:vn]} =losing_an_election=
+tsunamihisai {[scat n][comp n+n:vn]} =damage_by_tsunami= "tsunami+hisai"
+genshiryokusaigai {[scat n][comp n+n]} =nuclear_power_disaster= "genshiryoku+saigai"
+kusen {[scat n:vn]} =having_a_difficult_campaign=
+genshokurakusendomino {[scat n][comp n+n:vn+n]} =continual_losing_of_imcumbents= "genshoku+rakusen+domino"
+saishuushoo {[scat n][comp n+n]} =last_chapter= "saishuu+shoo"

@@ -745,6 +745,11 @@ eegaka	{[scat n:vn]} =making_a_movie= "eega_ka_BECOMING" % 映画化
 
 % by Hayashi 2019/1/30
 kake {[scat v:v]} =hang= % 帽子をハンガーに_掛ける_
+% 2019/2/14
+mirare {[scat v:v]} =seem= % VB2の「見られる」
+tames {[scat v:c]} =test= % 「（大地が）試される」
+mas {[scat v:c]} =increase=
+
 
 % suzuki
 ake	{[scat v:v]} =be_over= %明ける

@@ -84,6 +84,7 @@ doosee	{[scat n]} =the_same_sex= % 同性
 dooshokubutsu	{[scat n]} =animals_and_plants=
 eegakan	{[scat n]} =cinema= "eega_kan_BLDG" % 映画館
 eegyooryoku	{[scat n]} =marketing_skills= "eegyoo_ryoku_POWER"
+keezairyoku	{[scat n]} =economic_power= "keezai_ryoku_POWER"
 eeichi	{[scat n]} =answer_one=
 ekiin	{[scat n]} =station_employee= "eki_in_PERSON" % 駅員
 ekohausu	{[scat n]} =eco_house=
@@ -115,6 +116,8 @@ gaikokugo	{[scat n]} =foreign_language= "gaikoku_go_LANGUAGE" % 外国語
 gaikokujin	{[scat n]} =foreigner= "gaikoku_jin_PERSON" % 外人
 gakkoogawa	{[scat n]} =school_side= "gakkoo_gawa_SIDE"
 gakusha	{[scat n]} =scholar= % 学者
+gakushuusha	{[scat n]} =Japanese_language_learner= "gakushuu_sha_PERSON" % 学習者
+nihongogakushuusha	{[scat n][comp n+n]} =Japanese_language_learner= "nihon_go+gakushuu_sha_PERSON" % 学習者
 geejutsusee	{[scat n]} =artistic_quality= "geejutsu_see_NATURE" % 芸術性
 geejutsutekisoozoosee	{[scat n]} =artistic_creativity= "geejutsu_teki_LIKE+soozoo_see_NATURE" % 芸術的創造性
 geemukoonaa	{[scat n]} =game_corner=

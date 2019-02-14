@@ -89,5 +89,9 @@ oo	{[scat vtense] [tense inf] [allo OR vC vRw]} "DELB/HORT/INFR"
 % suzuki
 shitemiruto	{[scat conj]} =if_so=
 
+% nsfx
+gata	{[scat nsfx]} "PL"
+tachi	{[scat nsfx]} "PL"
+
 %prefix
 doo	{[scat pfx] [pcat n]} "doo_SAID"	% 同 

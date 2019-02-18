@@ -87,9 +87,6 @@ yoo	{[scat vtense] [tense inf] [allo OR vV vBKo vTSi]} "DELB/HORT/INFR"
 yo	{[scat vtense] [tense inf] [allo OR vV vBKo vTSi]} "DELB/HORT/INFR"
 oo	{[scat vtense] [tense inf] [allo OR vC vRw]} "DELB/HORT/INFR"
 
-% suzuki
-shitemiruto	{[scat conj]} =if_so=
-
 % nsfx
 gata	{[scat nsfx]} "PL"
 tachi	{[scat nsfx]} "PL"
@@ -103,3 +100,8 @@ saku {[scat pfx] [pcat n]} "saku_LAST" % 昨
 kime {[scat num:cl][comp num:cl+num:cl]} =ki_TERM-me_ORD= % n期目
 sen {[scat num:cl]} =sen_ELECTED= % n選（する）
 
+
+% Suzuki 2019/2/18
+shitemiruto	{[scat conj]} =if_so=
+yare		{[scat co:i]} =sigh=
+zuruzuru	{[scat onoma]} =loose=

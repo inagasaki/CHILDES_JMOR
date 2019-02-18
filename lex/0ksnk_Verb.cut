@@ -762,6 +762,7 @@ dekiagar       {[scat v:c][comp v:v+v:c]} =be_completed= "deki+agar"
 furisosog      {[scat v:c][comp v:c+v:c]} =shower_down= "fur+sosog"
 hikiuke	       {[scat v:v][comp v:c+v:v]} =take_over= "hik+uke"
 
+
 % kishiyama
 yosoku	{[scat n:vn]} =predict=
 ooji	{[scat v:v]} =respond= %	応じる		
@@ -772,3 +773,13 @@ kinji	{[scat v:v]} =forbid= %	禁じる
 meeji	{[scat v:v]} =command= %	命じる		
 menji	{[scat v:v]} =exempt= %	免じる		
 nenji	{[scat v:v]} =wish= %	念じる		
+
+
+% Suzuki 2019/2/18
+kigatsuk {[scat v:c]} =come_to=
+sar	 {[scat v:c]} =leave=
+tees	 {[scat v:c]} =present=
+
+makiage	 {[scat v:v][comp v:c+v:v]} =wangle= "mak+age"
+nemurikoke	{[scat v:v][comp v:c+v:v]} =sleep_deeply= "nemur+koke"
+semariku	{[scat v:ir][comp v:c+v:ir]} =impend= "semar+ku"

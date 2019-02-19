@@ -320,6 +320,7 @@ kooen	{[scat n]} =park= "koo_en_GARDEN" % 公園
 koofuku	{[scat n]} =happiness=
 koogo	{[scat n]} =spoken_language=
 koohosha	{[scat n]} =candidate= "kooho_sha_PERSON" % 候補者
+kooi	{[scat n]} =action= %行為
 kookeesha	{[scat n]} =successor= "kookee_sha_PERSON" % 後継者
 koominkan	{[scat n]} =public_hall= "koomin_kan_BLDG" % 公民館
 koopasu	{[scat n]} =linguistic_corpus=

@@ -702,6 +702,8 @@ tansaibooseebutsu	{[scat n][comp n+n]} =unicellular_creature= "tansaiboo+seebuts
 tasaibooseebutsu	{[scat n][comp n+n]} =multicellular_creature= "tasaiboo+seebutsu"
 teechakudo	{[scat n]} =fixing_degree= "teechaku_do_DEGREE"
 toogokaisekijoohoo	{[scat n][comp n+n:vn+n]} =syntactic_analysis= "toogo+kaiseki+joohoo"
+seemeesen	{[scat n][comp n+n]} =life_line= "seemee+sen"
+seeraafuku		{[scat n][comp n+n]} =sailor_suit= "seeraa+fuku"
 
 % 修正
 Igirisu	{[scat n:prop]} =England= % igurisu --> igirisu
@@ -936,3 +938,4 @@ kooshugookaku	{[scat n:vn][comp n+n:vn]} =pass_the_conscription_check_as_a_first
 ninchiseekyuu	{[scat n:vn][comp n:vn+n:vn]} =claim_for_acknowledgement= "ninchi+seekyuu"
 rekurieeshontekiyooso  {[scat n][comp n:an+n]} =recreational_element= "rekurieeshon_teki_LIKE+yooso"
 songaibaishooseekyuu   {[scat n:vn][comp n+n:vn]} =claim_for_damages= "songaibaishoo+seekyuu"
+

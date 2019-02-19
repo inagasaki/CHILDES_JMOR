@@ -1,4 +1,5 @@
 % noun
+haihiiru	{[scat n]} =high_heels= % ハイヒール（複合名詞のエントリーを削除してもらう）
 Shisukogawa	{[scat n]} =Cisco_side= "Shisuko_gawa_SIDE"
 aidokusha	{[scat n]} =regular_reader= "aidoku_sha_PERSON" % 愛読者
 aishoo	{[scat n]} =affinity= % 相性
@@ -55,6 +56,7 @@ chuunendansee	{[scat n][comp n+n]} =middle_aged_male= "chuunen+dansee" % 中年�
 chuunenjosee	{[scat n][comp n+n]} =middle_aged-female= "chuunen+josee" % 中年女性
 chuurinjo	{[scat n]} =bicycle_parking_lot= "chuurin_jo_PLACE" % 駐輪所
 daichi	{[scat n]} =earth=
+daigakunyuushi	{[scat n][comp n+n]} =university_entrance_examination= "daigaku+nyuushi" % 大学入試
 daigakugawa	{[scat n]} =university_side= "university_gawa_SIDE"
 daigomi	{[scat n]} =the_best_part=
 daihyoo	{[scat n]} =representative=
@@ -256,6 +258,7 @@ kamigami	{[scat n]} =gods= % reduplication は compound にせずに一語扱い
 kan'an	{[scat n]} =seeing_darkness=
 kanashibari	{[scat n]} =sleep_paralysis=
 kangaekata	{[scat n]} =way_of_thinking= "kangae_kata_WAY_OF"
+oshiekata	{[scat n]} =way_of_teaching= "oshie_kata_WAY_OF"
 kanji	{[scat n]} =kanji_character= % 単なる =character= でなく
 kanjusee	{[scat n]} =sensibility= "kanjusee" % 感受性
 kankeesha	{[scat n]} =person_concerned= "kankee_sha_PERSON" % 関係者
@@ -292,7 +295,14 @@ kekka	{[scat n]} =result=	%【結果】 % vn で登録されているが、vn �
 kembooshoo	{[scat n]} =amnesic= "kemboo_see_NATURE" % 健忘性
 kemminkaikan	{[scat n]} =prefectural_citizen's_hall=
 kenchikubutsu	{[scat n]} =building=
+kenkoojootai	{[scat n][comp n+n]} =health_status= "kenkoo+jootai" % 健康状態
+kenkyuusho	{[scat n]} =research_institute=	"kenkyuujo" % 研究所
 kenkyuusha	{[scat n]} =researcher= "kenkyuu_sha_PERSON" % 研究者
+kenkyuuin	{[scat n]} =research_worker= "kenkyuu_in_MEMBER" % 研究員
+kenkyuunaiyoo	{[scat n][comp n:vn+n]} =research_contents= "kenkyuu+naiyoo" % 研究内容
+kenkyuuseeka	{[scat n][comp n:vn+n]} =research_result= "kenkyuu+seeka" % 研究成果
+seeka	{[scat n]} =result= % 成果
+kenkyuutaisee	{[scat n][comp n+n]} =research_system= "kenkyuu+taisee" % 研究体制
 kenryokusha	{[scat n]} =man_of_power= "kenryoku_sha_PERSON" % 権力者
 kigyoo	{[scat n]} =company=
 kikensee	{[scat n]} =risk= "kiken_see_NATURE" % 危険性
@@ -373,6 +383,7 @@ nantoo	{[scat n]} =southeast=
 nantoogawa	{[scat n]} =southeast_side= "nantoo_gawa_SIDE"
 naoshiya	{[scat n]} =repairman= "naoshi_ya_SHOP" % 直し屋
 negai	{[scat n]} =wish=
+nihombunka	{[scat n][comp n:prop+n]} =Japanese_culture= "nihon+bunka"
 nihongo	{[scat n]} =Japanese_language= "nihon_go"
 nihonjin	{[scat n]} =Japanese_person= "nihon_jin"
 nikusee	{[scat n]} =real_voice=
@@ -438,6 +449,7 @@ seejindansee	{[scat n][comp n+n]} =adult_male= "seejin+dansee" % 成人男性
 seejinjosee	{[scat n][comp n+n]} =adult_female= "seejin+josee" % 成人女性
 seekakusee	{[scat n]} =accuracy= "seekaku_see_NATURE" % 正確性
 seemee	{[scat n]} =life= % 生命
+seesaku	{[scat n]} =policy= % 政策
 seesansee	{[scat n]} =productivity= "seesan_see_NATURE" % 生産性
 seesansha	{[scat n]} =manufacturer= "seesan_sha_PERSON" % 生産者
 seeseki	{[scat n]} =result= % 成績
@@ -479,6 +491,7 @@ shitagawa	{[scat n]} =lower_part= "shita_gawa_SIDE"
 shitateya	{[scat n]} =tailor= "shitate_ya_SHOP" % 仕立屋
 shitsugisha	{[scat n]} =questioner= "shitsugi_sha_PERSON" % 質疑者
 shitsugyoosha	{[scat n]} =jobless_person= "shitsugyoo_sha_PERSON" % 失業者
+		shiya	{[scat n]} =field_of_vision=
 shodai	{[scat n]} =the_first=
 shoobooshi	{[scat n]} =fire_fighter= 	% 消防士 fireman でなく
 shoogaisha	{[scat n]} =handicapped_person= "shoogai_sha_PERSON" % 障害者

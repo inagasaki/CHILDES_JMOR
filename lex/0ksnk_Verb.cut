@@ -38,6 +38,7 @@ yak	{[scat v:c]} =bake/fry/roast=	%【焼く】***
 ondas	{[scat v:c]} =expel=
 onde	{[scat v:v]} =get_out=
 shikir	{[scat v:c]} =manage=
+okur	{[scat v:c]} =pass/spend=
 
 % 修正希望
 arienai	{[scat v:ir][tense pres]} =be= "ar-POT-NEG-PRES"
@@ -693,6 +694,7 @@ nyuugaku	{[scat n:vn]} =entrance_into_school= % 入学
 nyuusha	{[scat n:vn]} =	entering_company=
 omemoji	{[scat n:vn]} =view=
 rendoo	{[scat n:vn]} =interlocking= % 連動
+rikon	{[scat n:vn]} =devorce= % 離婚
 risooka	{[scat n:vn]} =idealization= "risoo_ka_BECOMING" % 理想化
 rooka	{[scat n:vn]} =aging= "roo_ka_BECOMING" % 老化
 ryokka	{[scat n:vn]} =tree_planting= "ryok_ka_BECOMING" % 緑化
@@ -736,6 +738,8 @@ unten	{[scat n:vn]} =drive=
 yabanka	{[scat n:vn]} =barbarianization= "yaban_ka_BECOMING" % 野蛮化
 yonige	{[scat n:vn]} =flee_by_night= "yo_nige" % 夜逃げ
 zuihitsuka	{[scat n:vn]} =making_an_essay= "zuihitsu_ka_BECOMING" % 随筆化
+yosoku	{[scat n:vn]} =predict=
+nihonryuugaku	{[scat n:vn][comp n:prop+n:vn]} =study_in_Japan= "nihon+ryuugaku"
 
 % 修正
 kashite	{[scat n][comp v:c+n]} =lender= "kas+te" % "kasi+te" でなく
@@ -764,7 +768,6 @@ hikiuke	       {[scat v:v][comp v:c+v:v]} =take_over= "hik+uke"
 
 
 % kishiyama
-yosoku	{[scat n:vn]} =predict=
 ooji	{[scat v:v]} =respond= %	応じる		
 dooji	{[scat v:v]} =be_perturbed= %	動じる
 fuuji	{[scat v:v]} =suppress= %	封じる		

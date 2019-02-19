@@ -1,20 +1,22 @@
 % adji
+
+aojiro	{[scat adj]} =pale= % 青白い
+aojiroki	{[scat adj][tense inf]} =pale= "aojiro-ki_ADN"
 arigata	{[scat adj]} =be_appreciated=
 arigatoo	{[scat adj][tense inf]} =be_appreciated= "arigata&ADV"
-ichijirushi	{[scat adj]} =remarkable=
-hoshi	{[scat adj]} =desire=
-yo	{[scat adj]} =good= % 「よい」と「いい」を分ける
-aojiro	{[scat adj]} =pale= % 青白い
-
-aojiroki	{[scat adj][tense inf]} =pale= "aojiro-ki_ADN"
 ashiki	{[scat adj][tense inf]} =bad= "a-shiki_ADN"
-ooki	{[scat adj][tense inf]} =many= "oo-ki_ADN"
+fusawashi	{[scat adj]} =suitable=
 hazukashi	{[scat adj][tense pres]} =ashamed= "hazuka-shi_PRES"
+hoshi	{[scat adj]} =desire=
+ichijirushi	{[scat adj]} =remarkable=
 mattaki	{[scat adj][tense inf]} =complete= "matta-ki_ADN"
 okashi	{[scat adj][tense pres]} =strange= "oka-shi_PRES"
+ooki	{[scat adj][tense inf]} =many= "oo-ki_ADN"
 semashi	{[scat adj][tense pres]} =narrow= "sema-shi_PRES" % シク活用「狭し」
+sokkena	{[scat adj]} =standoffish=
 utsukushiki	{[scat adj][tense inf]} =beautiful= "utsuku-shiki_ADN"
 yamunashi	{[scat adj][tense pres]} =no_choice_but_to= "yamuna-shi_PRES"
+yo	{[scat adj]} =good= % 「よい」と「いい」を分ける
 yoki	{[scat adj][tense inf]} =good= "yo-ki_ADN"
 yoshi	{[scat adj][tense pres]} =good= "yo-shi_PRES" % シク活用「よし」
 
@@ -25,6 +27,9 @@ nashi	{[scat v:ir][tense pres]} =be= "ar&NEG-shi_PRES"
 nasasoo	{[scat n:an]} =be= "ar&NEG-soo_SEEMING"
 
 % adjn
+onaji	{[scat n:an]} =same=  % adn のエントリーを削除してもらうこと!!
+onnaji	{[scat n:an]} =same= "onaji"
+
 akeppanashi	{[scat n:an][comp v:v+v:c]} =of_an_open_nature= "ake+hanashi" % 明けっぱなし
 akeppanashi	{[scat n:an][comp v:v+v:c]} =open_for_a_long_time= "ake+hanashi" % 開けっ放し
 an'i	{[scat n:an]} =easy=
@@ -88,6 +93,7 @@ kaimetsuteki	{[scat n:an]}  =catastrophic=  "kaimetsu_teki_LIKE" % 壊滅的
 kakeppanashi	{[scat n:an][comp v:v+v:c]} =put_on_for_a_long_time= "kake+hanashi" % かけっぱなし
 kakushinteki	{[scat n:an]}  =innovative=  "kakushin_teki_LIKE" % 革新的
 kandooteki	{[scat n:an]}  =touching=  "kandoo_teki_LIKE" % 感動的
+kanjin	 {[scat n:an]} =crucial=
 kappatsu	{[scat n:an]} =active=
 karippanashi	{[scat n:an][comp v:v+v:c]} =borrowing_for_a_long_time= "kari+hanashi" % 借りっぱなし
 keekakuteki	{[scat n:an]}  =planned=  "keekaku_teki_LIKE" % 計画的
@@ -102,6 +108,7 @@ ketteeteki	{[scat n:an]} =decisive= "kettee_teki_LIKE"
 kichi	{[scat n:an]} =known= % 【既知】、n でなく
 kigaru	{[scat n:an]} =lighthearted=
 kihonteki	{[scat n:an]} =basic= "kihon_teki_LIKE"
+kikai	 {[scat n:an]} =strange=
 kikaiteki	{[scat n:an]}  =mechanical=  "kikai_teki_LIKE" % 機械的
 kindaiteki	{[scat n:an]}  =modern=  "kindai_teki_LIKE" % 近代的
 kiraku	{[scat n:an]} =carefree=
@@ -168,10 +175,12 @@ taishooteki	{[scat n:an]}  =contrastive=  "taishoo_teki_LIKE" % 対照的
 teekiteki	{[scat n:an]} =regular= "teeki_teki_LIKE"
 tetsugakuteki	{[scat n:an]}  =philosophical=  "tetsugaku_teki_LIKE" % 哲学的
 tetteeteki	{[scat n:an]} =thoroughly= "tettee_teki_LIKE"
+tokushu	{[scat n:an]} =special=
 wazuka	{[scat n:an]} =slight=
 yashinteki	{[scat n:an]}  =ambitious=  "yashin_teki_LIKE" % 野心的
 yasuraka	{[scat n:an]} =peaceful=
 yuniiku	{[scat n:an]} =unique=
+yutaka	 {[scat n:an]} =rich=
 yuufuku	{[scat n:an]} =rich=
 yuukoo	{[scat n:an]} =valid=
 yuuryoku	{[scat n:an]} =weighty=
@@ -306,6 +315,9 @@ unzari	{[scat adv:onoma]} =be_sick_of=
 uzuuzu	{[scat adv:onoma]} =eagarly=
 zokuzoku	{[scat adv:onoma]} =successively=
 zukezuke	{[scat adv:onoma]} =bluntly=
+machigainaku   {[scat adv]} =definitely=
+nakanaka       {[scat adv]} =not_nearly= %なかなか〜ない
+tomokaku       {[scat adv]} =setting aside=
 
 % adnominal (pnl)
 omoikitta	{[scat adn]} =daring=
@@ -313,19 +325,7 @@ arayuru	{[scat adn]} =every=
 mishiranu	{[scat adn]} =unfamiliar=
 
 
-% suzuki
-fusawashi	{[scat adj]} =suitable=
-sokkena	{[scat adj]} =standoffish=
-
-tokushu	{[scat n:an]} =special=
-
-machigainaku   {[scat adv]} =definitely=
-nakanaka       {[scat adv]} =not_nearly= %なかなか〜ない
-tomokaku       {[scat adv]} =setting aside=
 
 
-% Suzuki 2019/2/18
-kanjin	 {[scat n:an]} =crucial=
-kikai	 {[scat n:an]} =strange=
 
 

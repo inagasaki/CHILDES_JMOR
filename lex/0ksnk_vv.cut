@@ -250,6 +250,15 @@ kagimawar	{[scat v:c][comp v:c+v:c]} =sniff_around= "kag+mawar"
 kagitor		{[scat v:c][comp v:c+v:c]} =sniff_feel= "kag+tor"
 kagitsuke	{[scat v:v][comp v:c+v:v]} =sniff_out= "kag+tsuke"
 kagiwake	{[scat v:v][comp v:c+v:v]} =sniff_distinguish= "kag+wake"
+kaikabur	{[scat v:c]} =overrate=
+kaikom		{[scat v:c][comp v:c+v:c]} =hold_tight= "kak+kom" %掻い込む
+kaikom		{[scat v:c][comp v:c+v:c]} =paddle_in= "kak+kom" %掻い込む
+kaikom		{[scat v:c][comp v:c+v:c]} =buy_in= "kaw+kom" %買い込む
+kaishibur	{[scat v:c][comp v:c+v:c]} =buy_hesitate= "kaw+shibur"
+kaishime	{[scat v:v][comp v:c+v:v]} =buy_up= "kaw+shime"
+kaisoroe	{[scat v:v][comp v:c+v:v]} =buy_complete= "kaw+soroe"
+kaitas		{[scat v:c][comp v:c+v:c]} =buy_add= "kaw+tas"
+kaiuke		{[scat v:v][comp v:c+v:v]} =buy_receive= "kaw+uke"
 kajirichiras	{[scat v:c][comp v:c+v:c]} =nibble_scatter= "kajir+chiras"
 kajiritsuk	{[scat v:c][comp v:c+v:c]} =nibble_at= "kajir+tsuk"
 kakeaw		{[scat v:c][comp v:v+v:c]} =bargain= "kake+aw"

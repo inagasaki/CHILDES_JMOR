@@ -922,8 +922,7 @@ yokunen	 {[scat n]} =next_year=
 yoosoo	 {[scat n]} =appearance=
 zeetakuhin	{[scat n]} =luxury_goods= "zeetaku_hin_GOODS"
 zensai		{[scat n]} =previous_wife=
-
-Baranashi	{[n:prop]} =Varanasi=
+Baranashi	{[scat n:prop]} =Varanasi=
 Dainijisekaitaisen	   {[scat n:prop]} =World_war_II= "Dai_niji_sekai_taisen"
 Erumaanobooken	       {[scat n:prop]} =Elmer's_adventure= "Erumaa_no_booken"
 Gaimu			   {[scat n:prop]} =Foreign_Affairs=
@@ -935,12 +934,11 @@ Mazaateresa	{[scat n:prop]} =Mother_Teresa=
 Obake-chan	{[scat n:prop]} =ghost= "Obake-chan_FAM"
 Ookura		{[scat n:prop]} =Finance=
 Rikugunshoo	{[scat n:prop]} =Ministry_of_Army= "Rikugun_shoo"
-Shiba	 {[n:prop]} =Shiva=
+Shiba		{[scat n:prop]} =Shiva=
 Shibaratori	{[scat n:prop]} =Shivaratri=
 Shoowa		{[scat n:prop]} =Shoowa_era=
 Teekokuhoteru	{[scat n:prop]} =Inperial_hotel=
-
-chooheekensa	{[scat n:vn][comp n:vn+n:vn]} =conscription_check "choohee+kensa"
+chooheekensa	{[scat n:vn][comp n:vn+n:vn]} =conscription_check= "choohee+kensa"
 chooteerikon	{[scat n:vn][comp n:vn+n:vn]} =arbitrated_divorce= "chootee+rikon"
 dokushoshidoohoo       {[scat n][comp n:vn+n]} =teaching_method_of_reading= "dokusho+shidoo_hoo_METHOD"
 dookyoseekatsu	       {[scat n][comp n:vn+n]} =cohabitation= "dookyo+seekatsu"

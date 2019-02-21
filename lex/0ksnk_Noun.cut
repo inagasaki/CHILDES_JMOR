@@ -414,6 +414,7 @@ rendoosee	{[scat n]} =interrelation= "rendoo_see_NATURE" % 連動性
 renzokusee	{[scat n]} =continuity= "renzoku_see_NATURE" % 連続性
 ribensee	{[scat n]} =convenience= "riben_see_NATURE" % 利便性
 rieki	{[scat n]} =profit=
+rikkoho {[scat n:vn]} =stand_as_a_candidate=
 rikkoohosha	{[scat n]} =candidate= "rikkooho_sha_PERSON" % 立候補者
 rireki	{[scat n]} =history=
 rirekisho	{[scat n]} =resume= "rireki_sho_LETTER" % 履歴書
@@ -765,17 +766,72 @@ shachoodaikoo	{[scat n][comp n+n]} =acting_president= "shachoo+daikoo"
 untenshikin	{[scat n][comp n:vn+n]} =working_capital= "unten+shikin"
 yakuinkoosee	{[scat n][comp n+n]} =list_of_directors= "yakuin+koosee"
 kokuseesenkyo {[scat n:n][scat n+n]} =national_election=
+<<<<<<< HEAD
 dookoo {[scat n]} =move= % 動向
 shoooten {[scat n]} =focus=
 dokujikooho {[scat n][comp n:an+n]} =original_candidate= "dokuji+kooho"
 genshoku {[scat n]} =incumbent=
 jimotoseekaikankeesha {[scat n][comp n+n+n]} =people_involved_in_the_local_political_circle= "jimoto+seekai+kankee_sha_PERSON"
+=======
+Satoo {[scat n:prop]} =Satoo= 
+dookoo {[scat n]} =move= % 動向
+shoooten {[scat n]} =focus=
+Jimin {[scat n:prop]} =LDP= % 自民
+dokujikooho {[scat n:n][comp n+n]} =original_candidate= "dokuji+kooho"
+yooritsu {[scat n:vn]} =putting_up= 
+Minshu {[scat n:prop]} =DPJ= % 民主（党）
+shudookenkakuho {[scat n:n][comp n+n:vn]} =securing_initiative= "shudooken+kakuho"
+shudooken {[scat n]} =initiative=
+yakki {[scat n]} =wrought_up= % 躍起
+genshoku {[scat n]} =incumbent=
+Satooyuuhee {[scat n:prop][comp n:prop+n:prop]} "Satoo-Yuuhee"
+Fukushimadaiichigempatsujiko {[scat n:prop][comp n:prop+n+n]} =Fukushima_Daiichi_nuclear_disaster= "Fukushimadaiichi+genpatsu+jiko"
+fukkoo {[scat n:vn]} =reconstruction=
+maishin {[scat n:vn]} =striving=
+meigen {[scat n:vn]} =declaration=
+jimotoseekaikankeesha {[scat n][comp n+n+n]} =people_involved_in_the_local_political_circle= "jimoto+seekai+kankeesha"
+>>>>>>> update
 dankai {[scat n]} =stage=
 kankyoo {[scat n]} =environment=
 sakunen {[scat n]} =last_year=
 genshiryokusaigai {[scat n][comp n+n]} =nuclear_power_disaster= "genshiryoku+saigai"
 genshokurakusendomino {[scat n][comp n+n:vn+n]} =continual_losing_of_imcumbents= "genshoku+rakusen+domino"
 saishuushoo {[scat n][comp n+n]} =last_chapter= "saishuu+shoo"
+<<<<<<< HEAD
+=======
+toosen {[scat n:vn]} =be_elected= 
+hatsutoosen {[scat n:vn][comp n+n:vn]} =be_firstly_elected= "hatsu+toosen"
+seetoo {[scat n]} =political_party=
+suisen {[scat n:vn]} =recommendation=
+kyoosantoosuisenkooho {[scat n] [comp n+n+n:vn+n]} =candidate_recommended_by_JCP= "kyoosan+too+suisen+kooho"
+asshoo {[scat n:vn]} =overwhelming_victory=
+shuugiinfukugichoo {[scat n] [comp n+n]} =vice_speaker_of_the_House_of_Japan= "shuugiin+fukugichoo"
+hisho {[scat n]} =secretary= 
+senkyokyooshaburi {[scat n] [comp n+n]} =the_strength_in_election= "senkyo+kyooshaburi"
+hakki {[scat n:vn]} =give_full_play=
+kenseeyotoo {[scat n:n]} =the_government_party_of_a_prefecture= "kensee+yotoo"
+jinin {[scat n:vn]} =pretension= % 自任する
+Minshutoo {[scat n:prop]} =DPJ= 
+shuuinsen {[scat n]} =election_of_the_House_of_Japan=
+kennai {[scat n]} =within_a_prefection=
+zampai {[scat n]} =be_beaten_hollow= 
+kaisensuu {[scat n] [comp n:vn+n]} =the_number_of_the_seat_to_be_reelected= "kaisen+suu"
+san'insenfukushimasenkyoku {[scat n] [comp n+n+n:prop+n+n]} =Senate_District_of_Fukushima= "san'in+sen+fukushima+senkyo+ku"
+giseki {[scat n]} =seat_in_Diet= 
+jikichijisen {[scat n] [comp n+n]} =next_gubernatorial_election= "jiki+chijisen"
+kensee {[scat n]} =politics_of_a_prefecture=
+suimenka {[scat n]} =below_the_surface=
+kooho {[scat n]} =candidate=
+mosaku {[scat n:vn]} =groping=
+kokkai {[scat n]} =national_diet=
+attootekitasuu {[scat n:n] [comp n:an+n]} =overwhelming_majority= "attooteki+tasuu"
+ikkyoo {[scat n:an]} =the_uniquely_strong=
+Jimintoo {[scat n:prop]} =LDP=
+kakujitsushi {[scat n:vn]} =considering_to_be_sure=
+naikakufutokumeetantooshoo {[scat n][comp n+n:an+n]} =minister_appointed_by_the_Cabinet_Office= "naikakufu+tokumee+tantooshoo"
+
+% Suzuki 2019/2/18
+>>>>>>> update
 animashion	{[scat n]} =animacion=
 bangurasshii	{[scat n]} =bhang_lassi=
 busshi		{[scat n]} =goods=

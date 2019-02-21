@@ -802,7 +802,10 @@ kake {[scat v:v]} =hang= % 帽子をハンガーに_掛ける_
 mirare {[scat v:v]} =seem= % VB2の「見られる」
 tames {[scat v:c]} =test= % 「（大地が）試される」
 mas {[scat v:c]} =increase=
-
+shirizoke {[scat v:v]} =repulse=
+nozom {[scat v:c]} =confront=
+shime {[scat v:v]} =rank= % 占める
+yabure {[scat v:v]} =lose= % 敗れる
 
 % suzuki
 ake	{[scat v:v]} =be_over= %明ける

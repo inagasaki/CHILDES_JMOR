@@ -1,3 +1,15 @@
+% Noun
+% head {[scat n]} ==
 soode	{[scat n]} =all= % 総出
 iejuu	{[scat n]} =throughout_the_house= "ie_juu_THROUGHOUT"
 iejuusoode {[scat n][comp n+n]} =throughout_the_house_all= "ie_juu_THROUGHOUT_soode"
+rensai	   {[scat n]} =serial=
+rensaishoosetsu	  {[scat n][comp n+n]} =serial_novel= "rensai_shoosetsu"
+min'yoo		  {[scat n]} =folk_music=
+keesatsuken	  {[scat n]} =police_dog=
+mayaku		  {[scat n]} =drug=
+keeji	  {[scat n]} =police_detective=
+daiichininsha	 {[scat n]} =leading_figure=
+keemoosho {[scat n]} =enlightenment_book=
+% Taigaa・uzzu {[scat n:prop]} =Tiger_Woods=
+

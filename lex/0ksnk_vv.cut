@@ -140,7 +140,6 @@ haneagar	{[scat v:c][comp v:v+v:c]} =spring_up_= "hane+agar"
 haneage		{[scat v:v][comp v:v+v:v]} =splash= "hane+age"
 haneage		{[scat v:v][comp v:v+v:v]} =skyrocket= "hane+age"
 hanedas		{[scat v:c][comp v:v+v:c]} =spring_out= "hane+das"
-hanedas		{[scat v:c][comp v:v+v:c]} =spring_out= "hane+das"
 hanekom		{[scat v:c][comp v:v+v:c]} =spring_into= "hane+kom"
 hanenok		{[scat v:c][comp v:v+v:c]} =spring_back= "hane+nok"
 haraiage	{[scat v:v][comp v:c+v:v]} =brush_up= "haraw+age"
@@ -246,26 +245,43 @@ jirekom		{[scat v:c][comp v:v+v:c]} =become_irritated_completely= "jire+kom"
 kabusekom	{[scat v:c][comp v:v+v:c]} =cover_up= "kabuse+kom"
 kachiagar	{[scat v:c][comp v:c+v:c]} =win_advance= "kat+agar"
 kachie		{[scat v:v][comp v:c+v:v]} =win_get= "kat+e"
+kaeritsuk	{[scat v:c][comp v:c+v:c]} =return_reach= "kaer+tsuk" %帰り着く
+kaerizak	{[scat v:c][comp v:c+v:c]} =return_bloom= "kaer+sak" %返り咲く
+kagamikom	{[scat v:c][comp v:c+v:c]} =stoop_down= "kagam+kom" 
+kagayakide	{[scat v:v][comp v:c+v:v]} =shine_out= "kagayak+de"
+kagiate		{[scat v:v][comp v:c+v:v]} =sniff_guess= "kag+ate"
 kagimawar	{[scat v:c][comp v:c+v:c]} =sniff_around= "kag+mawar"
 kagitor		{[scat v:c][comp v:c+v:c]} =sniff_feel= "kag+tor"
 kagitsuke	{[scat v:v][comp v:c+v:v]} =sniff_out= "kag+tsuke"
 kagiwake	{[scat v:v][comp v:c+v:v]} =sniff_distinguish= "kag+wake"
 kaidas		{[scat v:c][comp v:c+v:c]} =paddle_out= "kak+das" %掻い出す
+kaihikae	{[scat v:v][comp v:c+v:v]} =buy_refrain= "kau+hikae"
 kaikabur	{[scat v:c]} =overrate=
 kaikom		{[scat v:c][comp v:c+v:c]} =hold_tight= "kak+kom" %掻い込む
 kaikom		{[scat v:c][comp v:c+v:c]} =paddle_in= "kak+kom" %掻い込む
 kaikom		{[scat v:c][comp v:c+v:c]} =buy_in= "kaw+kom" %買い込む
+kaimodos	{[scat v:c][comp v:c+v:c]} =buy_back= "kaw+modos"
+kaimotome	{[scat v:v][comp v:c+v:v]} =buy_ask_for= "kaw+motome"
+kainaras	{[scat v:c][comp v:c+v:c]} =have_domesticate= "kaw_naras" %飼い慣らす
 kaishibur	{[scat v:c][comp v:c+v:c]} =buy_hesitate= "kaw+shibur"
 kaishime	{[scat v:v][comp v:c+v:v]} =buy_up= "kaw+shime"
 kaisoroe	{[scat v:v][comp v:c+v:v]} =buy_complete= "kaw+soroe"
 kaitas		{[scat v:c][comp v:c+v:c]} =buy_add= "kaw+tas"
 kaitatak	{[scat v:c][comp v:c+v:c]} =buy_cheaply= "kaw+tatak"
 kaitotonoe	{[scat v:v][comp v:c+v:v]} =buy_arrange= "kaw+totonoe"
+kaitor		{[scat v:c][comp v:c+v:c]} =buy_take= "kaw+tor"
 kaitsuke	{[scat v:v][comp v:c+v:v]} =buy= "kaw+tsuke"
 kaitsumam	{[scat v:c][comp v:c+v:c]} =summarize= "kak+tsumam"
 kaiuke		{[scat v:v][comp v:c+v:v]} =buy_receive= "kaw+uke"
 kajirichiras	{[scat v:c][comp v:c+v:c]} =nibble_scatter= "kajir+chiras"
 kajiritsuk	{[scat v:c][comp v:c+v:c]} =nibble_at= "kajir+tsuk"
+kakaedas	{[scat v:c][comp v:v+v:c]} =hold_out= "kakae+das" %抱え出す
+kakaeage	{[scat v:v][comp v:v+v:v]} =hold_up= "kakae+age" %抱え上げる
+kakaeire	{[scat v:v][comp v:v+v:v]} =hold_into= "kakae+age" %抱え入れる
+kakaeori	{[scat v:v][comp v:v+v:v]} =hold_down= "kakae+ori" %抱え下りる
+kakaeoros	{[scat v:c][comp v:v+v:c]} =hold_put_down= "kakae+ori" %抱え下ろす
+kakaekom	{[scat v:c][comp v:v+v:c]} =hold_in= "kakae+kom" 
+kakawariaw	{[scat v:c][comp v:c+v:c]} =be_concerned_with= "kakawar+aw"
 kakeaw		{[scat v:c][comp v:v+v:c]} =bargain= "kake+aw"
 kakeawase	{[scat v:v][comp v:v+v:v]} =multiply/breed= "kake+awase"
 kakechigaw	{[scat v:c][comp v:v+v:c]} =put/dial_wrongly= "kake+chigaw"
@@ -277,6 +293,11 @@ kakemot		{[scat v:c][comp v:v+v:c]} =be_concurrently_responsible_for= "kake+mot"
 kakenobor	{[scat v:c][comp v:v+v:c]} =run_up= "kake+nobor"
 kakeori		{[scat v:v][comp v:v+v:v]} =run_down= "kake+ori"
 kakesar		{[scat v:c][comp v:v+v:c]} =run_leave= "kake+sar"
+kakiage		{[scat v:v][comp v:c+v:v]} =write_up= "kak+age"
+kakiage		{[scat v:v][comp v:c+v:v]} =comb_up= "kak+age" %掻き上げる
+kakiagum	{[scat v:c][comp v:c+v:c]} =write_be_at_a_loss= "kak+agum"
+kakiarawas	{[scat v:c][comp v:c+v:c]} =write_publish= "kak+arawas" %書き著す
+kakiatsume	{[scat v:v][comp v:c+v:v]} =sweep_collect= "kak+atsume" %掻き集める
 kakichiras	{[scat v:c][comp v:c+v:c]} =write_scatter= "kak+chiras"
 kakimidare	{[scat v:v][comp v:c+v:v]} =become_disturbed= "kak+midare"
 kakimidas	{[scat v:c][comp v:c+v:c]} =disturb= "kak+midas"
@@ -743,6 +764,7 @@ nusumisar	{[scat v:c][comp v:c+v:c]} =steal_leave= "nusum+sar"
 nusumitor	{[scat v:c][comp v:c+v:c]} =steal_take= "nusum+tor"
 omoimadow	{[scat v:c][comp v:c+v:c]} =think_be_bewildered= "omow+madow"
 oshiir		{[scat v:c][comp v:c+v:c]} =break_into= "os+ir"
+oshitaos	{[scat v:c][comp v:c+v:c]} =push_down= "os+taos"
 ronjiaw		{[scat v:c][comp v:v+v:c]} =argue_with_each_other= "ronji+aw"
 ronjitate	{[scat v:v][comp v:v+v:v]} =argue_particularly= "ronji+tate"
 sabikom		{[scat v:c][comp v:v+v:c]} =rust_completely= "sabi+kom"

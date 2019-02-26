@@ -577,6 +577,7 @@ uranai	{[scat n]} =fortune_telling= % 占い
 uranaishi	{[scat n]} =fortune_teller= "uranai_shi_MASTER" % 占い師
 yakusha	{[scat n]} =actor= % 役者
 yakusha	{[scat n]} =translator= % 訳者
+yakuza	{[scat n]} =gangstar= % 訳者
 yasaishitsu	{[scat n]} =vegetable_space= "yasai_shitsu_ROOM" % 野菜
 yatoo	{[scat n]} =opposition_party= "ya_too_PARTY" % 野党
 yogensha	{[scat n]} =prophet= "yogen_sha_PERSON"

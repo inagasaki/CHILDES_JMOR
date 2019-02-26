@@ -587,7 +587,7 @@ urochoro	{[scat n:vn:onoma]}	 =loitering=	 %	うろちょろ
 usabarashi	{[scat n:vn]}	 =entertainment= "usa_haras&GER"	 %	憂さ晴し 
 usonaki	{[scat n:vn]}	 =fake_crying= "uso_nak&GER"	 %	うそ泣き 
 usugeshoo	{[scat n:vn]}	 =applying_light_make_up= "usu_keshoo"	 %	薄化粧 
-usurawarai	{[scat n:vn]}	 =laughing_slightly= utsura_waraw&GER""	 %	うすら笑い 
+usurawarai	{[scat n:vn]}	 =laughing_slightly= "utsura_waraw&GER"	 %	うすら笑い 
 utatane	{[scat n:vn]}	 =doze= "uta_ne&GER"	 %	うたた寝 
 utouto	{[scat n:vn:onoma]}	 =dozing_of=	 %	うとうと 
 utsurautsura	{[scat n:vn:onoma]}	 =nodding_off=	 %	うつらうつら 

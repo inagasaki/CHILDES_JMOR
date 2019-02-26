@@ -2,11 +2,55 @@
 
 shiharai	{[scat n:vn]} =payment=
 shorui	{[scat n]} =document=
-braindo	{[scat n]} =window_blinds= % ブラインド
+buraindo	{[scat n]} =window_blinds= %ブラインド
 nyuujooryoo {[scat n]} =admission_fee= %入場料
 sukiijoo {[scat n]} =ski_area= %スキー場
 kafe {[scat n]} =cafe= %カフェ
+shoojoo {[scat n]} =certificate= %賞状
+suisenjoo {[scat n]} =letter_of_recommendation= %推薦状
+i {[scat n]} =sense/will= %意 例:「感謝の意」
+senjitsu {[scat n]} =the_other_day= %先日
 herushii {[scat adn]} =healthy= %ヘルシー
+
+%%%
+tsukaiyasusa {[scat n]} =use= "tsukaw-yasu_EASY-sa_NLZR" %使いやすさ(一時的に手動で登録した。02/20)
+%%%
+
+%CO
+ee	{[scat co:i]} =yes= %「ええ」
+ie	{[scat co:i]} =no= %「いえ」
+
+%V
+naos	{[scat v:c]} =repair=	%【直す】 コメント:「直す」と「治す」の区別。すでにverb.cutに「直す」"cure"というエントリーがあるが、そちらは「治す」であるべき。
+iras	{[scat v:c]} =come_POL= %「いらして」「いらした」
+iras	{[scat v:c]} =be_POL= %「いらして」「いらした」
+kake	{[scat v:v]} =require= %「迷惑を掛ける」
+
+
+%prop
+Saitoo	{[scat n:prop]} =Saitoo=
+Satoo	{[scat n:prop]} =Satoo=
+Itoo	{[scat n:prop]} =Itoo=
+Takahashi	{[scat n:prop]} =Takahashi=
+Hose	{[scat n:prop]} =Hose= %Jose ホセ 人名
+Rosa {[scat n:prop]} =Rosa= %Rosa ロサ 人名
+Watanabe	{[scat n:prop]} =Watanabe=
+Nakamura	{[scat n:prop]} =Nakamura=
+Katoo	{[scat n:prop]} =Katoo=
+Abe	{[scat n:prop]} =Abe=
+Mori	{[scat n:prop]} =Mori=
+
+
+
+
+
+
+
+
+
+
+
+
 
 nobori	{[scat n]} =going_up=	%上り
 kudari	{[scat n]} =going_down=	%下（くだ）り
@@ -217,6 +261,9 @@ kamigakari {[scat n][comp n+v:v]} =divine_possession= "kami+kakari"	%神懸り
 koshikake {[scat n][comp n+v:v]} =chair/seat= "koshi+kake"	%腰掛け
 uragaeshi {[scat n][comp n+v:c]} =inside_out/upside_down= "ura+kaeshi"	%裏返し
 hayaerabi {[scat n][comp n+v:c]} =looking_for_rooms= "heya+erabi"	%部屋選び
+
+%N N+N?
+kokusaikaigi	{[scat n][comp n+n]} =international_conference= "kokusai+kaigi"
 
 %VN
 

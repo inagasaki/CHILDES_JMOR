@@ -578,6 +578,7 @@ uranai	{[scat n]} =fortune_telling= % 占い
 uranaishi	{[scat n]} =fortune_teller= "uranai_shi_MASTER" % 占い師
 yakusha	{[scat n]} =actor= % 役者
 yakusha	{[scat n]} =translator= % 訳者
+yakuza	{[scat n]} =gangstar= % 訳者
 yasaishitsu	{[scat n]} =vegetable_space= "yasai_shitsu_ROOM" % 野菜
 yatoo	{[scat n]} =opposition_party= "ya_too_PARTY" % 野党
 yogensha	{[scat n]} =prophet= "yogen_sha_PERSON"
@@ -691,7 +692,6 @@ booeesen	{[scat n][comp n:vn+n]} =line_of_defence= "booee+sen"
 chian	{[scat n]} =public_peace=
 chiikijiman	{[scat n][comp n+n:vn]} =one's_own_region_boasting= "chiiki+jiman"
 chikagoro	{[scat n]} =recently=
-dezainsensu	{[scat n]{[comp n:vn+n}} =sense_of_design= "dezain+sensu"
 doshi	{[scat n]} =year=
 eejento	{[scat n]} =agent=
 eewajiten	{[scat n][comp n+n]} =English_Japanese_dictionary= "ee_wa+jiten"
@@ -767,13 +767,6 @@ shachoodaikoo	{[scat n][comp n+n]} =acting_president= "shachoo+daikoo"
 untenshikin	{[scat n][comp n:vn+n]} =working_capital= "unten+shikin"
 yakuinkoosee	{[scat n][comp n+n]} =list_of_directors= "yakuin+koosee"
 kokuseesenkyo {[scat n:n][scat n+n]} =national_election=
-<<<<<<< HEAD
-dookoo {[scat n]} =move= % 動向
-shoooten {[scat n]} =focus=
-dokujikooho {[scat n][comp n:an+n]} =original_candidate= "dokuji+kooho"
-genshoku {[scat n]} =incumbent=
-jimotoseekaikankeesha {[scat n][comp n+n+n]} =people_involved_in_the_local_political_circle= "jimoto+seekai+kankee_sha_PERSON"
-=======
 Satoo {[scat n:prop]} =Satoo= 
 dookoo {[scat n]} =move= % 動向
 shoooten {[scat n]} =focus=
@@ -791,15 +784,12 @@ fukkoo {[scat n:vn]} =reconstruction=
 maishin {[scat n:vn]} =striving=
 meigen {[scat n:vn]} =declaration=
 jimotoseekaikankeesha {[scat n][comp n+n+n]} =people_involved_in_the_local_political_circle= "jimoto+seekai+kankeesha"
->>>>>>> update
 dankai {[scat n]} =stage=
 kankyoo {[scat n]} =environment=
 sakunen {[scat n]} =last_year=
 genshiryokusaigai {[scat n][comp n+n]} =nuclear_power_disaster= "genshiryoku+saigai"
 genshokurakusendomino {[scat n][comp n+n:vn+n]} =continual_losing_of_imcumbents= "genshoku+rakusen+domino"
 saishuushoo {[scat n][comp n+n]} =last_chapter= "saishuu+shoo"
-<<<<<<< HEAD
-=======
 toosen {[scat n:vn]} =be_elected= 
 hatsutoosen {[scat n:vn][comp n+n:vn]} =be_firstly_elected= "hatsu+toosen"
 seetoo {[scat n]} =political_party=
@@ -832,7 +822,6 @@ kakujitsushi {[scat n:vn]} =considering_to_be_sure=
 naikakufutokumeetantooshoo {[scat n][comp n+n:an+n]} =minister_appointed_by_the_Cabinet_Office= "naikakufu+tokumee+tantooshoo"
 
 % Suzuki 2019/2/18
->>>>>>> update
 animashion	{[scat n]} =animacion=
 bangurasshii	{[scat n]} =bhang_lassi=
 busshi		{[scat n]} =goods=

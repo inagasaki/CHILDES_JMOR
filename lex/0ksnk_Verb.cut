@@ -2,7 +2,6 @@
 hokanaranai {[scat v:c]} =be_nothing_other_than= "hokanarana-PRES"
 
 % verb
-
 age	{[scat v:v]} =mention=
 ais	{[scat v:c]} =love=                   % 【愛す】（「愛す.べき」）
 atar	{[scat v:c]} =be_in_charge=
@@ -19,26 +18,30 @@ hanas	{[scat v:c]} =speak=
 hans	{[scat v:c]} =be_against=
 hate	{[scat v:v]} =terminate= %	果てる
 ikar	{[scat v:c]} =get_angry=
+iras	{[scat v:c]} =be_POL= %「いらして」「いらした」
+iras	{[scat v:c]} =come_POL= %「いらして」「いらした」
 kakar	{[scat v:c]} =be_required=	% 時間がかかる
+kake	{[scat v:v]} =require= %「迷惑を掛ける」
 kik	{[scat v:c]} =hear/listen=	%【聴く】
 kikoe	{[scat v:v]} =be_heard=
 makas	{[scat v:c]} =defeat=	%【負かす】
 mawar	{[scat v:c]} =revolve=
 mawas	{[scat v:c]} =revolve=
 mi	{[scat v:v]} =see/look/watch=	%【見る】
+naos	{[scat v:c]} =repair=	%【直す】 コメント:「直す」と「治す」の区別。すでにverb.cutに「直す」"cure"というエントリーがあるが、そちらは「治す」であるべき。
 ne	{[scat v:v]} =sleep=
 oishiger	{[scat v:c]} =be_overgrown=
+okur	{[scat v:c]} =pass/spend=
+ondas	{[scat v:c]} =expel=
+onde	{[scat v:v]} =get_out=
 sabak	{[scat v:c]} =deal_with/judge=  % =dissemble= というエントリーは（dissembleという意味はないように思われるので）削除してよいのではないか？
 sakeb	{[scat v:c]} =shout=
+shikir	{[scat v:c]} =manage=
 sute	{[scat v:v]} =discard=	%【捨てる】(《棄てる)
 uchikom	{[scat v:c]} =be_absorbed_in= % "ut_kom" の一語化
 umare	{[scat v:v]} =be_born= %生まれる "umare&PASS" ではない
 ut	{[scat v:c]} =hit/shoot=	%【打つ】【撃つ】
 yak	{[scat v:c]} =bake/fry/roast=	%【焼く】***
-ondas	{[scat v:c]} =expel=
-onde	{[scat v:v]} =get_out=
-shikir	{[scat v:c]} =manage=
-okur	{[scat v:c]} =pass/spend=
 
 % 修正希望
 arienai	{[scat v:ir][tense pres]} =be= "ar-POT-NEG-PRES"

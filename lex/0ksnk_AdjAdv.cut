@@ -152,4 +152,8 @@ omoikitta	{[scat adn]} =daring=
 arayuru	{[scat adn]} =every=
 mishiranu	{[scat adn]} =unfamiliar=
 
+% deic
+kooshita	{[scat adn:deic:dem]} =like_this= % adn|koo_shita=such を変更
+aashita	{[scat adn:deic:dem]} =like_that=
 
+donoyooni	{[scat adv:deic:wh]} =how= "dono_yoo_ni"

@@ -8,6 +8,9 @@
 
 % VN (n:vn)
 
+
 % Verb (v:c, v:v, v:ir)
 
 % misc (ptl, smod, conj, num, quant, co:i, -sfx)
+
+% pending items

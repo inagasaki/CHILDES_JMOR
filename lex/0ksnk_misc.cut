@@ -23,15 +23,6 @@ soo	{[scat smod]} =HEARSAY=  % hearsay を大文字に
 yoo	{[scat smod]} =SENS=
 tsumori	{[scat smod]} =INTEN= % intentional
 
-% deic
-kooshita	{[scat adn:deic:dem]} =like_this= % adn|koo_shita=such を変更
-aashita	{[scat adn:deic:dem]} =like_that=
-donoyooni	{[scat adv:deic:wh]} =how= "dono_yoo_ni"
-waga	{[scat n:deic:prs]} =our=
-jishin	{[scat n:deic:prs]} =self=
-gojishin	{[scat n:deic:prs]} "go_HON#jishin" =self=
-korera	{[scat n:deic:dem]} =this= "kore-ra_PL"
-reeno	{[scat n:deic:dem]} =in_question=
 
 % conj
 chinamini	{[scat conj]} =by_the_way=
@@ -55,6 +46,7 @@ sarani	{[scat conj]} =furthermore=
 saraniwa	{[scat conj]} =furthermore=
 shikashinagara	{[scat conj]} =but=
 shitagatte	{[scat conj]} =therefore=
+shitemiruto	{[scat conj]} =if_so=
 sooshite	{[scat conj]} =and_then=
 soremo	{[scat conj]} =and_in_addition_to_that=
 sorenishitemo	{[scat conj]} =nevertheless=
@@ -67,9 +59,17 @@ yotte	{[scat conj]} =therefore=
 ichinenjuu	{[scat num]} =one= "ichi-nen_YEAR-juu_THROUGHOUT" % 修正希望
 ichinichijuu	{[scat num]} =one= "ichi-nichi_DAY-juu_THROUGHOUT" % 修正希望			
 
-% q
+% quant
 maitoshi	{[scat quant]} =every_year= "mai_EVERY_toshi"
 zen'in	{[scat quant]} =all_members= 	% 全員 
+
+% interjection
+ee	{[scat co:i]} =yes= %「ええ」
+ie	{[scat co:i]} =no= %「いえ」
+nanda	{[scat co:i]} =oh= "nan_da"
+yare		{[scat co:i]} =sigh=
+
+% -sfx
 mairu	{[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numCBb numCBn2]} "mairu_MILE"
 shuukan	{[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numCBb numCBn2]} "shuukan_WEEK"
 
@@ -104,11 +104,6 @@ senkyoku {[scat num:cl] [comp n+num:cl]} =ELECTORAL_DISTRICT=  "senkyo+ku"
 shoo {[scat num:cl]} =shoo_VICTORY= % n勝
 hai {[scat num:cl]} =hai_DEFEAT= % n敗
 
-% interjection
-nanda	{[scat co:i]} =oh= "nan_da"
-
 % Suzuki 2019/2/18
-shitemiruto	{[scat conj]} =if_so=
-yare		{[scat co:i]} =sigh=
 zuruzuru	{[scat onoma]} =loose=
 

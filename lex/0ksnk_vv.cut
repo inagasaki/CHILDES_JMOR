@@ -297,8 +297,10 @@ kakiage		{[scat v:v][comp v:c+v:v]} =write_up= "kak+age"
 kakiage		{[scat v:v][comp v:c+v:v]} =comb_up= "kak+age" %掻き上げる
 kakiagum	{[scat v:c][comp v:c+v:c]} =write_be_at_a_loss= "kak+agum"
 kakiarawas	{[scat v:c][comp v:c+v:c]} =write_publish= "kak+arawas" %書き著す
+kakiarawas	{[scat v:c][comp v:c+v:c]} =write_express= "kak+arawas" %書き表す
 kakiatsume	{[scat v:v][comp v:c+v:v]} =sweep_collect= "kak+atsume" %掻き集める
 kakichiras	{[scat v:c][comp v:c+v:c]} =write_scatter= "kak+chiras"
+kakiire		{[scat v:v][comp v:c+v:v]} =write_in= "kak+ire" 
 kakimidare	{[scat v:v][comp v:c+v:v]} =become_disturbed= "kak+midare"
 kakimidas	{[scat v:c][comp v:c+v:c]} =disturb= "kak+midas"
 kakimidas	{[scat v:c][comp v:c+v:c]} =scratch_dishevel= "kak+midas"

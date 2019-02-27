@@ -10,7 +10,7 @@ shoojoo {[scat n]} =certificate= %賞状
 suisenjoo {[scat n]} =letter_of_recommendation= %推薦状
 i {[scat n]} =sense/will= %意 例:「感謝の意」
 senjitsu {[scat n]} =the_other_day= %先日
-herushii {[scat adn]} =healthy= %ヘルシー
+herushii {[scat n:an]} =healthy= %ヘルシー
 
 %%%
 tsukaiyasusa {[scat n]} =use= "tsukaw-yasu_EASY-sa_NLZR" %使いやすさ(一時的に手動で登録した。02/20)

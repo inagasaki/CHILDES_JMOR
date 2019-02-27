@@ -264,7 +264,9 @@ mitetor	{[scat v:c][comp v:v+v:c]} =see_and_get= "mite+tor"
 moedas	{[scat v:c][comp v:v+v:c]} =begin_to_burn= "moe+das"
 moriagar	{[scat v:c][comp v:c+v:c]} =liven_up= "mor+agar"
 mukaiaw	{[scat v:c][comp v:c+v:c]} =face_each_other= "mukaw+aw"
+naki	{[scat v:ir][tense inf]} =be= "ar&NEG-ki_ADN"
 nakihajime	{[scat v:v][comp v:c+v:v]} =cry_start= "nak+hajime"
+nashi	{[scat v:ir][tense pres]} =be= "ar&NEG-shi_PRES"
 namemakur	{[scat v:c][comp v:v+v:c]} =lick_recur= "name+makur"
 nariowar	{[scat v:c][comp v:c+v:c]} =ring_finish= "nar+owar"
 nigemawar	{[scat v:c][comp v:v+v:c]} =escape_revolve= "nige+mawar"
@@ -606,195 +608,12 @@ yukikayow	{[scat v:c][comp v:c+v:c]} =pass= "yuk+kayow"
 yurashihajime	{[scat v:v][comp v:c+v:v]} =shake_start= "yur&CAUS+hajime"
 yusurihajime	{[scat v:v][comp v:c+v:v]} =shake_start= "yusur+hajime"
 
-% vn
-atenige	{[scat n:vn]} =hit_and_run_away= "ate_nige"	% 当て逃げ
-bika	{[scat n:vn]} =beautification= "bi_ka_BECOMING" % 美化
-boranteea	{[scat n:vn]} =volunteer=
-bunka	{[scat n:vn]} =differentiation= "bun_ka_BECOMING" % 分化
-bunshooboshuu	{[scat n:vn][comp n+n:vn]} =call_for_papers= "bunshoo+boshuu"
-buntan		{[scat n:vn]} =assignation= 
-chakushu	{[scat n:vn]} =start=
-chiikisaisee {[scat n:vn][comp n+n:vn]} =revival_of_provincial_areas= "chiiki+saisee"
-chinseeka	{[scat n:vn]} =calming_down= "chinsee_ka_BECOMING" % 鎮静化
-choohee		{[scat n:vn]} =conspriction=
-chooheekensa	{[scat n:vn][comp n:vn+n:vn]} =conscription_check= "choohee+kensa"
-chookika	{[scat n:vn]} =lengthening= "chooki_ka_BECOMING" % 長期化
-choosa		{[scat n:vn]} =research= 
-chooteerikon	{[scat n:vn][comp n:vn+n:vn]} =arbitrated_divorce= "chootee+rikon"
-chuukai	{[scat n:vn]} =brokerage=
-daihyoo	{[scat n:vn]} =represent=
-deetabeesuka	{[scat n:vn]} =database_compilation= "deetabeesu_ka_BECOMING" % データベース化
-dejitaruka	{[scat n:vn]} =digitization= "dejitaru_ka_BECOMING" % デジタル化
-denka	{[scat n:vn]} =electronization= "den_ka_BECOMING" % 電化
-denshika	{[scat n:vn]} =electronization= "denshi_ka_BECOMING" % 電子化
-dezain	{[scat n:vn]} =design=
-dokusho		{[scat n:vn]} =reading=
-donka	{[scat n:vn]} =getting_dull= "don_ka_BECOMING" % 鈍化
-dooka	{[scat n:vn]} =assimilation= "doo_ka_BECOMING" % 同化
-fuka	{[scat n:vn]} =append=
-fukkoo {[scat n:vn]} =reconstruction=
-furin		{[scat n:vn]} =adultery=
-fuuka	{[scat n:vn]} =weathering= "fuu_ka_BECOMING" % 風化
-gaikotsuka	{[scat n:vn]} =transforming_into_skeleton= "gaikotsu_ka_BECOMING" % 骸骨化
-gakushuu	{[scat n:vn]} =learning= % 学習
-gekika	{[scat n:vn]} =intensification= "geki_ka_BECOMING" % 激化
-genjitsuka	{[scat n:vn]} =	realization= "genjitsu_ka_BECOMING" % 現実化
-goorika	{[scat n:vn]} =rationalization= "goori_ka_BECOMING" % 合理化
-gutaika	{[scat n:an]} =substantiation= "gutai_ka_BECOMING"
-happyoo	{[scat n:vn]} =give_presentation=
-hatan		{[scat n:vn]} =break_down=
-hatchuu		{[scat n:vn]} =order=
-hatten	{[scat n:vn]} =develop=
-hen'yoo	{[scat n:vn]} =change=
-henkaku	{[scat n:vn]} =change=
-henshuu		{[scat n:vn]} =edit=
-hikinige	{[scat n:vn]} =hit_and_run_away= "hik_nige"	%【ひき逃げ】(〈轢き逃げ)
-honkakuka	{[scat n:vn]} =proceeding_at_full_tilt= "honkaku_ka_BECOMING" % 本格化
-hookoku	{[scat n:vn]} =report=
-hoshoo		{[scat n:vn]} =guarantee=
-hyoogen	{[scat n:vn]} =express=
-hyoojunka	{[scat n:vn]} =standardization= "hyoojun_ka_BECOMING" % 標準化
-hyooka	{[scat n:vn]} =evaluate=
-hyoomenka	{[scat n:vn]} =surfacing= "hyoomen_ka_BECOMING" % 表面化
-ika	{[scat n:vn]} =dissimilation= "i_ka_BECOMING" % 異化
-ippanka	{[scat n:vn]} =generalization= "ippan_ka_BECOMING" % 一般化
-irai	{[scat n:vn]} =request=
-jihishuppan	{[scat n:vn][comp n+n:vn]} =self_publishing= "jihi+shuppan"
-jikkoo		{[scat n:vn]} =execution=
-jisshi	{[scat n:vn]} =put_into_practice=
-jiyuuka	{[scat n:vn]} =liberalization= "jiyuu_ka_BECOMING" % 自由化
-jooba	{[scat n:vn]} =ride_horseback=
-jooka	{[scat n:vn]} =purification= "joo_ka_BECOMING" % 浄化
-jushoo	{[scat n:vn]} =be_awarded=
-juutokuka	{[scat n:vn]} =becoming_serious= "juutoku_ka_BECOMING" % 重篤化
-kadaihyooka	{[scat n:vn]} =overestimate= "kadai_hyooka"
-kagekika	{[scat n:vn]} =radicalization= "kageki_ka_BECOMING" % 過激化
-kaigairyokoo	{[scat n:vn][comp n+n:vn]} =overseas_trip= "kaigai+ryokoo"
-kaiketsu	{[scat n:vn]} =solve=
-kaisai	{[scat n:vn]} =open=
-kaisee	{[scat n:vn]} =amend=
-kaishasaisee		       {[scat n:vn][comp n+n:vn]} =regeneration_of_the_company= "kaisha+saisee"
-kaishuu	{[scat n:vn]} =retrieve=
-kaketsu	{[scat n:vn]} =approve=
-kakuho	{[scat n:vn]} =secure=
-kakunin	{[scat n:vn]} =confirm=
-kakutoku	{[scat n:vn]} =obtain=
-kan'yuu	{[scat n:vn]} =persuade=
-kanchi	{[scat n:vn]} =perceive=
-kanri	{[scat n:vn]} =manage=
-kansee	{[scat n:vn]} =complete=
-kanshuu	{[scat n:vn]} =supervision=
-kansoka	{[scat n:vn]} =simplification= "kanso_ka_BECOMING" % 簡素化
-kappatsuka	{[scat n:vn]} =activation= "kappatsu_ka_BECOMING" % 活発化
-kashika	{[scat n:vn]} =visualization= "kashi_ka_BECOMING" % 可視化
-kashoohyooka	{[scat n:vn]} =underestimate= "kashoo_hyooka"
-kasseeka	{[scat n:vn]} =vitalization= "kassee_ka_BECOMING" % 活性化
-katsuyoo	{[scat n:vn]} =utilize=
-kazaritsuke	{[scat n:vn]} =decoration=
-kazokushuppan	{[scat n:vn][comp n+n:vn]} =family_publishing= "kazoku+shuppan"
-keeee	{[scat n:vn]} =manage=
-kekkon	{[scat n:vn]} =marry=
-kenshoo	{[scat n:vn]} =seeing_one's_own_character_without_obstruction;=  % 見性
-kenzaika	{[scat n:vn]} =becoming apparent= "kenzai_ka_BECOMING" % 顕在化
-ketsuboo	{[scat n:vn]} =shortage=
-kika	{[scat n:vn]} =naturalization= "ki_ka_BECOMING" % 帰化
-kikaika	{[scat n:vn]} =mechanization= "kikai_ka_BECOMING" % 機械化
-kikisentee	{[scat n:vn][comp n+n:vn]} =equipment_selection= "kiki+sentee"
-kindaika	{[scat n:vn]} =modernization= "kindai_ka_BECOMING" % 近代化
-kitai	{[scat n:vn]} =expect=
-kontorooru	{[scat n:vn]} =control=
-koobo	{[scat n:vn]} =publicly_recruit=
-koodoka	{[scat n:vn]} =advancement= "koodo_ka_BECOMING" % 高度化
-koodoo	{[scat n:vn]} =behave=
-kooka	{[scat n:vn]} =hardening= "koo_ka_BECOMING" % 硬化
-kooreeka	{[scat n:vn]} =aging= "kooree_ka_BECOMING" % 高齢化
-koosee		{[scat n:vn]} =proofreading=
-kooshugookaku	{[scat n:vn][comp n+n:vn]} =pass_the_conscription_check_as_a_first-class= "kooshu+gookaku"
-kuinige	{[scat n:vn]} =eat_and_run_away= "kuw_nige"  % 食い逃げ
-kusen {[scat n:vn]} =having_a_difficult_campaign=
-kyojyuu	{[scat n:vn]} =live=
-kyooka	{[scat n:vn]} =enlightenment= "kyoo_ka_BECOMING" % 教化
-kyoozon	{[scat n:vn]} =exist_together=
-kyuushuu	{[scat n:vn]} =absorption= 
-machi		{[scat n:vn]} =waiting= %待ち
-maishin {[scat n:vn]} =striving=
-manryoo {[scat n:vn]} =expiration=
-meigen {[scat n:vn]} =declaration=
-miryoo		{[scat n:vn]} =fascination=
-mochinige	{[scat n:vn]} =take_and_run_away= "nor_nige"  % 持ち逃げ
-nanka	{[scat n:vn]} =soften=
-nihonryuugaku	{[scat n:vn][comp n:prop+n:vn]} =study_in_Japan= "nihon+ryuugaku"
-ninchiseekyuu	{[scat n:vn][comp n:vn+n:vn]} =claim_for_acknowledgement= "ninchi+seekyuu"
-norinige	{[scat n:vn]} =ride_and_run_away= "nor_nige"  % 乗り逃げ
-nyuugaku	{[scat n:vn]} =entrance_into_school= % 入学
-nyuusha	{[scat n:vn]} =	entering_company=
-nyuutai		{[scat n:vn]} =enlistment=
-omemoji	{[scat n:vn]} =view=
-rakusen {[scat n:vn]} =losing_an_election=
-rendoo	{[scat n:vn]} =interlocking= % 連動
-rikkooho {[scat n:vn]} =candidacy=
-rikon	{[scat n:vn]} =devorce= % 離婚
-risooka	{[scat n:vn]} =idealization= "risoo_ka_BECOMING" % 理想化
-rooka	{[scat n:vn]} =aging= "roo_ka_BECOMING" % 老化
-ryokka	{[scat n:vn]} =tree_planting= "ryok_ka_BECOMING" % 緑化
-ryuudooka	{[scat n:vn]} =fluidization= "ryuudoo_ka_BECOMING" % 流動化
-ryuugaku	{[scat n:vn]} =study_abroad=
-sabetsuka	{[scat n:vn]} =	differentiation= "sabetsu_ka_BECOMING" % 差別化
-saikai	{[scat n:vn]} =reopen=
-saikasseeka	{[scat n:vn]} =revitalization= "sai_AGAIN_kassee_ka_BECOMING" % 再活性化
-saikenkaishi	{[scat n:vn][comp n:vn+n:vn]} =beginning_of_the_reconstruction= "saiken+kaishi"
-sanka	{[scat n:vn]} =oxidation= "san_ka_BECOMING" % 酸化
-seekan	{[scat n:vn]} =come_back_alive=
-seesan	{[scat n:vn]} =produce=
-sentee		{[scat n:vn]} =selection=
-setchi	{[scat n:vn]} =set_up=
-setsuritsu	{[scat n:vn]} =establishment=
-shidoo	{[scat n:vn]} =guide= % 指導
-shifuto	{[scat n:vn]} =shift=
-shimpai	{[scat n:vn]} =worry=	                %【心配】 sorrow でなく
-shimpo	{[scat n:vn]} =progres=
-shinkakuka	{[scat n:vn]} =deification= "shinkaku_ka_BECOMING" % 神格化
-shinkokuka	{[scat n:vn]} =becoming_more_serious= "shinkoku_ka_BECOMING"
-shiyoo	{[scat n:vn]} =use=
-shudookenkakuho {[scat n:vn][comp n+n:vn]} =securing_initiative= "shudooken+kakuho"
-shusseki	{[scat n:vn]} =attend=
-shuuyakuka	{[scat n:vn]} =consolidation= "shuuyaku_ka_BECOMING" % 集約化
-shuzai	{[scat n:vn]} =interview=
-songaibaishooseekyuu   {[scat n:vn][comp n+n:vn]} =claim_for_damages= "songaibaishoo+seekyuu"
-sotsugyoo	{[scat n:vn]} =graduate=
-suimin	{[scat n:vn]} =sleep=
-suishin	{[scat n:vn]} =propel=
-suuchika	{[scat n:vn]} =conversion_to_numerical_form= "suuchi_ka_BECOMING" % 数値化
-tachiage	{[scat n:vn]} =starting_up=
-taika	{[scat n:vn]} =degeneration= "tai_ka_BECOMING" % 退化
-taikeika	{[scat n:vn]} =systematization= "taikei_ka_BECOMING" % 体系化
-taioo	{[scat n:vn]} =cope=
-taioo	{[scat n:vn]} =correspond=
-taisho	{[scat n:vn]} =cope=
-taizai	{[scat n:vn]} =stay=
-teechaku	{[scat n:vn]} =fixing=
-teekyoo	{[scat n:vn]} =offer=
-teeshoo	 {[scat n:vn]} =advocate=
-teeshutsu	{[scat n:vn]} =present=
-tenkai	{[scat n:vn]} =develop= % 展開
-tenkai	{[scat n:vn]} =rotate= % 転回
-tettai	{[scat n:vn]} =retreat=
-tokka	{[scat n:vn]} =specialization= "tok_ka_BECOMING" % 特化
-toohyoo	{[scat n:vn]} =voting=
-toosee	 {[scat n:vn]} =control=
-tsunamihisai {[scat n:vn][comp n+n:vn]} =damage_by_tsunami= "tsunami+hisai"
-unten	{[scat n:vn]} =drive=
-yabanka	{[scat n:vn]} =barbarianization= "yaban_ka_BECOMING" % 野蛮化
-yonige	{[scat n:vn]} =flee_by_night= "yo_nige" % 夜逃げ
-yooritsu {[scat n:vn]} =putting_up=
-yosoku	{[scat n:vn]} =predict=
-zuihitsuka	{[scat n:vn]} =making_an_essay= "zuihitsu_ka_BECOMING" % 随筆化
 
 % 修正
 kashite	{[scat n][comp v:c+n]} =lender= "kas+te" % "kasi+te" でなく
 michibik	{[scat v:c]} =guide= "michibik"	%【導く】 % mich_hik から境界をとる
 tanabik	{[scat v:c]} =trail= "tanabik"	%【たなびく/棚引く】 % tana_hik から境界をとる
-eegaka	{[scat n:vn]} =making_a_movie= "eega_ka_BECOMING" % 映画化
+
 
 % by Hayashi 2019/1/30
 kake {[scat v:v]} =hang= % 帽子をハンガーに_掛ける_

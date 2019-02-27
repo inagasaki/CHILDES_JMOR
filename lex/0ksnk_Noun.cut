@@ -1,14 +1,15 @@
 % noun
-haihiiru	{[scat n]} =high_heels= % ハイヒール（複合名詞のエントリーを削除してもらう）
 Shisukogawa	{[scat n]} =Cisco_side= "Shisuko_gawa_SIDE"
 aidokusha	{[scat n]} =regular_reader= "aidoku_sha_PERSON" % 愛読者
 aishoo	{[scat n]} =affinity= % 相性
+aitechiimu	{[scat n][comp n+n]} =opponent_team= "aite+chiimu"
 aitekata	{[scat n]} =other_party=
 ajiwai	{[scat n]} =taste=
 akiya	{[scat n]} =unoccupied_house=
 akusee	{[scat n]} =bad= % 悪性
 akusesusee	{[scat n]} =accessibility= "akusesu_see_NATURE" % アクセス性
 amerikajin	{[scat n]} =American_person= "amerika_jin"
+animashion	{[scat n]} =animacion=
 annaiyaku	{[scat n]} =guide=
 anteesee	{[scat n]} =stability= "antee_see_NATURE" % 安定性
 anzensee	{[scat n]} =safety= "anzen_see_NATURE" % 安全性
@@ -16,6 +17,7 @@ apurikeeshon	{[scat n]} =application=
 atari	{[scat n]} =hit=
 ateji	{[scat n]} =phonetic_equivalent=
 atena	{[scat n]} =address=
+bangurasshii	{[scat n]} =bhang_lassi=
 bannen	{[scat n]} =last_year=
 bengoshi	{[scat n]} =counsel=
 benjoba	{[scat n]} =lavatory= "benjo_ba_PLACE" % 便所場
@@ -34,6 +36,7 @@ burandohin	{[scat n]} =luxury_brand_goods= "brando_hin_GOODS"
 bushoo	{[scat n]} =military_commander=
 bussan	{[scat n]} =product=
 bussee	{[scat n]} =physical_property= "bus_see_NATURE" % 物性
+busshi		{[scat n]} =goods=
 busshoo	{[scat n]} =Buddha_nature= % 仏性
 butai	{[scat n]} =stage= % 舞台
 butai	{[scat n]} =unit= % 部隊
@@ -45,6 +48,7 @@ chiikisee	{[scat n]} =locality= "chiiki_see_NATURE" % 地域性
 chindon'ya	{[scat n]} =street_musician= "chindon_ya_SHOP" % チンドン屋
 chisee	{[scat n]} =intelligence= % 知性
 chishiki	{[scat n]} =knowledge=
+choojoogenshoo	{[scat n][comp n+n]} =supernatural_phenomenon= "choojoo+genshoo"
 choonaikai	{[scat n]} =neighborhood_association= "choonai_kai_MEETING" % 町内会
 choosensha	{[scat n]} =challenger= "choosen_sha_PERSON" % 挑戦者
 chosha	{[scat n]} =author= "chosha" % 著者
@@ -56,18 +60,20 @@ chuunendansee	{[scat n][comp n+n]} =middle_aged_male= "chuunen+dansee" % 中年�
 chuunenjosee	{[scat n][comp n+n]} =middle_aged-female= "chuunen+josee" % 中年女性
 chuurinjo	{[scat n]} =bicycle_parking_lot= "chuurin_jo_PLACE" % 駐輪所
 daichi	{[scat n]} =earth=
-daigakunyuushi	{[scat n][comp n+n]} =university_entrance_examination= "daigaku+nyuushi" % 大学入試
 daigakugawa	{[scat n]} =university_side= "university_gawa_SIDE"
+daigakunyuushi	{[scat n][comp n+n]} =university_entrance_examination= "daigaku+nyuushi" % 大学入試
 daigomi	{[scat n]} =the_best_part=
 daihyoo	{[scat n]} =representative=
 daihyoosaku	{[scat n]} =representative_work=
 daihyoosha	{[scat n]} =representative= "daihyoo_sha_PERSON" % 代表者
+daiyoohin	{[scat n]} =substitute= "daiyoo_hin_GOODS"
 danryokusee	{[scat n]} =elasticity= "danryoku_see_NATURE" % 弾力性
 dansee	{[scat n]} =elasticity= "dan_see_NATURE" % 弾性
 dasee	{[scat n]} =inertia= % 惰性
 dasha	{[scat n]} =batter= % 打者
 dashi	{[scat n]} =festival_car=
 dashimono	{[scat n]} =program=
+dasshutsusakusen	{[scat n][comp n:vn+n]} =escape_strategy= "dasshutsu+sakusen"
 dekigoto	{[scat n]} =event=
 desaki	{[scat n]} =gateway=
 dezainsee	{[scat n]} =designability= "dezain_see_NATURE" % デザイン性
@@ -79,14 +85,17 @@ dokusha	{[scat n]} =reader= "doku_sha_PERSON" % 読者
 dokushin {[scat n]} =unmarried= % 独身      
 dokushindansee	{[scat n][comp n+n]} =unmarried_male= "dokushin+dansee" % 独身男性
 dokushinjosee	{[scat n][comp n+n]} =unmarried_female= "dokushin+josee" % 独身女性
+dokushoshidoohoo       {[scat n][comp n:vn+n]} =teaching_method_of_reading= "dokusho+shidoo_hoo_METHOD"
 dokusoosee	{[scat n]} =originality= "dokusoo_see_NATURE" % 独創性
 doobutsuen	{[scat n]} =zoo= "doobutsu_en_GARDEN" % 動物園
 dooinsuu	{[scat n]} =number_of_gathered_people=
+dooryoo		{[scat n]} =colleague=
 doosee	{[scat n]} =the_same_sex= % 同性
 dooshokubutsu	{[scat n]} =animals_and_plants=
 eegakan	{[scat n]} =cinema= "eega_kan_BLDG" % 映画館
+eegakantoku	{[scat n][comp n+n]} =movie_director= "eega+kantoku" % 映画監督
 eegyooryoku	{[scat n]} =marketing_skills= "eegyoo_ryoku_POWER"
-keezairyoku	{[scat n]} =economic_power= "keezai_ryoku_POWER"
+eegyooseeseki	{[scat n][comp n+n]} =business_result= "eegyoo+seeseki"
 eeichi	{[scat n]} =answer_one=
 ekiin	{[scat n]} =station_employee= "eki_in_PERSON" % 駅員
 ekohausu	{[scat n]} =eco_house=
@@ -94,6 +103,7 @@ ekoshisutemu	{[scat n]} =ecosystem=
 emi	{[scat n]} =smile=
 emono	{[scat n]} =prey= 	% haul でなく
 en'yoo	{[scat n]} =pelagic=
+en'yoogyogyoo	{[scat n][comp n+n]} =pelagic_fishery= "en'yoo+gyogyoo"
 engawa	{[scat n]} =veranda=
 engeki	{[scat n]} =theatrical_production=
 enkai	{[scat n]} =party=
@@ -105,9 +115,11 @@ fukkatsusai	{[scat n]} =easter=
 fumoto	{[scat n]} =foot=
 furansugo	{[scat n]} =French_language= "furansu_go"
 furansujin	{[scat n]} =French_person= "furansu_jin"
+furin'aite	       {[scat n][comp n:vn+n]} =adulterous_lover= "furin+aite"
 furonto	{[scat n]} =front_desk=
 furuku	{[scat n]} =old_times=
 furusato	{[scat n]} =home_town=
+fushinkan	{[scat n]} =distrust=
 fushinsha	{[scat n]} =suspicious_person= "fushin_sha_PERSON" % 不審者
 fushokusee	{[scat n]} =corrosive= "fushoku_see_NATURE" % 腐蝕性
 fushoosha	{[scat n]} =injured_person= "fushoo_sha_PERSON" % 負傷者
@@ -115,15 +127,19 @@ fuudo	{[scat n]} =regional_charateristic=
 fuukee	{[scat n]} =scenery=
 gaikai	{[scat n]} =the_outside_world=
 gaikokugo	{[scat n]} =foreign_language= "gaikoku_go_LANGUAGE" % 外国語
+gaikokugogakushuu	{[scat n][comp n+n:vn]} =foreign_language_learning= "gaikoku_go_LANGUAGE+gakushuu"
 gaikokujin	{[scat n]} =foreigner= "gaikoku_jin_PERSON" % 外人
 gakkoogawa	{[scat n]} =school_side= "gakkoo_gawa_SIDE"
 gakusha	{[scat n]} =scholar= % 学者
 gakushuusha	{[scat n]} =Japanese_language_learner= "gakushuu_sha_PERSON" % 学習者
-nihongogakushuusha	{[scat n][comp n+n]} =Japanese_language_learner= "nihon_go+gakushuu_sha_PERSON" % 学習者
 geejutsusee	{[scat n]} =artistic_quality= "geejutsu_see_NATURE" % 芸術性
 geejutsutekisoozoosee	{[scat n]} =artistic_creativity= "geejutsu_teki_LIKE+soozoo_see_NATURE" % 芸術的創造性
 geemukoonaa	{[scat n]} =game_corner=
 gendaishi	{[scat n]} =contemporary_history= "gendai_shi_HISTORY" % 現代史
+gengodeeta	{[scat n][comp n+n]} =linguistic_data= "gengo+deeta"
+gengokaisekijoohoo	{[scat n][comp n+n:vn+n]} =linguistic_analysis= "gengo+kaiseki+joohoo"
+gengokenkyuu	{[scat n][comp n+n:vn]} =linguistic_research= "gengo+kenkyuu"
+gengoshorishisutemukaihatsu	{[scat n][comp n+n:vn+n+n:vn]} =development_of_NLP_system= "gengo+shori+shisutemu+kaihatsu"
 genjoo	{[scat n]} =current_status=
 genkaisee	{[scat n]} =boundedness= "genkai_see_NATURE" % 限界性
 gensanchi	{[scat n]} =origin= "gensan_chi_PLACE" % 原産地
@@ -137,6 +153,8 @@ gokakukee	{[scat n]} =pentagon= "gokaku_kee_FORM" % 五角形
 goorisee	{[scat n]} =rationality= "goori_see_NATURE" % 合理性
 gorufu	{[scat n]} =golf= 	% golf_car でなく
 gorufu	{[scat n]} =golf= % golf_car でなく
+gorufukurabu	{[scat n][comp n+n]} =golf_club= "gorufu+kurabu"
+gorufukurabusetto	{[scat n][comp n+n+n]} =golf_club_set= "gorufu+kurabu+setto"
 gottani	{[scat n]} =potpourri=
 gun	{[scat n]} =group=
 gunshuu	{[scat n]} =crowd=
@@ -145,6 +163,7 @@ gyogyoo	{[scat n]} =fishery=
 gyoomu	{[scat n]} =business=
 gyooretsu	{[scat n]} =queue=
 gyooyoo	{[scat n]} =business=
+haguruma	{[scat n]} =toothed_gear=
 haiensha	{[scat n]} =fire_engine_with_smoke_ejector= "haien_sha_VEHICLE" % 排煙車
 haitokusee	{[scat n]} =immorality= "haitoku_see_NATURE" % 背徳性
 hakobiya	{[scat n]} =transporter= "hakobi_ya_SHOP"
@@ -183,6 +202,7 @@ hokusee	{[scat n]} =northwest=
 hokuseegawa	{[scat n]} =northwest_side= "hokusee_gawa_SIDE"
 hokutoo	{[scat n]} =northeast=
 hokutoogawa	{[scat n]} =northeast_side= "hokutoo_gawa_SIDE"
+homban		{[scat n]} =actual_performance=
 hommyoo	{[scat n]} =real_name=
 hon'ya	{[scat n]} =book_store= "hon_ya_SHOP" %本屋
 hon'yaku	{[scat n]} =translation= % 翻訳
@@ -191,8 +211,11 @@ hoogen	{[scat n]} =dialect=
 hookoosee	{[scat n]} =direction= "hookoo_see_NATURE" % 方向性
 hoomonsha	{[scat n]} =visitor= "hoomon_sha_PERSON" % 訪問者
 hooritsuka	{[scat n]} =lawyer=
+hootee		{[scat n]} =court=
+hootekishikoo	{[scat n][comp n:an+n]} =legal_thinking= "hoo_teki_LIKE+shikoo"
 hootekishikoo	{[scat n][comp n:an+n]} =legal_thinking= "hoo_teki_LIKE+shikoo"
 horaa	{[scat n]} =horror= % ホラー
+horaaeega	{[scat n][comp n+n]} =horror_movie= "horaa+eega" % ホラー映画
 hoshusee	{[scat n]} =conservativeness= "hoshu_see_NATURE" % 保守性
 hurugoro	{[scat n]} =around_noon= "hiru_goro_AROUND" %昼ごろ
 husee	{[scat n]} == "hu_see_NATURE" % 父性
@@ -201,13 +224,17 @@ hyoojunshiyoo	{[scat n][comp n+n]} =standard_specification= "hyoojun+shiyoo"
 idooshukusaibi	{[scat n]} =moveable_feast=
 igaisee	{[scat n]} =unexpectedness= "igai_see_NATURE" % 意外性
 igirisujin	{[scat n]} =English_person= "igirisu_jin"
+igokochi	{[scat n]} =comfortableness= 
 iinkai	{[scat n]} =committee=
+indojin		{[scat n]} =Indian=
 insee	{[scat n]} =negativity= % 陰性
 inshoo	{[scat n]} =impression=
 ippan	{[scat n]} =general/usual=
 ippanjin	{[scat n]} =ordinary_person= "ippan_jin_PERSON"
 ippanseejindansee	{[scat n][comp n+n+n]} =general_adult_male= "ippan+seejin+dansee" % 一般成人男性
+iradachi	{[scat n]} =irritation= 
 isee	{[scat n]} =the_opposite_sex= % 異性
+isharyoo	{[scat n]} =consolation_money=
 itagane	{[scat n]} =metal_plate=
 itariayori	{[scat n]} =close_to_Italy= "itaria_yori_NEAR"
 ittee	{[scat n]} =fixed_quality/quantity=
@@ -221,6 +248,7 @@ jii	{[scat n]} =grandfather=
 jijo	{[scat n]} =maid=
 jikokuhyoo	{[scat n]} =timetable= % 時刻表
 jimotohatsu	{[scat n]} =local_origin=
+jiree		{[scat n]} =case=
 jishusee	{[scat n]} =autonomy= "jishu_see_NATURE" % 自主性
 jisshuusee	{[scat n]} =trainee= "jisshuu_see_STUDENT" %【実習生】
 jitsugensee	{[scat n]} =feasibility= "jitsugen_see_NATURE" % 実現性
@@ -228,6 +256,7 @@ jitsuryoku	{[scat n]} =capability=
 jitsuryokunashi	{[scat n]} =withouht_capability= "jitsuryoku-nashi_WITHOUT"
 jitsuyoosee	{[scat n]} =practicability= "jitsuyoo_see_NATURE" % 実用性
 jizen	{[scat n]} =before_the_event=
+joobakurabu	{[scat n][comp n+n:vn]} =equestrian_club= "jooba+kurabu" % n+n:vn でなく n:vn+n
 jugyoo	{[scat n]} =lesson=
 jukeesha	{[scat n]} =prisoner= "jukee_sha_PERSON" % 受刑者
 jukensee	{[scat n]} =examinee= "juken_see_STUDENT" % 受験者
@@ -248,6 +277,7 @@ kagakusha	{[scat n]} =scientist= "kagaku_sha_PERSON"
 kagakusha	{[scat n]} =scientist= "kagaku_sha_PERSON" % 科学
 kaihoosee	{[scat n]} =openness= "kaihoo_see_NATURE" % 開放性
 kaijoo	{[scat n]} =on_the_sea=
+kaiketsukin	{[scat n]} =settelemat_money= "kaiketsu_kin_MONEY"
 kaikyuusee	{[scat n]} =class_system= "kaikyuu_see_NATURE" % 階級性
 kaishagawa	{[scat n]} =company_side= "kaisha_gawa_SIDE"
 kaiyoosee	{[scat n]} =marine= "kaiyoo_see_NATURE" % 海洋性
@@ -258,7 +288,6 @@ kamigami	{[scat n]} =gods= % reduplication は compound にせずに一語扱い
 kan'an	{[scat n]} =seeing_darkness=
 kanashibari	{[scat n]} =sleep_paralysis=
 kangaekata	{[scat n]} =way_of_thinking= "kangae_kata_WAY_OF"
-oshiekata	{[scat n]} =way_of_teaching= "oshie_kata_WAY_OF"
 kanji	{[scat n]} =kanji_character= % 単なる =character= でなく
 kanjusee	{[scat n]} =sensibility= "kanjusee" % 感受性
 kankeesha	{[scat n]} =person_concerned= "kankee_sha_PERSON" % 関係者
@@ -268,6 +297,7 @@ kankokujin	{[scat n]} =South_Korean= "kankoku_jin_PERSON" % 韓国人
 kankoochi	{[scat n]} =tourist_spot= "kankoo_chi_PLACE"
 kankookyaku	{[scat n]} =tourist= "kankoo_kyaku_GUEST"
 kankyaku	{[scat n]} =audience= "kan_kyaku_GUEST"
+kankyakuseki	{[scat n][comp n+n]} =audience_seat= "kankyaku+seki"
 kankyakuseki	{[scat n]} =audience_seat=
 kanna	{[scat n]} =plane=
 kanojo	{[scat n]} =girl_friend=
@@ -276,12 +306,14 @@ kanrensee	{[scat n]} =relevance= "kanren_see_NATURE" % 関連性
 kanriryoo	{[scat n]} =administration_cost=
 kanrishoku	{[scat n]} =management=
 kansee	{[scat n]} =sensibility= % 感性
+kansootamago	{[scat n][comp n:vn+n]} =dried_egg= "kansoo+tamago"
 karaoke	{[scat n]} =karaoke= % カラオケ
 kare	{[scat n]} =boy_friend=
 kareshi	{[scat n]} =boy_friend=
 karuchaa	{[scat n]} =culture=
 kashite	{[scat n]} =lender=
 kasoogyooretsu	{[scat n]} =fancy_dress_parade=
+katsuretsu	{[scat n]} =cutlet=
 kawazoi	{[scat n]} =river_side=
 kayoosee	{[scat n]} =availability= "kayoo_see_NATURE" % 可用性
 kazandan	{[scat n]} =volcanic_bomb=
@@ -290,33 +322,48 @@ keehi	{[scat n]} =expense=
 keekensha	{[scat n]} =person_with_experience= "keeken_sha_PERSON" % 経験者
 keesha	{[scat n]} =slope=
 keeyakusho	{[scat n]} =contract_document=
+keezairyoku	{[scat n]} =economic_power= "keezai_ryoku_POWER"
 keezokusee	{[scat n]} =continuity= "keezoku_see_NATURE" % 継続性
 kekka	{[scat n]} =result=	%【結果】 % vn で登録されているが、vn として使われることはないのでは？
 kembooshoo	{[scat n]} =amnesic= "kemboo_see_NATURE" % 健忘性
 kemminkaikan	{[scat n]} =prefectural_citizen's_hall=
 kenchikubutsu	{[scat n]} =building=
 kenkoojootai	{[scat n][comp n+n]} =health_status= "kenkoo+jootai" % 健康状態
-kenkyuusho	{[scat n]} =research_institute=	"kenkyuujo" % 研究所
-kenkyuusha	{[scat n]} =researcher= "kenkyuu_sha_PERSON" % 研究者
 kenkyuuin	{[scat n]} =research_worker= "kenkyuu_in_MEMBER" % 研究員
 kenkyuunaiyoo	{[scat n][comp n:vn+n]} =research_contents= "kenkyuu+naiyoo" % 研究内容
 kenkyuuseeka	{[scat n][comp n:vn+n]} =research_result= "kenkyuu+seeka" % 研究成果
-seeka	{[scat n]} =result= % 成果
+kenkyuusha	{[scat n]} =researcher= "kenkyuu_sha_PERSON" % 研究者
+kenkyuusho	{[scat n]} =research_institute=	"kenkyuujo" % 研究所
 kenkyuutaisee	{[scat n][comp n+n]} =research_system= "kenkyuu+taisee" % 研究体制
+kenkyuutaishoo	{[scat n][comp n:vn+n]} =research_subject= "kenkyuu+taishoo"
 kenryokusha	{[scat n]} =man_of_power= "kenryoku_sha_PERSON" % 権力者
 kigyoo	{[scat n]} =company=
 kikensee	{[scat n]} =risk= "kiken_see_NATURE" % 危険性
 kikoo	{[scat n]} =weather=
+kimatsushiken	{[scat n][comp n+n]} =term_examination= "kimatsu+shiken"
 kinchaku	{[scat n]} =purse=
 kinshi	{[scat n]} =gold_thread=
 kisha	{[scat n]} =ournalist= % 記者
 kishoo	{[scat n]} =disposition= % 気性
 kiso	{[scat n]} =base=
+kisobubun	{[scat n][comp n+n]} =basic_part= "kiso+bubun"
+kisochisiki	{[scat n][comp n+n]} =basic_knowledge= "kiso+chishiki"
+kisodeeta	{[scat n][comp n+n]} =basic_data= "kiso+deeta"
+kisokagaku	{[scat n][comp n+n]} =basic_science= "kiso+kagaku"
+kisokeesan	{[scat n][comp n+n:vn]} =basic_calculation= "kiso+keesan"
+kisokenkyuu	{[scat n][comp n+n]} =basic_research= "kiso+kenkyuu"
+kisokenkyuunashi	{[scat n][comp n+n]} =basic_research= "kiso+kenkyuu-nashi_WITHOUT"
+kisoteechakudo	{[scat n][comp n+n]} =base_fixing_degree= "kiso+teechaku_do_DEGREE"
 kissaten	{[scat n]} =coffeeshop= "kissa_ten_SHOP=tearoom" % 喫茶店
 kitagawa	{[scat n]} =north_side= "kita_gawa_SIDE"
+kobuta	{[scat n][comp n+n]} =little_pig= "ko+buta"
 kodaishi	{[scat n]} =ancient_history= "kodai_shi_HISTORY" % 古代史
 kodaishutoken	{[scat n][comp n+n]} =acient_capital= "kodai+shutoken"
+kogaisha	{[scat n][comp n+n]} =subsidiary_company= "ko+kaisha"
+kogitsune	{[scat n][comp n+n]} =little_fox= "ko+kitsune"
+koinu	{[scat n][comp n+n]} =puppy= "ko+inu"
 koji	{[scat n]} =orphan=
+kokkyoosen	{[scat n][comp n+n]} =nation al_border_line= "kokkyoo+sen" % n|kokkyoo-sen_LINE=border_line でなく、複合では?
 kokumin	{[scat n]} =people=
 kokuminsee	{[scat n]} =national_trait= "kokumin_see_NATURE" % 国民性
 kokyaku	{[scat n]} =client=
@@ -324,6 +371,7 @@ komban	{[scat n]} =this_evening=
 komedii	{[scat n]} =comedy= % コメディ
 kon'yakusha	{[scat n]} =fiancee= "kon'yaku_sha_PERSON"
 kon'yakusha	{[scat n]} =fiancee= "konyaku_sha_PERSON"
+koneko	{[scat n][comp n+n]} =kitten= "ko+neko"
 konomi	{[scat n]} =preference=
 koobosee	{[scat n]} =public_recruitment_process=
 kooen	{[scat n]} =park= "koo_en_GARDEN" % 公園
@@ -345,13 +393,21 @@ kosee	{[scat n]} =personality= % 個性
 koshoosha	{[scat n]} =car_broken_down= "koshoo_sha_VEHICLE" %【故障】
 kosuto	{[scat n]} =cost=
 kosutopafoomansu	{[scat n]} =cost_performance=
+kouma	{[scat n][comp n+n]} =foal= "ko+uma"
+kousagi	{[scat n][comp n+n]} =leveret= "ko+usagi"
+koushi	{[scat n][comp n+n]} =calf= "ko+ushi"
 kowashiya	{[scat n]} =destroyer= "kowashi_ya_SHOP"
 koyama	{[scat n]} =small_mountain=
 ku	{[scat n]} =phrase=
+kuizudaisakusen	{[scat n]} =quiz_game= "kuizu_daisakusen"
 kurashi	{[scat n]} =life=
+kure		{[scat n]} =toward_the_end=
 kurige	{[scat n]} =chestnut_coat=
 kurisumasukyuuka	{[scat n][comp n+n]} =christmas_vacation= "kurisumasu+kyuuka"
 kyojuusha	{[scat n]} =inhabitant= "kyojuu_sha_PERSON" % 居住者
+kyoodoo		{[scat n]} =cooporation=
+kyoogookankee	{[scat n][comp n:vn+n]} =competitive_relationship= "kyoogoo+kankee"
+kyoozonkankee	{[scat n][comp n:vn+n]} =symbiotic_relationship= "kyoozon+kankee"
 kyuuichi	{[scat n]} =question_one=
 machiaishitsu	{[scat n]} =waiting_room= "machiai_shitsu_ROOM" % 待合室
 mahoodoo	{[scat n]} =magic= "mahoo_doo_HALL" % 魔法堂
@@ -361,6 +417,7 @@ manatsu	{[scat n]} =midsummer=
 mashoo	{[scat n]} =evil_spirit= % 魔性
 me	{[scat n]} =sawtooth=
 meekaa	{[scat n]} =maker=
+megami		{[scat n]} =goddess=
 mejirushi	{[scat n]} =landmark=
 mekakushi	{[scat n]} =blindfolding=
 membaa	{[scat n]} =member=
@@ -375,6 +432,7 @@ mokutekigo	{[scat n]} =linguistic_object= % 複合語にしない
 monko	{[scat n]} =gate=
 muzoosa	{[scat n]} =casualness=
 naka	{[scat n]} =inside=
+namazakana	{[scat n][comp n+n]} =raw_fish= "nama+sakana" % 生魚
 nambu	{[scat n]} =the_south=
 nammin	{[scat n]} =refugee=
 nanchaku	{[scat num:cl]} =how_many= "nan-chaku_PIECE" % 何着
@@ -386,11 +444,13 @@ naoshiya	{[scat n]} =repairman= "naoshi_ya_SHOP" % 直し屋
 negai	{[scat n]} =wish=
 nihombunka	{[scat n][comp n:prop+n]} =Japanese_culture= "nihon+bunka"
 nihongo	{[scat n]} =Japanese_language= "nihon_go"
+nihongogakushuusha	{[scat n][comp n+n]} =Japanese_language_learner= "nihon_go+gakushuu_sha_PERSON" % 学習者
 nihonjin	{[scat n]} =Japanese_person= "nihon_jin"
 nikusee	{[scat n]} =real_voice=
 nikushimi	{[scat n]} =hatred=
 ninoashi	{[scat n]} =reconsider=
 ninsensee	{[scat n]} =humanity= "ninsen_see_NATURE" % 人間性
+ninshinchuu	{[scat n]} =pregnant= "ninshin_chuu_IN"
 nishigawa	{[scat n]} =west_side= "nishi_gawa_SIDE"
 nomi	{[scat n]} =chisel=
 nomiya	{[scat n]} =pub= "nomi_ya_SHOP" % 飲み屋
@@ -403,6 +463,8 @@ ongakuka	{[scat n]} =music= "ongaku_ka_PERSON" % 音楽
 ongakusee	{[scat n]} =musicality= "ongaku_see_NATURE" % 音楽性
 ongakutai	{[scat n]} =music_corps=
 oobosha	{[scat n]} =applicant= "oobo_sha_PERSON"
+oodioseehin	{[scat n][comp n+n]} = audio_product= "oodio+seehin"
+oshiekata	{[scat n]} =way_of_teaching= "oshie_kata_WAY_OF"
 otoo	{[scat n]} =father=
 otto	{[scat n]} =husband=
 owaiya	{[scat n]} =night_soil_gatherer= "owai_ya_SHOP" % おわい屋 汚穢屋
@@ -411,11 +473,11 @@ raijoosha	{[scat n]} =visitor= "raijoo_sha_PERSON" % 来場者
 reetoosha	{[scat n]} =refrigerate= "reetoo_sha_VEHICLE" % 冷凍車
 rekishi	{[scat n]} =history=
 rekishisee	{[scat n]} =historicity= "rekishi_see_NATURE" % 歴史性
+rekurieeshontekiyooso  {[scat n][comp n:an+n]} =recreational_element= "rekurieeshon_teki_LIKE+yooso"haihiiru	{[scat n]} =high_heels= % ハイヒール（複合名詞のエントリーを削除してもらう）
 rendoosee	{[scat n]} =interrelation= "rendoo_see_NATURE" % 連動性
 renzokusee	{[scat n]} =continuity= "renzoku_see_NATURE" % 連続性
 ribensee	{[scat n]} =convenience= "riben_see_NATURE" % 利便性
 rieki	{[scat n]} =profit=
-rikkoho {[scat n:vn]} =stand_as_a_candidate=
 rikkoohosha	{[scat n]} =candidate= "rikkooho_sha_PERSON" % 立候補者
 rireki	{[scat n]} =history=
 rirekisho	{[scat n]} =resume= "rireki_sho_LETTER" % 履歴書
@@ -439,18 +501,31 @@ sankakukee	{[scat n]} =triangle= "sankaku_kee_FORM" % 三角形
 sankasha	{[scat n]} =participant= "sanka_sha_PERSON" % 参加者
 sanretsusha	{[scat n]} =attendant= "sanretsu_sha_PERSON" % 参列者
 sansuisha	{[scat n]} =sprinkler_truck= "sansui_sha_VEHICLE" % 散水車
+see		{[scat n]} =owing_to=
 seebutsu	{[scat n]} =creature=
 seefugawa	{[scat n]} =goverment_side= "seefu_gawa_SIDE"
 seegoosee	{[scat n]} =consistency= "seegoo_see_NATURE" % 整合性
 seehin	{[scat n]} =product=
 seeji	{[scat n]} =politics=
+seejidantai	{[scat n][comp n+n]} =political_organization= "seeji+dantai"
+seejigakusha	{[scat n][comp n+n]} =political_scientist= "seeji+gakusha"
+seejijookyoo	{[scat n][comp n+n]} =political_situation= "seeji+jookyoo"
 seejika	{[scat n]} =politician= "seeji_ka_PERSON"
+seejikeezai	{[scat n][comp n+n]} =politics_and_economics= "seeji+keezai"
+seejikisha	{[scat n][comp n+n]} =political_correspondent= "seeji+kisha"
 seejimen	{[scat n]} =political_matters= "seeji_men_SIDE"
+seejimondai	{[scat n][comp n+n]} =political_issue= "seeji+mondai"
 seejin	{[scat n]} =adult=
 seejindansee	{[scat n][comp n+n]} =adult_male= "seejin+dansee" % 成人男性
 seejinjosee	{[scat n][comp n+n]} =adult_female= "seejin+josee" % 成人女性
+seejiseedo	{[scat n][comp n+n]} =political_system= "seeji+seedo"
+seejishakai	{[scat n][comp n+n]} =politics_and_society= "seeji+shakai"
+seejitaisee	{[scat n][comp n+n]} =political_system= "seeji+taisee"
+seeka	{[scat n]} =result= % 成果
 seekakusee	{[scat n]} =accuracy= "seekaku_see_NATURE" % 正確性
 seemee	{[scat n]} =life= % 生命
+seemeesen	{[scat n][comp n+n]} =life_line= "seemee+sen"
+seeraafuku		{[scat n][comp n+n]} =sailor_suit= "seeraa+fuku"
 seesaku	{[scat n]} =policy= % 政策
 seesansee	{[scat n]} =productivity= "seesan_see_NATURE" % 生産性
 seesansha	{[scat n]} =manufacturer= "seesan_sha_PERSON" % 生産者
@@ -459,6 +534,7 @@ seeshin	{[scat n]} =mind= % 精神
 seeshinsee	{[scat n]} =spirituality= "seeshin_see_NATURE" % 精神性
 seesoosha	{[scat n]} =garbage_truck= "seesoo_sha_VEHICLE"
 seetoosee	{[scat n]} =rightfulness= "seetoo_see_NATURE" % 正当性
+seeyoojin	{[scat n]} =Westerner=
 seken	{[scat n]} =society=
 sekininsha	{[scat n]} =responsible_person= "sekinin_sha_PERSON" % 責任者
 sekishokku	{[scat n]} =oil_crisis= "sekiyu_shokku"
@@ -466,6 +542,7 @@ sekishokkugo	{[scat n]} =after_the_oil_crisis= "sekiyu_shokku_go_AFTER"
 sekiyukiki	{[scat n]} =oil_crisis= "sekiyu_kiki"
 sekiyukikigo	{[scat n]} =after_the_oil_crisis= "sekiyu_kiki_go_AFTER"
 sengo	{[scat n]} =after_the_war= "sen_go_AFTER"
+senjishoku	{[scat n]} =wartime_appearance= "senji_shoku_COLOR"
 senkensee	{[scat n]} =foreseeability= "senken_see_NATURE" % 先見性
 senryakusee	{[scat n]} =strategic_characteristic= "senryaku_see_NATURE" % 戦略性
 senshinsee	{[scat n]} =innovative_nature= "senshin_see_NATURE" % 先進性
@@ -474,6 +551,7 @@ sentakuki	{[scat n]} =laundry= "sentaku_ki_MACHINE" % 洗濯機
 sha	{[scat n]} =company=
 shi	{[scat n]} =city=
 shichoosha	{[scat n]} =audience= "shichoo_sha_PERSON" % 視聴者
+shidookyookan	{[scat n][comp n:vn+n]} =mentor= "shidoo+shain"
 shidoosha	{[scat n]} =leader= "shidoo_sha_PERSON" % 指導者
 shijoo	{[scat n]} =market=
 shikaisha	{[scat n]} =chairperson= "shikai_sha_PERSON" % 司会者
@@ -485,16 +563,19 @@ shimpan'in	{[scat n]} =umpire_person= "shimpan_in_PERSON"
 shingoosha	{[scat n]} =traffic_light_vehicle= "shingoo_sha_VEHICLE" % 信号車
 shingooshi	{[scat n]} =traffic_light_engineer= "shingoo_shi"
 shinja	{[scat n]} =believer= "shin_ja_PERSON" % 信者
+shinnyuushain	{[scat n][comp n+n]} =newly_hired_employee= "shinnyuu+shain"
 shinraisee	{[scat n]} =reliability= "shinrai_see_NATURE" % 信頼性
 shinro	{[scat n]} =course=
 shinsee	{[scat n]} =parentness= "shin_see_NATURE" % 親性
+shisetsu {[scat n]} =institution=
 shisha	{[scat n]} =dead_person= "shi_sha_PERSON"
 shitagawa	{[scat n]} =lower_part= "shita_gawa_SIDE"
 shitateya	{[scat n]} =tailor= "shitate_ya_SHOP" % 仕立屋
 shitsugisha	{[scat n]} =questioner= "shitsugi_sha_PERSON" % 質疑者
 shitsugyoosha	{[scat n]} =jobless_person= "shitsugyoo_sha_PERSON" % 失業者
-		shiya	{[scat n]} =field_of_vision=
+shiya	{[scat n]} =field_of_vision=
 shodai	{[scat n]} =the_first=
+shoo	 {[scat n]} =ministry=
 shoobooshi	{[scat n]} =fire_fighter= 	% 消防士 fireman でなく
 shoogaisha	{[scat n]} =handicapped_person= "shoogai_sha_PERSON" % 障害者
 shoohisha	{[scat n]} =consumer= "shoohi_sha_PERSON" % 消費者
@@ -511,6 +592,7 @@ shushoo	{[scat n]} =prime_minister=
 shussekisha	{[scat n]} =attendant= "shusseki_sha_PERSON" % 出席者
 shuuekisee	{[scat n]} =profitability= "shuueki_see_NATURE" % 収益性
 shuuki	{[scat n]} =cycle= % 周期
+shuunen	 {[scat n]} =tenacity_of_purpose=
 shuusee	{[scat n]} =habit= % 習性
 shuushuusha	{[scat n]} =collecting_truck= "shuushuu_sha_VEHICLE"
 sokoku	{[scat n]} =homeland= % 祖国
@@ -521,6 +603,7 @@ soozoosee	{[scat n]} =creativity= "soozoo_see_NATURE" % 創造性
 soshikigawa	{[scat n]} =organization_side= "soshiki_gawa_SIDE"
 sotsugyoosee	{[scat n]} =alumnus/alumna= "sotsugyoo_see_STUDENT"
 suimen	{[scat n]} =water_surface=
+suiminpataan	{[scat n][comp n+n]} =sleep_pattern=
 suirikuryooyoosha	{[scat n]} =amphibious_vehicle= "suirikuryooyoo_sha_VEHICLE" % “水陸両用車
 suizokukan	{[scat n]} =aquarium= "suizoku_kan_BLDG" % 水族館
 sujoo	{[scat n]} =origin= % 素性
@@ -529,6 +612,8 @@ supeinjin	{[scat n]} =Spanish_person= "supein_jin"
 sutoresu	{[scat n]} =stress=
 sutoroberiiaji	{[scat n]} =strawberry_flavor= "sutoroberii_aji_FLAVOR" % ストロベリー味
 syuukyoosee	{[scat n]} =religiousness= "syuukyoo_see_NATURE" % 宗教性
+taihensa {[scat n]} =difficult= "taihen-sa_NLZR"
+tainaidokee	{[scat n][comp n+n]} =biological_clock= "tai_nai+tokee"
 tairiku	{[scat n]} =continent=
 taishinsee	{[scat n]} =earthquake_resisting= "taishin_see_NATURE" % 耐震性
 taishuusee	{[scat n]} =popularity= "taishuu_see_NATURE" % 大衆性
@@ -536,14 +621,18 @@ takkyuubinsha	{[scat n]} =home_delivery_truck= "takkyuubin_sha_VEHICLE"
 tame	{[scat n]} =due_to=
 tamokutekisha	{[scat n]} =multi_purpose_car= "tamokuteki_sha_VEHICLE" %多目的車
 tanin	{[scat n]} =others=
+tanjoobipaatii	{[scat n][comp n+n]} =birthday_party= "tanjoobi+paatii" % 誕生日パーティー
 tansaiboo	{[scat n]} =unicellular=
+tansaibooseebutsu	{[scat n][comp n+n]} =unicellular_creature= "tansaiboo+seebutsu"
 tantoosha	{[scat n]} =person_in_charge= "tantoo_sha_PERSON"
 tantoosha	{[scat n]} =person_in_charge= "tantoo_sha_PERSON"
 tantoosha	{[scat n]} =responsible_person= "tantoo_sha_PERSON" % 担当者
 tarento	{[scat n]} =personality= % タレント
 tasaiboo	{[scat n]} =multicellular=
+tasaibooseebutsu	{[scat n][comp n+n]} =multicellular_creature= "tasaiboo+seebutsu"
 tatsumaki	{[scat n]} =tornado=
 tayoosee	{[scat n]} =diversity= "tayoo_see_NATURE" % 多様性
+teechakudo	{[scat n]} =fixing_degree= "teechaku_do_DEGREE"
 teeen	{[scat n]} =garden= 	% 庭園 jpn_garden でなく
 teeen	{[scat n]} =jpn_garden= "tee_en_GARDEN" % 庭園
 temboosha	{[scat n]} =observation_car= "temboo_sha_VEHICLE" %【展望】
@@ -554,6 +643,7 @@ tokusee	{[scat n]} =special_quality= % 特性
 tokushusee	{[scat n]} =particularity= "tokushu_see_NATURE" % 特殊性
 tonari	{[scat n]} =next=	% =next_door= では意味が狭すぎる
 tooboosha	{[scat n]} =runaway_person= "tooboo_sha_PERSON" % 逃亡者
+toogokaisekijoohoo	{[scat n][comp n+n:vn+n]} =syntactic_analysis= "toogo+kaiseki+joohoo"
 tooiinkai	{[scat n]} =this_committee=
 tooji	{[scat n]} =those_times=
 toojisha	{[scat n]} =person_concerned= "tooji_sha_PERSON" % 当事者
@@ -578,15 +668,18 @@ uranai	{[scat n]} =fortune_telling= % 占い
 uranaishi	{[scat n]} =fortune_teller= "uranai_shi_MASTER" % 占い師
 yakusha	{[scat n]} =actor= % 役者
 yakusha	{[scat n]} =translator= % 訳者
+yakusho	 {[scat n]} =public_office=
 yakuza	{[scat n]} =gangstar= % 訳者
 yasaishitsu	{[scat n]} =vegetable_space= "yasai_shitsu_ROOM" % 野菜
 yatoo	{[scat n]} =opposition_party= "ya_too_PARTY" % 野党
 yogensha	{[scat n]} =prophet= "yogen_sha_PERSON"
 yokinsha	{[scat n]} =depositor= "yokin_sha_PERSON" % 預金者
+yokunen	 {[scat n]} =next_year=
 yononaka	{[scat n]} =society=
 yoochien	{[scat n]} =kindergarten= "yoochi_en_GARDEN" % 幼稚園
 yoogisha	{[scat n]} =suspected_person= "yoogi_sha_PERSON" % 容疑者
 yoosee	{[scat n]} =positivity= % 陽性
+yoosoo	 {[scat n]} =appearance=
 yorokobi	{[scat n]} =joy=
 yotoo	{[scat n]} =government_party= "yo_too_PARTY" % 与党
 yuubinsha	{[scat n]} =mail_van= "yuubin_sha_VEHICLE"
@@ -602,73 +695,11 @@ yuushoosha	{[scat n]} =champion= "yuushoo_sha_PERSON" % 優勝者
 yuuyoosee	{[scat n]} =usefulness= "yuuyoo_see_NATURE" % 有用性
 zaisan	{[scat n]} =property=
 zazen	{[scat n]} =zazen=
+zeetakuhin	{[scat n]} =luxury_goods= "zeetaku_hin_GOODS"
 zendaimimon	{[scat n]} =unprecedented=
 zenhan	{[scat n]} =the_first_half=
+zensai		{[scat n]} =previous_wife=
 zensha	{[scat n]} =the_former=
-aitechiimu	{[scat n][comp n+n]} =opponent_team= "aite+chiimu"
-choojoogenshoo	{[scat n][comp n+n]} =supernatural_phenomenon= "choojoo+genshoo"
-dasshutsusakusen	{[scat n][comp n:vn+n]} =escape_strategy= "dasshutsu+sakusen"
-eegakantoku	{[scat n][comp n+n]} =movie_director= "eega+kantoku" % 映画監督
-eegyooseeseki	{[scat n][comp n+n]} =business_result= "eegyoo+seeseki"
-en'yoogyogyoo	{[scat n][comp n+n]} =pelagic_fishery= "en'yoo+gyogyoo"
-gaikokugogakushuu	{[scat n][comp n+n:vn]} =foreign_language_learning= "gaikoku_go_LANGUAGE+gakushuu"
-gengodeeta	{[scat n][comp n+n]} =linguistic_data= "gengo+deeta"
-gengokaisekijoohoo	{[scat n][comp n+n:vn+n]} =linguistic_analysis= "gengo+kaiseki+joohoo"
-gengokenkyuu	{[scat n][comp n+n:vn]} =linguistic_research= "gengo+kenkyuu"
-gengoshorishisutemukaihatsu	{[scat n][comp n+n:vn+n+n:vn]} =development_of_NLP_system= "gengo+shori+shisutemu+kaihatsu"
-gorufukurabu	{[scat n][comp n+n]} =golf_club= "gorufu+kurabu"
-gorufukurabusetto	{[scat n][comp n+n+n]} =golf_club_set= "gorufu+kurabu+setto"
-hootekishikoo	{[scat n][comp n:an+n]} =legal_thinking= "hoo_teki_LIKE+shikoo"
-horaaeega	{[scat n][comp n+n]} =horror_movie= "horaa+eega" % ホラー映画
-joobakurabu	{[scat n][comp n+n:vn]} =equestrian_club= "jooba+kurabu" % n+n:vn でなく n:vn+n
-kankyakuseki	{[scat n][comp n+n]} =audience_seat= "kankyaku+seki"
-kenkyuutaishoo	{[scat n][comp n:vn+n]} =research_subject= "kenkyuu+taishoo"
-kimatsushiken	{[scat n][comp n+n]} =term_examination= "kimatsu+shiken"
-kisobubun	{[scat n][comp n+n]} =basic_part= "kiso+bubun"
-kisochisiki	{[scat n][comp n+n]} =basic_knowledge= "kiso+chishiki"
-kisodeeta	{[scat n][comp n+n]} =basic_data= "kiso+deeta"
-kisokagaku	{[scat n][comp n+n]} =basic_science= "kiso+kagaku"
-kisokeesan	{[scat n][comp n+n:vn]} =basic_calculation= "kiso+keesan"
-kisokenkyuu	{[scat n][comp n+n]} =basic_research= "kiso+kenkyuu"
-kisokenkyuunashi	{[scat n][comp n+n]} =basic_research= "kiso+kenkyuu-nashi_WITHOUT"
-kisoteechakudo	{[scat n][comp n+n]} =base_fixing_degree= "kiso+teechaku_do_DEGREE"
-kobuta	{[scat n][comp n+n]} =little_pig= "ko+buta"
-kogaisha	{[scat n][comp n+n]} =subsidiary_company= "ko+kaisha"
-kogitsune	{[scat n][comp n+n]} =little_fox= "ko+kitsune"
-koinu	{[scat n][comp n+n]} =puppy= "ko+inu"
-kokkyoosen	{[scat n][comp n+n]} =nation al_border_line= "kokkyoo+sen" % n|kokkyoo-sen_LINE=border_line でなく、複合では?
-koneko	{[scat n][comp n+n]} =kitten= "ko+neko"
-kouma	{[scat n][comp n+n]} =foal= "ko+uma"
-kousagi	{[scat n][comp n+n]} =leveret= "ko+usagi"
-koushi	{[scat n][comp n+n]} =calf= "ko+ushi"
-kyoogookankee	{[scat n][comp n:vn+n]} =competitive_relationship= "kyoogoo+kankee"
-kyoozonkankee	{[scat n][comp n:vn+n]} =symbiotic_relationship= "kyoozon+kankee"
-namazakana	{[scat n][comp n+n]} =raw_fish= "nama+sakana" % 生魚
-oodioseehin	{[scat n][comp n+n]} = audio_product= "oodio+seehin"
-seejidantai	{[scat n][comp n+n]} =political_organization= "seeji+dantai"
-seejigakusha	{[scat n][comp n+n]} =political_scientist= "seeji+gakusha"
-seejijookyoo	{[scat n][comp n+n]} =political_situation= "seeji+jookyoo"
-seejikeezai	{[scat n][comp n+n]} =politics_and_economics= "seeji+keezai"
-seejikisha	{[scat n][comp n+n]} =political_correspondent= "seeji+kisha"
-seejimondai	{[scat n][comp n+n]} =political_issue= "seeji+mondai"
-seejiseedo	{[scat n][comp n+n]} =political_system= "seeji+seedo"
-seejishakai	{[scat n][comp n+n]} =politics_and_society= "seeji+shakai"
-seejitaisee	{[scat n][comp n+n]} =political_system= "seeji+taisee"
-shidookyookan	{[scat n][comp n:vn+n]} =mentor= "shidoo+shain"
-shinnyuushain	{[scat n][comp n+n]} =newly_hired_employee= "shinnyuu+shain"
-suiminpataan	{[scat n][comp n+n]} =sleep_pattern=
-tainaidokee	{[scat n][comp n+n]} =biological_clock= "tai_nai+tokee"
-tanjoobipaatii	{[scat n][comp n+n]} =birthday_party= "tanjoobi+paatii" % 誕生日パーティー
-tansaibooseebutsu	{[scat n][comp n+n]} =unicellular_creature= "tansaiboo+seebutsu"
-tasaibooseebutsu	{[scat n][comp n+n]} =multicellular_creature= "tasaiboo+seebutsu"
-teechakudo	{[scat n]} =fixing_degree= "teechaku_do_DEGREE"
-toogokaisekijoohoo	{[scat n][comp n+n:vn+n]} =syntactic_analysis= "toogo+kaiseki+joohoo"
-seemeesen	{[scat n][comp n+n]} =life_line= "seemee+sen"
-seeraafuku		{[scat n][comp n+n]} =sailor_suit= "seeraa+fuku"
-
-% 修正
-Igirisu	{[scat n:prop]} =England= % igurisu --> igirisu
-Supein	{[scat n:prop]} =Spain= % Supeen --> Supein
 
 % fml
 kawari	{[scat n:fml]} =instead_of= % in_exchange_for でなく
@@ -766,23 +797,14 @@ saiseesukiimu	{[scat n][comp n:vn+n]} =scheme_of_the_regeneration= "saisee+sukii
 shachoodaikoo	{[scat n][comp n+n]} =acting_president= "shachoo+daikoo"
 untenshikin	{[scat n][comp n:vn+n]} =working_capital= "unten+shikin"
 yakuinkoosee	{[scat n][comp n+n]} =list_of_directors= "yakuin+koosee"
-kokuseesenkyo {[scat n:n][scat n+n]} =national_election=
-Satoo {[scat n:prop]} =Satoo= 
+kokuseesenkyo {[scat n][scat n+n]} =national_election=
 dookoo {[scat n]} =move= % 動向
 shoooten {[scat n]} =focus=
-Jimin {[scat n:prop]} =LDP= % 自民
-dokujikooho {[scat n:n][comp n+n]} =original_candidate= "dokuji+kooho"
-yooritsu {[scat n:vn]} =putting_up= 
-Minshu {[scat n:prop]} =DPJ= % 民主（党）
-shudookenkakuho {[scat n:n][comp n+n:vn]} =securing_initiative= "shudooken+kakuho"
+dokujikooho {[scat n][comp n+n]} =original_candidate= "dokuji+kooho"
+shudookenkakuho {[scat n][comp n+n:vn]} =securing_initiative= "shudooken+kakuho"
 shudooken {[scat n]} =initiative=
 yakki {[scat n]} =wrought_up= % 躍起
 genshoku {[scat n]} =incumbent=
-Satooyuuhee {[scat n:prop][comp n:prop+n:prop]} "Satoo-Yuuhee"
-Fukushimadaiichigempatsujiko {[scat n:prop][comp n:prop+n+n]} =Fukushima_Daiichi_nuclear_disaster= "Fukushimadaiichi+genpatsu+jiko"
-fukkoo {[scat n:vn]} =reconstruction=
-maishin {[scat n:vn]} =striving=
-meigen {[scat n:vn]} =declaration=
 jimotoseekaikankeesha {[scat n][comp n+n+n]} =people_involved_in_the_local_political_circle= "jimoto+seekai+kankeesha"
 dankai {[scat n]} =stage=
 kankyoo {[scat n]} =environment=
@@ -790,19 +812,12 @@ sakunen {[scat n]} =last_year=
 genshiryokusaigai {[scat n][comp n+n]} =nuclear_power_disaster= "genshiryoku+saigai"
 genshokurakusendomino {[scat n][comp n+n:vn+n]} =continual_losing_of_imcumbents= "genshoku+rakusen+domino"
 saishuushoo {[scat n][comp n+n]} =last_chapter= "saishuu+shoo"
-toosen {[scat n:vn]} =be_elected= 
-hatsutoosen {[scat n:vn][comp n+n:vn]} =be_firstly_elected= "hatsu+toosen"
 seetoo {[scat n]} =political_party=
-suisen {[scat n:vn]} =recommendation=
-kyoosantoosuisenkooho {[scat n] [comp n+n+n:vn+n]} =candidate_recommended_by_JCP= "kyoosan+too+suisen+kooho"
-asshoo {[scat n:vn]} =overwhelming_victory=
-shuugiinfukugichoo {[scat n] [comp n+n]} =vice_speaker_of_the_House_of_Japan= "shuugiin+fukugichoo"
+kyoosantoosuisenkooho {[scat n][comp n+n+n:vn+n]} =candidate_recommended_by_JCP= "kyoosan+too+suisen+kooho"
+shuugiinfukugichoo {[scat n][comp n+n]} =vice_speaker_of_the_House_of_Japan= "shuugiin+fukugichoo"
 hisho {[scat n]} =secretary= 
-senkyokyooshaburi {[scat n] [comp n+n]} =the_strength_in_election= "senkyo+kyooshaburi"
-hakki {[scat n:vn]} =give_full_play=
-kenseeyotoo {[scat n:n]} =the_government_party_of_a_prefecture= "kensee+yotoo"
-jinin {[scat n:vn]} =pretension= % 自任する
-Minshutoo {[scat n:prop]} =DPJ= 
+senkyokyooshaburi {[scat n][comp n+n]} =the_strength_in_election= "senkyo+kyooshaburi"
+kenseeyotoo {[scat n][comp n+n]} =the_government_party_of_a_prefecture= "kensee+yotoo"
 shuuinsen {[scat n]} =election_of_the_House_of_Japan=
 kennai {[scat n]} =within_a_prefection=
 zampai {[scat n]} =be_beaten_hollow= 
@@ -813,138 +828,17 @@ jikichijisen {[scat n] [comp n+n]} =next_gubernatorial_election= "jiki+chijisen"
 kensee {[scat n]} =politics_of_a_prefecture=
 suimenka {[scat n]} =below_the_surface=
 kooho {[scat n]} =candidate=
-mosaku {[scat n:vn]} =groping=
 kokkai {[scat n]} =national_diet=
-attootekitasuu {[scat n:n] [comp n:an+n]} =overwhelming_majority= "attooteki+tasuu"
+attootekitasuu {[scat n] [comp n:an+n]} =overwhelming_majority= "attooteki+tasuu"
 ikkyoo {[scat n:an]} =the_uniquely_strong=
-Jimintoo {[scat n:prop]} =LDP=
-kakujitsushi {[scat n:vn]} =considering_to_be_sure=
 naikakufutokumeetantooshoo {[scat n][comp n+n:an+n]} =minister_appointed_by_the_Cabinet_Office= "naikakufu+tokumee+tantooshoo"
-
-% Suzuki 2019/2/18
-animashion	{[scat n]} =animacion=
-bangurasshii	{[scat n]} =bhang_lassi=
-busshi		{[scat n]} =goods=
-daiyoohin	{[scat n]} =substitute= "daiyoo_hin_GOODS"
-dooryoo		{[scat n]} =colleague=
-fushinkan	{[scat n]} =distrust=
-haguruma	{[scat n]} =toothed_gear=
-homban		{[scat n]} =actual_performance=
-hootee		{[scat n]} =court=
-igokochi	{[scat n]} =comfortableness= 
-indojin		{[scat n]} =Indian=
-iradachi	{[scat n]} =irritation= 
-isharyoo	{[scat n]} =consolation_money=
-jiree		{[scat n]} =case=
-kaiketsukin	{[scat n]} =settelemat_money= "kaiketsu_kin_MONEY"
-katsuretsu	{[scat n]} =cutlet=
-kuizudaisakusen	{[scat n]} =quiz_game= "kuizu_daisakusen"
-kure		{[scat n]} =toward_the_end=
-kyoodoo		{[scat n]} =cooporation=
-megami		{[scat n]} =goddess=
-ninshinchuu	{[scat n]} =pregnant= "ninshin_chuu_IN"
-see		{[scat n]} =owing_to=
-seeyoojin	{[scat n]} =Westerner=
-senjishoku	{[scat n]} =wartime_appearance= "senji_shoku_COLOR"
-shisetsu {[scat n]} =institution=
-shoo	 {[scat n]} =ministry=
-shuunen	 {[scat n]} =tenacity_of_purpose=
-soshoo	 {[scat n:vn]} =lawsuit=
-taihensa {[scat n]} =difficult= "taihen-sa_NLZR"
-yakusho	 {[scat n]} =public_office=
-yokunen	 {[scat n]} =next_year=
-yoosoo	 {[scat n]} =appearance=
-zeetakuhin	{[scat n]} =luxury_goods= "zeetaku_hin_GOODS"
-zensai		{[scat n]} =previous_wife=
-dokushoshidoohoo       {[scat n][comp n:vn+n]} =teaching_method_of_reading= "dokusho+shidoo_hoo_METHOD"
-dookyoseekatsu	       {[scat n][comp n:vn+n]} =cohabitation= "dookyo+seekatsu"
-furinaite	       {[scat n][comp n:vn+n]} =adulterous_lover= "furin+aite"
-kansootamago	{[scat n][comp n:vn+n]} =dried_egg= "kansoo+tamago"
-kekkonseekatsu	{[scat n][comp n:vn+n:vn]} =married_life= "kekkon+seekatsu"
-rekurieeshontekiyooso  {[scat n][comp n:an+n]} =recreational_element= "rekurieeshon_teki_LIKE+yooso"
 
 waga		{[scat n:deic:prs]} =my=
 
-% n:prop
-Akihito	{[scat n:prop]} =Akihito=
-Akita	{[scat n:prop]} =Akita=
-Akitashi	{[scat n:prop]} =Akita_city= "Akita_shi"
-Aomori	{[scat n:prop]} =Aomori=
-Aomorishi	{[scat n:prop]} =Aomori_city= "Aomori_shi"
-Baranashi	{[scat n:prop]} =Varanasi=
-Burajiru	{[scat n:prop]} =Brazil= % ブラジル
-Chembaasu	{[scat n:prop]} =Chambers=
-Dainijisekaitaisen	   {[scat n:prop]} =World_war_II= "Dai_niji_sekai_taisen"
-Erumaanobooken	       {[scat n:prop]} =Elmer's_adventure= "Erumaa_no_booken"
-Fukuoka		{[scat n:prop]} =Fukuoka=
-Fukushima	{[scat n:prop]} =Fukushima=
-Fukushimadaiichigempatsujiko {[scat n:prop][comp n:prop+n+n]} =Fukushima_Daiichi_nuclear_disaster= "Fukushimadaiichi+genpatsu+jiko"
-Fukushimaken {[scat n:prop]} =Fukushima_prefecture=
-Fukushimashi	{[scat n:prop]} =Fukushima_city= "Fukushima_shi"
-Gaimu			   {[scat n:prop]} =Foreign_Affairs=
-Handaibyooin	{[scat n:prop]} =Osaka_University_Hospital= "Handai_byooin"
-Heesee		{[scat n:prop]} =Heesee_era=
-Higashinihondaishinsai	{[scat n:prop]} =Great_East_Japan_earthquake= "Higashinihon_daishinsai"
-Honkon			   {[scat n:prop]} =Hong_Kong=
-Iwate	{[scat n:prop]} =Iwate=
-Izumi	{[scat n:prop]} =Izumi=
-Izumishi	{[scat n:prop]} =Izumi_city= "Izumi_shi"
-Jimin {[scat n:prop]} =LDP= % 自民
-Kaigunshoo		   {[scat n:prop]} =Ministry_of_Navy= "Kaigun_shoo"
-Kameoka	{[scat n:prop]} =Kameoka=
-Kameokashi	{[scat n:prop]} =Kameoka_city= "Kameoka_shi"
-Kandakuyakusho		   {[scat n:prop]} =Kanda_Ward_office= "Kanda_ku_yakusho"
-Kankoku	{[scat n:prop]} =South_Korea= % 韓国
-Ken'ichi	{[scat n:prop]} =Ken'ichi=
-Kitaakita	{[scat n:prop]} =Kitaakita=
-Kitaakitashi	{[scat n:prop]} =Kitaakita_city= "Kitaakita_shi"
-Kokuren	{[scat n:prop]} =United_Nations= % 国連
-Koobeshi	{[scat n:prop]} =Kobe_city= "Koobe_shi"
-Kunai			   {[scat n:prop]} =Imperial_Household=
-Kyarawee	{[scat n:prop]} =Callaway=
-Kyooko	{[scat n:prop]} =Kyoko=
-Kyootoshi	{[scat n:prop]} =Kyoto_city= "Kyooto_shi"
-Kyuusekkijidai	{[scat n:prop]} =old_stone_age=
-Kyuushuuchihoo	{[scat n:prop][comp n:prop+n]} =the_Kyuusyuu_region= "Kyuushuu+chihoo"
-Maikurosofuto	{[scat n:prop]} =Microsoft=
-Mazaateresa	{[scat n:prop]} =Mother_Teresa=
-Minamiafurika	{[scat n:prop]} =South_Africa= % 南アフリカ
-Minamisoomashi {[scat n:prop]} =Minami_Sooma_city=
-Minshu {[scat n:prop]} =DPJ= % 民主（党）
-Miyagi	{[scat n:prop]} =Miyagi=
-Mootsuaruto	{[scat n:prop]} =Mozart=
-Nagoyashi	{[scat n:prop]} =Nagoya_city= "Nagoya_shi"
-Nakajima	{[scat n:prop]} =Nakajima=
-Obake-chan	{[scat n:prop]} =ghost= "Obake-chan_FAM"
-Ookura		{[scat n:prop]} =Finance=
-Oosakashi	{[scat n:prop]} =Osaka_city= "Oosaka_shi"
-Puriamosu	{[scat n:prop]} =Priam=
-Rikugunshoo	{[scat n:prop]} =Ministry_of_Army= "Rikugun_shoo"
-Rondon	{[scat n:prop]} =London=
-Satooshi {[scat n:prop]} =Satoo-shi_HON= 
-Satooyuuheeshi {[scat n:prop][comp n:prop+n:prop]} "Satoo-Yuuhee-shi_HON"
-Sendai	{[scat n:prop]} =Sendai=
-Sendaishi	{[scat n:prop]} =Sendai_city= "Sendai_shi"
-Shanhaishi	{[scat n:prop]} =Shanghai_city= "Shanhai_shi"
-Shiba		{[scat n:prop]} =Shiva=
-Shibaratori	{[scat n:prop]} =Shivaratri=
-Shibuya	{[scat n:prop]} =Shibuya= % 渋谷
-Shimotsuma	{[scat n:prop]} =Shimotsuma=
-Shimotsumashi	{[scat n:prop]} =Shimotsuma_city= "Shimotsuma_shi"
-Shisuko	{[scat n:prop]} =Cysco=
-Shisukoshisutemuzu	{[scat n:prop]} =Cisco_Systems=
-Shoowa		{[scat n:prop]} =Shoowa_era=
-Taikanokaishin	{[scat n:prop]} =the_Taika_Reform=
-Takashima	{[scat n:prop]} =Takashima=
-Takashimashi	{[scat n:prop]} =Takashima_city= "Takashima_shi"
-Teekokuhoteru	{[scat n:prop]} =Inperial_hotel=
-Yamagata	{[scat n:prop]} =Yamagata=
-Yamagatashi	{[scat n:prop]} =Yamagata_city= "Yamagata_shi"
-Yamaguchi	{[scat n:prop]} =Yamaguchi=
-Yamaguchishi	{[scat n:prop]} =Yamaguchi_city= "Yamaguchi_shi"
-Yokohama	{[scat n:prop]} =Yokohama=
-Yokohamashi	{[scat n:prop]} =Yokohama_city= "Yokohama_shi"
-
 hoo		{[scat n:fml]} =one=
+
+
+
+
 
 

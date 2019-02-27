@@ -1,0 +1,91 @@
+% n:prop
+Akihito	{[scat n:prop]} =Akihito=
+Akita	{[scat n:prop]} =Akita=
+Akitashi	{[scat n:prop]} =Akita_city= "Akita_shi"
+Aomori	{[scat n:prop]} =Aomori=
+Aomorishi	{[scat n:prop]} =Aomori_city= "Aomori_shi"
+Baranashi	{[scat n:prop]} =Varanasi=
+Burajiru	{[scat n:prop]} =Brazil= % ブラジル
+Chembaasu	{[scat n:prop]} =Chambers=
+Dainijisekaitaisen	   {[scat n:prop]} =World_war_II= "Dai_niji_sekai_taisen"
+Erumaanobooken	       {[scat n:prop]} =Elmer's_adventure= "Erumaa_no_booken"
+Fukuoka		{[scat n:prop]} =Fukuoka=
+Fukushima	{[scat n:prop]} =Fukushima=
+Fukushimadaiichigempatsujiko {[scat n:prop][comp n:prop+n+n]} =Fukushima_Daiichi_nuclear_disaster= "Fukushimadaiichi+genpatsu+jiko"
+Fukushimadaiichigempatsujiko {[scat n:prop][comp n:prop+n+n]} =Fukushima_Daiichi_nuclear_disaster= "Fukushimadaiichi+genpatsu+jiko"
+Fukushimaken {[scat n:prop]} =Fukushima_prefecture=
+Fukushimashi	{[scat n:prop]} =Fukushima_city= "Fukushima_shi"
+Gaimu			   {[scat n:prop]} =Foreign_Affairs=
+Handaibyooin	{[scat n:prop]} =Osaka_University_Hospital= "Handai_byooin"
+Heesee		{[scat n:prop]} =Heesee_era=
+Higashinihondaishinsai	{[scat n:prop]} =Great_East_Japan_earthquake= "Higashinihon_daishinsai"
+Honkon			   {[scat n:prop]} =Hong_Kong=
+Iwate	{[scat n:prop]} =Iwate=
+Izumi	{[scat n:prop]} =Izumi=
+Izumishi	{[scat n:prop]} =Izumi_city= "Izumi_shi"
+Jimin {[scat n:prop]} =LDP= % 自民
+Jimin {[scat n:prop]} =LDP= % 自民
+Jimintoo {[scat n:prop]} =LDP=
+Kaigunshoo		   {[scat n:prop]} =Ministry_of_Navy= "Kaigun_shoo"
+Kameoka	{[scat n:prop]} =Kameoka=
+Kameokashi	{[scat n:prop]} =Kameoka_city= "Kameoka_shi"
+Kandakuyakusho		   {[scat n:prop]} =Kanda_Ward_office= "Kanda_ku_yakusho"
+Kankoku	{[scat n:prop]} =South_Korea= % 韓国
+Ken'ichi	{[scat n:prop]} =Ken'ichi=
+Kitaakita	{[scat n:prop]} =Kitaakita=
+Kitaakitashi	{[scat n:prop]} =Kitaakita_city= "Kitaakita_shi"
+Kokuren	{[scat n:prop]} =United_Nations= % 国連
+Koobeshi	{[scat n:prop]} =Kobe_city= "Koobe_shi"
+Kunai			   {[scat n:prop]} =Imperial_Household=
+Kyarawee	{[scat n:prop]} =Callaway=
+Kyooko	{[scat n:prop]} =Kyoko=
+Kyootoshi	{[scat n:prop]} =Kyoto_city= "Kyooto_shi"
+Kyuusekkijidai	{[scat n:prop]} =old_stone_age=
+Kyuushuuchihoo	{[scat n:prop][comp n:prop+n]} =the_Kyuusyuu_region= "Kyuushuu+chihoo"
+Maikurosofuto	{[scat n:prop]} =Microsoft=
+Mazaateresa	{[scat n:prop]} =Mother_Teresa=
+Minamiafurika	{[scat n:prop]} =South_Africa= % 南アフリカ
+Minamisoomashi {[scat n:prop]} =Minami_Sooma_city=
+Minshu {[scat n:prop]} =DPJ= % 民主（党）
+Minshu {[scat n:prop]} =DPJ= % 民主（党）
+Minshutoo {[scat n:prop]} =DPJ=
+Miyagi	{[scat n:prop]} =Miyagi=
+Mootsuaruto	{[scat n:prop]} =Mozart=
+Nagoyashi	{[scat n:prop]} =Nagoya_city= "Nagoya_shi"
+Nakajima	{[scat n:prop]} =Nakajima=
+Obake-chan	{[scat n:prop]} =ghost= "Obake-chan_FAM"
+Ookura		{[scat n:prop]} =Finance=
+Oosakashi	{[scat n:prop]} =Osaka_city= "Oosaka_shi"
+Puriamosu	{[scat n:prop]} =Priam=
+Rikugunshoo	{[scat n:prop]} =Ministry_of_Army= "Rikugun_shoo"
+Rondon	{[scat n:prop]} =London=
+Satoo {[scat n:prop]} =Satoo= 
+Satooshi {[scat n:prop]} =Satoo-shi_HON= 
+Satooyuuhee {[scat n:prop][comp n:prop+n:prop]} "Satoo_Yuuhee"
+Satooyuuheeshi {[scat n:prop][comp n:prop+n:prop]} "Satoo-Yuuhee-shi_HON"
+Sendai	{[scat n:prop]} =Sendai=
+Sendaishi	{[scat n:prop]} =Sendai_city= "Sendai_shi"
+Shanhaishi	{[scat n:prop]} =Shanghai_city= "Shanhai_shi"
+Shiba		{[scat n:prop]} =Shiva=
+Shibaratori	{[scat n:prop]} =Shivaratri=
+Shibuya	{[scat n:prop]} =Shibuya= % 渋谷
+Shimotsuma	{[scat n:prop]} =Shimotsuma=
+Shimotsumashi	{[scat n:prop]} =Shimotsuma_city= "Shimotsuma_shi"
+Shisuko	{[scat n:prop]} =Cysco=
+Shisukoshisutemuzu	{[scat n:prop]} =Cisco_Systems=
+Shoowa		{[scat n:prop]} =Shoowa_era=
+Taikanokaishin	{[scat n:prop]} =the_Taika_Reform=
+Takashima	{[scat n:prop]} =Takashima=
+Takashimashi	{[scat n:prop]} =Takashima_city= "Takashima_shi"
+Teekokuhoteru	{[scat n:prop]} =Inperial_hotel=
+Yamagata	{[scat n:prop]} =Yamagata=
+Yamagatashi	{[scat n:prop]} =Yamagata_city= "Yamagata_shi"
+Yamaguchi	{[scat n:prop]} =Yamaguchi=
+Yamaguchishi	{[scat n:prop]} =Yamaguchi_city= "Yamaguchi_shi"
+Yokohama	{[scat n:prop]} =Yokohama=
+Yokohamashi	{[scat n:prop]} =Yokohama_city= "Yokohama_shi"
+
+% 修正
+Igirisu	{[scat n:prop]} =England= % igurisu --> igirisu
+Supein	{[scat n:prop]} =Spain= % Supeen --> Supein
+

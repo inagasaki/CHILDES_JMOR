@@ -8,6 +8,7 @@ bubunteki	{[scat n:an]}  =partial=  "bubun_teki_LIKE" % 部分的
 bungakuteki	{[scat n:an]}  =literary=  "bungaku_teki_LIKE" % 文学的
 bunkateki	{[scat n:an]}  =cultural=  "bunka_teki_LIKE" % 文化的
 chimeeteki	{[scat n:an]}  =fatal=  "chimee_teki_LIKE" % 致命的
+chiriteki	{[scat n:an]}  =geographical=  "chiri_teki_LIKE" % 地理的
 chiteki	{[scat n:an]} =intellectual= "chi_teki_LIKE"
 chookiteki	{[scat n:an]} =long_term= "chooki_teki_LIKE"
 daihyooteki	{[scat n:an]} =typical= "daihyoo_teki_LIKE"
@@ -36,7 +37,7 @@ haruka	{[scat n:an]} =remote=
 heekinteki	{[scat n:an]}  =average=  "heekin_teki_LIKE" % 平均的
 heesateki	{[scat n:an]}  =insular=  "heesa_teki_LIKE" % 閉鎖的
 herushii {[scat n:an]} =healthy= %ヘルシー
-hijoo	{[scat n:an]}  =extreem=  % 非常な（暑さ）
+hijoo	{[scat n:an]}  =extreme=  % 非常な（暑さ）
 himpan	{[scat n:an]} =frequently=
 hisoka	{[scat n:an]} =stealthy=
 hiteeteki	{[scat n:an]}  =negative=  "hitee_teki_LIKE" % 否定的
@@ -99,11 +100,11 @@ mikaiketsu	{[scat n:an]} =unresolved= "mi_NEG_kaiketsu"
 miryokuteki	{[scat n:an]} =attractive= "miryoku_teki_LIKE"
 naibuteki	{[scat n:an]} =internal= "naibu_teki_LIKE"
 naibuteki	{[scat n:an]} =internal= "naibu_teki_LIKE"
-nasasoo	{[scat n:an]} =be= "ar&NEG-soo_SEEMING"
+nihonteki	{[scat n:an]} =Japan= "nihon_teki_LIKE"
 nikutaiteki	{[scat n:an]}  =physical=  "nikutai_teki_LIKE" % 肉体的
 ningenteki	{[scat n:an]}  =human_like=  "ningen_teki_LIKE" % 人間的
+noopuroburemu	{[scat n:an]} =no_problem= "noo_puroburemu"
 odayaka	{[scat n:an]} =mild=
-onaji	{[scat n:an]} =same=  % adn のエントリーを削除してもらうこと!!
 onnaji	{[scat n:an]} =same= "onaji"
 reegaiteki	{[scat n:an]}  =exceptional=  "reegai_teki_LIKE" % 例外的
 rekishiteki	{[scat n:an]} =historical= "rekishi_teki_LIKE"
@@ -114,6 +115,7 @@ ronriteki	{[scat n:an]}  =logical=  "ronri_teki_LIKE" % 論理的
 saidai	{[scat n:an]} =greatest=
 saishuuteki	{[scat n:an]} =final= "saishuu_teki_LIKE"
 saiwai	{[scat n:an]} =fortunate=
+sasayaka	{[scat n:an]} =slight=
 seejiteki	{[scat n:an]}  =political=  "seeji_teki_LIKE" % 政治的
 seeryokuteki	{[scat n:an]} =energetic= "seeryoku_teki_LIKE"
 seesanteki	{[scat n:an]} =productive= "seesan_teki_LIKE"
@@ -130,15 +132,18 @@ shimpaisoo	{[scat n:an]} =anxious= "shimpai-soo_SEEMING"
 shimpiteki	{[scat n:an]} =mysterious= "shimpi_teki_LIKE"
 shinkoku	{[scat n:an]} =serious=
 shinriteki	{[scat n:an]}  =mental=  "shinri_teki_LIKE" % 心理的
+shitsuyoo	{[scat n:an]} =persistent=
 shookyokuteki	{[scat n:an]} =inactive= "shookyoku_teki_LIKE"
 shooraiteki	{[scat n:an]}  =future=  "shoorai_teki_LIKE" % 将来的
 shuushooteki	{[scat n:an]}  =abstract=  "shuushoo_teki_LIKE" % 抽象的
-soogooteki	{[scat n:an]} =	comprehensive= "soogoo_teki_LIKE"
+soogooteki	{[scat n:an]} =comprehensive= "soogoo_teki_LIKE"
 sookyuu	{[scat n:an]} =urgent=
 sooshokuteki	{[scat n:an]}  =decorative=  "sooshoku_teki_LIKE" % 装飾的
 sootaiteki	{[scat n:an]}  =relative=  "sootai_teki_LIKE" % 相対的
 soozooteki	{[scat n:an]}  =creative=  "soozoo_teki_LIKE" % 創造的
+suihee	{[scat n:an]} =horizontal=
 taishooteki	{[scat n:an]}  =contrastive=  "taishoo_teki_LIKE" % 対照的
+teehakukanoo	{[scat n:an][comp n:vn+n:an} =anchoring_capable= "teehaku_kanoo"
 teekiteki	{[scat n:an]} =regular= "teeki_teki_LIKE"
 tetsugakuteki	{[scat n:an]}  =philosophical=  "tetsugaku_teki_LIKE" % 哲学的
 tetteeteki	{[scat n:an]} =thoroughly= "tettee_teki_LIKE"
@@ -156,6 +161,17 @@ yuuyoo	{[scat n:an]}    =useful=
 zeetaku	{[scat n:an]} =luxurious=
 zemmenteki	{[scat n:an]} =fullscale= "zemmen_teki_LIKE"
 zenkokuteki	{[scat n:an]} =nationwide= "zenkoku_teki_LIKE"
+zensekaiteki	{[scat n:an]} =global= "zensekai_teki_LIKE"
 zentaiteki	{[scat n:an]}  =overall=  "zentai_teki_LIKE" % 全体的
 zetsubooteki	{[scat n:an]} =desperate= "zetsuboo_teki_LIKE"
 
+% 修正
+nasasoo	{[scat n:an]} =be= "ar&NEG-soo_SEEMING" % nasasoo のもうひとつのエントリーを削除してもらう
+onaji	{[scat n:an]} =same=  % adn のエントリーを削除してもらうこと!!
+hebereke	{[scat n:an]} =extremely_drunk= % n のエントリーを削除してもらう
+kisekiteki {[scat n:an]} =miracle= "kiseki-teki_LIKE" % 元のエントリーを削除してもらう
+meeryoo	{[scat n:an]} =clear= % clearly となっているので直してもらう
+michi	{[scat n:an]} =unknown= % n となっているので直してもらう
+rikoo	{[scat n:an]} =smart= % 元は bright_child となっているので直してもらう
+teenee	{[scat n:an]} =careful= % 元はrespectful となっているので直してもらう
+zettai	{[scat n:an]} =absolute= % adv を削除してもらう？

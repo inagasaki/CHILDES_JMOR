@@ -4,44 +4,68 @@ hokanaranai {[scat v:c]} =be_nothing_other_than= "hokanarana-PRES"
 % verb
 age	{[scat v:v]} =mention=
 ais	{[scat v:c]} =love=                   % 【愛す】（「愛す.べき」）
+ake	{[scat v:v]} =be_over= %明ける
 atar	{[scat v:c]} =be_in_charge=
 azukar	{[scat v:c]} =take_custody=	%【預かる】
+bur	{[scat v:c]} =pretend_to_be= %〜ぶる
 chigaw	{[scat v:c]} =differ=	%【違う】
 chikazuk	{[scat v:c]} =approach=	%【近づく】(近付く)
 das	{[scat v:c]} =send/submit=
 dekake	{[scat v:v]} =go_out=
 deki	{[scat v:v]} =be_made=
 demawar	{[scat v:c]} "demawar" =appear_abundantly= %	出回る
+dooji	{[scat v:v]} =be_perturbed= %	動じる
 furumaw	{[scat v:c]} =distribute=
+fuuji	{[scat v:v]} =suppress= %	封じる		
 hakar	{[scat v:c]} =plan=
 hanas	{[scat v:c]} =speak=
 hans	{[scat v:c]} =be_against=
 hate	{[scat v:v]} =terminate= %	果てる
+hokusoem       {[scat v:c]} =chuckle=
 ikar	{[scat v:c]} =get_angry=
 iras	{[scat v:c]} =be_POL= %「いらして」「いらした」
 iras	{[scat v:c]} =come_POL= %「いらして」「いらした」
 kakar	{[scat v:c]} =be_required=	% 時間がかかる
 kake	{[scat v:v]} =require= %「迷惑を掛ける」
+kake {[scat v:v]} =hang= % 帽子をハンガーに_掛ける_
+karonji	{[scat v:v]} =underrate= %	軽んじる		
 kik	{[scat v:c]} =hear/listen=	%【聴く】
 kikoe	{[scat v:v]} =be_heard=
+kinji	{[scat v:v]} =forbid= %	禁じる		
 makas	{[scat v:c]} =defeat=	%【負かす】
+mas {[scat v:c]} =increase=
 mawar	{[scat v:c]} =revolve=
 mawas	{[scat v:c]} =revolve=
+meeji	{[scat v:v]} =command= %	命じる		
+menji	{[scat v:v]} =exempt= %	免じる		
 mi	{[scat v:v]} =see/look/watch=	%【見る】
+mirare {[scat v:v]} =seem= % VB2の「見られる」
+mukaw	{[scat v:c]} =go=
 naos	{[scat v:c]} =repair=	%【直す】 コメント:「直す」と「治す」の区別。すでにverb.cutに「直す」"cure"というエントリーがあるが、そちらは「治す」であるべき。
 ne	{[scat v:v]} =sleep=
+nenji	{[scat v:v]} =wish= %	念じる		
+nozom {[scat v:c]} =confront=
 oishiger	{[scat v:c]} =be_overgrown=
 okur	{[scat v:c]} =pass/spend=
 ondas	{[scat v:c]} =expel=
 onde	{[scat v:v]} =get_out=
+ooji	{[scat v:v]} =respond= %	応じる		
 sabak	{[scat v:c]} =deal_with/judge=  % =dissemble= というエントリーは（dissembleという意味はないように思われるので）削除してよいのではないか？
 sakeb	{[scat v:c]} =shout=
 shikir	{[scat v:c]} =manage=
+shime {[scat v:v]} =rank= % 占める
+shirizoke {[scat v:v]} =repulse=
+shos	{[scat v:c]} =execute=
+shoserare	{[scat v:v]} =execute= "shos-erare_PASS"
 sute	{[scat v:v]} =discard=	%【捨てる】(《棄てる)
+tames {[scat v:c]} =test= % 「（大地が）試される」
+tate	{[scat v:v]} =build=
+tegake	{[scat v:v]} =manage=
 uchikom	{[scat v:c]} =be_absorbed_in= % "ut_kom" の一語化
 umare	{[scat v:v]} =be_born= %生まれる "umare&PASS" ではない
 ut	{[scat v:c]} =hit/shoot=	%【打つ】【撃つ】
-yak	{[scat v:c]} =bake/fry/roast=	%【焼く】***
+yabure {[scat v:v]} =lose= % 敗れる
+yak	{[scat v:c]} =bake/fry/roast=	%【焼く】
 
 % 修正希望
 arienai	{[scat v:ir][tense pres]} =be= "ar-POT-NEG-PRES"
@@ -611,52 +635,17 @@ yukikayow	{[scat v:c][comp v:c+v:c]} =pass= "yuk+kayow"
 yurashihajime	{[scat v:v][comp v:c+v:v]} =shake_start= "yur&CAUS+hajime"
 yusurihajime	{[scat v:v][comp v:c+v:v]} =shake_start= "yusur+hajime"
 
-
 % 修正
 kashite	{[scat n][comp v:c+n]} =lender= "kas+te" % "kasi+te" でなく
 michibik	{[scat v:c]} =guide= "michibik"	%【導く】 % mich_hik から境界をとる
 tanabik	{[scat v:c]} =trail= "tanabik"	%【たなびく/棚引く】 % tana_hik から境界をとる
-
-
-% by Hayashi 2019/1/30
-kake {[scat v:v]} =hang= % 帽子をハンガーに_掛ける_
-% 2019/2/14
-mirare {[scat v:v]} =seem= % VB2の「見られる」
-tames {[scat v:c]} =test= % 「（大地が）試される」
-mas {[scat v:c]} =increase=
-shirizoke {[scat v:v]} =repulse=
-nozom {[scat v:c]} =confront=
-shime {[scat v:v]} =rank= % 占める
-yabure {[scat v:v]} =lose= % 敗れる
+michigae	{[scat v:v][comp v:v+v:v]} =be_beyond_recognition= "mi+chigae" % 元のエントリーを削除
 
 % suzuki
-ake	{[scat v:v]} =be_over= %明ける
-bur	{[scat v:c]} =pretend_to_be= %〜ぶる
-hokusoem       {[scat v:c]} =chuckle=
-mukaw	{[scat v:c]} =go=
-tegake	{[scat v:v]} =manage=
-
 dekiagar       {[scat v:c][comp v:v+v:c]} =be_completed= "deki+agar"
 furisosog      {[scat v:c][comp v:c+v:c]} =shower_down= "fur+sosog"
 hikiuke	       {[scat v:v][comp v:c+v:v]} =take_over= "hik+uke"
-
-
-% kishiyama
-ooji	{[scat v:v]} =respond= %	応じる		
-dooji	{[scat v:v]} =be_perturbed= %	動じる
-fuuji	{[scat v:v]} =suppress= %	封じる		
-karonji	{[scat v:v]} =underrate= %	軽んじる		
-kinji	{[scat v:v]} =forbid= %	禁じる		
-meeji	{[scat v:v]} =command= %	命じる		
-menji	{[scat v:v]} =exempt= %	免じる		
-nenji	{[scat v:v]} =wish= %	念じる		
-
-
-% Suzuki 2019/2/18
 kigatsuk {[scat v:c]} =come_to=
-sar	 {[scat v:c]} =leave=
-tees	 {[scat v:c]} =present=
-
 makiage	 {[scat v:v][comp v:c+v:v]} =wangle= "mak+age"
 nemurikoke	{[scat v:v][comp v:c+v:v]} =sleep_deeply= "nemur+koke"
 semariku	{[scat v:ir][comp v:c+v:ir]} =impend= "semar+ku"

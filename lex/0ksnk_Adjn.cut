@@ -144,7 +144,7 @@ sootaiteki	{[scat n:an]}  =relative=  "sootai_teki_LIKE" % 相対的
 soozooteki	{[scat n:an]}  =creative=  "soozoo_teki_LIKE" % 創造的
 suihee	{[scat n:an]} =horizontal=
 taishooteki	{[scat n:an]}  =contrastive=  "taishoo_teki_LIKE" % 対照的
-teehakukanoo	{[scat n:an][comp n:vn+n:an} =anchoring_capable= "teehaku_kanoo"
+teehakukanoo	{[scat n:an][comp n:vn+n:an]} =anchoring_capable= "teehaku_kanoo"
 teekiteki	{[scat n:an]} =regular= "teeki_teki_LIKE"
 tetsugakuteki	{[scat n:an]}  =philosophical=  "tetsugaku_teki_LIKE" % 哲学的
 tetteeteki	{[scat n:an]} =thoroughly= "tettee_teki_LIKE"

@@ -44,6 +44,7 @@ aratamete	{[scat adv]} =again=
 atakamo	{[scat adv]} =as_if=
 atarikamawazu	{[scat adv]} =regardless_of_the_effect_on_others=
 ato	{[scat adv]} =another/more=
+ato	{[scat adv]} =another=
 battari	{[scat adv:onoma]} =unexpectedly=
 betsuni	{[scat adv]} =particularly=
 bishobisho	{[scat adv:onoma]} =soak_wet=
@@ -51,7 +52,9 @@ bisshori	{[scat adv:onoma]} =soak_wet=
 burari	{[scat adv:onoma]} =aimlessly=
 chikaraippai	{[scat adv]} =with_all_one's_strength=
 chiratto	{[scat adv:onoma]} =at_a_glance=
+danjite	{[scat adv]} =at_all=
 dekirudake	{[scat adv]} =all_possible_efforts=
+dooyoo	{[scat adv]} =same=
 doppuri	{[scat adv:onoma]} =totally=
 en'en	{[scat adv]} =endlessly=
 fukabuka	{[scat adv]} =deeply=
@@ -78,7 +81,7 @@ issoo	{[scat adv]} =more=
 iwaba	{[scat adv]} =so_to_speak=
 iza	{[scat adv]} =well_then=
 izen	{[scat adv]} =still=
-jitsuwa	{[scat adv]} =in_fact= % conj でなく
+jitsuwa	{[scat adv]} =in_fact= "jitsu_wa" % conj でなく
 kachitto	{[scat adv:onoma]} =firmly=
 kakushakuto	{[scat adv:onoma]} =vigorously=
 kanarazushimo	{[scat adv]} =necessarily= "kanarazu_shimo"	% not_necessarily でなく（これ自体には否定が入っていない）
@@ -90,6 +93,7 @@ kotoni	{[scat adv]} =especially=
 kuchiguchini   {[scat adv]} =severally=
 kunekune	{[scat adv:onoma]} =tortuous=
 kyuukyo	{[scat adv]} =in_haste=
+machigainaku   {[scat adv]} =definitely=
 marude	{[scat adv]} =just=
 masaka	{[scat adv]} =unlikely=
 mashite	{[scat adv]} =not_to_speak_of=
@@ -100,6 +104,8 @@ mohaya	{[scat adv]} =by_now=
 mojidoori	{[scat adv]} =literally=
 moo	{[scat adv]} =another/more=
 moosugu	{[scat adv]} =soon=
+muron	{[scat adv]} =of_course=
+nakanaka       {[scat adv]} =not_nearly= %なかなか〜ない
 namajikka	{[scat adv]} =by_halves=
 nandemo	{[scat adv]} =they_say=
 nanishiro	{[scat adv]} =at_any_rate=
@@ -140,11 +146,13 @@ tatoe	{[scat adv]} =even_if=
 tatta	{[scat adv]} =just=
 tattaima	{[scat adv]} =just_now=
 tenjite	{[scat adv]} =conversely=
+tobikiri	{[scat adv]} =exceptional=
 todonotsumari	{[scat adv]} =in_the_end=
 tokaku	{[scat adv]} =anyhow=
 tokini	{[scat adv]} =from_time_to_time=
 tokiori	{[scat adv]} =sometimes=
 tokitama	{[scat adv]} =sometimes=
+tomokaku       {[scat adv]} =setting aside=
 tomosuruto	{[scat adv]} =sometimes=
 tootee	{[scat adv]} =absolutely=
 toozen	{[scat adv]} =of_course=
@@ -153,11 +161,9 @@ tsuujoo	{[scat adv]} =usually=
 umaretsuki	{[scat adv]} =by_nature=
 unzari	{[scat adv:onoma]} =be_sick_of=
 uzuuzu	{[scat adv:onoma]} =eagarly=
-zokuzoku	{[scat adv:onoma]} =successively=
+zokuzoku	{[scat adv]} =successively=
 zukezuke	{[scat adv:onoma]} =bluntly=
-machigainaku   {[scat adv]} =definitely=
-nakanaka       {[scat adv]} =not_nearly= %なかなか〜ない
-tomokaku       {[scat adv]} =setting aside=
+zurari	{[scat adv:onoma]} =in_a_row= "zurari_to"
 
 % adnominal (pnl)
 omoikitta	{[scat adn]} =daring=

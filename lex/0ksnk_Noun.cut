@@ -552,7 +552,8 @@ raijoosha	{[scat n]} =visitor= "raijoo_sha_PERSON" % 来場者
 reetoosha	{[scat n]} =refrigerate= "reetoo_sha_VEHICLE" % 冷凍車
 rekishi	{[scat n]} =history=
 rekishisee	{[scat n]} =historicity= "rekishi_see_NATURE" % 歴史性
-rekurieeshontekiyooso  {[scat n][comp n:an+n]} =recreational_element= "rekurieeshon_teki_LIKE+yooso"haihiiru	{[scat n]} =high_heels= % ハイヒール（複合名詞のエントリーを削除してもらう）
+rekurieeshontekiyooso  {[scat n][comp n:an+n]} =recreational_element= "rekurieeshon_teki_LIKE+yooso"
+haihiiru	{[scat n]} =high_heels= % ハイヒール（複合名詞のエントリーを削除してもらう）
 rendoosee	{[scat n]} =interrelation= "rendoo_see_NATURE" % 連動性
 rensai	   {[scat n]} =serial=
 rensaishoosetsu	  {[scat n][comp n+n]} =serial_novel= "rensai_shoosetsu"

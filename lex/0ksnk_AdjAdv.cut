@@ -3,19 +3,31 @@ aojiro	{[scat adj]} =pale= % 青白い
 aojiroki	{[scat adj][tense inf]} =pale= "aojiro-ki_ADN"
 arigata	{[scat adj]} =be_appreciated=
 arigatoo	{[scat adj][tense inf]} =be_appreciated= "arigata&ADV"
+asekusa	{[scat adj]} =smelling_of_sweat= "ase_kusa_SMELLING" % 汗くさい
 ashiki	{[scat adj][tense inf]} =bad= "a-shiki_ADN"
+bimbooninkusa	{[scat adj]} =like_the_poor= "bimboonin_kusa_SMELLING" % 貧乏人くさい
+dorokusa	{[scat adj]} =unrefined= "doro_kusa_SMELLING" % 泥くさい
+furukusa	{[scat adj]} =oldfashioned= "furu_kusa_SMELLING" % 古くさい
 fusawashi	{[scat adj]} =suitable=
 hazukashi	{[scat adj][tense pres]} =ashamed= "hazuka-shi_PRES"
 hoshi	{[scat adj]} =desire=
 ichijirushi	{[scat adj]} =remarkable=
+inakakusa	{[scat adj]} =rustic= "inaka_kusa_SMELLING" % 田舎くさい
+kechikusa	{[scat adj]} =stingy= "kechi_kusa_SMELLING" % けちくさい
+kusurikusa	{[scat adj]} =smelling_of_medicine= "kusuri_kusa_SMELLING" % 魚くさい
 mattaki	{[scat adj][tense inf]} =complete= "matta-ki_ADN"
+mendokusa	{[scat adj]} =bothersome= "mendo_kusa_SMELLING"
+ningenkusa	{[scat adj]} =quite_human= "ningen_kusa_SMELLING" % 人間くさい
 okashi	{[scat adj][tense pres]} =strange= "oka-shi_PRES"
 ooki	{[scat adj][tense inf]} =many= "oo-ki_ADN"
+sakanakusa	{[scat adj]} =smelling_of_fish= "sakana_kusa_SMELLING" % 魚くさい
+sakekusa	{[scat adj]} =smelling_of_alcohol= "sake_kusa_SMELLING" % 酒くさい
+seeyookusa	{[scat adj]} =quite_European= "seeyoo_kusa_SMELLING" % 西洋くさい
 semashi	{[scat adj][tense pres]} =narrow= "sema-shi_PRES" % シク活用「狭し」
 sokkena	{[scat adj]} =standoffish=
+sukusa	{[scat adj]} =smelling_of_vinegar= "su_kusa_SMELLING" % 酢くさい
 utsukushiki	{[scat adj][tense inf]} =beautiful= "utsuku-shiki_ADN"
 yamunashi	{[scat adj][tense pres]} =no_choice_but_to= "yamuna-shi_PRES"
-yo	{[scat adj]} =good= % 「よい」と「いい」を分ける
 yoki	{[scat adj][tense inf]} =good= "yo-ki_ADN"
 yoshi	{[scat adj][tense pres]} =good= "yo-shi_PRES" % シク活用「よし」
 
@@ -158,3 +170,10 @@ kooshita	{[scat adn:deic:dem]} =like_this= % adn|koo_shita=such を変更
 aashita	{[scat adn:deic:dem]} =like_that=
 
 donoyooni	{[scat adv:deic:wh]} =how= "dono_yoo_ni"
+
+% 修正
+koishi	{[scat adj]} =long_for= % dearest でなく
+i	{[scat adj]} =good=
+yo	{[scat adj]} =good= % 「よい」と「いい」を分ける
+mamona	{[scat adj]} =instantaneous= % adn|mamonai のエントリーを削除
+mendookusa	{[scat adj]} =bothersome= "mendoo_kusa_SMELLING" % -kusa_STINKY が生成されないように

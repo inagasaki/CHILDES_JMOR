@@ -98,6 +98,7 @@ meehaku	{[scat n:an]} =clear=
 metta	{[scat n:an]}  =rash=  % 滅多
 mikaiketsu	{[scat n:an]} =unresolved= "mi_NEG_kaiketsu"
 miryokuteki	{[scat n:an]} =attractive= "miryoku_teki_LIKE"
+monogusa	{[scat n:an]} =lazy=
 naibuteki	{[scat n:an]} =internal= "naibu_teki_LIKE"
 naibuteki	{[scat n:an]} =internal= "naibu_teki_LIKE"
 nihonteki	{[scat n:an]} =Japan= "nihon_teki_LIKE"

@@ -22,7 +22,7 @@ beku	{[scat smod]} =ought_to= "beki&ADV"
 soo	{[scat smod]} =HEARSAY=  % hearsay を大文字に
 yoo	{[scat smod]} =SENS=
 tsumori	{[scat smod]} =INTEN= % intentional
-
+maji	{[scat smod]} =probably_not=
 
 % conj
 chinamini	{[scat conj]} =by_the_way=

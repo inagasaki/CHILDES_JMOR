@@ -654,3 +654,6 @@ kigatsuk {[scat v:c]} =come_to=
 makiage	 {[scat v:v][comp v:c+v:v]} =wangle= "mak+age"
 nemurikoke	{[scat v:v][comp v:c+v:v]} =sleep_deeply= "nemur+koke"
 semariku	{[scat v:ir][comp v:c+v:ir]} =impend= "semar+ku"
+
+% 一例のみ Kainoki に「まじ」が未然形に付いた例がある
+moosaremaji	{[scat v:c][tense inf]} =utter= "moos-PASS-NEG&INFR"

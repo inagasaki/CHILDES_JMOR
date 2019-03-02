@@ -1,9 +1,56 @@
 % 連語
 hokanaranai {[scat v:c]} =be_nothing_other_than= "hokanarana-PRES"
 
+% +suru
+aisu	{[scat v:ir]} =love=  % 愛する
+kaisu	{[scat v:ir]} =meet=  % 会する
+kaisu	{[scat v:ir]} =mind=  % 介する
+kaisu	{[scat v:ir]} =understand=  % 解する
+ataisu	{[scat v:ir]} =be_worthy_of= % 値する
+shosu	{[scat v:ir]} =impose= % 処する
+seesu	{[scat v:ir]} =control= % 制する
+hansu	{[scat v:ir]} =be_against= % 反する
+teesu	{[scat v:ir]} =represent= % 呈する
+% 奏する
+% 存する
+% 害する
+% 察する
+% 対する
+% 屈する
+% 属する
+% 属する
+% 帰する
+% 律する
+% 得する
+% 徹する
+% 徹する
+% 托する
+% 扮する
+% 拝する
+% 擁する
+% 期する
+% 欲する
+% 決する
+% 没する
+% 瀕する
+% 熟する
+% 産する
+% 略する
+% 発する
+% 科する
+% 脱する
+% 要する
+% 評する
+% 貧する
+% 資する
+% 適する
+% 関する
+% 面する
+% 類する
+
 % verb
 age	{[scat v:v]} =mention=
-ais	{[scat v:c]} =love=                   % 【愛す】（「愛す.べき」）
+ais	{[scat v:c]} =love=                   % 愛す
 ake	{[scat v:v]} =be_over= %明ける
 atar	{[scat v:c]} =be_in_charge=
 azukar	{[scat v:c]} =take_custody=	%【預かる】
@@ -56,6 +103,7 @@ shikir	{[scat v:c]} =manage=
 shime {[scat v:v]} =rank= % 占める
 shirizoke {[scat v:v]} =repulse=
 shos	{[scat v:c]} =execute=
+shosuru	{[scat v:c][tense inf]} =execute= "shos-PRES"
 shoserare	{[scat v:v]} =execute= "shos-erare_PASS"
 sute	{[scat v:v]} =discard=	%【捨てる】(《棄てる)
 tames {[scat v:c]} =test= % 「（大地が）試される」
@@ -657,3 +705,4 @@ semariku	{[scat v:ir][comp v:c+v:ir]} =impend= "semar+ku"
 
 % 一例のみ Kainoki に「まじ」が未然形に付いた例がある
 moosaremaji	{[scat v:c][tense inf]} =utter= "moos-PASS-NEG&INFR"
+

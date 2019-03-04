@@ -15,10 +15,10 @@ rashiku	{[scat smod]} =SENS= "rashi-ADV"
 rashikute	{[scat smod]} =SENS= "rashi-CONN"
 mitai	{[scat smod]} =INFR= "mita-PRES"
 midai	{[scat smod]} =INFR= "mita-PRES"
-beki	{[scat smod]} =ought_to= % ought to do でなく
+beki	{[scat smod]} =ought_to= "beshi&ADN" % ought to do でなく
 beshi	{[scat smod]} =ought_to= % ought to do でなく
 bekarazu	{[scat smod]} =ought_to= "bekara-NEG"
-beku	{[scat smod]} =ought_to= "beki&ADV"
+beku	{[scat smod]} =ought_to= "beshi&ADV"
 soo	{[scat smod]} =HEARSAY=  % hearsay を大文字に
 yoo	{[scat smod]} =SENS=
 tsumori	{[scat smod]} =INTEN= % intentional

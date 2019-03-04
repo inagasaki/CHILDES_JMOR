@@ -135,6 +135,13 @@ essee		{[scat n]} =essay=
 foroosha	{[scat n]} =vagabon= "foroo_sha_PERSON" % 浮浪者
 fuhensee	{[scat n]} =universality= "fuhen_see_NATURE" % 普遍性
 fukkatsusai	{[scat n]} =easter=
+kyaputen	{[scat n]} =captain=
+fukukaichoo	{[scat n]} =vice_president= "fuku_SUB_kaichoo" % 副会長
+fukukyaputen	{[scat n]} =vice_captain= "fuku_SUB_kyaputen" % 副キャプテン
+fukusayoo	{[scat n]} =side_effect= "fuku_SUB_sayoo" % 副作用
+fukushochoo	{[scat n]} =deputy_director= "fuku_SUB_shochoo" % 副所長
+fukusoohin	{[scat n]} =burial_goods= "fukusoo_hin_GOODS" % 副葬品
+fukushachoo	{[scat n]} =vice_president= "fuku_SUB_shachoo" % 副社長
 fukushimakenchijisen {[scat n][comp n:prop+n]} =election_of_the_governor_of_Fukushima_prefecture= "fukushimaken+chijisen" % */#福島の県
 fumoto	{[scat n]} =foot=
 furansugo	{[scat n]} =French_language= "furansu_go_LANGUAGE"

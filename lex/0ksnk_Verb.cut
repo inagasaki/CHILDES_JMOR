@@ -1,32 +1,44 @@
 % +suru
-aisu	{[scat v:ir]} =love=  % 愛する
+su	{[scat v:ir][tense inf]} =do= "su&PRES"
+su	{[scat v:ir:sub][tense inf]} =do= "su&PRES"
+aisana	{[scat v:ir]} =love= "aisu-NEG" % 愛さな(い)
 aisu	{[scat v:ir][tense inf]} =love= "aisu-PRES"
-aisana	{[scat v:ir]} =love= "aisu-NEG"
+aisu	{[scat v:ir]} =love=  % 愛する
+ataisu	{[scat v:ir]} =be_worthy_of= % 値する
+funsu	{[scat v:ir]} =disguise_onself= % 扮する
+haisu	{[scat v:ir]} =worship= % 拝する
+hinsu	{[scat v:ir]} =be_about_to= % 瀕する
+hinsu	{[scat v:ir]} =become_poor= % 貧する
+hyoosu	{[scat v:ir]} =comment= % 評する
+jukusana	{[scat v:ir]} =ripen= "jukusu-NEG" % 熟さな(い)
+jukusu	{[scat v:ir]} =ripen= % 熟する
+kaisana	{[scat v:ir]} =meet=  "kaisu-NEG" % 会さな(い)
+kaisana	{[scat v:ir]} =mind=  "kaisu-NEG" % 介さな(い)
+kaisana	{[scat v:ir]} =understand=  "kaisu-NEG" % 解さな(い)
 kaisu	{[scat v:ir]} =meet=  % 会する
 kaisu	{[scat v:ir]} =mind=  % 介する
 kaisu	{[scat v:ir]} =understand=  % 解する
-ataisu	{[scat v:ir]} =be_worthy_of= % 値する
-shosu	{[scat v:ir]} =impose= % 処する
-teesu	{[scat v:ir]} =represent= % 呈する
-soosu	{[scat v:ir]} =play= % 奏する
-sonsu	{[scat v:ir]} =exist= % 存する
-taisu	{[scat v:ir]} =face= % 対する
-kisu	{[scat v:ir]} =attribute= % 帰する
-rissu	{[scat v:ir]} =regulate= % 律する
-takusu	{[scat v:ir]} =entrust= % 托する
-funsu	{[scat v:ir]} =disguise_onself= % 扮する
-haisu	{[scat v:ir]} =worship= % 拝する
-yoosu	{[scat v:ir]} =possess/command= % 擁する
-kisu	{[scat v:ir]} =hope_for/determine= % 期する
-hinsu	{[scat v:ir]} =be_about_to= % 瀕する
-jukusu	{[scat v:ir]} =ripen= % 熟する
-sansu	{[scat v:ir]} =produce= % 産する
+kansana	{[scat v:ir]} =impose= "kansu-NEG" % 科さな(い)
 kasu	{[scat v:ir]} =impose= % 科する
-hyoosu	{[scat v:ir]} =comment= % 評する
-hinsu	{[scat v:ir]} =become_poor= % 貧する
-shisu	{[scat v:ir]} =contribute_to= % 資する
+kisana	{[scat v:ir]} =attribute= "kisu-NEG" % 帰さな(い)
+kisana	{[scat v:ir]} =attribute= "kisu-NEG" % 期さな(い)
+kisu	{[scat v:ir]} =attribute= % 帰する
+kisu	{[scat v:ir]} =hope_for/determine= % 期する
 mensu	{[scat v:ir]} =face= % 面する
+rissu	{[scat v:ir]} =regulate= % 律する
 ruisu	{[scat v:ir]} =be_like =% 類する
+sansu	{[scat v:ir]} =produce= % 産する
+shisu	{[scat v:ir]} =contribute_to= % 資する
+shosana	{[scat v:ir]} =impose= "shosu-NEG" % 処さな(い)
+shosu	{[scat v:ir]} =impose= % 処する
+sonsu	{[scat v:ir]} =exist= % 存する
+soosu	{[scat v:ir]} =play= % 奏する
+taisu	{[scat v:ir]} =face= % 対する
+takusu	{[scat v:ir]} =entrust= % 托する
+teesana	{[scat v:ir]} =represent= "teesu-NEG" % 呈さな(い)
+teesu	{[scat v:ir]} =represent= % 呈する
+yoosu	{[scat v:ir]} =possess/command= % 擁する
+yoosana	{[scat v:ir]} =possess/command= "yoosu-NEG" % 擁さな(い)
 
 % verb
 age	{[scat v:v]} =mention=
@@ -664,9 +676,9 @@ shikakar	{[scat v:c:sub][comp v:c+v:c]} =do_be_about_to_do= "su+kakar"
 shimakur	{[scat v:c:sub][comp v:ir+v:c]} =do_recur= "su+makur"
 shioe	{[scat v:v:sub][comp v:ir+v:v]} =do_finish= "su+oe"
 shiowar	{[scat v:c:sub][comp v:ir+v:c]} =do_finish= "su+owar"
-gotoshi	{[scat v:ir:sub][tense inf]} =be_as_if= "goto-PRES"
-gotoki	{[scat v:ir:sub][tense inf]} =be_as_if= "goto-PRES"
-gotoku	{[scat v:ir:sub][tense inf]} =be_as_if= "goto-ADV"
+gotoshi	{[scat v:ir:sub][tense inf]} =be_as_if=
+gotoki	{[scat v:ir:sub][tense inf]} =be_as_if= "gotoshi&ADN"
+gotoku	{[scat v:ir:sub][tense inf]} =be_as_if= "gotoshi&ADV"
 
 % 修正
 kashite	{[scat n][comp v:c+n]} =lender= "kas+te" % "kasi+te" でなく

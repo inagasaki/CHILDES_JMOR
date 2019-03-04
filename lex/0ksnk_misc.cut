@@ -15,10 +15,10 @@ rashiku	{[scat smod]} =SENS= "rashi-ADV"
 rashikute	{[scat smod]} =SENS= "rashi-CONN"
 mitai	{[scat smod]} =INFR= "mita-PRES"
 midai	{[scat smod]} =INFR= "mita-PRES"
-beki	{[scat smod]} =ought_to= % ought to do でなく
-beshi	{[scat smod]} =ought_to= % ought to do でなく
-bekarazu	{[scat smod]} =ought_to= "bekara-NEG"
-beku	{[scat smod]} =ought_to= "beki&ADV"
+beki	{[scat smod]} =OBLG= "beshi&ADN" % ought to do でなく OBLG (obligation)
+beshi	{[scat smod]} =OBLG= % ought to do でなく
+bekarazu	{[scat smod]} =OBLG= "beshi&NEG"
+beku	{[scat smod]} =OBLG= "beshi&ADV"
 soo	{[scat smod]} =HEARSAY=  % hearsay を大文字に
 yoo	{[scat smod]} =SENS=
 tsumori	{[scat smod]} =INTEN= % intentional
@@ -95,7 +95,6 @@ gen {[scat pfx] [pcat n]} "gen_CURRENT" % 現
 saku {[scat pfx] [pcat n]} "saku_LAST" % 昨
 ryoo {[scat pfx] [pcat quant]} "ryoo_BOTH" % 両（県）
 moto {[scat pfx] [pcat n]} "moto_EX" % 元
-fuku {[scat pfx] [pcat n]} "fuku_VICE" % 副
 
 % nominal classifiers
 kime {[scat num:cl][comp num:cl+num:cl]} =ki_TERM-me_ORD= % n期目

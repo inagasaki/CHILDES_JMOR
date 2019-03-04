@@ -65,8 +65,8 @@ choojoogenshoo	{[scat n][comp n+n]} =supernatural_phenomenon= "choojoo+genshoo"
 choonaikai	{[scat n]} =neighborhood_association= "choonai_kai_MEETING" % 町内会
 choosensha	{[scat n]} =challenger= "choosen_sha_PERSON" % 挑戦者
 chosha	{[scat n]} =author= "chosha" % 著者
-chuugokugo	{[scat n]} =Chinese_language= "chuugoku_go"
-chuugokujin	{[scat n]} =Chinese_person= "chuugoku_jin"
+chuugokugo	{[scat n]} =Chinese_language= "chuugoku_go_LANGUAGE"
+chuugokujin	{[scat n]} =Chinese_person= "chuugoku_jin_PERSON"
 chuukansee	{[scat n]} =intermediacy= "chuukan_see_NATURE" % 中間性
 chuunen	{[scat n]} =middle_age=
 chuunendansee	{[scat n][comp n+n]} =middle_aged_male= "chuunen+dansee" % 中年男性
@@ -137,8 +137,8 @@ fuhensee	{[scat n]} =universality= "fuhen_see_NATURE" % 普遍性
 fukkatsusai	{[scat n]} =easter=
 fukushimakenchijisen {[scat n][comp n:prop+n]} =election_of_the_governor_of_Fukushima_prefecture= "fukushimaken+chijisen" % */#福島の県
 fumoto	{[scat n]} =foot=
-furansugo	{[scat n]} =French_language= "furansu_go"
-furansujin	{[scat n]} =French_person= "furansu_jin"
+furansugo	{[scat n]} =French_language= "furansu_go_LANGUAGE"
+furansujin	{[scat n]} =French_person= "furansu_jin_PERSON"
 furin'aite	       {[scat n][comp n:vn+n]} =adulterous_lover= "furin+aite"
 furonto	{[scat n]} =front_desk=
 furuku	{[scat n]} =old_times=
@@ -207,7 +207,7 @@ hanafubuki	{[scat n]} =shower_of_cherry_blossoms=
 hanashi	{[scat n]} =talk=
 hanzaisha	{[scat n]} =criminal_person= "hanzai_sha_PERSON" % 犯罪者
 hashigosha	{[scat n]} =ladder_truck= "hashigo_sha_VEHICLE" % はしご車 梯子車
-hassinryoku {[scat n]} =communicativity= % 複合名詞ではない：*発信のりょく
+hasshinryoku {[scat n]} =communicativity= "hasshin_ryoku_POWER" % 複合名詞ではない：*発信のりょく
 heesha	{[scat n]} =this_company=
 heeshi	{[scat n]} =soldier=
 henja	{[scat n]} =editor= "henja" % 編者
@@ -262,7 +262,7 @@ idooshukusaibi	{[scat n]} =moveable_feast=
 iejuu	{[scat n]} =throughout_the_house= "ie_juu_THROUGHOUT"
 iejuusoode {[scat n][comp n+n]} =throughout_the_house_all= "ie_juu_THROUGHOUT_soode"
 igaisee	{[scat n]} =unexpectedness= "igai_see_NATURE" % 意外性
-igirisujin	{[scat n]} =English_person= "igirisu_jin"
+igirisujin	{[scat n]} =English_person= "igirisu_jin_PERSON"
 igokochi	{[scat n]} =comfortableness= 
 iimeeru	{[scat n]} =email= % eメール
 iinkai	{[scat n]} =committee=
@@ -797,8 +797,8 @@ yakuinkoosee	{[scat n][comp n+n]} =list_of_directors= "yakuin+koosee"
 yakusha	{[scat n]} =actor= % 役者
 yakusha	{[scat n]} =translator= % 訳者
 yakusho	 {[scat n]} =public_office=
-yakuza	{[scat n]} =gangstar= % 訳者
-yasaishitsu	{[scat n]} =vegetable_space= "yasai_shitsu_ROOM" % 野菜
+yakuza	{[scat n]} =gangstar= % ヤクザ
+yasaishitsu	{[scat n]} =vegetable_space= "yasai_shitsu_ROOM" % 野菜室
 yatoo	{[scat n]} =opposition_party= "ya_too_PARTY" % 野党
 yogensha	{[scat n]} =prophet= "yogen_sha_PERSON"
 yokinsha	{[scat n]} =depositor= "yokin_sha_PERSON" % 預金者

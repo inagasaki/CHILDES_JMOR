@@ -47,7 +47,7 @@ teesu	{[scat v:ir]} =represent= % 呈する
 
 % verb
 age	{[scat v:v]} =mention=
-ais	{[scat v:c]} =love=                   % 愛す
+ais	{[scat v:ir]} =love= % 愛す
 ake	{[scat v:v]} =be_over= %明ける
 atar	{[scat v:c]} =be_in_charge=
 azukar	{[scat v:c]} =take_custody=	%【預かる】

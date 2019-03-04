@@ -1,5 +1,6 @@
 % 連語
 hokanarana {[scat adj]} =be_nothing_other_than=
+doodemoi {[scat adj]} =indifferent=
 
 % adji
 aojiro	{[scat adj]} =pale= % 青白い
@@ -10,6 +11,7 @@ asekusa	{[scat adj]} =smelling_of_sweat= "ase_kusa_SMELLING" % 汗くさい
 ashiki	{[scat adj][tense inf]} =bad= "a-shiki_ADN"
 bimbooninkusa	{[scat adj]} =like_the_poor= "bimboonin_kusa_SMELLING" % 貧乏人くさい
 dorokusa	{[scat adj]} =unrefined= "doro_kusa_SMELLING" % 泥くさい
+dosuguro	{[scat adj]} =darkish= % どす黒い
 furukusa	{[scat adj]} =oldfashioned= "furu_kusa_SMELLING" % 古くさい
 fusawashi	{[scat adj]} =suitable=
 hazukashi	{[scat adj][tense pres]} =ashamed= "hazuka-shi_PRES"

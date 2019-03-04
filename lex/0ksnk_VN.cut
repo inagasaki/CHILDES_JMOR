@@ -1,21 +1,21 @@
 % vn
-rikkoho {[scat n:vn]} =stand_as_a_candidate=
+asshoo {[scat n:vn]} =overwhelming_victory=
+dookyoseekatsu	       {[scat n:vn][comp n:vn+n:vn]} =cohabitation= "dookyo+seekatsu"
 fukkoo {[scat n:vn]} =reconstruction=
+hakki {[scat n:vn]} =give_full_play=
+hatsutoosen {[scat n:vn][comp n+n:vn]} =be_firstly_elected= "hatsu+toosen"
+jinin {[scat n:vn]} =pretension= % 自任する
+kakujitsushi {[scat n:vn]} =considering_to_be_sure=
+kekkonseekatsu	{[scat n:vn][comp n:vn+n:vn]} =married_life= "kekkon+seekatsu"
 maishin {[scat n:vn]} =striving=
 meigen {[scat n:vn]} =declaration=
-toosen {[scat n:vn]} =be_elected= 
-hatsutoosen {[scat n:vn][comp n+n:vn]} =be_firstly_elected= "hatsu+toosen"
-suisen {[scat n:vn]} =recommendation=
-asshoo {[scat n:vn]} =overwhelming_victory=
-hakki {[scat n:vn]} =give_full_play=
-jinin {[scat n:vn]} =pretension= % 自任する
 mosaku {[scat n:vn]} =groping=
-kakujitsushi {[scat n:vn]} =considering_to_be_sure=
-yooritsu {[scat n:vn]} =putting_up= 
-dookyoseekatsu	       {[scat n:vn][comp n:vn+n:vn]} =cohabitation= "dookyo+seekatsu"
-kekkonseekatsu	{[scat n:vn][comp n:vn+n:vn]} =married_life= "kekkon+seekatsu"
+rikkoho {[scat n:vn]} =stand_as_a_candidate=
+sabetsu	{[scat n:vn]} =discrimination= "" % 差別
 soshoo	 {[scat n:vn]} =lawsuit=
-
+suisen {[scat n:vn]} =recommendation=
+toosen {[scat n:vn]} =be_elected= 
+yooritsu {[scat n:vn]} =putting_up= 
 
 atenige	{[scat n:vn]} =hit_and_run_away= "ate_nige"	% 当て逃げ
 bika	{[scat n:vn]} =beautification= "bi_ka_BECOMING" % 美化

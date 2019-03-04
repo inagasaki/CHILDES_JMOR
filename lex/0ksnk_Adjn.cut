@@ -1,5 +1,6 @@
 % adjn
 an'i	{[scat n:an]} =easy=
+taikyokuteki	{[scat n:an]}  =overwhelming=  "taikyoku_teki_LIKE" % 大局的
 anteeteki	{[scat n:an]}  =stable=  "antee_teki_LIKE" % 安定的
 arata	{[scat n:an]} =new=
 attooteki	{[scat n:an]}  =overwhelming=  "attoo_teki_LIKE" % 圧倒的
@@ -10,8 +11,11 @@ bunkateki	{[scat n:an]}  =cultural=  "bunka_teki_LIKE" % 文化的
 chimeeteki	{[scat n:an]}  =fatal=  "chimee_teki_LIKE" % 致命的
 chiriteki	{[scat n:an]}  =geographical=  "chiri_teki_LIKE" % 地理的
 chiteki	{[scat n:an]} =intellectual= "chi_teki_LIKE"
+choojinteki	{[scat n:an]} =superhuman= "choojin_teki_LIKE"
 chookiteki	{[scat n:an]} =long_term= "chooki_teki_LIKE"
 daihyooteki	{[scat n:an]} =typical= "daihyoo_teki_LIKE"
+daikibo	{[scat n:an]} =large_scale= % 大規模
+oohaba	{[scat n:an]} =big= % 大幅
 daishoosamazama	{[scat n:an]} =various=
 dankaiteki	{[scat n:an]}  =phased=  "dankai_teki_LIKE" % 段階的
 dentooteki	{[scat n:an]} =traditional= "dentoo_teki_LIKE"

@@ -1,7 +1,7 @@
 % +suru
 aisu	{[scat v:ir]} =love=  % 愛する
 aisu	{[scat v:ir][tense inf]} =love= "aisu-PRES"
-aisanai	{[scat v:ir][tense inf]} =love= "aisu-NEG-PRES"
+aisana	{[scat v:ir]} =love= "aisu-NEG"
 kaisu	{[scat v:ir]} =meet=  % 会する
 kaisu	{[scat v:ir]} =mind=  % 介する
 kaisu	{[scat v:ir]} =understand=  % 解する

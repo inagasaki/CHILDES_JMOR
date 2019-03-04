@@ -1,49 +1,32 @@
 % +suru
 aisu	{[scat v:ir]} =love=  % 愛する
+aisu	{[scat v:ir][tense inf]} =love= "aisu-PRES"
+aisanai	{[scat v:ir][tense inf]} =love= "aisu-NEG-PRES"
 kaisu	{[scat v:ir]} =meet=  % 会する
 kaisu	{[scat v:ir]} =mind=  % 介する
 kaisu	{[scat v:ir]} =understand=  % 解する
 ataisu	{[scat v:ir]} =be_worthy_of= % 値する
 shosu	{[scat v:ir]} =impose= % 処する
-seesu	{[scat v:ir]} =control= % 制する
-hansu	{[scat v:ir]} =be_against= % 反する
 teesu	{[scat v:ir]} =represent= % 呈する
-% 奏する
-% 存する
-% 害する
-% 察する
-% 対する
-% 屈する
-% 属する
-% 属する
-% 帰する
-% 律する
-% 得する
-% 徹する
-% 徹する
-% 托する
-% 扮する
-% 拝する
-% 擁する
-% 期する
-% 欲する
-% 決する
-% 没する
-% 瀕する
-% 熟する
-% 産する
-% 略する
-% 発する
-% 科する
-% 脱する
-% 要する
-% 評する
-% 貧する
-% 資する
-% 適する
-% 関する
-% 面する
-% 類する
+soosu	{[scat v:ir]} =play= % 奏する
+sonsu	{[scat v:ir]} =exist= % 存する
+taisu	{[scat v:ir]} =face= % 対する
+kisu	{[scat v:ir]} =attribute= % 帰する
+rissu	{[scat v:ir]} =regulate= % 律する
+takusu	{[scat v:ir]} =entrust= % 托する
+funsu	{[scat v:ir]} =disguise_onself= % 扮する
+haisu	{[scat v:ir]} =worship= % 拝する
+yoosu	{[scat v:ir]} =possess/command= % 擁する
+kisu	{[scat v:ir]} =hope_for/determine= % 期する
+hinsu	{[scat v:ir]} =be_about_to= % 瀕する
+jukusu	{[scat v:ir]} =ripen= % 熟する
+sansu	{[scat v:ir]} =produce= % 産する
+kasu	{[scat v:ir]} =impose= % 科する
+hyoosu	{[scat v:ir]} =comment= % 評する
+hinsu	{[scat v:ir]} =become_poor= % 貧する
+shisu	{[scat v:ir]} =contribute_to= % 資する
+mensu	{[scat v:ir]} =face= % 面する
+ruisu	{[scat v:ir]} =be_like =% 類する
 
 % verb
 age	{[scat v:v]} =mention=

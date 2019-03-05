@@ -300,7 +300,8 @@ kakiarawas	{[scat v:c][comp v:c+v:c]} =write_publish= "kak+arawas" %書き著す
 kakiarawas	{[scat v:c][comp v:c+v:c]} =write_express= "kak+arawas" %書き表す
 kakiatsume	{[scat v:v][comp v:c+v:v]} =sweep_collect= "kak+atsume" %掻き集める
 kakichiras	{[scat v:c][comp v:c+v:c]} =write_scatter= "kak+chiras"
-kakiire		{[scat v:v][comp v:c+v:v]} =write_in= "kak+ire" 
+kakiire		{[scat v:v][comp v:c+v:v]} =write_in= "kak+ire" %書き入れる
+kakiire		{[scat v:v][comp v:c+v:v]} =scratch_into= "kak+ire" %掻き入れる
 kakimidare	{[scat v:v][comp v:c+v:v]} =become_disturbed= "kak+midare"
 kakimidas	{[scat v:c][comp v:c+v:c]} =disturb= "kak+midas"
 kakimidas	{[scat v:c][comp v:c+v:c]} =scratch_dishevel= "kak+midas"
@@ -308,11 +309,15 @@ kakimoras	{[scat v:c][comp v:c+v:c]} =write_fail= "kak+moras"
 kakinagur	{[scat v:c][comp v:c+v:c]} =scrawl= "kak+nagur"
 kakinaras	{[scat v:c][comp v:c+v:c]} =scratch_sound= "kak+naras"
 kakinarawas	{[scat v:c][comp v:c+v:c]} =write_conventionally= "kak+narawas"
+kakiok		{[scat v:c][comp v:c+v:c]} =write_leave= "kak+ok"
+kakiokos	{[scat v:c][comp v:c+v:c]} =transcribe= "kak+okos"
+kakiokos	{[scat v:c][comp v:c+v:c]} =write_start= "kak+okos"
 kakitame	{[scat v:v][comp v:c+v:v]} =write_accumulate= "kak+tame"
 kakitobas	{[scat v:c][comp v:c+v:c]} =write_fast= "kak+tobas"
 kakitsubus	{[scat v:c][comp v:c+v:c]} =write_break= "kak+tsubus"
 kakitsuke	{[scat v:v][comp v:c+v:v]} =write_down= "kak+tsuke"
 kakitsurane	{[scat v:v][comp v:c+v:v]} =write_list= "kak+tsurane"
+kakiutsus	{[scat v:c][comp v:c+v:c]} =write_copy= "kak+utsus"
 kakkom		{[scat v:c][comp v:c+v:c]} =bolt_down= "kak+kom"
 kakoiire	{[scat v:v][comp v:c+v:v]} =surround_drive_into= "kakow+ire"
 kakoikom	{[scat v:c][comp v:c+v:c]} =surround_drive_into= "kakow+kom"

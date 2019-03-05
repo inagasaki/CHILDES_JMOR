@@ -1,16 +1,41 @@
 % Adj(adj), Adv(adv), Admominal =PNL in Kainoki= (adn)
+shutoshite  {[scat adv]} =mainly= "shu_to_shite"
 
 % Adjn(n:an)
+maemuki	{[scat n:an]} =positive=
 
 % Noun (n, n:fml, n:deic)
+chuukaimoderu	  {[scat n][comp n:vn+n]} =intermediary_model= "chuukai+moderu"
+honsha		  {[scat n]} =head_office=
+kanrenkigyoo	  {[scat n][comp n:vn+n]} =affiliated_company= "kanren+kigyoo"
+katsudoohan'i	  {[scat n][comp n:vn+n]} =scope_of_operation= "katsudoo+han'i"
+keezaihatten	  {[scat n][comp n+n:vn]} =economic_development= "keezai+hatten"
+kenkai		  {[scat n]} =opinion=
+minkambumon	  {[scat n][scat n+n]} =private_sector= "minkan+bumon"
+sangyoo		  {[scat n]} =industry=
+shakaitekisekinin {[scat n][comp n:an+n]} =social_responsibility= "shakai_teki_LIKE+sekinin"
+shudai		  {[scat n]} =subject=
+tokutee		  {[scat n]} =specific= 
 
 % Prop (n:prop)
+Dairondonkigyoo	{[scat n:prop]} =Greater_London_Enterprise= "Dai_rondon_kigyoo"
+Rondonkigyoochuukaikikan	{[scat n:prop]} =The_London_Enterprise_Agency= "Rondon_kigyoo_chuukai_kikan"
 
 % VN (n:vn)
-
+kainyuu		  {[scat n:vn]} =intervention=
+koyoo		  {[scat n:vn]} =employment=
+ninshiki	  {[scat n:vn]} =recognize=
+sooi		  {[scat n:vn]} =difference=
+teekee		  {[scat n:vn]} =cooperation=
+tekiyoo		  {[scat n:vn]} =application=
+toogi		  {[scat n:vn]} =discussion=
 
 % Verb (v:c, v:v, v:ir)
+kanzu  {[scat v:v]} =feel=
+yatteku	      {[scat v:ir]} =come= "yat_te_ku"
 
 % misc (ptl, smod, conj, num, quant, co:i, -sfx)
+kakoku {[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numCBb numCBn2]} "kakoku_COUNTRY"
+zen    {[scat pft][pcat quant]} "zen_WHOLE"
 
 % pending items

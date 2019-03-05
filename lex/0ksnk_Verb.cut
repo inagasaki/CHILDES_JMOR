@@ -683,7 +683,7 @@ gotoku	{[scat v:ir:sub][tense inf]} =be_as_if= "gotoshi&ADV"
 % 修正
 kashite	{[scat n][comp v:c+n]} =lender= "kas+te" % "kasi+te" でなく
 michibik	{[scat v:c]} =guide= "michibik"	%【導く】 % mich_hik から境界をとる
-tanabik	{[scat v:c]} =trail= "tanabik"	%【たなびく/棚引く】 % tana_hik から境界をとる
+anabik	{[scat v:c]} =trail= "tanabik"	%【たなびく/棚引く】 % tana_hik から境界をとる
 michigae	{[scat v:v][comp v:v+v:v]} =be_beyond_recognition= "mi+chigae" % 元のエントリーを削除
 
 % suzuki

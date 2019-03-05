@@ -5,6 +5,9 @@
 % Noun (n, n:fml, n:deic)
 ichibusijuu	  {[scat n]} =the_whole_story=
 kuuran		  {[scat n]} =blank=
+memoyooshi	  {[scat n]} =notepad=
+hikidashi	  {[scat n]} =drawer=
+
 
 % Prop (n:prop)
 

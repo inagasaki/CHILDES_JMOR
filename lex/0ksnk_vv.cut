@@ -302,6 +302,14 @@ kakiatsume	{[scat v:v][comp v:c+v:v]} =sweep_collect= "kak+atsume" %掻き集め
 kakichiras	{[scat v:c][comp v:c+v:c]} =write_scatter= "kak+chiras"
 kakiire		{[scat v:v][comp v:c+v:v]} =write_in= "kak+ire" %書き入れる
 kakiire		{[scat v:v][comp v:c+v:v]} =scratch_into= "kak+ire" %掻き入れる
+kakikie		{[scat v:v][comp v:c+v:v]} =suddenly_disappear= "kak+kie" %掻き消える
+kakikir		{[scat v:c][comp v:c+v:c]} =forcefully_cut= "kak+kir"
+kakikom		{[scat v:c][comp v:c+v:c]} =bolt_down= "kak+kom"
+kakikudas	{[scat v:c][comp v:c+v:c]} =write_out= "kak+kudas"
+kakikudas	{[scat v:c][comp v:c+v:c]} =transliterate= "kak+kudas"
+kakikudok	{[scat v:c][comp v:c+v:c]} =entreat= "kak+kudok" %掻き口説く
+kakikumor	{[scat v:c][comp v:c+v:c]} =become_cloudy= "kak+kumor" %掻き曇る
+kakikure	{[scat v:v][comp v:c+v:v]} =darken= "kak+kure"
 kakimidare	{[scat v:v][comp v:c+v:v]} =become_disturbed= "kak+midare"
 kakimidas	{[scat v:c][comp v:c+v:c]} =disturb= "kak+midas"
 kakimidas	{[scat v:c][comp v:c+v:c]} =scratch_dishevel= "kak+midas"
@@ -311,7 +319,11 @@ kakinaras	{[scat v:c][comp v:c+v:c]} =scratch_sound= "kak+naras"
 kakinarawas	{[scat v:c][comp v:c+v:c]} =write_conventionally= "kak+narawas"
 kakiok		{[scat v:c][comp v:c+v:c]} =write_leave= "kak+ok"
 kakiokos	{[scat v:c][comp v:c+v:c]} =transcribe= "kak+okos"
-kakiokos	{[scat v:c][comp v:c+v:c]} =write_start= "kak+okos"
+kakiokos	{[scat v:c][comp v:c+v:c]} =write_start= "kak+okos" %書き下ろす
+kakioros	{[scat v:c][comp v:c+v:c]} =write_newly= "kak+oros" %書き下ろす
+kakioros	{[scat v:c][comp v:c+v:c]} =scrape_down= "kak+oros" %掻き下ろす
+kakiotos	{[scat v:c][comp v:c+v:c]} =write_fail= "kak+otos" %書き落とす
+kakiotos	{[scat v:c][comp v:c+v:c]} =scrape_remove= "kaki+otos" %掻き落とす
 kakitame	{[scat v:v][comp v:c+v:v]} =write_accumulate= "kak+tame"
 kakitobas	{[scat v:c][comp v:c+v:c]} =write_fast= "kak+tobas"
 kakitsubus	{[scat v:c][comp v:c+v:c]} =write_break= "kak+tsubus"
@@ -1364,3 +1376,9 @@ zuriori		{[scat v:v][comp v:c+v:v]} =sift_fall= "zur+ori"
 zurioros	{[scat v:c][comp v:c+v:c]} =shift_lower= "zur+oros"
 zurisagar	{[scat v:c][comp v:c+v:c]} =shift_down= "zur+sagar"
 
+% 修正希望
+kakiokoshihajime	{[scat v:v][comp v:c+v:c+v:v]} =write_start_begin= "kak+okos" % kakiokoshihajime	{[scat v:v][comp v:c+v:v]} =writing_out_start= "kakiokos+hajime" in verb.cut
+kakikae		{[scat v:v][comp v:c+v:v]} =rewrite= "kak+kae" %書き替える/書き換える kakikae	{[scat v:v]} "kak_kae" =rewrite= in verb.cut
+kakikuwae	{[scat v:v][comp v:c+v:v]} =write_add= "kak+kuwae" %kakikuwae	{[scat v:v]} "kak_kuwae" =add=
+kakikes 	{[scat v:c][comp v:c+v:c]} =drown_out= "kak+kes" %kakikes	{[scat v:c]} =erase= "kak_kes"	
+kakikom		{[scat v:c][comp v:c+v:c]} =write_in= "kaki+kom" %kakikom	{[scat v:c]} =write_in= "kak_kom"

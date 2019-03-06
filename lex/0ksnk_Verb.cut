@@ -119,6 +119,8 @@ ok	{[scat v:c:sub]} =keep=
 
 % v+v
 % utsushitor --> v:c|utsus-ASP:or-PRES=reflect または　v:c|utsus-ASP:or-PRES=move の他に複合語が必要
+furinuk	{[scat v:c][comp v:c+v:c]} =swing_through= "fur+nuk"
+tatakainuk	{[scat v:c][comp v:c+v:c]} =fight_to_a_finish= "tatakaw+nuk"
 abakidas	{[scat v:c][comp v:c+v:c]} =uncover_take_out= "abak+das"
 abakitate	{[scat v:c][comp v:c+v:v]} =uncover_stand= "abak+tate"
 abarekom	{[scat v:c][comp v:v+v:c]} =behave_violently_go_in= "abare+kom"
@@ -315,6 +317,8 @@ kakehajime	{[scat v:v][comp v:v+v:v]} =run_start= "kake+hajime"
 kakemawar	{[scat v:c][comp v:v+v:c]} =run_revolve= "kake+mawar"
 kakezurimawar	{[scat v:c][comp v:c+v:c]} =run_revolve= "kakezur+mawar"
 kakihajime	{[scat v:v][comp v:c+v:v]} =write_start= "kak+hajime"
+egakiage	{[scat v:v][comp v:c+v:v]} =draw_finish= "egak+hajime"
+kakiage	{[scat v:v][comp v:c+v:v]} =write_finish= "kak+hajime"
 kakioros	{[scat v:c][comp v:c+v:c]} =compose= "kak+oros"
 kakioe	{[scat v:v][comp v:c+v:v]} =finish_writing= "kak+oe"
 kakiowar	{[scat v:c][comp v:c+v:c]} =write_finish= "kak+owar"

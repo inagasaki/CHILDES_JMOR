@@ -15,8 +15,19 @@ sabetsu	{[scat n:vn]} =discrimination= "" % 差別
 soshoo	 {[scat n:vn]} =lawsuit=
 suisen {[scat n:vn]} =recommendation=
 toosen {[scat n:vn]} =be_elected= 
-yooritsu {[scat n:vn]} =putting_up= 
-
+yooritsu {[scat n:vn]} =putting_up=
+danzoku {[scat n:vn]} =intermittence= % 断続
+eezoku {[scat n:vn]} =permanence= % 永続
+jizoku {[scat n:vn]} =continuance= % 持続
+keezoku  {[scat n:vn]} =continuance= % 継続
+kinzoku {[scat n:vn]} =continuous_service= % 勤続
+koozoku {[scat n:vn]} =following= % 後続
+nagatsuzuki {[scat n:vn]} =lasting_long= % 長続き
+renzoku {[scat n:vn]} =continuance= % 連続
+setsuzoku {[scat n:vn]} =connection= % 接続
+sonzoku {[scat n:vn]} =lasting= % 存続
+soozoku {[scat n:vn]} =inheritance= % 相続
+tetsuzuki {[scat n:vn]} =procedures= % 手続き
 atenige	{[scat n:vn]} =hit_and_run_away= "ate_nige"	% 当て逃げ
 bika	{[scat n:vn]} =beautification= "bi_ka_BECOMING" % 美化
 boranteea	{[scat n:vn]} =volunteer=

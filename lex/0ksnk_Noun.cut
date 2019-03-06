@@ -507,15 +507,21 @@ kyaputen	{[scat n]} =captain=
 kyojuusha	{[scat n]} =inhabitant= "kyojuu_sha_PERSON" % 居住者
 kyoodoo		{[scat n]} =cooporation=
 kyoogookankee	{[scat n][comp n:vn+n]} =competitive_relationship= "kyoogoo+kankee"
-kyoosantoosuisenkooho {[scat n][comp n+n+n:vn+n]} =candidate_recommended_by_JCP= "kyoosan+too+suisen+kooho"
+kyoosantoosuisenkooho {[scat n][comp n+n:vn+n]} =candidate_recommended_by_JCP= "kyoosantoo+suisen+kooho"
 kyoozonkankee	{[scat n][comp n:vn+n]} =symbiotic_relationship= "kyoozon+kankee"
 kyuuichi	{[scat n]} =question_one=
 kyuuryoo	{[scat n]} =salary=
+kyuuyuu	{[scat n]} =old_friend= "kyuu_OLD_yuu" % 旧友
+kyuureki	{[scat n]} =the_old_calendar= "kyuu_OLD_reki" % 旧暦
+kyuukoosha	{[scat n]} =old_school_building= "kyuu_OLD_koosha" % 旧校舎
+kyuukoo	{[scat n]} =old_friendship= "kyuu_OLD_koo" % 旧交
+kyuusee	{[scat n]} =former_name= "kyuu_OLD_see" % 旧姓
 machiaishitsu	{[scat n]} =waiting_room= "machiai_shitsu_ROOM" % 待合室
 mahoodoo	{[scat n]} =magic= "mahoo_doo_HALL" % 魔法堂
 maihoomu	{[scat n]} =my_home=
-mainasushikoo	{[scat n]} =negative_thinking=
+mainasushikoo	{[scat n][comp n+n]} =negative_thinking= "mainasu+shikoo" % マイナス思考
 manatsu	{[scat n]} =midsummer=
+mafuyu	{[scat n]} =midwinter=
 manazashi	{[scat n]} =look=
 manki		{[scat n]} =expiration=
 mashoo	{[scat n]} =evil_spirit= % 魔性

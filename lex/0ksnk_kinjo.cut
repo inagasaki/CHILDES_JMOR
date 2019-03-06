@@ -1,17 +1,38 @@
 % Adj(adj), Adv(adv), Admominal =PNL in Kainoki= (adn)
 
 % Adjn(n:an)
+niwaka	{[scat n:an]} =sudden=
 
 % Noun (n, n:fml, n:deic)
 ichibusijuu	  {[scat n]} =the_whole_story=
 kuuran		  {[scat n]} =blank=
 memoyooshi	  {[scat n]} =notepad=
 hikidashi	  {[scat n]} =drawer=
-
+koomoku		  {[scat n]} =item=
+choohen		  {[scat n]} =long_piece=
+choohenshoosetsu  {[scat n][comp n+n]} =long_novel= "choohen+shoosetsu"
+ninkisakka	  {[scat n][comp n+n]} =popular_author= "ninki+sakka"
+buri		  {[scat n]} =for_the_first_time_in=
+shaberu		  {[scat n]} =shovel=
+fairu		  {[scat n]} =file=
+kakuchooshi	  {[scat n]} =extension=
+keeshiki	  {[scat n]} =format=
+menkyoshoo	  {[scat n]} =license=
+untenmenkyoshoo	  {[scat n][comp n:vn+n]} =driver_license= "unten+menkyoshoo"
+bushi		  {[scat n]} =samurai=
+tantoo		  {[scat n]} =dagger=
+yooten		  {[scat n]} =main_point=
+shuukanshi	  {[scat n]} =weekly_magazine=
+doshaburii	  {[scat n]} =downpour=
+seeen	  	  {[scat n]} =cheering=
+chooshoku	  {[scat n]} =breakfast=
 
 % Prop (n:prop)
 
 % VN (n:vn)
+shinhakken	  {[scat n:vn]} =new_discovery= "shin_NEW_hakken"
+seppuku		  {[scat n:vn]} =harakiri=
+saikai		  {[scat n:vn]} =reunite=
 
 % Verb (v:c, v:v, v:ir)
 

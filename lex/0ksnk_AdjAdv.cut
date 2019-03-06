@@ -77,6 +77,8 @@ hitotsu	{[scat adv]} =just=
 honnori	{[scat adv:onoma]} =slightly=
 hotondo	{[scat adv]} =mostly=
 hyotto	{[scat adv:onoma]} =by_chance=
+hyottoshitara	{[scat adv]} =perhaps=
+hyottosuruto	{[scat adv]} =perhaps=
 ichiban	{[scat adv]} =most=
 imahitotsu	{[scat adv]} =not_quite=
 inochikaragara	{[scat adv]} =with_bare_life=
@@ -109,6 +111,7 @@ mohaya	{[scat adv]} =by_now=
 mojidoori	{[scat adv]} =literally=
 moo	{[scat adv]} =another/more=
 moosugu	{[scat adv]} =soon=
+moshiya	{[scat adv]} =maybe=
 muron	{[scat adv]} =of_course=
 nakanaka       {[scat adv]} =not_nearly= %なかなか〜ない
 namajikka	{[scat adv]} =by_halves=
@@ -175,6 +178,7 @@ omoikitta	{[scat adn]} =daring=
 arayuru	{[scat adn]} =every=
 mishiranu	{[scat adn]} =unfamiliar=
 moto	{[scat adn]} =former=
+hyottoshita	{[scat adn]} =accidental=
 
 % deic
 kooshita	{[scat adn:deic:dem]} =like_this= % adn|koo_shita=such を変更
@@ -188,3 +192,4 @@ i	{[scat adj]} =good=
 yo	{[scat adj]} =good= % 「よい」と「いい」を分ける
 mamona	{[scat adj]} =instantaneous= % adn|mamonai のエントリーを削除
 mendookusa	{[scat adj]} =bothersome= "mendoo_kusa_SMELLING" % -kusa_STINKY が生成されないように
+moshikasuruto	{[scat adv]} "moshi_ka_suru_to" =maybe= % conj のエントリーを削除

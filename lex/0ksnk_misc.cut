@@ -32,6 +32,7 @@ ga	{[scat conj]} =but=
 ippoo	{[scat conj]} =on_the_other_hand=
 ja	{[scat conj]} =then=
 jaa	{[scat conj]} =then=
+katoitte	{[scat conj]} =having_said_that=
 katsu	{[scat conj]} =and=
 keredo	{[scat conj]} =but=
 keredomo	{[scat conj]} =but=
@@ -47,7 +48,9 @@ saraniwa	{[scat conj]} =furthermore=
 shikashinagara	{[scat conj]} =but=
 shitagatte	{[scat conj]} =therefore=
 shitemiruto	{[scat conj]} =if_so=
+sookatoitte	{[scat conj]} =having_said_that=
 sooshite	{[scat conj]} =and_then=
+soredokoroka	{[scat conj]} =on_the_contrary=
 soremo	{[scat conj]} =and_in_addition_to_that=
 sorenishitemo	{[scat conj]} =nevertheless=
 toiunowa	{[scat conj]} =because=

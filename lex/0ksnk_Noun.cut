@@ -386,6 +386,7 @@ kare	{[scat n]} =boy_friend=
 kareshi	{[scat n]} =boy_friend=
 karuchaa	{[scat n]} =culture=
 karushiumu {[scat n]} =calcium= % カルシウム
+kasetsujuutaku	{[scat n][comp n:vn+n]} =temporary_housing= "kasetsu+juutaku"
 kashite	{[scat n]} =lender=
 kasoogyooretsu	{[scat n]} =fancy_dress_parade=
 katsuretsu	{[scat n]} =cutlet=
@@ -795,6 +796,7 @@ teechakudo	{[scat n]} =fixing_degree= "teechaku_do_DEGREE"
 teekiyokin	{[scat n]} =term_deposit= "teeki_yokin"
 teenen		{[scat n]} =retirement=
 temboosha	{[scat n]} =observation_car= "temboo_sha_VEHICLE" %【展望】
+tenisu__cdot__kooto	{[scat n][comp n+n]} =tennis_court= "tenisu+kooto"
 tenrankai	{[scat n]} =exhibition= "tenrankai" % 複合語にしない
 tensee	{[scat n]} =nature= "tensee" % 天性
 tettoo	{[scat n]} =steel_tower=

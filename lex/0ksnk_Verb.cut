@@ -107,6 +107,9 @@ ut	{[scat v:c]} =hit/shoot=	%【打つ】【撃つ】
 yabure {[scat v:v]} =lose= % 敗れる
 yak	{[scat v:c]} =bake/fry/roast=	%【焼く】
 
+% :sub
+shir	{[scat v:c:sub]} =know=
+
 % 修正希望
 arienai	{[scat v:ir][tense pres]} =be= "ar-POT-NEG-PRES"
 arienakatta	{[scat v:ir][tense past]} =be= "ar-POT-NEG-PAST"

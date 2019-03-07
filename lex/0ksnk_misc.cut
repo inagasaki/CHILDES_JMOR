@@ -73,11 +73,15 @@ ie	{[scat co:i]} =no= %「いえ」
 nanda	{[scat co:i]} =oh= "nan_da"
 yare		{[scat co:i]} =sigh=
 
-% -sfx
-mairu	{[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numCBb numCBn2]} "mairu_MILE"
-shuukan	{[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numCBb numCBn2]} "shuukan_WEEK"
-
+% -sfx (cl)
+hai {[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numCBb numCBn2]} "hai_DEFEAT" % n敗
 jikan	{[scat numclsfx] [allo OR numBFa numBBk numCFa numCFn numCBa numCBn1 numCBb numCBn2]} "jikan_HOUR"
+ki {[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numCBb numCBn2]} "ki_TERM" % n期
+mairu	{[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numCBb numCBn2]} "mairu_MILE"
+sen {[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numCBb numCBn2]} "sen_ELECTED" % n選（する）
+senkyoku {[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numCBb numCBn2]} "sekyoku_ELECTORAL_DISTRICT"
+shoo {[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numCBb numCBn2]} "shoo_VICTORY" % n勝
+shuukan	{[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numCBb numCBn2]} "shuukan_WEEK"
 
 % vsfx sfxcat
 yoo	{[scat vsfx] [sfxcat n] [allo OR vV vCi vPIw vAIt vTKi vTSi vAIs]} "yoo_WAY_OF"
@@ -99,13 +103,6 @@ gen {[scat pfx] [pcat n]} "gen_CURRENT" % 現
 saku {[scat pfx] [pcat n]} "saku_LAST" % 昨
 ryoo {[scat pfx] [pcat quant]} "ryoo_BOTH" % 両（県）
 moto {[scat pfx] [pcat n]} "moto_EX" % 元
-
-% nominal classifiers
-kime {[scat num:cl][comp num:cl+num:cl]} =ki_TERM-me_ORD= % n期目
-sen {[scat num:cl]} =sen_ELECTED= % n選（する）
-senkyoku {[scat num:cl] [comp n+num:cl]} =ELECTORAL_DISTRICT=  "senkyo+ku"
-shoo {[scat num:cl]} =shoo_VICTORY= % n勝
-hai {[scat num:cl]} =hai_DEFEAT= % n敗
 
 % Suzuki 2019/2/18
 zuruzuru	{[scat onoma]} =loose=

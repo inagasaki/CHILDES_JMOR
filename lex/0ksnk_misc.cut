@@ -107,6 +107,8 @@ senkyoku {[scat num:cl] [comp n+num:cl]} =ELECTORAL_DISTRICT=  "senkyo+ku"
 shoo {[scat num:cl]} =shoo_VICTORY= % n勝
 hai {[scat num:cl]} =hai_DEFEAT= % n敗
 
+buri	{[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numCBb numCBn2]} "buri_FOR_THE_FIRST_TIME_IN"
+
 % Suzuki 2019/2/18
 zuruzuru	{[scat onoma]} =loose=
 

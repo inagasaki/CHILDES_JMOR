@@ -1,4 +1,10 @@
 % noun
+soogaku {[scat n]} =total_amount= "soo_GENERAL_gaku" % 総額
+sooyosan {[scat n]} =general_budget= "soo_GENERAL_yosan" % 総予算
+sooridaijin {[scat n]} =Prime_Minister= % 総理大臣
+soosai {[scat n]} =president= % 総裁
+soozee {[scat n]} =in_all= "soo_GENERAL_zee" % 総勢
+fukusoosai {[scat n]} =vice_president= "fuku_SUB_soosai" % 副総裁
 Shisukogawa	{[scat n]} =Cisco_side= "Shisuko_gawa_SIDE"
 aidokusha	{[scat n]} =regular_reader= "aidoku_sha_PERSON" % 愛読者
 aishoo	{[scat n]} =affinity= % 相性
@@ -542,6 +548,7 @@ minzokusee	{[scat n]} =ethnicity= "minzoku_see_NATURE" % 民族性
 miryoku	{[scat n]} =attractiveness=
 mokutekigo	{[scat n]} =linguistic_object= % 複合語にしない
 monko	{[scat n]} =gate=
+mooningusetto	{[scat n]} =breakfast_comboe= % モーニングセット
 muzoosa	{[scat n]} =casualness=
 naikakufutokumeetantooshoo {[scat n][comp n+n:an+n]} =minister_appointed_by_the_Cabinet_Office= "naikakufu+tokumee+tantooshoo"
 naka	{[scat n]} =inside=

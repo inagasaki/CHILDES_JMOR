@@ -1,4 +1,11 @@
 % vn
+oowarai {[scat n:vn]} =good_laugh= "oo_BIG_warai" % 大笑い
+oosawagi {[scat n:vn]} =big_disturbance= "oo_BIG_sawagi" % 大騒ぎ
+ooatari {[scat n:vn]} =great_hit= "oo_BIG_atari" % 大当り
+ooburi {[scat n:vn]} =overswing= "oo_BIG_buri" % 大振り
+ooburi {[scat n:vn]} =heavy_rain= "oo_BIG_buri" % 大降り
+oomawari {[scat n:vn]} =big_detour= "oo_BIG_mawari" % 大回り
+ooyorokobi {[scat n:vn]} =great_joy= "oo_BIG_yorokobi" % 大喜び
 asshoo {[scat n:vn]} =overwhelming_victory=
 dookyoseekatsu	       {[scat n:vn][comp n:vn+n:vn]} =cohabitation= "dookyo+seekatsu"
 fukkoo {[scat n:vn]} =reconstruction=
@@ -11,7 +18,7 @@ maishin {[scat n:vn]} =striving=
 meigen {[scat n:vn]} =declaration=
 mosaku {[scat n:vn]} =groping=
 rikkoho {[scat n:vn]} =stand_as_a_candidate=
-sabetsu	{[scat n:vn]} =discrimination= "" % 差別
+sabetsu	{[scat n:vn]} =discrimination= % 差別
 soshoo	 {[scat n:vn]} =lawsuit=
 suisen {[scat n:vn]} =recommendation=
 toosen {[scat n:vn]} =be_elected= 
@@ -230,3 +237,4 @@ zuihitsuka	{[scat n:vn]} =making_an_essay= "zuihitsu_ka_BECOMING" % 随筆化
 
 % 修正
 eegaka	{[scat n:vn]} =making_a_movie= "eega_ka_BECOMING" % 映画化
+oosawagi	{[scat n:vn]} =making_a_movie= "eega_ka_BECOMING" % 映画化

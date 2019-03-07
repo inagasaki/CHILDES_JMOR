@@ -88,7 +88,7 @@ oishiger	{[scat v:c]} =be_overgrown=
 okur	{[scat v:c]} =pass/spend=
 ondas	{[scat v:c]} =expel=
 onde	{[scat v:v]} =get_out=
-ooji	{[scat v:v]} =respond= %	応じる		
+ooji	{[scat v:v]} =respond= %	応じる	
 sabak	{[scat v:c]} =deal_with/judge=  % =dissemble= というエントリーは（dissembleという意味はないように思われるので）削除してよいのではないか？
 sakeb	{[scat v:c]} =shout=
 shikir	{[scat v:c]} =manage=
@@ -704,4 +704,4 @@ semariku	{[scat v:ir][comp v:c+v:ir]} =impend= "semar+ku"
 
 % 一例のみ Kainoki に「まじ」が未然形に付いた例がある
 moosaremaji	{[scat v:c][tense inf]} =utter= "moos-PASS-NEG&INFR"
-
+shi		{[scat v:ir][tense inf]} =do=  "su&GER"

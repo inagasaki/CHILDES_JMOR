@@ -116,6 +116,7 @@ arienakatta	{[scat v:ir][tense past]} =be= "ar-POT-NEG-PAST"
 arieru	{[scat v:ir][tense pres]} =be= "ar-POT-PRES"
 ariuru	{[scat v:ir][tense pres]} =be= "ar-POT-PRES"
 ok	{[scat v:c:sub]} =keep=
+ochitsuk	{[scat v:c:sub]} =keep_calm= % 複合動詞のエントリーを削除（一語化）
 
 % v+v
 % utsushitor --> v:c|utsus-ASP:or-PRES=reflect または　v:c|utsus-ASP:or-PRES=move の他に複合語が必要

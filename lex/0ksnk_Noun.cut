@@ -1,10 +1,4 @@
 % noun
-soogaku {[scat n]} =total_amount= "soo_GENERAL_gaku" % 総額
-sooyosan {[scat n]} =general_budget= "soo_GENERAL_yosan" % 総予算
-sooridaijin {[scat n]} =Prime_Minister= % 総理大臣
-soosai {[scat n]} =president= % 総裁
-soozee {[scat n]} =in_all= "soo_GENERAL_zee" % 総勢
-fukusoosai {[scat n]} =vice_president= "fuku_SUB_soosai" % 副総裁
 Shisukogawa	{[scat n]} =Cisco_side= "Shisuko_gawa_SIDE"
 aidokusha	{[scat n]} =regular_reader= "aidoku_sha_PERSON" % 愛読者
 aishoo	{[scat n]} =affinity= % 相性
@@ -160,6 +154,7 @@ fukushachoo	{[scat n]} =vice_president= "fuku_SUB_shachoo" % 副社長
 fukushimakenchijisen {[scat n][comp n:prop+n]} =election_of_the_governor_of_Fukushima_prefecture= "fukushimaken+chijisen" % */#福島の県
 fukushochoo	{[scat n]} =deputy_director= "fuku_SUB_shochoo" % 副所長
 fukusoohin	{[scat n]} =burial_goods= "fukusoo_hin_GOODS" % 副葬品
+fukusoosai {[scat n]} =vice_president= "fuku_SUB_soosai" % 副総裁
 fumbetsu	{[scat n]} =discretion= % 分別
 fumoto	{[scat n]} =foot=
 furansugo	{[scat n]} =French_language= "furansu_go_LANGUAGE"
@@ -516,18 +511,18 @@ kyoogookankee	{[scat n][comp n:vn+n]} =competitive_relationship= "kyoogoo+kankee
 kyoosantoosuisenkooho {[scat n][comp n+n:vn+n]} =candidate_recommended_by_JCP= "kyoosantoo+suisen+kooho"
 kyoozonkankee	{[scat n][comp n:vn+n]} =symbiotic_relationship= "kyoozon+kankee"
 kyuuichi	{[scat n]} =question_one=
-kyuuryoo	{[scat n]} =salary=
-kyuuyuu	{[scat n]} =old_friend= "kyuu_OLD_yuu" % 旧友
-kyuureki	{[scat n]} =the_old_calendar= "kyuu_OLD_reki" % 旧暦
-kyuukoosha	{[scat n]} =old_school_building= "kyuu_OLD_koosha" % 旧校舎
 kyuukoo	{[scat n]} =old_friendship= "kyuu_OLD_koo" % 旧交
+kyuukoosha	{[scat n]} =old_school_building= "kyuu_OLD_koosha" % 旧校舎
+kyuureki	{[scat n]} =the_old_calendar= "kyuu_OLD_reki" % 旧暦
+kyuuryoo	{[scat n]} =salary=
 kyuusee	{[scat n]} =former_name= "kyuu_OLD_see" % 旧姓
+kyuuyuu	{[scat n]} =old_friend= "kyuu_OLD_yuu" % 旧友
 machiaishitsu	{[scat n]} =waiting_room= "machiai_shitsu_ROOM" % 待合室
+mafuyu	{[scat n]} =midwinter=
 mahoodoo	{[scat n]} =magic= "mahoo_doo_HALL" % 魔法堂
 maihoomu	{[scat n]} =my_home=
 mainasushikoo	{[scat n][comp n+n]} =negative_thinking= "mainasu+shikoo" % マイナス思考
 manatsu	{[scat n]} =midsummer=
-mafuyu	{[scat n]} =midwinter=
 manazashi	{[scat n]} =look=
 manki		{[scat n]} =expiration=
 mashoo	{[scat n]} =evil_spirit= % 魔性
@@ -710,10 +705,10 @@ shijoo	{[scat n]} =market=
 shikaisha	{[scat n]} =chairperson= "shikai_sha_PERSON" % 司会者
 shikakukee	{[scat n]} =square= "shikaku_kee_FORM"
 shikisha	{[scat n]} =conductor= "shiki_sha_PERSON" % 指揮者
+shimbijinesu	{[scat n][comp n+n]} =new_business= % 新ビジネス
 shimmitsusee	{[scat n]} =familiarity= "shimmitsu_see_NATURE" % 親密性
 shimpaishoo	{[scat n]} =worrier= % 心配性
 shimpan'in	{[scat n]} =umpire_person= "shimpan_in_PERSON"
-shimbijinesu	{[scat n][comp n+n]} =new_business= % 新ビジネス
 shindansho {[scat n]} =medical_certificate= "shindan_sho_LETTER" % 診断書
 shingaisha	{[scat n]} =new_company=
 shingoosha	{[scat n]} =traffic_light_vehicle= "shingoo_sha_VEHICLE" % 信号車
@@ -782,10 +777,16 @@ shuunyuu	{[scat n]} =income=	% 収入
 shuusee	{[scat n]} =habit= % 習性
 shuushuusha	{[scat n]} =collecting_truck= "shuushuu_sha_VEHICLE"
 sokoku	{[scat n]} =homeland= % 祖国
+sokuza {[scat n]} =immediate= % 即座
 soode	{[scat n]} =all= % 総出
+soogaku {[scat n]} =total_amount= "soo_GENERAL_gaku" % 総額
 soohookoosee	{[scat n]} =bidirectionality= "soohookoo_see_NATURE" % 双方向性
 soonansha	{[scat n]} =victim= "soonan_sha_PERSON" % 遭難者
+sooridaijin {[scat n]} =Prime_Minister= % 総理大臣
+soosai {[scat n]} =president= % 総裁
 soosha	{[scat n]} =runner= "soo_sha_PERSON" % 走者
+sooyosan {[scat n]} =general_budget= "soo_GENERAL_yosan" % 総予算
+soozee {[scat n]} =in_all= "soo_GENERAL_zee" % 総勢
 soozoosee	{[scat n]} =creativity= "soozoo_see_NATURE" % 創造性
 soshikigawa	{[scat n]} =organization_side= "soshiki_gawa_SIDE"
 sotsugyoosee	{[scat n]} =alumnus/alumna= "sotsugyoo_see_STUDENT"

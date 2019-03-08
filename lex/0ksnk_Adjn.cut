@@ -84,11 +84,15 @@ kikaiteki	{[scat n:an]}  =mechanical=  "kikai_teki_LIKE" % 機械的
 kindaiteki	{[scat n:an]}  =modern=  "kindai_teki_LIKE" % 近代的
 kiraku	{[scat n:an]} =carefree=
 kisoteki	{[scat n:an]} =basic= "kiso_teki_LIKE" % 基礎的
+kogara	{[scat n:an]} =small= % 小柄
+oogara	{[scat n:an]} =big= % 大柄
 kojinteki	{[scat n:an]} =personal= "kojin_teki_LIKE"
+kokumee	{[scat n:an]} =detailed=
 kokusaiteki	{[scat n:an]} =international= "kokusai_teki_LIKE"
 komaka	{[scat n:an]} =detailed=
 komponteki	{[scat n:an]} =essential= "kompon_teki_LIKE"
 koofuku	{[scat n:an]} =happy=
+kooiteki	{[scat n:an]} =favourable= "kooi_teki_LIKE"
 kookateki	{[scat n:an]} =effective= "kooka_teki_LIKE"
 kooritsuteki	{[scat n:an]} =efficient= "kooritsu_teki_LIKE"
 kooteeteki	{[scat n:an]}  =affirmative=  "kootee_teki_LIKE" % 肯定的
@@ -169,6 +173,9 @@ zenkokuteki	{[scat n:an]} =nationwide= "zenkoku_teki_LIKE"
 zensekaiteki	{[scat n:an]} =global= "zensekai_teki_LIKE"
 zentaiteki	{[scat n:an]}  =overall=  "zentai_teki_LIKE" % 全体的
 zetsubooteki	{[scat n:an]} =desperate= "zetsuboo_teki_LIKE"
+akeppiroge	{[scat n:an]} =frank=
+oboroge	{[scat n:an]} =fuzzy=
+kenage	{[scat n:an]} =heroic=
 
 % 修正
 nasasoo	{[scat n:an]} =be= "ar&NEG-soo_SEEMING" % nasasoo のもうひとつのエントリーを削除してもらう
@@ -180,3 +187,36 @@ michi	{[scat n:an]} =unknown= % n となっているので直してもらう
 rikoo	{[scat n:an]} =smart= % 元は bright_child となっているので直してもらう
 teenee	{[scat n:an]} =careful= % 元はrespectful となっているので直してもらう
 zettai	{[scat n:an]} =absolute= % adv を削除してもらう？
+
+ayashige	{[scat n:an]} == "ayashi-ge_SEEMING" % 怪しげ
+bukiyooge	{[scat n:an]} == "bukiyoo-ge_SEEMING" % 不器用げ
+fuange	{[scat n:an]} == "fuan-ge_SEEMING" % 不安げ
+haradatashige	{[scat n:an]} == "haradatashi-ge_SEEMING" % 腹立たしげ
+hokorashige	{[scat n:an]} == "hokorashi-ge_SEEMING" % 誇らしげ
+imaimashige	{[scat n:an]} == "imaimashi-ge_SEEMING" % 忌々しげ
+isogashige	{[scat n:an]} == "isogasi-ge_SEEMING" % 忙しげ
+itoshige	{[scat n:an]} == "itoshi-ge_SEEMING" % 愛しげ
+kanashige	{[scat n:an]} == "kanashi-ge_SEEMING" % 悲しげ
+kawaige	{[scat n:an]} == "kawai-ge_SEEMING" % 可愛げ
+kizewashige {[scat n:an]} =restless= "kizewashi-ge_SEEMING" % 気ぜわしげ
+kookatsu	{[scat n:an]} =sly= % 狡猾げ
+kookatsuge	{[scat n:an]} =sly= "kookatsu-ge_SEEMING" % 狡猾げ
+kotomonage	{[scat n:an]} =easy= "kotomona-ge_SEEMING" % こともなげ
+kyoomibukage	{[scat n:an]} =interesting= "kyoomibuka-ge_SEEMING" % 興味深げ
+modokashige	{[scat n:an]} =impatient= "modokashi-ge_SEEMING" % もどかしげ
+monohoshige	{[scat n:an]} =greedy= "monohosi-ge_SEEMING" % ものほしげ
+monouge	{[scat n:an]} =listless= "monou-ge_SEEMING" % 物憂げ
+niganigashige	{[scat n:an]} =painful= "niganigashi-ge_SEEMING" % 苦々しげ
+nikunikushige	{[scat n:an]} =hateful= "nikunikushi-ge_SEEMING" % 憎々しげ
+obotsukanage	{[scat n:an]} =uncertain= "obotsukana-ge_SEEMING" % おぼつかなげ
+omotage	{[scat n:an]} =heavy= "omota-ge_SEEMING" % 重たげ
+osoroshige	{[scat n:an]} =terrifying= "osorashi-ge_SEEMING" % 恐ろしげ
+sabishige	{[scat n:an]} =feeling_lonely= "sabisige-ge_SEEMING" % 寂しげ
+sewashige	{[scat n:an]} =busy= "sewashi-ge_SEEMING" % せわしげ
+shitashige	{[scat n:an]} =familiar= "shitashi-ge_SEEMING" % 親しげ
+tanomoshige	{[scat n:an]} =reliable= "tanomoshi-ge_SEEMING" % 頼もしげ
+tanoshige	{[scat n:an]} =delightful= "tanoshi-ge_SEEMING" % 楽しげ
+tokui	{[scat n:an]} =proud= % 得意
+tokuige	{[scat n:an]} =proud= "tokui-ge_SEEMING" % 得意げ
+uruwashige	{[scat n:an]} =elegant= "uruwashi-ge_SEEMING" % 麗しげ
+yasashige	{[scat n:an]} =gentle= "yawashi-ge_SEEMING" % 優しげ

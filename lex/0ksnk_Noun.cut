@@ -436,7 +436,7 @@ kimatsushiken	{[scat n][comp n+n]} =term_examination= "kimatsu+shiken"
 kinchaku	{[scat n]} =purse=
 kingaku		{[scat n]} =amount_of_money=
 kinshi	{[scat n]} =gold_thread=
-kisha	{[scat n]} =ournalist= % 記者
+kisha	{[scat n]} =journalist= % 記者
 kishoo	{[scat n]} =disposition= % 気性
 kiso	{[scat n]} =base=
 kisobubun	{[scat n][comp n+n]} =basic_part= "kiso+bubun"

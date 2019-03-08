@@ -312,11 +312,11 @@ kakikumor	{[scat v:c][comp v:c+v:c]} =become_cloudy= "kak+kumor" %掻き曇る
 kakikure	{[scat v:v][comp v:c+v:v]} =darken= "kak+kure"
 kakimidare	{[scat v:v][comp v:c+v:v]} =become_disturbed= "kak+midare"
 kakimidas	{[scat v:c][comp v:c+v:c]} =disturb= "kak+midas"
-kakimidas	{[scat v:c][comp v:c+v:c]} =scratch_dishevel= "kak+midas"
+kakimidas	{[scat v:c][comp v:c+v:c]} =dishevel= "kak+midas"
 kakimoras	{[scat v:c][comp v:c+v:c]} =write_fail= "kak+moras"
 kakinagur	{[scat v:c][comp v:c+v:c]} =scrawl= "kak+nagur"
-kakinaras	{[scat v:c][comp v:c+v:c]} =scratch_sound= "kak+naras"
-kakinarawas	{[scat v:c][comp v:c+v:c]} =write_conventionally= "kak+narawas"
+kakinaras	{[scat v:c][comp v:c+v:c]} =scratch_sound= "kak+naras" %掻き鳴らす
+kakinarawas	{[scat v:c][comp v:c+v:c]} =write_conventionally= "kak+narawas" %書き習わす
 kakiok		{[scat v:c][comp v:c+v:c]} =write_leave= "kak+ok"
 kakiokos	{[scat v:c][comp v:c+v:c]} =transcribe= "kak+okos"
 kakiokos	{[scat v:c][comp v:c+v:c]} =write_start= "kak+okos" %書き下ろす
@@ -324,11 +324,17 @@ kakioros	{[scat v:c][comp v:c+v:c]} =write_newly= "kak+oros" %書き下ろす
 kakioros	{[scat v:c][comp v:c+v:c]} =scrape_down= "kak+oros" %掻き下ろす
 kakiotos	{[scat v:c][comp v:c+v:c]} =write_fail= "kak+otos" %書き落とす
 kakiotos	{[scat v:c][comp v:c+v:c]} =scrape_remove= "kaki+otos" %掻き落とす
+kakisas		{[scat v:c][comp v:c+v:c]} =write_stop= "kaki+sas" %書き止す
+kakisusum	{[scat v:c][comp v:c+v:c]} =write_advance= "kak+susum"
+kakisusume	{[scat v:v][comp v:c+v:v]} =write_advance= "kak+susume"
+kakisute	{[scat v:v][comp v:c+v:v]} =write_throw_away= "kak+sute"
 kakitame	{[scat v:v][comp v:c+v:v]} =write_accumulate= "kak+tame"
+kakitate	{[scat v:v][comp v:c+v:v]} =write_sensationally= "kak+tate" %書き立てる
+kakitate	{[scat v:v][comp v:c+v:v]} =stir_up= "kak+tate" %掻き立てる
 kakitobas	{[scat v:c][comp v:c+v:c]} =write_fast= "kak+tobas"
 kakitsubus	{[scat v:c][comp v:c+v:c]} =write_break= "kak+tsubus"
 kakitsuke	{[scat v:v][comp v:c+v:v]} =write_down= "kak+tsuke"
-kakitsurane	{[scat v:v][comp v:c+v:v]} =write_list= "kak+tsurane"
+kakitsurane	{[scat v:v][comp v:c+v:v]} =write_arrange= "kak+tsurane" %書き連ねる
 kakiutsus	{[scat v:c][comp v:c+v:c]} =write_copy= "kak+utsus"
 kakkom		{[scat v:c][comp v:c+v:c]} =bolt_down= "kak+kom"
 kakoiire	{[scat v:v][comp v:c+v:v]} =surround_drive_into= "kakow+ire"
@@ -785,7 +791,7 @@ omoimadow	{[scat v:c][comp v:c+v:c]} =think_be_bewildered= "omow+madow"
 oshiir		{[scat v:c][comp v:c+v:c]} =break_into= "os+ir"
 oshitaos	{[scat v:c][comp v:c+v:c]} =push_down= "os+taos"
 ronjiaw		{[scat v:c][comp v:v+v:c]} =argue_with_each_other= "ronji+aw"	%統語
-ronjitate	{[scat v:v][comp v:v+v:v]} =argue_particularly= "ronji+tate"
+onjitate	{[scat v:v][comp v:v+v:v]} =argue_particularly= "ronji+tate"
 sabikom		{[scat v:c][comp v:v+v:c]} =rust_completely= "sabi+kom"
 sagashidas	{[scat v:c][comp v:c+v:c]} =search_out= "sagas+das"
 sagewatas	{[scat v:c][comp v:v+v:c]} =lower_give= "sage+watas"
@@ -1191,7 +1197,7 @@ tsurekom	{[scat v:c][comp v:v+v:c]} =accompany_into= "tsure+kom"
 tsuremawar	{[scat v:c][comp v:v+v:c]} =accompany_around= "tsure+mawar"
 tsuremawas	{[scat v:c][comp v:v+v:c]} =accompany_around= "tsure+mawas"
 tsuremodos	{[scat v:c][comp v:v+v:c]} =accompany_back= "tsure+modos"
-tsuresar	{[scat v:c][comp v:v+v:c]} =accompany_around_leave= "tsure+sar"
+tsuresar	{[scat v:c][comp v:v+v:c]} =accompany_leave= "tsure+sar"
 tsuresow	{[scat v:c]} =be_married= 
 tsuriaw		{[scat v:c]} =match= 
 tsuriagar	{[scat v:c][comp v:c+v:c]} =get_caught= "tsur+agar"
@@ -1377,8 +1383,34 @@ zurioros	{[scat v:c][comp v:c+v:c]} =shift_lower= "zur+oros"
 zurisagar	{[scat v:c][comp v:c+v:c]} =shift_down= "zur+sagar"
 
 % 修正希望
-kakiokoshihajime	{[scat v:v][comp v:c+v:c+v:v]} =write_start_begin= "kak+okos" % kakiokoshihajime	{[scat v:v][comp v:c+v:v]} =writing_out_start= "kakiokos+hajime" in verb.cut
-kakikae		{[scat v:v][comp v:c+v:v]} =rewrite= "kak+kae" %書き替える/書き換える kakikae	{[scat v:v]} "kak_kae" =rewrite= in verb.cut
-kakikuwae	{[scat v:v][comp v:c+v:v]} =write_add= "kak+kuwae" %kakikuwae	{[scat v:v]} "kak_kuwae" =add=
-kakikes 	{[scat v:c][comp v:c+v:c]} =drown_out= "kak+kes" %kakikes	{[scat v:c]} =erase= "kak_kes"	
-kakikom		{[scat v:c][comp v:c+v:c]} =write_in= "kaki+kom" %kakikom	{[scat v:c]} =write_in= "kak_kom"
+% kakiokoshihajime	{[scat v:v][comp v:c+v:v]} =writing_out_start= "kakiokos+hajime" in verb.cutkakiokoshihajime	{[scat v:v][comp v:c+v:c+v:v]} =write_start_begin= "kak+okos"
+%kakikae	{[scat v:v]} "kak_kae" =rewrite= in verb.cut
+kakikae		{[scat v:v][comp v:c+v:v]} =rewrite= "kak+kae" %書き替える/書き換える 
+%kakikuwae	{[scat v:v]} "kak_kuwae" =add= in verb.cut
+kakikuwae	{[scat v:v][comp v:c+v:v]} =write_add= "kak+kuwae" %書き加える
+%kakikes	{[scat v:c]} =erase= "kak_kes"	
+kakikes 	{[scat v:c][comp v:c+v:c]} =drown_out= "kak+kes" %書き消す 
+%kakikom	{[scat v:c]} =write_in= "kak_kom"
+kakikom		{[scat v:c][comp v:c+v:c]} =write_in= "kak+kom" %書き込む
+%kakishirus	{[scat v:c]} "kak_shirus" =record= in verb.cut
+kakishirus	{[scat v:c][comp v:c+v:c]} =write_down= "kak+shirus" %書き記す
+%kakisoe	{[scat v:v]} "kak_soe" =add= in verb.cut 
+kakisoe		{[scat v:v][comp v:c+v:v]} =write_add= "kak+soe" %書き添える
+%kakitas	{[scat v:c]} "kak_tas" =add_a_note= in verb.cut
+kakitas		{[scat v:c][comp v:c+v:c]} =write_add= "kak+tas" %書き足す
+%kakichigaw	{[scat v:c]} =miswrite= "kak_chigaw"
+kakichigaw	{[scat v:c][comp v:c+v:c]} =miswrite= "kak+chigaw" %書き違う
+%kakitome	{[scat v:v]} "kak_tome" =record= in verb.cut
+kakitome	{[scat v:v][comp v:c+v:v]} =write_down= "kak+tome" %書き留める
+%kakitor	{[scat v:c]} "kak_tor" =transcribe= 
+kakitor		{[scat v:c][comp v:c+v:c]} =transcribe= "kak+tor" %書き取る
+%kakinuk	{[scat v:c]} =extract= "kak_nuk"
+kakinuk		{[scat v:c][comp v:c+v:c]} =write_extract= "kak+nuk" %書き抜く
+kakinuk		{[scat v:c][comp v:c+v:c]} =write_up= "kak+nuk" %書き抜く
+%kakinokos	{[scat v:c]} =leave_note_behind= "kak_nokos" in verb.cut
+%% kakinokos	{[scat v:c][comp v:c+v:c]} =leave_text_unwritten= "kak+nokos" in 0ksnk_Verb.cut 異義
+kakinokos	{[scat v:c][comp v:c+v:c]} =write_leave= "kak+nokos" %書き残す
+%kakimaze	{[scat v:v]} =stir= "kak_maze" in verb.cut
+kakimaze	{[scat v:v][comp v:c+v:v]} =stir_mix= "" %掻き混ぜる
+%kakimawas	{[scat v:c]} =stir_up= "kak_mawas" in verb.cut
+kakimawas	{[scat v:c][comp v:c+v:c]} =stir_up= "kak+mawas" %掻き回す

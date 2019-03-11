@@ -278,7 +278,7 @@ akiaki	{[scat n:vn]}	=get_sick_of=	%	飽き飽きする
 akinai	{[scat n:vn]}	=trading=	%	商いする
 akuseku	{[scat n:vn]}	=busy_oneself=	%	あくせくする
 akusenkutoo	{[scat n:vn]}	=fight_desperately= "akusen_kutoo"	%	悪戦苦闘する
-ageoroshi	{[scat n:vn]}	=loading_unloading= "age_oros&GER"		上げ下ろしする
+ageoroshi	{[scat n:vn]}	=loading_unloading= "age_oros&GER"	%	上げ下ろしする
 agesage	{[scat n:vn]}	=up_down= "age_oros&GER"	%	上げ下げする
 asaoki	{[scat n:vn]}	=early_rising= "asa_oki&GER"	%	朝起きする
 asagaeri	{[scat n:vn]}	=coming_home_in_the_morning= "asa_kaer&GER" 	%	朝帰りする
@@ -536,7 +536,7 @@ oshaku	{[scat n:vn]}	 =filling_cup=	 %	おしゃく
 oshiaiheshiai	{[scat n:vn]}	 =hustle_and_bustle=	 %	押し合いへし合い 
 oshimondoo	{[scat n:vn]}	 =arguing_back_and_forth=	 %	押し問答 
 oshiuri	{[scat n:vn]}	 =pushy_salesman= "os+ur&GER"	 %	押し売り 
-osusowake	{[scat n:vn]}	 =sharing= "osuso_wake&GER""	 %	おすそ分け 
+osusowake	{[scat n:vn]}	 =sharing= "osuso_wake&GER"	 %	おすそ分け 
 otaota	{[scat n:vn:onoma]}	 =panic=	 %	おたおた 
 otokonaki	{[scat n:vn]}	 =a_mans_weeping= "otoko_nak&GER"	 %	男泣き 
 otomo	{[scat n:vn]}	 =accompany=	 %	お伴 
@@ -579,7 +579,7 @@ unsoo	{[scat n:vn]}	 =transport=	 %	運送
 unyoo	{[scat n:vn]}	 =operating=	 %	運用 
 unzari	{[scat n:vn:onoma]}	 =weary=	 %	うんざり 
 uoosaoo	{[scat n:vn]}	 =moving_this_way_and_ that= "uoo_saoo"	 %	右往左往 
-uragoshi	{[scat n:vn]}	 =straining= "ura_kos&GER""	 %	裏ごし 
+uragoshi	{[scat n:vn]}	 =straining= "ura_kos&GER"	 %	裏ごし 
 urazuke	{[scat n:vn]}	 =testifying= "ura_tsuke&GER"	 %	裏づけ 
 ureshinaki	{[scat n:vn]}	 =weep_for_joy= "ureshi_nak&GER"	 %	うれし泣き 
 urikai	{[scat n:vn]}	 =sell_and_buy= "ur_kaw&GER"	 %	売り買い 
@@ -587,7 +587,7 @@ urochoro	{[scat n:vn:onoma]}	 =loitering=	 %	うろちょろ
 usabarashi	{[scat n:vn]}	 =entertainment= "usa_haras&GER"	 %	憂さ晴し 
 usonaki	{[scat n:vn]}	 =fake_crying= "uso_nak&GER"	 %	うそ泣き 
 usugeshoo	{[scat n:vn]}	 =applying_light_make_up= "usu_keshoo"	 %	薄化粧 
-usurawarai	{[scat n:vn]}	 =laughing_slightly= utsura_waraw&GER""	 %	うすら笑い 
+usurawarai	{[scat n:vn]}	 =laughing_slightly= "utsura_waraw&GER"	 %	うすら笑い 
 utatane	{[scat n:vn]}	 =doze= "uta_ne&GER"	 %	うたた寝 
 utouto	{[scat n:vn:onoma]}	 =dozing_of=	 %	うとうと 
 utsurautsura	{[scat n:vn:onoma]}	 =nodding_off=	 %	うつらうつら 

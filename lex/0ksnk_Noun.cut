@@ -362,16 +362,16 @@ yuushoosha	{[scat n]} =champion= "yuushoo_sha_PERSON" % 優勝者
 zensha	{[scat n]} =the_former=
 
  _jin, _go --> n:prop でなく n
-amerikajin	{[scat n]} =American_person= "amerika_jin"
-igirisujin	{[scat n]} =English_person= "igirisu_jin"
-nihongo	{[scat n]} =Japanese_language= "nihon_go"
-nihonjin	{[scat n]} =Japanese_person= "nihon_jin"
-furansugo	{[scat n]} =French_language= "furansu_go"
-furansujin	{[scat n]} =French_person= "furansu_jin"
-supeingo	{[scat n]} =Spanish_language= "supein_go"
-supeinjin	{[scat n]} =Spanish_person= "supein_jin"
-chuugokugo	{[scat n]} =Chinese_language= "chuugoku_go"
-chuugokujin	{[scat n]} =Chinese_person= "chuugoku_jin"
+amerikajin	{[scat n]} =American_person= "amerika_jin_PERSON"
+igirisujin	{[scat n]} =English_person= "igirisu_jin_PERSON"
+nihongo	{[scat n]} =Japanese_language= "nihon_go_LANGUAGE"
+nihonjin	{[scat n]} =Japanese_person= "nihon_jin_PERSON"
+furansugo	{[scat n]} =French_language= "furansu_go_LANGUAGE"
+furansujin	{[scat n]} =French_person= "furansu_jin_PERSON"
+supeingo	{[scat n]} =Spanish_language= "supein_go_LANGUAGE"
+supeinjin	{[scat n]} =Spanish_person= "supein_jin_PERSON"
+chuugokugo	{[scat n]} =Chinese_language= "chuugoku_go_LANGUAGE"
+chuugokujin	{[scat n]} =Chinese_person= "chuugoku_jin_PERSON"
 
 % n:prop
 Akihito	{[scat n:prop]} =Akihito=

@@ -890,19 +890,76 @@ yuuisee	{[scat n]} =superiority= "yuui_see_NATURE" % 優位性
 yuukoosee	{[scat n]} =validity= "yuukoo_see_NATURE" % 有効性
 yuuryoo	{[scat n]} =paid=
 yuushoosha	{[scat n]} =champion= "yuushoo_sha_PERSON" % 優勝者
-yuuyoosee	{[scat n]} =usefulness= "yuuyoo_see_NATURE" % 有用性
-zaisan	{[scat n]} =property=
-zampai {[scat n]} =be_beaten_hollow= 
-zazen	{[scat n]} =zazen=
-zeetakuhin	{[scat n]} =luxury_goods= "zeetaku_hin_GOODS"
-zendaimimon	{[scat n]} =unprecedented=
-zenhan	{[scat n]} =the_first_half=
-zenkokushi	{[scat n]} =national_newspaper= % 全国紙
-zenryoku	{[scat n]} =full_strength= % 全力
-zensai		{[scat n]} =previous_wife= % 前妻
-zensha	{[scat n]} =the_former= % 前者
-zenyoo	{[scat n]} =the_whole_picture= % 全容
-zerokinri	{[scat n]} =zero_interest_rate= "zero_kinri"
+zensha	{[scat n]} =the_former=
+
+ _jin, _go --> n:prop でなく n
+amerikajin	{[scat n]} =American_person= "amerika_jin_PERSON"
+igirisujin	{[scat n]} =English_person= "igirisu_jin_PERSON"
+nihongo	{[scat n]} =Japanese_language= "nihon_go_LANGUAGE"
+nihonjin	{[scat n]} =Japanese_person= "nihon_jin_PERSON"
+furansugo	{[scat n]} =French_language= "furansu_go_LANGUAGE"
+furansujin	{[scat n]} =French_person= "furansu_jin_PERSON"
+supeingo	{[scat n]} =Spanish_language= "supein_go_LANGUAGE"
+supeinjin	{[scat n]} =Spanish_person= "supein_jin_PERSON"
+chuugokugo	{[scat n]} =Chinese_language= "chuugoku_go_LANGUAGE"
+chuugokujin	{[scat n]} =Chinese_person= "chuugoku_jin_PERSON"
+
+% n:prop
+Akihito	{[scat n:prop]} =Akihito=
+Akita	{[scat n:prop]} =Akita=
+Akitashi	{[scat n:prop]} =Akita_city= "Akita_shi"
+Aomori	{[scat n:prop]} =Aomori=
+Aomorishi	{[scat n:prop]} =Aomori_city= "Aomori_shi"
+Burajiru {[scat n:prop]} =Brazil= % ブラジル
+Chembaasu	{[scat n:prop]} =Chambers=
+Fukushima	{[scat n:prop]} =Fukushima=
+Fukushimashi	{[scat n:prop]} =Fukushima_city= "Fukushima_shi"
+Handaibyooin	{[scat n:prop]} =Osaka_University_Hospital= "Handai_byooin"
+Higashinihondaishinsai	{[scat n:prop]} =Great_East_Japan_earthquake= "Higashinihon_daishinsai"
+Iwate	{[scat n:prop]} =Iwate=
+Izumi	{[scat n:prop]} =Izumi=
+Izumishi	{[scat n:prop]} =Izumi_city= "Izumi_shi"
+Kameoka		{[scat n:prop]} =Kameoka=
+Kameokashi	{[scat n:prop]} =Kameoka_city= "Kameoka_shi"
+Kankoku {[scat n:prop]} =South_Korea= % 韓国
+Ken'ichi	{[scat n:prop]} =Ken'ichi=
+Kitaakitashi	{[scat n:prop]} =Kitaakita_city= "Kitaakita_shi"
+Kitakita	{[scat n:prop]} =Kitaakita=
+Kokuren {[scat n:prop]} =United_Nations= % 国連
+Koobeshi	{[scat n:prop]} =Kobe_city= "Koobe_shi"
+Kyarawee	{[scat n:prop]} =Callaway=
+Kyooko	{[scat n:prop]} =Kyoko=
+Kyootoshi	{[scat n:prop]} =Kyoto_city= "Kyooto_shi"
+Kyuusekkijidai	{[scat n:prop]} =old_stone_age=
+Maikurosofuto	{[scat n:prop]} =Microsoft=
+Minamiafurika {[scat n:prop]} =South_Africa= % 南アフリカ
+Miyagi	{[scat n:prop]} =Miyagi=
+Mootsuaruto	{[scat n:prop]} =Mozart=
+Nagoyashi	{[scat n:prop]} =Nagoya_city= "Nagoya_shi"
+Nakajima	{[scat n:prop]} =Nakajima=
+Oosakashi	{[scat n:prop]} =Osaka_city= "Oosaka_shi"
+Puriamosu	{[scat n:prop]} =Priam=
+Sendai	{[scat n:prop]} =Sendai=
+Sendaishi	{[scat n:prop]} =Sendai_city= "Sendai_shi"
+Shanhaishi	{[scat n:prop]} =Shanghai_city= "Shanhai_shi"
+Shibuya {[scat n:prop]} =Shibuya= % 渋谷
+Shimotsuma	{[scat n:prop]} =Shimotsuma=
+Shimotsumashi	{[scat n:prop]} =Shimotsuma_city= "Shimotsuma_shi"
+Shisuko	{[scat n:prop]} =Cysco=
+Shisukoshisutemuzu	{[scat n:prop]} =Cisco_Systems=
+Taikanokaishin	{[scat n:prop]} =the_Taika_Reform=
+Takashima	{[scat n:prop]} =Takashima=
+Takashimashi	{[scat n:prop]} =Takashima_city= "Takashima_shi"
+Yamagata	{[scat n:prop]} =Yamagata=
+Yamagatashi	{[scat n:prop]} =Yamagata_city= "Yamagata_shi"
+Yamaguchi	{[scat n:prop]} =Yamaguchi=
+Yamaguchishi	{[scat n:prop]} =Yamaguchi_city= "Yamaguchi_shi"
+Yokohama	{[scat n:prop]} =Yokohama=
+Yokohamashi	{[scat n:prop]} =Yokohama_city= "Yokohama_shi"
+
+% 修正
+Igirisu	{[scat n:prop]} =England=  % igurisu --> igirisu
+Supein	{[scat n:prop]} =Spain= % Supeen --> Supein
 
 % fml
 kawari	{[scat n:fml]} =instead_of= % in_exchange_for でなく

@@ -8,10 +8,10 @@ gainenteki	{[scat n:an]} =conceptual= "gainen_teki_LIKE"
 kanoo	{[scat n:an]} =possible=
 maemuki	{[scat n:an]} =positive=
 seeteki	{[scat n:an]} =sexial= "see_teki_LIKE"
-shoochooteki   {[scat n:ad]} =symbolic= "shoochoo_teki_LIKE"
-shuukenteki    {[scat n:ad]} =centralization_of_power= "shuuken_teki_LIKE"
-yoochi	       {[n:ad]} =crude=
-yooi	       {[scat n:ad]} =easy=
+shoochooteki   {[scat n:an]} =symbolic= "shoochoo_teki_LIKE"
+shuukenteki    {[scat n:an]} =centralization_of_power= "shuuken_teki_LIKE"
+yoochi	       {[scat n:an]} =crude=
+yooi	       {[scat n:an]} =easy=
 
 % Noun (n, n:fml, n:deic)
 ashira {[scat n]} =ashira=
@@ -19,7 +19,7 @@ bansoosha  {[scat n]} =escort_runner=
 bonchi	   {[scat n]} =basin=
 budomari   {[scat n]} =yield_rate=
 bumon  {[scat n]} =department=
-bunkenkanri   {[scat n]} [comp n+n]} =management_for_decentralization_of_power=
+bunkenkanri   {[scat n][comp n+n]} =management_for_decentralization_of_power=
 burakkuberuto {[scat n]} =black_belt=
 chuukaimoderu	  {[scat n][comp n:vn+n]} =intermediary_model= "chuukai+moderu"
 erekutoronikusukigyoo	 {[scat n][comp n+n]} =electronics_company= "erekutoronikusu+kigyoo"
@@ -138,10 +138,10 @@ soshikidat    {[scat v:c]} =be_systematic=
 yatteku	      {[scat v:ir]} =come= "yat_te_ku"
 
 % misc (ptl, smod, conj, num, quant, co:i, -sfx)
-kakoku {[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numCBb numCBn2]} =kakoku_COUNTRY=
-paasento      {[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numCBb numCBn2]} =paasento_PERCENT"
+kakoku {[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numCBb numCBn2]} "kakoku_COUNTRY"
+paasento      {[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numCBb numCBn2]} "paasento_PERCENT"
 sha    {[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numCBb numCBn2]} "sha_COMPANY"
-shoo   {[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numCBb numCBn2]} =shoo_CHAPTER=
+shoo   {[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numCBb numCBn2]} "shoo_CHAPTER"
 
 zen    {[scat pft][pcat quant]} "zen_WHOLE"
 

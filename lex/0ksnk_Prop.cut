@@ -95,10 +95,6 @@ Yamaguchishi	{[scat n:prop]} =Yamaguchi_city= "Yamaguchi_shi"
 Yokohama	{[scat n:prop]} =Yokohama=
 Yokohamashi	{[scat n:prop]} =Yokohama_city= "Yokohama_shi"
 
-% 修正
-Igirisu	{[scat n:prop]} =England= % igurisu --> igirisu
-Supein	{[scat n:prop]} =Spain= % Supeen --> Supein
-
 % pending
 Taigaa__cdot__uzzu {[scat n:prop]} =Tiger_Woods=
 

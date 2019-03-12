@@ -1,6 +1,5 @@
 % ptl
-kamo	{[scat ptl:foc]} =perhaps= 
-nagara	{[scat ptl:conj]} =although= % 動詞接尾辞の「ながら」と区別する、ptl:foc のエントリーは削除
+%nagara	{[scat ptl:conj]} =although= % 動詞接尾辞の「ながら」と区別する、ptl:foc のエントリーは削除
 
 % smod
 daroo	{[scat smod]} =INFR=
@@ -13,8 +12,9 @@ rashi	{[scat smod]} =SENS= "rashi&PRES"
 rashikatta     {[scat smod]} =SENS= "rashi-PAST"
 rashiku	{[scat smod]} =SENS= "rashi-ADV"
 rashikute	{[scat smod]} =SENS= "rashi-CONN"
-mitai	{[scat smod]} =INFR= "mita-PRES"
-midai	{[scat smod]} =INFR= "mita-PRES"
+mitai	{[scat smod]} =INFR=
+midai	{[scat smod]} =INFR=
+mitaku	{[scat smod]} =INFR&ADV=
 beki	{[scat smod]} =OBLG= "beshi&ADN" % ought to do でなく OBLG (obligation)
 beshi	{[scat smod]} =OBLG= % ought to do でなく
 bekarazu	{[scat smod]} =OBLG= "beshi&NEG"
@@ -22,7 +22,8 @@ beku	{[scat smod]} =OBLG= "beshi&ADV"
 soo	{[scat smod]} =HEARSAY=  % hearsay を大文字に
 yoo	{[scat smod]} =SENS=
 tsumori	{[scat smod]} =INTEN= % intentional
-maji	{[scat smod]} =probably_not=
+maji	{[scat smod]} =NEG&INFR=
+mai	{[scat smod]} =NEG&INFR=
 
 % conj
 chinamini	{[scat conj]} =by_the_way=
@@ -60,18 +61,17 @@ towaittemo	{[scat conj]} =nevertheless=
 yotte	{[scat conj]} =therefore=
 
 % num
-ichinenjuu	{[scat num]} =one= "ichi-nen_YEAR-juu_THROUGHOUT" % 修正希望
-ichinichijuu	{[scat num]} =one= "ichi-nichi_DAY-juu_THROUGHOUT" % 修正希望			
-
+%ichinenjuu	{[scat num]} =one= "ichi-nen_YEAR-juu_THROUGHOUT" % 修正希望
+%ichinichijuu	{[scat num]} =one= "ichi-nichi_DAY-juu_THROUGHOUT" % 修正希望			
 % quant
-maitoshi	{[scat quant]} =every_year= "mai_EVERY_toshi"
-zen'in	{[scat quant]} =all_members= 	% 全員 
+% maitoshi	{[scat quant]} =every_year= "mai_EVERY_toshi"
+% zen'in	{[scat quant]} =all_members= % 全員 
 
 % interjection
-ee	{[scat co:i]} =yes= %「ええ」
-ie	{[scat co:i]} =no= %「いえ」
+%ee	{[scat co:i]} =yes= %「ええ」
+%ie	{[scat co:i]} =no= "iie" %「いえ」
 nanda	{[scat co:i]} =oh= "nan_da"
-yare		{[scat co:i]} =sigh=
+yare	{[scat co:i]} =sigh=
 
 % -sfx (cl)
 buri	{[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numCBb numCBn2]} "buri_FOR_THE_FIRST_TIME_IN"

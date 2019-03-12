@@ -20,7 +20,7 @@ ichijirushi	{[scat adj]} =remarkable=
 inakakusa	{[scat adj]} =rustic= "inaka_kusa_SMELLING" % 田舎くさい
 kechikusa	{[scat adj]} =stingy= "kechi_kusa_SMELLING" % けちくさい
 kizewashi	{[scat adj]} =restless=
-kusurikusa	{[scat adj]} =smelling_of_medicine= "kusuri_kusa_SMELLING" % 魚くさい
+kusurikusa	{[scat adj]} =smelling_of_medicine= "kusuri_kusa_SMELLING" % 薬くさい
 mattaki	{[scat adj][tense inf]} =complete= "matta-ki_ADN"
 mendokusa	{[scat adj]} =bothersome= "mendo_kusa_SMELLING"
 ningenkusa	{[scat adj]} =quite_human= "ningen_kusa_SMELLING" % 人間くさい
@@ -210,10 +210,3 @@ ikanaru	{[scat adn:deic:wh]} =what_kind=
 
 donoyooni	{[scat adv:deic:wh]} =how= "dono_yoo_ni"
 
-% 修正
-koishi	{[scat adj]} =long_for= % dearest でなく
-i	{[scat adj]} =good=
-yo	{[scat adj]} =good= % 「よい」と「いい」を分ける
-mamona	{[scat adj]} =instantaneous= % adn|mamonai のエントリーを削除
-mendookusa	{[scat adj]} =bothersome= "mendoo_kusa_SMELLING" % -kusa_STINKY が生成されないように
-moshikasuruto	{[scat adv]} "moshi_ka_suru_to" =maybe= % conj のエントリーを削除

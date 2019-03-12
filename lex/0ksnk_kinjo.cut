@@ -30,13 +30,13 @@ chooshoku	  {[scat n]} =breakfast=
 kuten		  {[scat n]} =period=
 skyandaru	  {[scat n]} =scandal=
 chitekikookishin  {[scat n][comp n:an+n]} =intellectual_curiosity= "chi_teki_LIKE+kookishin"
-shuzaimemo	  {[scat n][comp n:vn+n]}=coverage_memo
+shuzaimemo	  {[scat n][comp n:vn+n]}=coverage_memo=
 meebo		  {[scat n]} =name_list=
 komento		  {[scat n]} =comment=
 koosui		  {[scat n]} =perfume=
 hanshi		  {[scat n]} =Japanese_paper_for_calligraphy=
 meegen		  {[scat n]} =wise_saying=
-shimbunkisha	  {[scat n][comp n+n]} =newspaper_journalist= "shimbun+kisha"=
+shimbunkisha	  {[scat n][comp n+n]} =newspaper_journalist= "shimbun+kisha"
 
 % Prop (n:prop)
 

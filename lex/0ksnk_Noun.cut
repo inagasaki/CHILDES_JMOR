@@ -407,7 +407,7 @@ keeyakusho	{[scat n]} =contract_document=
 keezairyoku	{[scat n]} =economic_power= "keezai_ryoku_POWER"
 keezokusee	{[scat n]} =continuity= "keezoku_see_NATURE" % 継続性
 kekka	{[scat n]} =result=	%【結果】 % vn で登録されているが、vn として使われることはないのでは？
-kembetsu	{[scat n]} =by_prefecture= "ken_betsu_RESPECTIVELY" ％ 県別
+kembetsu	{[scat n]} =by_prefecture= "ken_betsu_RESPECTIVELY" % 県別
 kembooshoo	{[scat n]} =amnesic= "kemboo_see_NATURE" % 健忘性
 kemminkaikan	{[scat n]} =prefectural_citizen's_hall=
 kenchikubutsu	{[scat n]} =building=
@@ -892,7 +892,7 @@ yuuryoo	{[scat n]} =paid=
 yuushoosha	{[scat n]} =champion= "yuushoo_sha_PERSON" % 優勝者
 zensha	{[scat n]} =the_former=
 
- _jin, _go --> n:prop でなく n
+% _jin, _go --> n:prop でなく n
 amerikajin	{[scat n]} =American_person= "amerika_jin_PERSON"
 igirisujin	{[scat n]} =English_person= "igirisu_jin_PERSON"
 nihongo	{[scat n]} =Japanese_language= "nihon_go_LANGUAGE"

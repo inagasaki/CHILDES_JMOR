@@ -29,7 +29,7 @@ seeen	  	  {[scat n]} =cheering=
 chooshoku	  {[scat n]} =breakfast=
 kuten		  {[scat n]} =period=
 skyandaru	  {[scat n]} =scandal=
-chitekikookishin  {[scat n][comp n:an+n]} =intellectual_curiosity= "chi_teki_LIKE+kookishin"
+chitekikookishin  {[scat n][comp n:an+n]} =intellectual_curiosity= "chi_teki_ANZR+kookishin"
 shuzaimemo	  {[scat n][comp n:vn+n]}=coverage_memo=
 meebo		  {[scat n]} =name_list=
 komento		  {[scat n]} =comment=

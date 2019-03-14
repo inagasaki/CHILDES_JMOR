@@ -1,6 +1,5 @@
 % ptl
-kamo	{[scat ptl:foc]} =perhaps= 
-nagara	{[scat ptl:conj]} =although= % 動詞接尾辞の「ながら」と区別する、ptl:foc のエントリーは削除
+%nagara	{[scat ptl:conj]} =although= % 動詞接尾辞の「ながら」と区別する、ptl:foc のエントリーは削除
 
 % smod
 daroo	{[scat smod]} =INFR=
@@ -13,25 +12,18 @@ rashi	{[scat smod]} =SENS= "rashi&PRES"
 rashikatta     {[scat smod]} =SENS= "rashi-PAST"
 rashiku	{[scat smod]} =SENS= "rashi-ADV"
 rashikute	{[scat smod]} =SENS= "rashi-CONN"
-mitai	{[scat smod]} =INFR= "mita-PRES"
-midai	{[scat smod]} =INFR= "mita-PRES"
-beki	{[scat smod]} =ought_to= % ought to do でなく
-beshi	{[scat smod]} =ought_to= % ought to do でなく
-bekarazu	{[scat smod]} =ought_to= "bekara-NEG"
-beku	{[scat smod]} =ought_to= "beki&ADV"
+mitai	{[scat smod]} =INFR=
+midai	{[scat smod]} =INFR=
+mitaku	{[scat smod]} =INFR&ADV=
+beki	{[scat smod]} =OBLG= "beshi&ADN" % ought to do でなく OBLG (obligation)
+beshi	{[scat smod]} =OBLG= % ought to do でなく
+bekarazu	{[scat smod]} =OBLG= "beshi&NEG"
+beku	{[scat smod]} =OBLG= "beshi&ADV"
 soo	{[scat smod]} =HEARSAY=  % hearsay を大文字に
 yoo	{[scat smod]} =SENS=
 tsumori	{[scat smod]} =INTEN= % intentional
-
-% deic
-kooshita	{[scat adn:deic:dem]} =like_this= % adn|koo_shita=such を変更
-aashita	{[scat adn:deic:dem]} =like_that=
-donoyooni	{[scat adv:deic:wh]} =how= "dono_yoo_ni"
-waga	{[scat n:deic:prs]} =our=
-jishin	{[scat n:deic:prs]} =self=
-gojishin	{[scat n:deic:prs]} "go_HON#jishin" =self=
-korera	{[scat n:deic:dem]} =this= "kore-ra_PL"
-reeno	{[scat n:deic:dem]} =in_question=
+maji	{[scat smod]} =NEG&INFR=
+mai	{[scat smod]} =NEG&INFR=
 
 % conj
 chinamini	{[scat conj]} =by_the_way=
@@ -41,6 +33,7 @@ ga	{[scat conj]} =but=
 ippoo	{[scat conj]} =on_the_other_hand=
 ja	{[scat conj]} =then=
 jaa	{[scat conj]} =then=
+katoitte	{[scat conj]} =having_said_that=
 katsu	{[scat conj]} =and=
 keredo	{[scat conj]} =but=
 keredomo	{[scat conj]} =but=
@@ -55,7 +48,11 @@ sarani	{[scat conj]} =furthermore=
 saraniwa	{[scat conj]} =furthermore=
 shikashinagara	{[scat conj]} =but=
 shitagatte	{[scat conj]} =therefore=
+shitemiruto	{[scat conj]} =if_so=
+sookatoitte	{[scat conj]} =having_said_that=
 sooshite	{[scat conj]} =and_then=
+soredemo	{[scat conj]} =nevertheless=
+soredokoroka	{[scat conj]} =on_the_contrary=
 soremo	{[scat conj]} =and_in_addition_to_that=
 sorenishitemo	{[scat conj]} =nevertheless=
 toiunowa	{[scat conj]} =because=
@@ -64,16 +61,28 @@ towaittemo	{[scat conj]} =nevertheless=
 yotte	{[scat conj]} =therefore=
 
 % num
-ichinenjuu	{[scat num]} =one= "ichi-nen_YEAR-juu_THROUGHOUT" % 修正希望
-ichinichijuu	{[scat num]} =one= "ichi-nichi_DAY-juu_THROUGHOUT" % 修正希望			
+%ichinenjuu	{[scat num]} =one= "ichi-nen_YEAR-juu_THROUGHOUT" % 修正希望
+%ichinichijuu	{[scat num]} =one= "ichi-nichi_DAY-juu_THROUGHOUT" % 修正希望			
+% quant
+% maitoshi	{[scat quant]} =every_year= "mai_EVERY_toshi"
+% zen'in	{[scat quant]} =all_members= % 全員 
 
-% q
-maitoshi	{[scat quant]} =every_year= "mai_EVERY_toshi"
-zen'in	{[scat quant]} =all_members= 	% 全員 
-mairu	{[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numCBb numCBn2]} "mairu_MILE"
-shuukan	{[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numCBb numCBn2]} "shuukan_WEEK"
+% interjection
+%ee	{[scat co:i]} =yes= %「ええ」
+%ie	{[scat co:i]} =no= "iie" %「いえ」
+nanda	{[scat co:i]} =oh= "nan_da"
+yare	{[scat co:i]} =sigh=
 
+% -sfx (cl)
+buri	{[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numCBb numCBn2]} "buri_FOR_THE_FIRST_TIME_IN"
+hai {[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numCBb numCBn2]} "hai_DEFEAT" % n敗
 jikan	{[scat numclsfx] [allo OR numBFa numBBk numCFa numCFn numCBa numCBn1 numCBb numCBn2]} "jikan_HOUR"
+ki {[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numCBb numCBn2]} "ki_TERM" % n期
+mairu	{[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numCBb numCBn2]} "mairu_MILE"
+sen {[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numCBb numCBn2]} "sen_ELECTED" % n選（する）
+senkyoku {[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numCBb numCBn2]} "sekyoku_ELECTORAL_DISTRICT"
+shoo {[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numCBb numCBn2]} "shoo_VICTORY" % n勝
+shuukan	{[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numCBb numCBn2]} "shuukan_WEEK"
 
 % vsfx sfxcat
 yoo	{[scat vsfx] [sfxcat n] [allo OR vV vCi vPIw vAIt vTKi vTSi vAIs]} "yoo_WAY_OF"
@@ -89,23 +98,13 @@ oo	{[scat vtense] [tense inf] [allo OR vC vRw]} "DELB/HORT/INFR"
 gata	{[scat nsfx]} "PL"
 tachi	{[scat nsfx]} "PL"
 
-%prefix
+% prefix
 doo	{[scat pfx] [pcat n]} "doo_SAID"	% 同 
 gen {[scat pfx] [pcat n]} "gen_CURRENT" % 現
 saku {[scat pfx] [pcat n]} "saku_LAST" % 昨
 ryoo {[scat pfx] [pcat quant]} "ryoo_BOTH" % 両（県）
 moto {[scat pfx] [pcat n]} "moto_EX" % 元
-fuku {[scat pfx] [pcat n]} "fuku_VICE" % 副
 
-% nominal classifiers
-kime {[scat num:cl][comp num:cl+num:cl]} =ki_TERM-me_ORD= % n期目
-sen {[scat num:cl]} =sen_ELECTED= % n選（する）
-senkyoku {[scat num:cl] [comp n+num:cl]} =ELECTORAL_DISTRICT=  "senkyo+ku"
-shoo {[scat num:cl]} =shoo_VICTORY= % n勝
-hai {[scat num:cl]} =hai_DEFEAT= % n敗
-
-
-% Suzuki 2019/2/18
-shitemiruto	{[scat conj]} =if_so=
-yare		{[scat co:i]} =sigh=
+% onoma
 zuruzuru	{[scat onoma]} =loose=
+

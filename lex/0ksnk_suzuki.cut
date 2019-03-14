@@ -1,0 +1,148 @@
+% Adj(adj), Adv(adv), Admominal =PNL in Kainoki= (adn)
+dekirukagiri	      {[scat adv]} =as_much_as_possible=
+ikken		      {[scat adv]} =at_first_sight=
+shutoshite  {[scat adv]} =mainly= "shu_to_shite"
+
+% Adjn(n:an)
+gainenteki	{[scat n:an]} =conceptual= "gainen_teki_LIKE"
+kanoo	{[scat n:an]} =possible=
+maemuki	{[scat n:an]} =positive=
+seeteki	{[scat n:an]} =sexial= "see_teki_LIKE"
+shoochooteki   {[scat n:an]} =symbolic= "shoochoo_teki_LIKE"
+shuukenteki    {[scat n:an]} =centralization_of_power= "shuuken_teki_LIKE"
+yoochi	       {[scat n:an]} =crude=
+yooi	       {[scat n:an]} =easy=
+
+% Noun (n, n:fml, n:deic)
+ashira {[scat n]} =ashira=
+bansoosha  {[scat n]} =escort_runner=
+bonchi	   {[scat n]} =basin=
+budomari   {[scat n]} =yield_rate=
+bumon  {[scat n]} =department=
+bunkenkanri   {[scat n][comp n+n]} =management_for_decentralization_of_power=
+burakkuberuto {[scat n]} =black_belt=
+chuukaimoderu	  {[scat n][comp n:vn+n]} =intermediary_model= "chuukai+moderu"
+erekutoronikusukigyoo	 {[scat n][comp n+n]} =electronics_company= "erekutoronikusu+kigyoo"
+gainen		  {[scat n]} =concept=
+gakumon		  {[scat n]} =study=
+gemba		  {[scat n]} =field=
+gembashokuinn	  {[scat n][comp n+n]} =nonclerical_staff=
+gijutsu		  {[scat n]} =technology=
+handootaibun'ya	  {[scat n][comp n+n]} =field_of_semiconductors= "handootai+bun'ya"
+handootaigijutsu  {[scat n][comp n+n]} =technology_of_semiconductors= "handootai+gijutsu"
+hon'i		  {[scat n]} =real_intention=
+honsha		  {[scat n]} =head_office=
+ichigan		  {[scat n]} =united_body=
+jisedai		  {[scat n]} =next_generation=
+jitsugaku	  {[scat n]} =real_amount=
+kaiketsuhoohoo {[scat n][comp n:vn+n]} =solution= "kaiketsu+hoohoo"
+kaiketsusaku   {[scat n][comp n:vn+n]} =solution= "kaiketsu+saku"
+kaku	       {[scat n]} =core=
+kanrenkigyoo	  {[scat n][comp n:vn+n]} =affiliated_company= "kanren+kigyoo"
+kanriun'ee	  {[scat n][comp n:vn+n:vn]} =menagement_and_operation=
+kanriyookooan	  {[scat n][comp n:vn+n]} =draft_guideline_for_managemant= "kanri_yookooan"
+katsudoohan'i	  {[scat n][comp n:vn+n]} =scope_of_operation= "katsudoo+han'i"
+kazokutan'i	  {[scat n][comp n+n]} =family_unit= "kazoku+tan'i"
+kazokutoo	  {[scat n]} =family_island=
+keeeekonsarutanto {[scat n][comp n:vn+n]} =management_consultant= "keeee+konsarutanto"
+keeee		  {[scat n]} =manager= "keeee_sha_PERSON"
+keeki		  {[scat n]} =opportunity=
+keezaihatten	  {[scat n][comp n+n:vn]} =economic_development= "keezai+hatten"
+kenkai		  {[scat n]} =opinion=
+ketsuen=	  {[scat n]} =blood_relation=
+ketsuenshuudan	  {[scat n][comp n+n]} =kin_group=
+konsarutanto	  {[scat n]} =consultant=
+kooninkaikeeshi	  {[scat n][comp n:vn+n]} =certified_public_accountant=
+kuoritii	  {[scat n]} =quality=
+kuse		  {[scat n]} =habit=
+kyoochoo	  {[scat n:vn]} =emphasis=
+kyoodootai	  {[scat n]} =community=
+kyuukyoku	  {[scat n]} =ultimate=
+madifu		  {[scat n]} =mudhif=
+manejimento__cdot__kuoritii	{[scat n]} =quality_managemant=
+minkambumon	  {[scat n][scat n+n]} =private_sector= "minkan+bumon"
+oiejijoo	  {[scat n]} =family_matter= "oie_jijoo"
+omoikomi	  {[scat n]} =prejudiced_impression=
+oonaakigyoo	  {[scat n]} =owner_managed_firm= "oonaa_kigyoo"
+paatonaa	  {[scat n]} =partner=
+rengootai	  {[scat n]} =association_complex=
+risoosu		  {[scat n]} =resource=
+ruufu		  {[scat n]} =roof=
+ryooiki		  {[scat n]} =area=
+sangyoo		  {[scat n]} =industry=
+sangyoobun'ya	  {[scat n][comp n+n]} =industrial_field= "sangyoo+bun'ya"
+sangyoogijutsu	  {[scat n][comp n+n]} =industrial_technology= "sangyoo+gijutsu"
+seenookoojoo	  {[scat n][comp n+v:vn]} =performance_improvement=
+sekaikan	  {[scat n]} =world_view=
+sha		  {[scat n]} =company=
+shakaitekisekinin {[scat n][comp n:an+n]} =social_responsibility= "shakai_teki_LIKE+sekinin"
+shihaishoyuukankee	 {[scat n][comp n:vn+n:vn+n:vn]} =dominance_and_owership_relationship=
+shikkusushiguma	  {[scat n]} =six_sigma=
+shinzoku	  {[scat n]} =relative= 
+shudai		  {[scat n]} =subject=
+shuueki		  {[scat n]} =proceeds=
+shuuraku	  {[scat n]} =settlement=
+son'eki		  {[scat n]} =profit_and_loss=
+sukeeru		  {[scat n]} =scale=
+tan'i		  {[scat n]} =unit=
+tokuigijutsu	  {[scat n][comp n:ad+n]} =expertise= "tokui+gijutsu"
+tokutee		  {[scat n]} =specific=
+zushiki		  {[scat n]} =schema=
+
+% Prop (n:prop)
+Dairondonkigyoo	{[scat n:prop]} =Greater_London_Enterprise= "Dai_rondon_kigyoo"
+Iraku		{[scat n:prop]} =Iraq=
+Jakku__cdot__weruchi   {[scat n:prop]} =Jack_Welch=
+Katomanzu	       {[scat n:prop]} =Kathmandu=
+Manasara	       {[scat n:prop]} =Manasara=
+Rondonkigyoochuukaikikan	{[scat n:prop]} =The_London_Enterprise_Agency= "Rondon_kigyoo_chuukai_kikan"
+Weruchi				{[scat n:prop]} =Welch=
+Zennihonmin'iren		{[scat n:prop]} =Japan_Federation_of_Democratic_Medical_Institutions= "Zennihon_min'iren"
+
+% VN (n:vn)
+bumombetsuson'ekikeesan	{[scat n:vn][comp n+n+n:vn]} =profit_and_loss_accounting_for_each_department= "bumombetsu_son'eki_keesan"
+bumombetsuson'ekikeesansho	{[scat n:vn][comp n+n+n:vn]} =document_of_profit_and_loss_accounting_for_each_department= "bumombetsu_son'eki_keesan_sho_LETTER"
+bunseki				{[scat n:vn]} =analysis=
+dempyookihyoo			{[scat n:vn][comp n+n:vn]} =issuing_a_payment_slip=
+dooin				{[scat n:vn]} =mobilization=
+doonyuu				{[scat n:vn]} =introduction=
+giron				{[scat n:vn]} =discussion=
+gyakkoo	{[scat n:vn]} =run_counter=
+jidootorikomi  {[scat n][comp n+n:vn]} =automatic_input= "jidoo+torikomi"
+jissen	       {[scat n:vn]} =practice=
+kaihatsu       {[scat n:vn]} =development=
+kainyuu	{[scat n:vn]} =intervention=
+keehikeejoo    {[scat n:vn][comp n+n:vn]} =calculating_expences= "keehi+keejoo"
+keejoo	       {[scat n:vn]} =add_up=
+kentoo	{[scat n:vn]} =consideration=
+kooritsuka     {[scat n:vn]} =streamlining= "kooritsu_ka_BECOMING"
+koyoo	       {[scat n:vn]} =employment=
+ninshiki       {[scat n:vn]} =recognize=
+shashoo	       {[scat n:vn]} =abstract=
+shoochoo       {[scat n:vn]} =symbolize=
+sooi	       {[scat n:vn]} =difference=
+sooshutsu      {[scat n:vn]} =creation=
+teekee	       {[scat n:vn]} =cooperation=
+tekiyoo	       {[scat n:vn]} =application=
+tettee	       {[scat n:vn]} =be_thorough=
+tokuhitsu      {[scat n:vn]} =mentioning_specially=
+toogi	       {[scat n:vn]} =discussion=
+toosan	       {[scat n:vn]} =bankruptcy=
+zenshin	       {[acat n:vn]} =advance=
+
+% Verb (v:c, v:v, v:ir)
+age    {[scat v:v]} =produce= %（利益・成果を）あげる
+chitsujozuke  {[scat v:v]} =systemize=
+kanzu  {[scat v:v]} =feel=
+soshikidat    {[scat v:c]} =be_systematic=
+yatteku	      {[scat v:ir]} =come= "yat_te_ku"
+
+% misc (ptl, smod, conj, num, quant, co:i, -sfx)
+kakoku {[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numCBb numCBn2]} "kakoku_COUNTRY"
+paasento      {[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numCBb numCBn2]} "paasento_PERCENT"
+sha    {[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numCBb numCBn2]} "sha_COMPANY"
+shoo   {[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numCBb numCBn2]} "shoo_CHAPTER"
+
+zen    {[scat pft][pcat quant]} "zen_WHOLE"
+
+% pending items

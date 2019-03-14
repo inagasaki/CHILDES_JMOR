@@ -1,3 +1,52 @@
-soode	{[scat n]} =all= % 総出
-iejuu	{[scat n]} =throughout_the_house= "ie_juu_THROUGHOUT"
-iejuusoode {[scat n][comp n+n]} =throughout_the_house_all= "ie_juu_THROUGHOUT_soode"
+% Adj(adj), Adv(adv), Admominal =PNL in Kainoki= (adn)
+
+% Adjn(n:an)
+niwaka	{[scat n:an]} =sudden=
+junchoo	{[scat n:an]} =smooth=
+
+% Noun (n, n:fml, n:deic)
+ichibushijuu	  {[scat n]} =the_whole_story=
+kuuran		  {[scat n]} =blank=
+memoyooshi	  {[scat n]} =notepad=
+hikidashi	  {[scat n]} =drawer=
+koomoku		  {[scat n]} =item=
+choohen		  {[scat n]} =long_piece=
+choohenshoosetsu  {[scat n][comp n+n]} =long_novel= "choohen+shoosetsu"
+ninkisakka	  {[scat n][comp n+n]} =popular_author= "ninki+sakka"
+buri		  {[scat n]} =for_the_first_time_in=
+shaberu		  {[scat n]} =shovel=
+fairu		  {[scat n]} =file=
+kakuchooshi	  {[scat n]} =extension=
+keeshiki	  {[scat n]} =format=
+menkyoshoo	  {[scat n]} =license=
+untenmenkyoshoo	  {[scat n][comp n:vn+n]} =driver_license= "unten+menkyoshoo"
+bushi		  {[scat n]} =samurai=
+tantoo		  {[scat n]} =dagger=
+yooten		  {[scat n]} =main_point=
+shuukanshi	  {[scat n]} =weekly_magazine=
+doshaburii	  {[scat n]} =downpour=
+seeen	  	  {[scat n]} =cheering=
+chooshoku	  {[scat n]} =breakfast=
+kuten		  {[scat n]} =period=
+skyandaru	  {[scat n]} =scandal=
+chitekikookishin  {[scat n][comp n:an+n]} =intellectual_curiosity= "chi_teki_LIKE+kookishin"
+shuzaimemo	  {[scat n][comp n:vn+n]}=coverage_memo=
+meebo		  {[scat n]} =name_list=
+komento		  {[scat n]} =comment=
+koosui		  {[scat n]} =perfume=
+hanshi		  {[scat n]} =Japanese_paper_for_calligraphy=
+meegen		  {[scat n]} =wise_saying=
+shimbunkisha	  {[scat n][comp n+n]} =newspaper_journalist= "shimbun+kisha"
+
+% Prop (n:prop)
+
+% VN (n:vn)
+shinhakken	  {[scat n:vn]} =new_discovery= "shin_NEW_hakken"
+seppuku		  {[scat n:vn]} =harakiri=
+saikai		  {[scat n:vn]} =reunite=
+
+% Verb (v:c, v:v, v:ir)
+
+% misc (ptl, smod, conj, num, quant, co:i, -sfx)
+
+

@@ -1,0 +1,16 @@
+% Adj(adj), Adv(adv), Admominal =PNL in Kainoki= (adn)
+
+% Adjn(n:an)
+
+% Noun (n, n:fml, n:deic)
+
+% Prop (n:prop)
+
+% VN (n:vn)
+
+
+% Verb (v:c, v:v, v:ir)
+
+% misc (ptl, smod, conj, num, quant, co:i, -sfx)
+
+% pending items

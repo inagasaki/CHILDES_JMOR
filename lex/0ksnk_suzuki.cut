@@ -1,17 +1,38 @@
 % Adj(adj), Adv(adv), Admominal =PNL in Kainoki= (adn)
 dekirukagiri	      {[scat adv]} =as_much_as_possible=
 ikken		      {[scat adv]} =at_first_sight=
+koto		      {[scat adv]} =especially=
+rirongenkaigirigiri   {[scat adv]} =the_very_limits_of_a_theory=
 shutoshite  {[scat adv]} =mainly= "shu_to_shite"
 
 % Adjn(n:an)
+junsui	{[scat n:ad]} =pure=
 
 % Noun (n, n:fml, n:deic)
+aite   {[scat n]} =opponent=
+dooki  {[scat n]} =motive=
+gyookai	   {[scat n]} =trade=
+nuuberu__cdot__kyuijiinu	{[scat n]} =nouvelle_cuisine=
+hambai__cdot__mentenansumoo	{[scat n]} =sales_and_maintenance_network= 
+hottan				{[scat n]} =origin=
+hyooban				{[scat n]} =reputation=
+idobatakaigi			{[scat n]} =well_side_gossip=
+jaanarizumu			{[scat n]} =journalism=
+jigyoosho			{[scat n]} =office=
+resutorangyooshan		{[scat +n][comp n+n]} =restaurant_agent= "resutoran+gyoosha"
+shokumihyooronka		{[scat n][comp n+n]} =food_critic= "shokumi+hyooronka"
+tan				{[scat n]} =origin= %端を発する
+zenshayokonarabiissen		{[scat n]} =horizontal_state_of_all_companies=
 
 % Prop (n:prop)
+Anri__cdot__goo	{[scat n:prop]} =Henri_Gault=
+Bokyuuzu	{[scat n:prop]} =Bocuse=
 Dairondonkigyoo	{[scat n:prop]} =Greater_London_Enterprise= "Dai_rondon_kigyoo"
+Goo__cdot__e__cdot__miyoo	{[scat n:prop]} =Gault_et_Millau=
 Iraku		{[scat n:prop]} =Iraq=
 Jakku__cdot__weruchi   {[scat n:prop]} =Jack_Welch=
 Katomanzu	       {[scat n:prop]} =Kathmandu=
+Kurisuchan__cdot__miyoo	      {[scat n:prop]} =Christian_Millau=
 Manasara	       {[scat n:prop]} =Manasara=
 Rondonkigyoochuukaikikan	{[scat n:prop]} =The_London_Enterprise_Agency= "Rondon_kigyoo_chuukai_kikan"
 Weruchi				{[scat n:prop]} =Welch=
@@ -20,6 +41,7 @@ Zennihonmin'iren		{[scat n:prop]} =Japan_Federation_of_Democratic_Medical_Instit
 % VN (n:vn)
 bumombetsuson'ekikeesan	{[scat n:vn][comp n+n+n:vn]} =profit_and_loss_accounting_for_each_department= "bumombetsu_son'eki_keesan"
 bumombetsuson'ekikeesansho	{[scat n:vn][comp n+n+n:vn]} =document_of_profit_and_loss_accounting_for_each_department= "bumombetsu_son'eki_keesan_sho_LETTER"
+chuumoku			{[scat n:vn]} =pay_attention=
 bunseki				{[scat n:vn]} =analysis=
 dempyookihyoo			{[scat n:vn][comp n+n:vn]} =issuing_a_payment_slip=
 dooin				{[scat n:vn]} =mobilization=
@@ -46,16 +68,20 @@ tettee	       {[scat n:vn]} =be_thorough=
 tokuhitsu      {[scat n:vn]} =mentioning_specially=
 toogi	       {[scat n:vn]} =discussion=
 toosan	       {[scat n:vn]} =bankruptcy=
+zasshizukuri   {[scat n:vn][comp n+n:vn]} =magazine_publishing= "zasshi+zukuri"
 zenshin	       {[acat n:vn]} =advance=
 
 % Verb (v:c, v:v, v:ir)
 age    {[scat v:v]} =produce= %（利益・成果を）あげる
 chitsujozuke  {[scat v:v]} =systemize=
+has	      {[scat v:ir]} =give_off= %発する 
 kanzu  {[scat v:v]} =feel=
 soshikidat    {[scat v:c]} =be_systematic=
 yatteku	      {[scat v:ir]} =come= "yat_te_ku"
 
 % misc (ptl, smod, conj, num, quant, co:i, -sfx)
+too    {[scat ptl:foc]} =etc= %「など」に相当する等
+
 kakoku {[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numCBb numCBn2]} "kakoku_COUNTRY"
 paasento      {[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numCBb numCBn2]} "paasento_PERCENT"
 sha    {[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numCBb numCBn2]} "sha_COMPANY"

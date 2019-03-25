@@ -1051,7 +1051,7 @@ booeesen	{[scat n][comp n:vn+n]} =line_of_defence= "booee+sen"
 chian	{[scat n]} =public_peace=
 chiikijiman	{[scat n][comp n+n:vn]} =one's_own_region_boasting= "chiiki+jiman"
 chikagoro	{[scat n]} =recently=
-dezainsensu	{[scat n]{[comp n:vn+n}} =sense_of_design= "dezain+sensu"
+dezainsensu	{[scat n][comp n:vn+n]} =sense_of_design= "dezain+sensu"
 doshi	{[scat n]} =year=
 eejento	{[scat n]} =agent=
 eewajiten	{[scat n][comp n+n]} =English_Japanese_dictionary= "ee_wa+jiten"

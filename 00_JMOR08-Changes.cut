@@ -14,6 +14,8 @@ OLD
 taberuna  v:v|tabe-NEG&IMP:runa=eat
 NEW
 taberu na  v:v|tabe-PRES  smod|na=PRH 
+\|([^ ]+)-NEG&IMP:runa=([^ ]+)
+|\1-PRES=\2 smod|na=PRH
 
 2) new final inflection: -SIMUL (nagara)
 ptl:conj|nagara=while has been changed to -SIMUL (final inflection) and ptl:foc (after noun), resp.
@@ -162,6 +164,7 @@ kore ja dame    ptl:cppost|ja=in_that_case
 In the case of copula use ("da") : v:cop
 iya ja.    v:cop|de&CONN&wa=be
 nan ja.   v:cop|de&CONN&wa=be
+
   10)  Focus particles revised
 a) Per definition, focus particles can appear also after verbs.
 A division between ptl:foc and ptl:conj  (made shika toka made nomi nante yara)
@@ -311,12 +314,42 @@ compare:
       empitsu da tte  n|empitsu v:cop|da&PRES ptl:quot|tte
       Ken datte  n:prop|Ken ptl:foc|datte=even 
 
- 5) dai  as copula
+12) dai  as copula
 ptl:fina|dai=ASSERT has been changed to v:cop|dai&PRES=be_ASSERT.
 OLD
 iku dai   v:c|ik-PRES=go ptl:fina|dai=ASSERT 
 NEW
 iku dai   v:c|ik-PRES=go v:cop|dai&PRES=be_ASSERT.
+
+13) renaming of post particles
+OLD
+ptl:post|de=POST
+ptl:post|ni=POST   
+ptl:post|e=to
+ptl:post|kara=from
+ptl:post|made=until
+ptl:post|yori=from
+ptl:post|yori=COMPARE
+ptl:post|to=with 
+NEW
+ptl:post|de=LOC     including instrumental
+ptl:post|ni=DAT         
+ptl:post|e=LAT    
+ptl:post|kara=ABL   
+ptl:post|made=TERM    
+ptl:post|yori=ABL    
+ptl:post|yori=COMPR
+ptl:post|to=COMT   
+
+14)  "desu" after tense
+OLD  adj|oishi-PRES smod|desu=POL
+NEW adj|oishi-PRES v:cop:sub|desu=POL
+SAME:  NEG and DESID forms  tabenai desu/ tabetai desu   
+
+15)  new CONN:i
+OLD  n|koohi ptl:case|o=ACC v:c|nom-GER n|keeki=cake  ptl:case|o=ACC v:v|tabe-GER
+NEW n|koohi ptl:case|o=ACC v:c|nom-CONN:i n|keeki=cake  ptl:case|o=ACC v:v|tabe-CONN:i
+Compare:  v:c|nom-GER ptl:ptl|ni=DAT v:c|ik-PRES=go
 
 
 
@@ -388,7 +421,7 @@ ptl:post|yori=COMPARE
 例:sugu iku yori chotto matta hoo ga ii   -> ptl:conj|yori=more 
 
 ******** CHANGES **2016Apr24
-オノマトペの“語幹”に統一
+オノマトペの“語幹”に統一 (大野正弘 2007, 日本語オノマトペ辞典, 小学館)
 オノマトペのバリエーションを3繰り返しまで登録してありますが,%morアウトプット
 を語幹に統一しました.
 例:becha, bechabecha, bechabechabecha, betchaq がonoma|bechaとして表記

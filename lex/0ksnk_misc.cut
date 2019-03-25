@@ -2,28 +2,16 @@
 %nagara	{[scat ptl:conj]} =although= % 動詞接尾辞の「ながら」と区別する、ptl:foc のエントリーは削除
 
 % smod
-daroo	{[scat smod]} =INFR=
-yaroo	{[scat smod]} =INFR=
-yaro	{[scat smod]} =INFR=
-dearoo	{[scat smod]} =INFR=
+desho	{[scat smod]} =INFR= "daroo&POL"
 deshoo	{[scat smod]} =INFR= "daroo&POL"
-rashii	{[scat smod]} =SENS= "rashi-PRES"     % sensory evidential mood, hearsay ではない, soo --> hearsay
-rashi	{[scat smod]} =SENS= "rashi&PRES"
-rashikatta     {[scat smod]} =SENS= "rashi-PAST"
-rashiku	{[scat smod]} =SENS= "rashi-ADV"
-rashikute	{[scat smod]} =SENS= "rashi-CONN"
-mitai	{[scat smod]} =INFR=
+dearoo	{[scat smod]} =INFR= "daroo"
+dearimashoo	{[scat smod]} =INFR= "daroo&POL"
 midai	{[scat smod]} =INFR=
-mitaku	{[scat smod]} =INFR&ADV=
+mitaku	{[scat smod]} =INFR= "mitai&ADV"
 beki	{[scat smod]} =OBLG= "beshi&ADN" % ought to do でなく OBLG (obligation)
-beshi	{[scat smod]} =OBLG= % ought to do でなく
 bekarazu	{[scat smod]} =OBLG= "beshi&NEG"
 beku	{[scat smod]} =OBLG= "beshi&ADV"
-soo	{[scat smod]} =HEARSAY=  % hearsay を大文字に
-yoo	{[scat smod]} =SENS=
-tsumori	{[scat smod]} =INTEN= % intentional
 maji	{[scat smod]} =NEG&INFR=
-mai	{[scat smod]} =NEG&INFR=
 
 % conj
 chinamini	{[scat conj]} =by_the_way=

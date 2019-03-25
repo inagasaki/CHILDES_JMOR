@@ -1,0 +1,69 @@
+% Adj(adj), Adv(adv), Admominal =PNL in Kainoki= (adn)
+tegata  {[scat adj]}    =sound=         % 手堅い
+
+% Adjn(n:an)
+
+% Noun (n, n:fml, n:deic)
+hatsu   {[scat n]}      =first=         % 初
+shimin  {[scat n]}      =citizen=       % 市民
+
+hon'in  {[scat n]}      =main_building= % 本院
+% demonstrative prefixの「本」とは異なる。
+% 生産性はあまりないのではないか？
+% また、非独立形態素とくっつくことが多い（本院、本試、本誌vs.別誌）それはもう一方のあれでも同じか（本誌）
+shiminbyooinhon'in  {[scat n][comp n+n+n]} =main_building_of_a_community_hospital= "shimin+byooin+hon'in"
+saigai  {[scat n]}      =disaster=
+kooee   {[scat n]}      =public_management=
+saigaikooeejuutaku {[scat n][comp n+n+n]} =public_restoration_housing= "saigai+kooee+juutaku"
+michisuji {[scat n]}    =road=
+jisseki {[scat n]}      =achievement=
+ichibu  {[scat n]}      =part=          % 「一部が不穏な動きをしている」の「一部」。「1セット」とは別の意味。
+tairitsukooho   {[scat n][comp n:vn+n]} =opponent_in_election= "tairitsu+kooho"
+shuwan  {[scat n]}      =competence=
+gyoosei {[scat n]}      =administration=
+gyooseishuwan   {[scat n][comp n+n]} =competence_for_administration=
+tasen   {[scat n]}      =neing_elected_multiple_times=
+heigai  {[scat n]}      =evil=     % 弊害
+gendoo  {[scat n]}      =speech_and_action=
+mehana  {[scat n]}      =eyes_and_noses=
+mehana  {[scat n]}      =outlook=   % 「目鼻をつける」
+koohoyooritsu   {[scat n][comp n+n:vn]} =putting_up_a_candidate= "kooho+yooritsu"
+koozu   {[scat n]}      =perspective=
+shichoo {[scat n]}      =mayor=
+gichoo  {[scat n]}      =chair=
+shigikai    {[scat n]}  =city_counsil=
+shigikaigichoo  {[scat n][comp n+n]}    =speaker_of_a_city_counsil= "shigikai+gichoo"
+
+% Prop (n:prop)
+Itooyasushi         {[scat n:prop]} =Itoo_Yasushi= % news_KAHOKU_28
+Iguchitsuneaki      {[scat n:prop]} =Iguchi_Tsuneaki= % news_KAHOKU_28
+Sakuraikatsunobu    {[scat n:prop]} =Sakurai_Katsunobu= % news_KAHOKU_28
+Watanabeissei       {[scat n:prop]} =Watanabe_Issei= % news_KAHOKU_28
+Yokoyamamotoe       {[scat n:prop]} =Yokoyama_Motoe= % news_KAHOKU_28
+
+% VN (n:vn)
+itenkensetsu {[scat n:vn][comp n:vn+n:vn]} =moving_and_constructing= "iten+kensetsu"  
+suishin      {[scat n:vn]}  =promotion=
+tairitsu     {[scat n:vn]}  =confrontation=
+chuushi      {[scat n:vn]}  =gaze=
+shiteki      {[scat n:vn]}  =indicate=
+okusoku      {[scat n:vn]}  =speculation=
+shutsuba     {[scat n:vn]}  =running_for_an_election=
+saisen       {[scat n:vn]}  =being_reelected=
+hyoomee      {[scat n:vn]}  =expressing=
+shiki        {[scat n:vn]}  =direction=
+josen        {[scat n:vn]}  =decontamination=
+
+% Verb (v:c, v:v, v:ir)
+seesu   {[scat v:ir]}   "see_su" =win=
+ukagaw  {[scat v:c]}    =watch_for_a_chance=
+
+% misc (ptl, smod, conj, num, quant, co:i, -sfx)
+%% prefix
+zen     {[scat pfx][pcat n]}        =late=
+mu      {[scat pfx][pcat n]}        =without=
+zen     {[scat pfx][pcat numclsfx]} =previous= % 「前回」みたいなもの。ちゃんと動いていないので要検討
+gen     {[scat pfx][pcat n]}        =incumbent=
+moto    {[scat pfx][pcat n]}        =former= % adnもある「元（の）」
+
+% pending items

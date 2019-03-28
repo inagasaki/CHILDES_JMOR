@@ -9,6 +9,7 @@ zotto	    {[scat adv]} =shudder=
 
 % Adjn(n:an)
 junsui	{[scat n:ad]} =pure=
+tekikaku       {[scat n:ad]} =precise=
 yaban	{[scat n:ad]} =barbarous=
 
 % Noun (n, n:fml, n:deic)
@@ -16,18 +17,23 @@ aiji   {[scat n]} =beloved_child=
 aite   {[scat n]} =opponent=
 aoobi  {[scat n][comp n+n]} =blue_belt= "ao+obi"
 asahayaku     {[scat n][comp n+n]} =early_in_the_morning= "asa+hayaku"
+baika	      {[scat n]} =selling_price=
 bootoo	      {[scat n]} =beginning=
 bumombetsuson'ekikeesan	{[scat n][comp n+n+n:vn]} =profit_and_loss_accounting_for_each_department= "bumombetsu+son'eki+keesan"
 bumombetsuson'ekikeesansho	{[scat n][comp n+n+n:vn]} =document_of_profit_and_loss_accounting_for_each_department= "bumombetsu+son'eki+keesan_sho_LETTER"
 chaobi				{[scat n][comp n+n]} =brown+belt=
+chinretsuichi			{[scat n][comp n:vn+n]} =display_position= "chinretsu+ichi"
 dantaisen			{[scat n]} =team_competition=　"dantai_sen_MATCH"
+de				{[scat n]} =getting_out=
 dooki  {[scat n]} =motive=
 furansusenshukentaikai	{[scat n][comp n:prp+n+n]} =French_championships= "furansu+senshuken+taikai"
+fusumagami		{[scat n][comp n+n]} =fusuma_paper=
 fukoo  {[scat n]} =misfortune=
 gendai {[scat n]} =present_day=
 goshinjutsu   {[scat n]} =art_of_self‐defense= "goshin_jutsu_ART"
 gyookai	   {[scat n]} =trade=
 hankan	   {[scat n]} =antipathy=
+harikaeyoohinn	  {[scat n][comp n:vn+n]} =articles_for_repapering= "harikae+yoohinn"
 hooshin	   {[scat n]} =principle=
 ikyooto	   {[scat n]} =heathen=
 kesshoosen {[scat n]} =final_round= "kessho_sen_MATCH"
@@ -35,7 +41,9 @@ ki	   {[scat n]} =chance=
 kirisutokyoo	  {[scat n]} =christianity= "kirisuto_kyoo_RELIGION"
 kojinsen	  {[scat n]} =individual_competition= "kojin_sen_MATCH"
 kon'inseedo	  {[scat n][comp n:vn+n]} =marriage_system= "kon'in+seedo"
+mujiichimaibari	 {[scat n][comp n+num:cl+n]} =plain_single_paper= "muji+ichi-mai_SHEET+bari"
 nuuberu__cdot__kyuijiinu	{[scat n]} =nouvelle_cuisine=
+hatchuuhojuusuu			{[scat n][comp n:vn+n:vn]} =number_of_orders_and_replenishments= "hatchuuhojuu_suu_NUMBER"
 hambai__cdot__mentenansumoo	{[scat n]} =sales_and_maintenance_network= "hambai__cdot__mentenansu_moo"
 hambaisuu			{[scat n]} =sales_quantity= "hambai_suu_NUMBER"
 hatsu				{[scat n]} =first=
@@ -56,9 +64,11 @@ joshishodan			{[scat n][comp n+n]} =female_first_grade= "joshi+shodan"
 joshitoonamentosen		{[scat n][comp n+n]} =women's_tournament= "joshi+toonamentosen"
 junkesshoo			{[scat n]} =semifinal_round= "jun_SEMI_kessho"
 juudoo				{[scat n]} =juudoo=
+kooka				{[scat n]} =effect=
 kyoree				{[scat n]} =empty_forms=
 orenjiobi			{[scat n][comp n+n]} =orange_belt= "orenji+obi"
 randori				{[scat n]} =randori=
+poppu				{[scat n]} =point_of_purchase_advertising=
 posudeeta			{[scat n][comp n+n]} =POS_data= "posu+deeta"
 reenen				{[scat n]} =average_year=
 resutorangyoosha		{[scat n][comp n+n]} =restaurant_agent= "resutoran+gyoosha"
@@ -69,6 +79,7 @@ shokumihyooronka		{[scat n][comp n+n]} =food_critic= "shokumi+hyooronka"
 shoojigami			{[scat n][comp n+n]} =shooji_paper= "shooji+gami"
 shoohinkoosee			{[scat n][n+n]} =merchandise_line= "shoohin+koosee"
 shutsujoosenshu			{[scat n][comp n:vn+n]} =participating_athletes= "shutsujoo+senshu"
+shuubetsuhambaisuu		{[scat n][comp n+n]} =sales_quantity_by_week "shuu_betsu_RESPECTIVELY+hambai_suu_NUMBER"
 senree				{[scat n]} =baptism=
 soogi				{[scat n]} =funeral=
 sooretsu			{[scat n]} =funeral_procession=
@@ -77,12 +88,16 @@ takotsubo			{[scat n]} =octopus_pot= "tako_tsubo"
 tampimbetsu			{[scat n]} =respect_to_each_single_item= "tampin_betsu_RESPECTIVELY"
 tampindeeta			{[scat n][comp n+n]} =data_of_single_unit= "tampin+deeta"
 tan				{[scat n]} =origin= %端を発する
+tanawari			{[scat n]} =shelving_allocation=
 tanawarisettee			{[scat n][comp n+n:vn]} =setting_of_shelving_allocation= "tanawari+settee"
 tantoo				{[scat n]} =charge=
 tetsugaku			{[scat n]} =philosophy=
+uresuji				{[scat n]} =well_selling_line= "ure_suji"
 yosen				{[scat n]} =preliminary=
 zaiko				{[scat n]} =stock=
 zaikoryoo			{[scat n]} =total_stock= "zaiko_ryoo_QUANTITY"
+zennendooshuuhi			{[scat n][comp n+n+n]} =comparison_with_the_same_week_of_the_previous_year= "zennen+dooshuu+hi"
+zaikosuu			{[scat n]} =quantity_of_stock= "zaiko_suu_NUMBER"
 zenshayokonarabiissen		{[scat n][comp n+n+n]} =horizontal_state_of_all_companies= "zensha+yokonarabi+issen"
 zuhyoo				{[scat n]} =graph=
 
@@ -169,5 +184,8 @@ sha    {[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numC
 shoo   {[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numCBb numCBn2]} "shoo_CHAPTER"
 
 zen    {[scat pft][pcat quant]} "zen_WHOLE"
+
+yaku   {[scat pfx] [pcat n]} "yaku_ABOUT"
+
 
 % pending items

@@ -186,9 +186,14 @@ akeppiroge	{[scat n:an]} =frank=
 oboroge	{[scat n:an]} =fuzzy=
 kenage	{[scat n:an]} =heroic=
 onaji	{[scat n:an]} =same=
-
 kookatsu	{[scat n:an]} =sly= % 狡猾
 tokui	{[scat n:an]} =proud= % 得意
+niwaka	{[scat n:an]} =sudden=
+junchoo	{[scat n:an]} =smooth=
+junsui	{[scat n:ad]} =pure=
+tekikaku       {[scat n:ad]} =precise=
+yaban	{[scat n:ad]} =barbarous=
+
 
 % ayashige	{[scat n:an]} == "ayashi-ge_TASTE" % 怪しげ
 % bukiyooge	{[scat n:an]} == "bukiyoo-ge_TASTE" % 不器用げ

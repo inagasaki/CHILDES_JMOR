@@ -106,6 +106,8 @@ umare	{[scat v:v]} =be_born= %生まれる "umare&PASS" ではない
 ut	{[scat v:c]} =hit/shoot=	%【打つ】【撃つ】
 yabure {[scat v:v]} =lose= % 敗れる
 yak	{[scat v:c]} =bake/fry/roast=	%【焼く】
+seesu   {[scat v:ir]}   "see_su" =win=
+ukagaw  {[scat v:c]}    =watch_for_a_chance=
 
 % :sub
 shir	{[scat v:c:sub]} =know=
@@ -676,7 +678,14 @@ yudeagar	{[scat v:c][comp v:v+v:c]} =be_boiled_up= "yude+agar"
 yudeage	{[scat v:v][comp v:v+v:v]} =boil_up= "yude+age"
 yukikayow	{[scat v:c][comp v:c+v:c]} =pass= "yuk+kayow"
 yurashihajime	{[scat v:v][comp v:c+v:v]} =shake_start= "yur&CAUS+hajime"
-yusurihajime	{[scat v:v][comp v:c+v:v]} =shake_start= "yusur+hajime"
+yuage    {[scat v:v]} =produce= %（利益・成果を）あげる
+chitsujozuke  {[scat v:v]} =systemize=
+furiharaw      {[scat v:c][comp v:c+v:c]} =shake_off= "furi+haraw"
+has	      {[scat v:ir]} =give_off= %発する 
+kanzu  {[scat v:v]} =feel=
+shibor {[scat v:c]} =narrow_down=
+soshikidat    {[scat v:c]} =be_systematic=
+yatteku	      {[scat v:ir]} =come= "yat_te_ku"
 
 % v:sub
 shihajime	{[scat v:v:sub][comp v:ir+v:v]} =do_start= "su+hajime"

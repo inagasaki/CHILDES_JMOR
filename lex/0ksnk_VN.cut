@@ -236,5 +236,57 @@ yooritsu {[scat n:vn]} =putting_up=
 yosoku	{[scat n:vn]} =predict=
 zuihitsuka	{[scat n:vn]} =making_an_essay= "zuihitsu_ka_CHANGE" % 随筆化
 
+itenkensetsu {[scat n:vn][comp n:vn+n:vn]} =moving_and_constructing= "iten+kensetsu"  
+suishin      {[scat n:vn]}  =promotion=
+tairitsu     {[scat n:vn]}  =confrontation=
+chuushi      {[scat n:vn]}  =gaze=
+shiteki      {[scat n:vn]}  =indicate=
+okusoku      {[scat n:vn]}  =speculation=
+shutsuba     {[scat n:vn]}  =running_for_an_election=
+saisen       {[scat n:vn]}  =being_reelected=
+hyoomee      {[scat n:vn]}  =expressing=
+shiki        {[scat n:vn]}  =direction=
+josen        {[scat n:vn]}  =decontamination=
+shinhakken	  {[scat n:vn]} =new_discovery= "shin_NEW_hakken"
+seppuku		  {[scat n:vn]} =harakiri=
+saikai		  {[scat n:vn]} =reunite=
+chinretsu	{[scat n:vn]} =display=
+chokumen			{[scat n:vn]} =face=
+choosee				{[scat n:vn]} =adjustment=
+chuumoku			{[scat n:vn]} =pay_attention=
+bunseki				{[scat n:vn]} =analysis=
+dempyookihyoo			{[scat n:vn][comp n+n:vn]} =issuing_a_payment_slip= "dempyoo+kihyoo"
+dooin				{[scat n:vn]} =mobilization=
+doonyuu				{[scat n:vn]} =introduction=
+giron				{[scat n:vn]} =discussion=
+gyakkoo	{[scat n:vn]} =run_counter=
+jissen	       {[scat n:vn]} =practice=
+kaihatsu       {[scat n:vn]} =development=
+kainyuu	{[scat n:vn]} =intervention=
+keehikeejoo    {[scat n:vn][comp n+n:vn]} =calculating_expences= "keehi+keejoo"
+keejoo	       {[scat n:vn]} =add_up=
+kentoo	{[scat n:vn]} =consideration=
+kooritsuka     {[scat n:vn]} =streamlining= "kooritsu_ka_BECOMING"
+koyoo	       {[scat n:vn]} =employment=
+miburui	       {[scat n:vn]} =shiver=
+ninshiki       {[scat n:vn]} =recognize=
+shashoo	       {[scat n:vn]} =abstract=
+shitsuboo      {[scat n:vn]} =disappointment=
+shoochoo       {[scat n:vn]} =symbolize=
+sooi	       {[scat n:vn]} =difference=
+sooshutsu      {[scat n:vn]} =creation=
+soosetsu       {[scat n:vn]} =establishment=
+suii	       {[scat n:vn]} =transition=
+teekee	       {[scat n:vn]} =cooperation=
+tekiyoo	       {[scat n:vn]} =application=
+tettee	       {[scat n:vn]} =be_thorough=
+tokuhitsu      {[scat n:vn]} =mentioning_specially=
+toogi	       {[scat n:vn]} =discussion=
+toosan	       {[scat n:vn]} =bankruptcy=
+zasshizukuri   {[scat n:vn][comp n+n:vn]} =magazine_publishing= "zasshi+zukuri"
+tooshuu	       {[scat n:vn]} =following=
+zenshin	       {[acat n:vn]} =advance=
+
+
 % 修正
 eegaka	{[scat n:vn]} =making_a_movie= "eega_ka_CHANGE" % 映画化

@@ -62,7 +62,7 @@ nanda	{[scat co:i]} =oh= "nan_da"
 yare	{[scat co:i]} =sigh=
 
 % -sfx (cl)
-buri	{[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numCBb numCBn2]} "buri_FOR_THE_FIRST_TIME_IN"
+buri	{[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numCBb numCBn2]} "buri_SINCE"
 hai {[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numCBb numCBn2]} "hai_DEFEAT" % n敗
 jikan	{[scat numclsfx] [allo OR numBFa numBBk numCFa numCFn numCBa numCBn1 numCBb numCBn2]} "jikan_HOUR"
 ki {[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numCBb numCBn2]} "ki_TERM" % n期
@@ -72,8 +72,13 @@ senkyoku {[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 nu
 shoo {[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numCBb numCBn2]} "shoo_VICTORY" % n勝
 shuukan	{[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numCBb numCBn2]} "shuukan_WEEK"
 
+% nsfx
+nashi	{[scat nsfx]} "nashi_WHITHOUT"
+
 % vsfx sfxcat
 yoo	{[scat vsfx] [sfxcat n] [allo OR vV vCi vPIw vAIt vTKi vTSi vAIs]} "yoo_WAY_OF"
+%% ex. 「直しようがない」, 上のように登録すると、tabeyoo (食べよう), kiyoo (着よう), iiyoo (言いよう) は主強r句されるが naoshiyoo (直しよう) は出力されない。
+
 
 zuni	{[scat vtense] [tense inf] [allo OR vV vCa vBKo vTSi vTSe vNNr]} "NEG&ADV"
 

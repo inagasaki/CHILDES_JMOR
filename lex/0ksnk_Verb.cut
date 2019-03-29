@@ -80,7 +80,7 @@ menji	{[scat v:v]} =exempt= %	免じる
 mi	{[scat v:v]} =see/look/watch=	%【見る】
 mirare {[scat v:v]} =seem= % VB2の「見られる」
 mukaw	{[scat v:c]} =go=
-naos	{[scat v:c]} =repair=	%【直す】 コメント:「直す」と「治す」の区別。すでにverb.cutに「直す」"cure"というエントリーがあるが、そちらは「治す」であるべき。
+naos	{[scat v:c]} =fix=	%【直す】 コメント:「直す」と「治す」の区別。すでにverb.cutに「直す」"cure"というエントリーがあるが、そちらは「治す」であるべき。
 ne	{[scat v:v]} =sleep=
 nenji	{[scat v:v]} =wish= %	念じる		
 nozom {[scat v:c]} =confront=

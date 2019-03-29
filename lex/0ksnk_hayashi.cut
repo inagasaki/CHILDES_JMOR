@@ -4,12 +4,6 @@
 
 % Noun (n, n:fml, n:deic)
 
-hon'in  {[scat n]}      =main_building= % 本院
-% demonstrative prefixの「本」とは異なる。
-% 生産性はあまりないのではないか？
-% また、非独立形態素とくっつくことが多い（本院、本試、本誌vs.別誌）それはもう一方のあれでも同じか（本誌）
-
-
 % Prop (n:prop)
 
 % VN (n:vn)

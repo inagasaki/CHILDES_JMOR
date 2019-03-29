@@ -1,56 +1,74 @@
 % n:prop
 Abe	{[scat n:prop]} =Abe=
+Ajisonfujin	{[scat n:prop][comp n:prop+n]} =Mrs_Addison= "Ajison+fujin"
 Akihito	{[scat n:prop]} =Akihito=
 Akita	{[scat n:prop]} =Akita=
 Akitashi	{[scat n:prop]} =Akita_city= "Akita_shi"
+Anri__cdot__goo	{[scat n:prop]} =Henri_Gault=
 Aomori	{[scat n:prop]} =Aomori=
 Aomorishi	{[scat n:prop]} =Aomori_city= "Aomori_shi"
 Baranashi	{[scat n:prop]} =Varanasi=
+Bokyuuzu	{[scat n:prop]} =Bocuse=
 Burajiru	{[scat n:prop]} =Brazil= % ブラジル
 Chembaasu	{[scat n:prop]} =Chambers=
+Daawin		{[scat n:prop]} =Darwin=
 Dainijisekaitaisen	   {[scat n:prop]} =World_war_II= "Dai_niji_sekai_taisen"
+Dairondonkigyoo	{[scat n:prop]} =Greater_London_Enterprise= "Dai_rondon_kigyoo"
+Deashibarai	{[scat n:prop]} =Deashibarai=
 Erumaanobooken	       {[scat n:prop]} =Elmer's_adventure= "Erumaa_no_booken"
 Fukuoka		{[scat n:prop]} =Fukuoka=
 Fukushima	{[scat n:prop]} =Fukushima=
 Fukushimadaiichigempatsujiko {[scat n:prop][comp n:prop+n+n]} =Fukushima_Daiichi_nuclear_disaster= "Fukushimadaiichi+genpatsu+jiko"
-Fukushimadaiichigempatsujiko {[scat n:prop][comp n:prop+n+n]} =Fukushima_Daiichi_nuclear_disaster= "Fukushimadaiichi+genpatsu+jiko"
 Fukushimaken {[scat n:prop]} =Fukushima_prefecture=
 Fukushimashi	{[scat n:prop]} =Fukushima_city= "Fukushima_shi"
 Gaimu			   {[scat n:prop]} =Foreign_Affairs=
+Goo__cdot__e__cdot__miyoo	{[scat n:prop]} =Gault_et_Millau=
 Handaibyooin	{[scat n:prop]} =Osaka_University_Hospital= "Handai_byooin"
 Heesee		{[scat n:prop]} =Heesee_era=
 Higashinihondaishinsai	{[scat n:prop]} =Great_East_Japan_earthquake= "Higashinihon_daishinsai"
 Honkon			   {[scat n:prop]} =Hong_Kong=
 Hose	{[scat n:prop]} =Hose= %Jose ホセ 人名
+Iguchitsuneaki      {[scat n:prop]} =Iguchi_Tsuneaki= % news_KAHOKU_28
+Ingasoru			{[scat n:prop]} =Ingersoll=
+Iraku		{[scat n:prop]} =Iraq=
 Itoo	{[scat n:prop]} =Itoo=
+Itooyasushi         {[scat n:prop]} =Itoo_Yasushi= % news_KAHOKU_28
 Iwate	{[scat n:prop]} =Iwate=
 Izumi	{[scat n:prop]} =Izumi=
 Izumishi	{[scat n:prop]} =Izumi_city= "Izumi_shi"
-Jimin {[scat n:prop]} =LDP= % 自民
+Jakku__cdot__weruchi   {[scat n:prop]} =Jack_Welch=
 Jimin {[scat n:prop]} =LDP= % 自民
 Jimintoo {[scat n:prop]} =LDP=
 Kaigunshoo		   {[scat n:prop]} =Ministry_of_Navy= "Kaigun_shoo"
-Kameoka	{[scat n:prop]} =Kameoka=
+Kameoka		{[scat n:prop]} =Kameoka=
 Kameokashi	{[scat n:prop]} =Kameoka_city= "Kameoka_shi"
-Katoo	{[scat n:prop]} =Katoo=
 Kandakuyakusho		   {[scat n:prop]} =Kanda_Ward_office= "Kanda_ku_yakusho"
-Kankoku	{[scat n:prop]} =South_Korea= % 韓国
+Kankoku {[scat n:prop]} =South_Korea= % 韓国
+Kanoojigoroo	       {[scat n:prop]} =Kanoo_Jigoroo=
+Katomanzu	       {[scat n:prop]} =Kathmandu=
+Katoo	{[scat n:prop]} =Katoo=
 Ken'ichi	{[scat n:prop]} =Ken'ichi=
 Kitaakita	{[scat n:prop]} =Kitaakita=
 Kitaakitashi	{[scat n:prop]} =Kitaakita_city= "Kitaakita_shi"
+Kitakita	{[scat n:prop]} =Kitaakita=
 Kokuren	{[scat n:prop]} =United_Nations= % 国連
+Kokuren {[scat n:prop]} =United_Nations= % 国連
 Koobeshi	{[scat n:prop]} =Kobe_city= "Koobe_shi"
+Koodookan	       {[scat n:prop]} =Koodookan_building= "Koodoo_kan"
+Kouchigari	       {[scat n:prop]} =Kouchigari=
 Kunai			   {[scat n:prop]} =Imperial_Household=
+Kurisuchan__cdot__miyoo	      {[scat n:prop]} =Christian_Millau=
 Kyarawee	{[scat n:prop]} =Callaway=
-Kyooko	{[scat n:prop]} =Kyooko=
+Kyooko	{[scat n:prop]} =Kyoko=
 Kyootoshi	{[scat n:prop]} =Kyoto_city= "Kyooto_shi"
 Kyuusekkijidai	{[scat n:prop]} =old_stone_age=
 Kyuushuuchihoo	{[scat n:prop][comp n:prop+n]} =the_Kyuusyuu_region= "Kyuushuu+chihoo"
 Maikurosofuto	{[scat n:prop]} =Microsoft=
+Manasara	       {[scat n:prop]} =Manasara=
 Mazaateresa	{[scat n:prop]} =Mother_Teresa=
+Mikinosuke	       {[scat n:prop]} =Mikinosuke=
 Minamiafurika	{[scat n:prop]} =South_Africa= % 南アフリカ
 Minamisoomashi {[scat n:prop]} =Minami_Sooma_city=
-Minshu {[scat n:prop]} =DPJ= % 民主（党）
 Minshu {[scat n:prop]} =DPJ= % 民主（党）
 Minshutoo {[scat n:prop]} =DPJ=
 Miyagi	{[scat n:prop]} =Miyagi=
@@ -65,8 +83,11 @@ Oosakashi	{[scat n:prop]} =Osaka_city= "Oosaka_shi"
 Puriamosu	{[scat n:prop]} =Priam=
 Rikugunshoo	{[scat n:prop]} =Ministry_of_Army= "Rikugun_shoo"
 Rondon	{[scat n:prop]} =London=
+Rondonkigyoochuukaikikan	{[scat n:prop]} =The_London_Enterprise_Agency= "Rondon_kigyoo_chuukai_kikan"
 Rosa {[scat n:prop]} =Rosa= %Rosa ロサ 人名
+Ruvaniefujin			{[scat n:prop][comp n:prop+n]} =Mrs_Levannier= "Ruvanie+fujin"
 Saitoo	{[scat n:prop]} =Saitoo=
+Sakuraikatsunobu    {[scat n:prop]} =Sakurai_Katsunobu= % news_KAHOKU_28
 Satoo {[scat n:prop]} =Satoo= 
 Satooshi {[scat n:prop]} =Satoo-shi_HON= 
 Satooyuuhee {[scat n:prop][comp n:prop+n:prop]} "Satoo_Yuuhee"
@@ -76,25 +97,27 @@ Sendaishi	{[scat n:prop]} =Sendai_city= "Sendai_shi"
 Shanhaishi	{[scat n:prop]} =Shanghai_city= "Shanhai_shi"
 Shiba		{[scat n:prop]} =Shiva=
 Shibaratori	{[scat n:prop]} =Shivaratri=
-Shibuya	{[scat n:prop]} =Shibuya= % 渋谷
+Shibuya {[scat n:prop]} =Shibuya= % 渋谷
 Shimotsuma	{[scat n:prop]} =Shimotsuma=
 Shimotsumashi	{[scat n:prop]} =Shimotsuma_city= "Shimotsuma_shi"
 Shisuko	{[scat n:prop]} =Cysco=
 Shisukoshisutemuzu	{[scat n:prop]} =Cisco_Systems=
 Shoowa		{[scat n:prop]} =Shoowa_era=
+Taigaa__cdot__uzzu {[scat n:prop]} =Tiger_Woods= %記号名を __ （アンダースコア2つ）で囲む
 Taikanokaishin	{[scat n:prop]} =the_Taika_Reform=
 Takahashi	{[scat n:prop]} =Takahashi=
 Takashima	{[scat n:prop]} =Takashima=
 Takashimashi	{[scat n:prop]} =Takashima_city= "Takashima_shi"
 Teekokuhoteru	{[scat n:prop]} =Inperial_hotel=
 Watanabe	{[scat n:prop]} =Watanabe=
+Watanabeissei       {[scat n:prop]} =Watanabe_Issei= % news_KAHOKU_28
+Weruchi				{[scat n:prop]} =Welch=
 Yamagata	{[scat n:prop]} =Yamagata=
 Yamagatashi	{[scat n:prop]} =Yamagata_city= "Yamagata_shi"
 Yamaguchi	{[scat n:prop]} =Yamaguchi=
 Yamaguchishi	{[scat n:prop]} =Yamaguchi_city= "Yamaguchi_shi"
 Yokohama	{[scat n:prop]} =Yokohama=
 Yokohamashi	{[scat n:prop]} =Yokohama_city= "Yokohama_shi"
-
-% pending
-Taigaa__cdot__uzzu {[scat n:prop]} =Tiger_Woods=
+Yokoyamamotoe       {[scat n:prop]} =Yokoyama_Motoe= % news_KAHOKU_28
+Zennihonmin'iren		{[scat n:prop]} =Japan_Federation_of_Democratic_Medical_Institutions= "Zennihon_min'iren"
 

@@ -3,8 +3,14 @@
 % Adjn(n:an)
 
 % Noun (n, n:fml, n:deic)
+minooe {[scat n]} =circumstances=
+nyuuinsaki    {[scat n]} =hospital_where_someone_is_admitted=
+saishi {[scat n]} =wife_and_children=
+seego  {[scat n]} =after_birth= "see_go_AFTER"
+kaigaitanshinfunin	{[scat n][comp n+n+n:vn]} =working_overseas_without_one's_family= "kaigai+tanshin+funin"
 
 % Prop (n:prop)
+Okamoto	{[scat n:prop]} =Okamoto=
 
 % VN (n:vn)
 

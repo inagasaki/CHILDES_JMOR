@@ -1,16 +1,84 @@
 % Adj(adj), Adv(adv), Admominal =PNL in Kainoki= (adn)
 
 % Adjn(n:an)
+arawa           {[scat n:an]}       =exposed=       % 露わだ
+tekitoo         {[scat n:an]}       =adequate=
+tekitoo         {[scat n:an]}       =trifling=
+komame          {[scat n:an]}       =diligent=
+meekaku         {[scat n:an]}       =definite=
+nookoo          {[scat n:an]}       =dense=
+nookoo          {[scat n:an]}       =of_strong_possibility=
+zenryoku        {[scat n:an]}       =in_ones_all_might=
 
 % Noun (n, n:fml, n:deic)
+oote            {[scat n]}          =major=
+denki           {[scat n]}          =electronics=   % 電機
+denki           {[scat n]}          =electronicity= % 電気
+meekaa          {[scat n]}          =manufacturer=  % メーカー
+ootedenkimeekaa {[scat n][comp n+n+n]} =major_electorics_company= "oote+denki+meekaa" % 大手電機メーカー
+chimeedo        {[scat n]}          =publicity=
+fusoku          {[scat n:vn]}       =insufficiency=
+chimeedobusoku  {[scat n][comp n+n:vn]} =low_publicity= "chimeedo+busoku"
+chuukaku        {[scat n]}          =core=          % 中核
+chuukakubyooin  {[scat n][comp n+n]} =hub_hospital= "chuukaku+byooin"
+den'en          {[scat n]}          =garden=        % 田園
+denaoshichijisen    {[scat n][comp v:c+n]} =fresh_gubernatorial_election= "denaoshi+chijisen"
+enupiioo        {[scat n]}          =NPO=
+hoojin          {[scat n]}          =juristic_person=
+enupiioohoojin  {[scat n][comp n+n]}    =NPO=   "enupiioo+hoojin"
+yakuin          {[scat n]}          =executive=
+enupiioohoojinyakuin    {[scat n][comp n+n+n]}  =NPO_executive= "enupiioo+hoojin+yakuin"
+fukkoojigyoo    {[scat n][comp n:vn+n]} =reconstruction_work=   "fukkoo+jigyoo"
+fukkookeikaku   {[scat n][comp n:vn+n:vn]} =reconstruction_plan=    "fukkoo+keikaku"
+shisaku         {[scat n]}          =policy=                    % 施策
+fukkooshisaku   {[scat n][comp n:vn+n:vn]}  =reconstruction_policy= "fukkoo+shisaku"
+fuuhyoo         {[scat n]}          =rumor=
+higai           {[scat n]}          =damage=
+fuuhyoohigai    {[scat n][comp n+n]}    =damage_by_harmful_rumors= "fuuhyoo+higai"
+gempatsu        {[scat n]}          =nuclear_plant=
+gempatsujiko    {[scat n][comp n+n]}    =nuclear_plant_accident= "gempatsu+jiko"
+heigai          {[scat n]}          =ill_effect=
+ikoo            {[scat n]}          =intention=                 % 意向
+ikkiuchi        {[scat n]}          =single_combat= 
+jin'ee          {[scat n]}          =camp=                      % 陣営
+juuten          {[scat n]}          =importance=
+juutenshisaku   {[scat n][comp n+n]}      =important_policy=  "juuten+shisaku"
+kikikan         {[scat n]}          =sense_of_danger=
+medo            {[scat n]}          =prospect=                  % 目途
+noogyoo         {[scat n]}          =agriculture=
+shigi           {[scat n]}          =member_of_city_counsil=    % 市議
+shuuhen         {[scat n]}          =periphery=
+sokkin          {[scat n]}          =close_advisor=             % 側近
+sooten          {[scat n]}          =issue=
+taisa           {[scat n]}          =large_differnce=           % 大差
+zaisee          {[scat n]}          =public_finance=
+zenmen          {[scat n]}          =front=                     % 前面
+dantai          {[scat n]}          =group=
+shimindantai    {[scat n][comp n+n]} =civic_group= "shimin+dantai"
 
 % Prop (n:prop)
 
 % VN (n:vn)
+fujoo       {[scat n:vn]}           =surface=       % （問題が）浮上する
+fukkyuu     {[scat n:vn]}           =restoration=   % 復旧
+fushutsuba  {[scat n:vn]}           =not_running_for_election=
+handan      {[scat n:vn]}           =decision=
+iji         {[scat n:vn]}           =maintainance=  % 維持する
+setsujoku   {[scat n:vn]}           =revengence=    % 雪辱する
+shuchoo     {[scat n:vn]}           =claim=         % 主張（する）
+shudoo      {[scat n:vn]}           =taking_initiative=
+tainin      {[scat n:vn]}           =resignation=
+koochiku    {[scat n:vn]}           =construction=
 
 % Verb (v:c, v:v, v:ir)
+omodedat    {[scat v:c]}            =be_palpable=
+he          {[scat v:v]}            =go_by=         % 経る
+he          {[scat v:v]}            =undergo=       % 経る
 
 % misc (ptl, smod, conj, num, quant, co:i, -sfx)
 %% prefix
+bee {[scat pfx] [pcat n]} "bee_AMERICAN" % 米大手商社
+fu  {[scat pfx] [pcat n:an]} "fu_NON"   
+sai {[scat pfx] [pcat n:vn]}  "sai_RE" % 再出発
 
 % pending items

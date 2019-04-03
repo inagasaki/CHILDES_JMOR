@@ -2,16 +2,10 @@
 %nagara	{[scat ptl:conj]} =although= % 動詞接尾辞の「ながら」と区別する、ptl:foc のエントリーは削除
 
 % smod
-desho	{[scat smod]} =INFR= "daroo&POL"
-deshoo	{[scat smod]} =INFR= "daroo&POL"
-dearoo	{[scat smod]} =INFR= "daroo"
-dearimashoo	{[scat smod]} =INFR= "daroo&POL"
-midai	{[scat smod]} =INFR=
-mitaku	{[scat smod]} =INFR= "mitai&ADV"
-beki	{[scat smod]} =OBLG= "beshi&ADN" % ought to do でなく OBLG (obligation)
 bekarazu	{[scat smod]} =OBLG= "beshi&NEG"
 beku	{[scat smod]} =OBLG= "beshi&ADV"
-maji	{[scat smod]} =NEG&INFR=
+chigainai	{[scat smod]} =must= "chigaina-PRES"
+chigainakatta	{[scat smod]} =must= "chigaina-PAST"
 
 % conj
 chinamini	{[scat conj]} =by_the_way=

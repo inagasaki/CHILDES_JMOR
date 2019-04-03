@@ -1191,10 +1191,10 @@ baika	      {[scat n]} =selling_price=
 bootoo	      {[scat n]} =beginning=
 bumombetsuson'ekikeesan	{[scat n][comp n+n+n:vn]} =profit_and_loss_accounting_for_each_department= "bumombetsu+son'eki+keesan"
 bumombetsuson'ekikeesansho	{[scat n][comp n+n+n:vn]} =document_of_profit_and_loss_accounting_for_each_department= "bumombetsu+son'eki+keesan_sho_LETTER"
-chaobi				{[scat n][comp n+n]} =brown+belt=
-chinretsuichi			{[scat n][comp n:vn+n]} =display_position= "chinretsu+ichi"
-dantaisen			{[scat n]} =team_competition=　"dantai_sen_MATCH"
-de				{[scat n]} =getting_out=
+chaobi	{[scat n][comp n+n]} =brown+belt=
+chinretsuichi	{[scat n][comp n:vn+n]} =display_position= "chinretsu+ichi"
+dantaisen	{[scat n]} =team_competition= "dantai_sen_MATCH"
+de	{[scat n]} =getting_out=
 dooki  {[scat n]} =motive=
 furansusenshukentaikai	{[scat n][comp n:prp+n+n]} =French_championships= "furansu+senshuken+taikai"
 fusumagami		{[scat n][comp n+n]} =fusuma_paper=

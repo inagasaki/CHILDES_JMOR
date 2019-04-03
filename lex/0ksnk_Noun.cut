@@ -1226,7 +1226,7 @@ jaanarizumu			{[scat n]} =journalism=
 jigyoosho			{[scat n]} =office=
 jidootorikomi			{[scat n][comp n+n:vn]} =automatic_input= "jidoo+torikomi"
 jitsuree			{[scat n]} =actual_example=
-joshibu				{[scat n]} =women's_division= "joshi_bu_DIVISION
+joshibu				{[scat n]} =women's_division= "joshi_bu_DIVISION"
 joshijuudoo			{[scat n][comp n+n]} =women_judoo= "joshi+juudoo"
 joshijuudooka			{[scat n][comp n+n]} =female_judoist= "joshi+juudooka"
 joshisenshu			{[scat n][comp n+n]} =female_player= "joshi+senshu"
@@ -1247,9 +1247,9 @@ shinazoroeyunittobetsu		{[scat n][comp n+n]} =respect_to_unit_of_selection_of_go
 shitsuke			{[scat n]} =training=
 shokumihyooronka		{[scat n][comp n+n]} =food_critic= "shokumi+hyooronka"
 shoojigami			{[scat n][comp n+n]} =shooji_paper= "shooji+gami"
-shoohinkoosee			{[scat n][n+n]} =merchandise_line= "shoohin+koosee"
+shoohinkoosee			{[scat n][comp n+n]} =merchandise_line= "shoohin+koosee"
 shutsujoosenshu			{[scat n][comp n:vn+n]} =participating_athletes= "shutsujoo+senshu"
-shuubetsuhambaisuu		{[scat n][comp n+n]} =sales_quantity_by_week "shuu_betsu_RESPECTIVELY+hambai_suu_NUMBER"
+shuubetsuhambaisuu		{[scat n][comp n+n]} =sales_quantity_by_week= "shuu_betsu_RESPECTIVELY+hambai_suu_NUMBER"
 senree				{[scat n]} =baptism=
 soogi				{[scat n]} =funeral=
 sooretsu			{[scat n]} =funeral_procession=

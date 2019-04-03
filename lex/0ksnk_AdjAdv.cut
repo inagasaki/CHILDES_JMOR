@@ -1,3 +1,9 @@
+% 「〜ても[よい/いい]」等のために adj:sub という品詞を作ってもらえるか？
+% adj:sub
+yo	{[scat adj:sub]} =good=
+i	{[scat adj:sub]} =good=
+yoroshi	{[scat adj:sub]} =good=
+
 % 連語
 hokanarana {[scat adj]} =be_nothing_other_than=
 doodemoi {[scat adj]} =indifferent=
@@ -44,7 +50,6 @@ yamunashi	{[scat adj][tense pres]} =no_choice_but_to= "yamuna-shi_PRES"
 yasashi		{[scat adj]} =gentle= % 優しい
 yoki		{[scat adj][tense inf]} =good= "yo-ki_ADN"
 yoshi		{[scat adj][tense pres]} =good= "yo-shi_PRES" % シク活用「よし」
-
 
 % wh
 donoyooni	{[scat adv:deic:wh]} =how=
@@ -216,4 +221,3 @@ aashita	{[scat adn:deic:dem]} =like_that=
 ikanaru	{[scat adn:deic:wh]} =what_kind=
 
 donoyooni	{[scat adv:deic:wh]} =how= "dono_yoo_ni"
-

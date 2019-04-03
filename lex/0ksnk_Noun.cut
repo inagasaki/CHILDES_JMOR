@@ -1191,10 +1191,10 @@ baika	      {[scat n]} =selling_price=
 bootoo	      {[scat n]} =beginning=
 bumombetsuson'ekikeesan	{[scat n][comp n+n+n:vn]} =profit_and_loss_accounting_for_each_department= "bumombetsu+son'eki+keesan"
 bumombetsuson'ekikeesansho	{[scat n][comp n+n+n:vn]} =document_of_profit_and_loss_accounting_for_each_department= "bumombetsu+son'eki+keesan_sho_LETTER"
-chaobi				{[scat n][comp n+n]} =brown+belt=
-chinretsuichi			{[scat n][comp n:vn+n]} =display_position= "chinretsu+ichi"
-dantaisen			{[scat n]} =team_competition=　"dantai_sen_MATCH"
-de				{[scat n]} =getting_out=
+chaobi	{[scat n][comp n+n]} =brown+belt=
+chinretsuichi	{[scat n][comp n:vn+n]} =display_position= "chinretsu+ichi"
+dantaisen	{[scat n]} =team_competition= "dantai_sen_MATCH"
+de	{[scat n]} =getting_out=
 dooki  {[scat n]} =motive=
 furansusenshukentaikai	{[scat n][comp n:prp+n+n]} =French_championships= "furansu+senshuken+taikai"
 fusumagami		{[scat n][comp n+n]} =fusuma_paper=
@@ -1226,7 +1226,7 @@ jaanarizumu			{[scat n]} =journalism=
 jigyoosho			{[scat n]} =office=
 jidootorikomi			{[scat n][comp n+n:vn]} =automatic_input= "jidoo+torikomi"
 jitsuree			{[scat n]} =actual_example=
-joshibu				{[scat n]} =women's_division= "joshi_bu_DIVISION
+joshibu				{[scat n]} =women's_division= "joshi_bu_DIVISION"
 joshijuudoo			{[scat n][comp n+n]} =women_judoo= "joshi+juudoo"
 joshijuudooka			{[scat n][comp n+n]} =female_judoist= "joshi+juudooka"
 joshisenshu			{[scat n][comp n+n]} =female_player= "joshi+senshu"
@@ -1247,9 +1247,9 @@ shinazoroeyunittobetsu		{[scat n][comp n+n]} =respect_to_unit_of_selection_of_go
 shitsuke			{[scat n]} =training=
 shokumihyooronka		{[scat n][comp n+n]} =food_critic= "shokumi+hyooronka"
 shoojigami			{[scat n][comp n+n]} =shooji_paper= "shooji+gami"
-shoohinkoosee			{[scat n][n+n]} =merchandise_line= "shoohin+koosee"
+shoohinkoosee			{[scat n][comp n+n]} =merchandise_line= "shoohin+koosee"
 shutsujoosenshu			{[scat n][comp n:vn+n]} =participating_athletes= "shutsujoo+senshu"
-shuubetsuhambaisuu		{[scat n][comp n+n]} =sales_quantity_by_week "shuu_betsu_RESPECTIVELY+hambai_suu_NUMBER"
+shuubetsuhambaisuu		{[scat n][comp n+n]} =sales_quantity_by_week= "shuu_betsu_RESPECTIVELY+hambai_suu_NUMBER"
 senree				{[scat n]} =baptism=
 soogi				{[scat n]} =funeral=
 sooretsu			{[scat n]} =funeral_procession=

@@ -1,8 +1,7 @@
 % +suru
-su	{[scat v:ir][tense inf]} =do= "su&PRES"
-su	{[scat v:ir:sub][tense inf]} =do= "su&PRES"
+s	{[scat v:ir]} =do=
+s	{[scat v:ir:sub]} =do=
 aisana	{[scat v:ir]} =love= "aisu-NEG" % 愛さな(い)
-aisu	{[scat v:ir][tense inf]} =love= "aisu-PRES"
 aisu	{[scat v:ir]} =love=  % 愛する
 ataisu	{[scat v:ir]} =be_worthy_of= % 値する
 funsu	{[scat v:ir]} =disguise_onself= % 扮する
@@ -49,7 +48,8 @@ azukar	{[scat v:c]} =take_custody=	%【預かる】
 bur	{[scat v:c]} =pretend_to_be= %〜ぶる
 chigaw	{[scat v:c]} =differ=	%【違う】
 chikazuk	{[scat v:c]} =approach=	%【近づく】(近付く)
-das	{[scat v:c]} =send/submit=
+das	{[scat v:c]} =send=
+de	{[scat v:c]} =attend= % （会議・学会などに）出る
 dekake	{[scat v:v]} =go_out=
 deki	{[scat v:v]} =be_made=
 demawar	{[scat v:c]} "demawar" =appear_abundantly= %	出回る
@@ -124,6 +124,7 @@ arieru	{[scat v:ir][tense pres]} =be= "ar-POT-PRES"
 ariuru	{[scat v:ir][tense pres]} =be= "ar-POT-PRES"
 ok	{[scat v:c:sub]} =keep=
 ochitsuk	{[scat v:c:sub]} =keep_calm= % 複合動詞のエントリーを削除（一語化）
+maniaw	{[scat v:c]} =be_in_time= "ma_ni_aw"	%間に合う %% lex. compound %% in_time でなく、be を足す
 
 % v:sub
 shihajime	{[scat v:v:sub][comp v:ir+v:v]} =do_start= "su+hajime"

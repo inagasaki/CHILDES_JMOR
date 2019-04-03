@@ -6,17 +6,74 @@
 
 % Noun (n, n:fml, n:deic)
 
+jinkoo {[scat n]} =population=	%人口
+dejitarutekunorojii {[scat n]} =digital_technology=	%デジタルテクノロジー
+anarogu {[scat n]} =analog=	%アナログ
+kyooikutekunorojii {[scat n]} =education_technology=	%教育テクノロジー
+senshinkoogyookoku {[scat n]} =developed_country=	%先進工業国
+hattentojookoku {[scat n]} =developing_country=	%発展途上国
+shookazoku {[scat n]} =samll_family=	%少家族
+suweedenjin	{[scat n]} =Swedish_person= "suweeden_jin_PERSON" %スウェーデン人
+keezaireberu {[scat n]} =economic_level=	%経済レベル
+seeooshokoku {[scat n]} =Western_countries=	%西欧諸国
+kuniguni {[scat n]} =countries=	%国々
+koteekannen {[scat n]} =fixed_idea=	%固定観念
+bunrui {[scat n]} =classification=	%分類
+ikkoku {[scat n]} =moment=	%一刻
+keezaiseechoo {[scat n]} =economic_growth=	%経済成長
+keezai {[scat n]} =economy=	%経済
+kyuujitsu {[scat n]} =holiday=	%休日
+shinkookeezai {[scat n]} =emerging_economy=	%新興経済
+higeki {[scat n]} =tragedy=	%悲劇
+shinkookeezaikoku {[scat n]} =emerging_country=	%新興経済国
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 % Prop (n:prop)
 
+Teddotooku	{[scat n:prop]} =Ted_talk= %テッドトーク
+Ikea	{[scat n:prop]} =Ikea= %イケア
+Borubo	{[scat n:prop]} =Volvo= %ボルボ
+Suweeden	{[scat n:prop]} =Sweden= %スウェーデン
+Jiirii	{[scat n:prop]} =Geely= %吉利(中国企業の名前)
 
 % VN (n:vn)
+
+hiroo	{[scat n:vn]} =introduction=	%披露
+bundan	{[scat n:vn]} =division=	%分断
+koonyuu	{[scat n:vn]} =purchase=	%購入
+shoyuu	{[scat n:vn]} =possession=	%所有
+baishuu	{[scat n:vn]} =acquisition=	%買収
+
 
 
 % Verb (v:c, v:v, v:ir)
 
+oki	{[scat v:v]} =happen=	%起きる
+
 
 % misc (ptl, smod, conj, num, quant, co:i, -sfx)
+
+sanjuuoku	{[scat num][comp num+num][allo numCFa]} =three_billion= "sanjuu+oku"
+senkyuuhyakurokujuu	{[scat num][comp num+num+num][allo numCFa]} =thousand_nine_hundred_sixty= "sen+kyuuhyaku+rokujuu"
+nijuuoku	{[scat num][comp num+num][allo numCFa]} =two_billion= "nijuu+oku"
+nisenjuu	{[scat num][comp num+num][allo numCFa]} =two_thousand_ten= "nisen+juu"
+yonjuuoku	{[scat num][comp num+num][allo numCFa]} =four_billion= "yonjuu+oku"
+
 
 
 % pending items
@@ -231,7 +288,7 @@ koshikake {[scat n][comp n+v:v]} =chair/seat= "koshi+kake"	%腰掛け
 uragaeshi {[scat n][comp n+v:c]} =inside_out/upside_down= "ura+kaeshi"	%裏返し
 hayaerabi {[scat n][comp n+v:c]} =looking_for_rooms= "heya+erabi"	%部屋選び
 
-% 
+%
 shiwake {[scat n:vn]} =sorting_out=	%仕分け
 hiyakashi {[scat n:vn]} =teasing=	%冷やかし
 wariate {[scat n:vn][comp v:c+v:v]} =allocation= "war+ate"	%割り当て
@@ -281,3 +338,6 @@ kosodate {[scat n:vn][comp n+v:v]} =child_rearing= "ko+sodate"	%子育て
 
 % 「きく」: kik	{[scat v:c]} =effect=	%【利く】***
 % 提案: 動詞なので「effect」ではなく「affect」
+
+% shimpo	{[scat n:vn]} =progres=
+% 提案: 誤字。progresではなくprogress

@@ -240,8 +240,8 @@ gunte	{[scat n]} =work_gloves=
 gyogyoo	{[scat n]} =fishery=
 gyoomu	{[scat n]} =business=
 gyooretsu	{[scat n]} =queue=
-gyoosei {[scat n]}      =administration=
-gyooseishuwan   {[scat n][comp n+n]} =competence_for_administration=
+gyoosee {[scat n]}      =administration=
+gyooseeshuwan   {[scat n][comp n+n]} =competence_for_administration=
 gyooshu	{[scat n]} =industry_type= % 業種
 gyooshubetsu	{[scat n]} =by_industry_type= "gyooshu_betsu_RESPECTIVELY" % 業種別
 gyooyoo	{[scat n]} =business=
@@ -265,7 +265,7 @@ hasshinryoku {[scat n]} =communicativity= "hasshin_ryoku_POWER" % 複合名詞�
 hatsu   {[scat n]}      =first=         % 初
 heesha	{[scat n]} =this_company=
 heeshi	{[scat n]} =soldier=
-heigai  {[scat n]}      =evil=     % 弊害
+heegai  {[scat n]}      =ill_effect=     % 弊害
 henja	{[scat n]} =editor= "henja" % 編者
 henshuusha	{[scat n]} =editor= "henshuu_sha_PERSON" % 編集者
 hentensee	{[scat n]} =transitionality= "henten_see_NATURE" % 変転性

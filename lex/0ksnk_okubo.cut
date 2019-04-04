@@ -26,6 +26,10 @@ kyuujitsu {[scat n]} =holiday=	%休日
 shinkookeezai {[scat n]} =emerging_economy=	%新興経済
 higeki {[scat n]} =tragedy=	%悲劇
 shinkookeezaikoku {[scat n]} =emerging_country=	%新興経済国
+keezaitaikoku {[scat n]} =economic_power=	%経済大国
+ge {[scat n]} =bottom=	%下(例「中の下」)
+
+
 
 
 
@@ -50,6 +54,8 @@ Ikea	{[scat n:prop]} =Ikea= %イケア
 Borubo	{[scat n:prop]} =Volvo= %ボルボ
 Suweeden	{[scat n:prop]} =Sweden= %スウェーデン
 Jiirii	{[scat n:prop]} =Geely= %吉利(中国企業の名前)
+Shanhai	{[scat n:prop]} =Shanghai= %上海
+
 
 % VN (n:vn)
 
@@ -58,6 +64,8 @@ bundan	{[scat n:vn]} =division=	%分断
 koonyuu	{[scat n:vn]} =purchase=	%購入
 shoyuu	{[scat n:vn]} =possession=	%所有
 baishuu	{[scat n:vn]} =acquisition=	%買収
+bumpu	{[scat n:vn]} =distribution=	%分布
+
 
 
 
@@ -73,6 +81,8 @@ senkyuuhyakurokujuu	{[scat num][comp num+num+num][allo numCFa]} =thousand_nine_h
 nijuuoku	{[scat num][comp num+num][allo numCFa]} =two_billion= "nijuu+oku"
 nisenjuu	{[scat num][comp num+num][allo numCFa]} =two_thousand_ten= "nisen+juu"
 yonjuuoku	{[scat num][comp num+num][allo numCFa]} =four_billion= "yonjuu+oku"
+nisengojuu	{[scat num][comp num+num][allo numCFa]} =two_thousand_fifty= "nisen+gojuu"
+
 
 
 
@@ -341,3 +351,9 @@ kosodate {[scat n:vn][comp n+v:v]} =child_rearing= "ko+sodate"	%子育て
 
 % shimpo	{[scat n:vn]} =progres=
 % 提案: 誤字。progresではなくprogress
+
+% 以下のようにvnで複数の候補が出てくることがあるが、vnとして意味の違いを使いわけることは無さそうなので、一つで十分では？
+% n:vn|unten=drive^n:vn|unten=driving
+% n:vn|yosoku=predict^n:vn|yosoku=prediction
+%
+% v:c|kik-PRES=listen^v:c|kik-PRES=hear/listen

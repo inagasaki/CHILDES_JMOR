@@ -116,14 +116,14 @@ he          {[scat v:v]}            =undergo=                   % 経る
 
 % misc (ptl, smod, conj, num, quant, co:i, -sfx)
 %% prefix
-fuku {[scat pfx] [pcat n]}      "fuku_DEPUTY"                   % 副市長
-bee {[scat pfx] [pcat n]}       "bee_AMERICAN"                  % 米大手商社
-fu  {[scat pfx] [pcat n:an]}    "fu_NON"   
-sai {[scat pfx] [pcat n:vn]}    "sai_RE"                        % 再出発
-dai {[scat pfx] [pcat n]}       "dai_GREAT"
-go  {[scat nsfx]}               "go_AFTER"                      % （三年）後
-sha {[scat nsfx]}               "sha_PERSON"
-gata {[scat nsfx]}              "gata_TYPE"                     % （ぐうだら）型（の人）
+%fuku {[scat pfx] [pcat n]}      "fuku_DEPUTY"                   % 副市長
+%bee {[scat pfx] [pcat n]}       "bee_AMERICAN"                  % 米大手商社
+%fu  {[scat pfx] [pcat n:an]}    "fu_NON"   
+%sai {[scat pfx] [pcat n:vn]}    "sai_RE"                        % 再出発
+%dai {[scat pfx] [pcat n]}       "dai_GREAT"
+%go  {[scat nsfx]}               "go_AFTER"                      % （三年）後
+%sha {[scat nsfx]}               "sha_PERSON"
+%gata {[scat nsfx]}              "gata_TYPE"                     % （ぐうだら）型（の人）
 
 % pending items
 % 「全...」のような、量化前置詞の扱い。全体として量化子に変換したい

@@ -9,6 +9,7 @@ Aomori	{[scat n:prop]} =Aomori=
 Aomorishi	{[scat n:prop]} =Aomori_city= "Aomori_shi"
 Baranashi	{[scat n:prop]} =Varanasi=
 Bokyuuzu	{[scat n:prop]} =Bocuse=
+Borubo	{[scat n:prop]} =Volvo= %ボルボ
 Burajiru	{[scat n:prop]} =Brazil= % ブラジル
 Chembaasu	{[scat n:prop]} =Chambers=
 Daawin		{[scat n:prop]} =Darwin=
@@ -29,6 +30,7 @@ Higashinihondaishinsai	{[scat n:prop]} =Great_East_Japan_earthquake= "Higashinih
 Honkon			   {[scat n:prop]} =Hong_Kong=
 Hose	{[scat n:prop]} =Hose= %Jose ホセ 人名
 Iguchitsuneaki      {[scat n:prop]} =Iguchi_Tsuneaki= % news_KAHOKU_28
+Ikea	{[scat n:prop]} =Ikea= %イケア
 Ingasoru			{[scat n:prop]} =Ingersoll=
 Iraku		{[scat n:prop]} =Iraq=
 Itoo	{[scat n:prop]} =Itoo=
@@ -37,6 +39,7 @@ Iwate	{[scat n:prop]} =Iwate=
 Izumi	{[scat n:prop]} =Izumi=
 Izumishi	{[scat n:prop]} =Izumi_city= "Izumi_shi"
 Jakku__cdot__weruchi   {[scat n:prop]} =Jack_Welch=
+Jiirii	{[scat n:prop]} =Geely= %吉利(中国企業の名前)
 Jimin {[scat n:prop]} =LDP= % 自民
 Jimintoo {[scat n:prop]} =LDP=
 Kaigunshoo		   {[scat n:prop]} =Ministry_of_Navy= "Kaigun_shoo"
@@ -65,6 +68,7 @@ Kyuusekkijidai	{[scat n:prop]} =old_stone_age=
 Kyuushuuchihoo	{[scat n:prop][comp n:prop+n]} =the_Kyuusyuu_region= "Kyuushuu+chihoo"
 Maikurosofuto	{[scat n:prop]} =Microsoft=
 Manasara	       {[scat n:prop]} =Manasara=
+Mari   {[scat n:prop]} =Mari=
 Mazaateresa	{[scat n:prop]} =Mother_Teresa=
 Mikinosuke	       {[scat n:prop]} =Mikinosuke=
 Minamiafurika	{[scat n:prop]} =South_Africa= % 南アフリカ
@@ -78,6 +82,7 @@ Nagoyashi	{[scat n:prop]} =Nagoya_city= "Nagoya_shi"
 Nakajima	{[scat n:prop]} =Nakajima=
 Nakamura	{[scat n:prop]} =Nakamura=
 Obake-chan	{[scat n:prop]} =ghost= "Obake-chan_FAM"
+Okamoto	{[scat n:prop]} =Okamoto=
 Ookura		{[scat n:prop]} =Finance=
 Oosakashi	{[scat n:prop]} =Osaka_city= "Oosaka_shi"
 Puriamosu	{[scat n:prop]} =Priam=
@@ -88,27 +93,33 @@ Rosa {[scat n:prop]} =Rosa= %Rosa ロサ 人名
 Ruvaniefujin			{[scat n:prop][comp n:prop+n]} =Mrs_Levannier= "Ruvanie+fujin"
 Saitoo	{[scat n:prop]} =Saitoo=
 Sakuraikatsunobu    {[scat n:prop]} =Sakurai_Katsunobu= % news_KAHOKU_28
+San'yoodenkibooeki	{[scat n:prop]} =San'yoo_electric_and_trading_corporation= "San'yoo_denki_booeki" 
 Satoo {[scat n:prop]} =Satoo= 
 Satooshi {[scat n:prop]} =Satoo-shi_HON= 
 Satooyuuhee {[scat n:prop][comp n:prop+n:prop]} "Satoo_Yuuhee"
 Satooyuuheeshi {[scat n:prop][comp n:prop+n:prop]} "Satoo-Yuuhee-shi_HON"
 Sendai	{[scat n:prop]} =Sendai=
 Sendaishi	{[scat n:prop]} =Sendai_city= "Sendai_shi"
+Shanhai	{[scat n:prop]} =Shanghai= %上海
 Shanhaishi	{[scat n:prop]} =Shanghai_city= "Shanhai_shi"
 Shiba		{[scat n:prop]} =Shiva=
 Shibaratori	{[scat n:prop]} =Shivaratri=
 Shibuya {[scat n:prop]} =Shibuya= % 渋谷
+Shidonii       {[scat n:prop]} =Sydney=
 Shimotsuma	{[scat n:prop]} =Shimotsuma=
 Shimotsumashi	{[scat n:prop]} =Shimotsuma_city= "Shimotsuma_shi"
 Shisuko	{[scat n:prop]} =Cysco=
 Shisukoshisutemuzu	{[scat n:prop]} =Cisco_Systems=
 Shoowa		{[scat n:prop]} =Shoowa_era=
+Suweeden	{[scat n:prop]} =Sweden= %スウェーデン
 Taigaa__cdot__uzzu {[scat n:prop]} =Tiger_Woods= %記号名を __ （アンダースコア2つ）で囲む
 Taikanokaishin	{[scat n:prop]} =the_Taika_Reform=
 Takahashi	{[scat n:prop]} =Takahashi=
 Takashima	{[scat n:prop]} =Takashima=
 Takashimashi	{[scat n:prop]} =Takashima_city= "Takashima_shi"
+Teddotooku	{[scat n:prop]} =Ted_talk= %テッドトーク
 Teekokuhoteru	{[scat n:prop]} =Inperial_hotel=
+Ueyama	{[scat n:prop]} =Ueyama=
 Watanabe	{[scat n:prop]} =Watanabe=
 Watanabeissei       {[scat n:prop]} =Watanabe_Issei= % news_KAHOKU_28
 Weruchi				{[scat n:prop]} =Welch=

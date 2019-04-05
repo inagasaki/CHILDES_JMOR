@@ -43,20 +43,82 @@ towaittemo	{[scat conj]} =nevertheless=
 yotte	{[scat conj]} =therefore=
 
 % num
-%ichinenjuu	{[scat num]} =one= "ichi-nen_YEAR-juu_THROUGHOUT" % 修正希望
-%ichinichijuu	{[scat num]} =one= "ichi-nichi_DAY-juu_THROUGHOUT" % 修正希望			
+
 % quant
-% maitoshi	{[scat quant]} =every_year= "mai_EVERY_toshi"
-% zen'in	{[scat quant]} =all_members= % 全員 
+zembee {[scat quant]} =all_America= "zen_ALL_bee" % 全米
+zembusho {[scat quant]} =all_posts= "zen_ALL_busho" % 全部署
+zemmen {[scat quant]} =all_aspects= "zen_ALL_men" % 全面
+zempan {[scat quant]} =whole= % 全般
+zempen {[scat quant]} =all_parts= "zen_ALL_pen" % 全篇
+zen'eki {[scat quant]} =all_stations= "zen_ALL_eki" % 全駅 % n のエントリーを消してもらう
+zen'eshu {[scat quant]} =all_congregations= "zen_ALL_eshu" % 全会衆
+zen'iki {[scat quant]} =whole_area= "zen_ALL_iki" % 全域
+zen'in	{[scat quant]} =whole_members= 	"zen_ALL_in" % 全員 % 0Adu_AdjAdvAdn 中のエントリーを削除してほしい
+zenbun {[scat quant]} =full_text= "zen_ALL_bun" % 全文
+zenbun'ya {[scat quant]} =all_fields= "zen_ALL_bun'ya" % 全分野
+zenchi {[scat quant]} =all_lands= "zen_ALL_chi" % 全地
+zenchiku {[scat quant]} =all_areas= "zen_ALL_chiku" % 全地区
+zenchikyuu {[scat quant]} =whole_earth= "zen_ALL_chikyuu" % 全地球
+zenchoo {[scat quant]} =entire_length= "zen_ALL_choo" % 全長
+zendo {[scat quant]} =whole_land= "zen_ALL_do" % 全土
+zengakkyuu {[scat quant]} =all_classes= "zen_ALL_gakkyuu" % 全学級
+zengaku {[scat quant]} =whole_expense= "zen_ALL_gaku" % 全額
+zengakusee {[scat quant]} =all_students= "zen_ALL_gakusee" % 全学生
+zenitariajindansee {[scat quant][comp n+n]} =all_Italian_men= "zen_ALL_itaria_jin_PERSON+dansee" % 全イタリア人男性
+zenjinrui	{[scat quant]} =whole_mankind= "zen_ALL_mankind" % 全人類
+zenjinryoku {[scat quant]} =all_manpowers= "zen_ALL_jinryoku" % 全人力
+zenjoseeshain {[scat quant]} =all_female_employees= "zen_ALL_josee+shain" % 全女性社員
+zenjuutaku {[scat quant]} =all_houses= "zen_ALL_juutaku" % 全住宅
+zenkoku	{[scat quant]} =whole_country= 	"zen_ALL_koku" % 全国 % n のエントリーを削除してほしい
+zenkootee	{[scat quant]} =whole_members= "zen_ALL_kootee" % 全行程
+zennihon {[scat quant]} =whole_Japan= "zen_ALL_nihon" % 全日本
+zennihonjin {[scat quant]} =all_Japanese= "zen_ALL_nihon_jin_PERSON" % 全日本人
+zenressha {[scat quant]} =all_trains= "zen_ALL_ressha" % 全列車
+zenryoku {[scat quant]} =all_one's_power= "zen_ALL_ryoku" % 全力
+
+%% 以下、作業中 -- nagasaki
+% zenkai {[scat quant]} =whole_= "zen_ALL_" % 全会
+% zenkaiha {[scat quant]} =whole_= "zen_ALL_" % 全会派
+% zenkamoku {[scat quant]} =whole_= "zen_ALL_" % 全科目
+% zenkanadajinkyojuusha {[scat quant]} =whole_= "zen_ALL_" % 全カナダ人居住者
+% zenkigyoo {[scat quant]} =whole_= "zen_ALL_" % 全企業
+% zenkokumin {[scat quant]} =whole_= "zen_ALL_" % 全国民
+% zenkoo {[scat quant]} =whole_= "zen_ALL_" % 全校
+% zenkukan {[scat quant]} =whole_= "zen_ALL_" % 全区間
+% zenkyojuusha {[scat quant]} =whole_= "zen_ALL_" % 全居住者
+% zenkyooka {[scat quant]} =whole_= "zen_ALL_" % 全教科
+% zenmondai {[scat quant]} =whole_= "zen_ALL_" % 全問題
+% zennendokan {[scat quant]} =whole_= "zen_ALL_" % 全年度間
+% zenritee {[scat quant]} =whole_= "zen_ALL_" % 全里程
+% zenryoo {[scat quant]} =whole_= "zen_ALL_" % 全量
+% zensangyoo {[scat quant]} =whole_= "zen_ALL_" % 全産業
+% zenseeryoku {[scat quant]} =whole_= "zen_ALL_" % 全精力
+% zensekai {[scat quant]} =whole_= "zen_ALL_" % 全世界
+% zensen {[scat quant]} =whole_= "zen_ALL_" % 全線
+% zensenryoku {[scat quant]} =whole_= "zen_ALL_" % 全戦力
+% zensetai {[scat quant]} =whole_= "zen_ALL_" % 全世帯
+% zensha {[scat quant]} =whole_= "zen_ALL_" % 全社
+% zenshain {[scat quant]} =whole_= "zen_ALL_" % 全社員
+% zenshin {[scat quant]} =whole_= "zen_ALL_" % 全身
+% zenshinkee {[scat quant]} =whole_= "zen_ALL_" % 全神経
+% zenshinnyuushain {[scat quant]} =whole_= "zen_ALL_" % 全新入社員
+% zenshoohin {[scat quant]} =whole_= "zen_ALL_" % 全商品
+% zentoo {[scat quant]} =whole_= "zen_ALL_" % 全島
+% zentoomin {[scat quant]} =whole_= "zen_ALL_" % 全島民
+% zenyooroppajin {[scat quant]} =whole_= "zen_ALL_" % 全ヨーロッパ人
+% zenzaisan {[scat quant]} =whole_= "zen_ALL_" % 全財産
+
 
 % interjection
-%ee	{[scat co:i]} =yes= %「ええ」
-%ie	{[scat co:i]} =no= "iie" %「いえ」
 nanda	{[scat co:i]} =oh= "nan_da"
 yare	{[scat co:i]} =sigh=
+ano	{[scat co:i]} =well=
+chotto	{[scat co:i]} =just_a_minute=
 
 % -sfx (cl)
 buri	{[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numCBb numCBn2]} "buri_SINCE"
+mae	{[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numCBb numCBn2]} "mae_BEFORE"
+go	{[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numCBb numCBn2]} "go_AFTER"
 hai {[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numCBb numCBn2]} "hai_DEFEAT" % n敗
 jikan	{[scat numclsfx] [allo OR numBFa numBBk numCFa numCFn numCBa numCBn1 numCBb numCBn2]} "jikan_HOUR"
 ki {[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numCBb numCBn2]} "ki_TERM" % n期
@@ -71,6 +133,7 @@ paasento      {[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCB
 pointo	      {[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numCBb numCBn2]} "pointo_POINT"
 sha    {[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numCBb numCBn2]} "sha_COMPANY"
 shoo   {[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numCBb numCBn2]} "shoo_CHAPTER"
+koomoku	  {[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numCBb numCBn2]} "koomoku_POINT"
 
 % nsfx
 nashi	{[scat nsfx]} "nashi_WHITHOUT"
@@ -79,7 +142,6 @@ nashi	{[scat nsfx]} "nashi_WHITHOUT"
 yoo	{[scat vsfx] [sfxcat n] [allo OR vV vCi vPIw vAIt vTKi vTSi vAIs]} "yoo_WAY_OF"
 %% ex. 「直しようがない」, 上のように登録すると、tabeyoo (食べよう), kiyoo (着よう), iiyoo (言いよう) は主強r句されるが naoshiyoo (直しよう) は出力されない。
 
-
 zuni	{[scat vtense] [tense inf] [allo OR vV vCa vBKo vTSi vTSe vNNr]} "NEG&ADV"
 
 % intentitive	######## 意志 (Deliberative)、勧誘 (Hortative)、推量 (Inferential) のハイブリッド
@@ -87,23 +149,35 @@ yoo	{[scat vtense] [tense inf] [allo OR vV vBKo vTSi]} "DELB/HORT/INFR"
 yo	{[scat vtense] [tense inf] [allo OR vV vBKo vTSi]} "DELB/HORT/INFR"
 oo	{[scat vtense] [tense inf] [allo OR vC vRw]} "DELB/HORT/INFR"
 
+% 〜とく（「〜ておく」の融合）
+toku	{[scat vtense] [tense pres] [allo OR vV vC vTTw vTTr vAIs vAIt vTIk vTKi vTSi vTTik vBKo]} "keep-PRES"
+toite	{[scat vtense] [tense pres] [allo OR vV vC vTTw vTTr vAIs vAIt vTIk vTKi vTSi vTTik vBKo]} "keep-CONN"
+toita	{[scat vtense] [tense pres] [allo OR vV vC vTTw vTTr vAIs vAIt vTIk vTKi vTSi vTTik vBKo]} "keep-PAST"
+tokoo	{[scat vtense] [tense pres] [allo OR vV vC vTTw vTTr vAIs vAIt vTIk vTKi vTSi vTTik vBKo]} "keep-DELB/HORT/INFR"
+tokanai	{[scat vtense] [tense pres] [allo OR vV vC vTTw vTTr vAIs vAIt vTIk vTKi vTSi vTTik vBKo]} "keep-NEG-PRES"
+tokanakatta	{[scat vtense] [tense pres] [allo OR vV vC vTTw vTTr vAIs vAIt vTIk vTKi vTSi vTTik vBKo]} "keep-NEG-PAST"
+tokanakute	{[scat vtense] [tense pres] [allo OR vV vC vTTw vTTr vAIs vAIt vTIk vTKi vTSi vTTik vBKo]} "keep-NEG-CONN"
+tokan	{[scat vtense] [tense pres] [allo OR vV vC vTTw vTTr vAIs vAIt vTIk vTKi vTSi vTTik vBKo]} "keep-NEG"
+
 % nsfx
 gata	{[scat nsfx]} "PL"
 tachi	{[scat nsfx]} "PL"
 
-% prefix
+% prefix [pcat n:num] が動いていないようだ
+zen	{[scat pfx] [pcat n:num]} "zen_WHOLE" % 「全98話」
+
+
 doo	{[scat pfx] [pcat n]} "doo_SAID"	% 同 
 gen {[scat pfx] [pcat n]} "gen_CURRENT" % 現
 gen     {[scat pfx][pcat n]}        =incumbent=
 moto {[scat pfx] [pcat n]} "moto_EX" % 元
 moto    {[scat pfx][pcat n]}        =former= % adnもある「元（の）」
 mu      {[scat pfx][pcat n]}        =without=
-ryoo {[scat pfx] [pcat quant]} "ryoo_BOTH" % 両（県）
 saku {[scat pfx] [pcat n]} "saku_LAST" % 昨
 yaku	{[scat pfx][pcat n]} "yaku_ABOUT"
 zen     {[scat pfx][pcat n]}        =late=
 zen     {[scat pfx][pcat numclsfx]} =previous= % 「前回」みたいなもの。ちゃんと動いていないので要検討
-zen	{[scat pfx][pcat quant]} "zen_WHOLE"
+ryoo {[scat pfx] [pcat quant]} "ryoo_BOTH" % 両（県）
 
 % onoma
 zuruzuru	{[scat onoma]} =loose=

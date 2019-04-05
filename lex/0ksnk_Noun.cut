@@ -1,5 +1,30 @@
 % noun
-Shisukogawa	{[scat n]} =Cisco_side= "Shisuko_gawa_SIDE"
+jinkoo {[scat n]} =population=	%人口
+dejitarutekunorojii {[scat n]} =digital_technology=	%デジタルテクノロジー
+anarogu {[scat n]} =analog=	%アナログ
+kyooikutekunorojii {[scat n][comp n:vn+n]} =education_technology= "kyooiku+tekunorojii"	%教育テクノロジー
+senshinkoogyookoku {[scat n]} =developed_country=	%先進工業国
+hattentojookoku {[scat n]} =developing_country=	%発展途上国
+shookazoku {[scat n]} =small_family=	%少家族
+suweedenjin	{[scat n]} =Swedish_person= "suweeden_jin_PERSON" %スウェーデン人
+keezaireberu {[scat n][comp n+n]} =economic_level= "keezai+reberu"	%経済レベル
+seeooshokoku {[scat n]} =Western_countries=	%西欧諸国
+kuniguni {[scat n]} =countries=	%国々
+koteekannen {[scat n]} =fixed_idea=	%固定観念
+bunrui {[scat n]} =classification=	%分類
+ikkoku {[scat n]} =moment=	%一刻
+keezaiseechoo {[scat n][comp n+n:vn]} =economic_growth=	"keezaiseechoo"%経済成長
+keezai {[scat n]} =economy=	%経済
+kyuujitsu {[scat n]} =holiday=	%休日
+shinkookeezai {[scat n]} =emerging_economy=	%新興経済
+higeki {[scat n]} =tragedy=	%悲劇
+shinkookeezaikoku {[scat n]} =emerging_country=	%新興経済国
+keezaitaikoku {[scat n]} =economic_power=	%経済大国
+ge {[scat n]} =bottom=	%下(例「中の下」)
+amazongata	{[scat n]} =Amazon_type= "amazon_gata_SHAPE"
+kamigata	{[scat n]} =hair_style= "kami_gata_SHAPE"
+hagata	{[scat n]} =tooth_mold= "ha_gata_SHAPE"
+shisukogawa	{[scat n]} =Cisco_side= "shisuko_gawa_SIDE"
 aidokusha	{[scat n]} =regular_reader= "aidoku_sha_PERSON" % 愛読者
 aishoo	{[scat n]} =affinity= % 相性
 aitechiimu	{[scat n][comp n+n]} =opponent_team= "aite+chiimu"
@@ -39,7 +64,7 @@ budomari   {[scat n]} =yield_rate=
 buin	{[scat n]} =club_member= "bu_in_PERSON" % 部員
 buka	{[scat n]} =subordinate=
 bumon  {[scat n]} =department=
-bumpoo	{[scat n]} =grammat= % 文法
+bumpoo	{[scat n]} =grammar= % 文法
 bun'ya	{[scat n]} =field=
 bunkajuutaku	{[scat n]} =semi_European_style_house=
 bunkenkanri   {[scat n][comp n+n]} =management_for_decentralization_of_power=
@@ -263,9 +288,9 @@ hanzaisha	{[scat n]} =criminal_person= "hanzai_sha_PERSON" % 犯罪者
 hashigosha	{[scat n]} =ladder_truck= "hashigo_sha_VEHICLE" % はしご車 梯子車
 hasshinryoku {[scat n]} =communicativity= "hasshin_ryoku_POWER" % 複合名詞ではない：*発信のりょく
 hatsu   {[scat n]}      =first=         % 初
+heegai  {[scat n]}      =ill_effect=     % 弊害
 heesha	{[scat n]} =this_company=
 heeshi	{[scat n]} =soldier=
-heegai  {[scat n]}      =ill_effect=     % 弊害
 henja	{[scat n]} =editor= "henja" % 編者
 henshuusha	{[scat n]} =editor= "henshuu_sha_PERSON" % 編集者
 hentensee	{[scat n]} =transitionality= "henten_see_NATURE" % 変転性
@@ -361,6 +386,7 @@ jikichijisen {[scat n] [comp n+n]} =next_gubernatorial_election= "jiki+chijisen"
 jikokuhyoo	{[scat n]} =timetable= % 時刻表
 jimotohatsu	{[scat n]} =local_origin=
 jimotoseekaikankeesha {[scat n][comp n+n+n]} =people_involved_in_the_local_political_circle= "jimoto+seekai+kankeesha"
+jinrui		{[scat n]} =mankind=
 jiree		{[scat n]} =case=
 jisedai		  {[scat n]} =next_generation=
 jishinsee	{[scat n]} =seismicity= "jishin_see_NATURE" % 地震性
@@ -486,6 +512,7 @@ ketsuen=	  {[scat n]} =blood_relation=
 ketsuenshuudan	  {[scat n][comp n+n]} =kin_group=
 kigyoo	{[scat n]} =company=
 kikensee	{[scat n]} =risk= "kiken_see_NATURE" % 危険性
+kiki			{[scat n]} =equipment=
 kikoo	{[scat n]} =weather=
 kimatsushiken	{[scat n][comp n+n]} =term_examination= "kimatsu+shiken"
 kinchaku	{[scat n]} =purse=
@@ -519,7 +546,9 @@ koko		{[scat n]} =each=
 kokumin	{[scat n]} =people=
 kokuminsee	{[scat n]} =national_trait= "kokumin_see_NATURE" % 国民性
 kokusai	{[scat n]} =international= 
+kokusaibengoshi		{[scat n][comp n+n]} =international_lawyer= "kokusai+bengoshi"
 kokusaikaigi	{[scat n][comp n+n]} =international_conference= "kokusai+kaigi"
+kokusaikeeyaku		{[scat n][comp n+n:vn]} =international_contract= "kokusai+keeyaku"
 kokuseesenkyo {[scat n][scat n+n]} =national_election=
 kokyaku	{[scat n]} =client=
 komban	{[scat n]} =this_evening=
@@ -540,6 +569,7 @@ koohosha	{[scat n]} =candidate= "kooho_sha_PERSON" % 候補者
 koohoyooritsu   {[scat n][comp n+n:vn]} =putting_up_a_candidate= "kooho+yooritsu"
 kooi	{[scat n]} =action= %行為
 kookeesha	{[scat n]} =successor= "kookee_sha_PERSON" % 後継者
+kookoosee  {[scat n]} =senior_high_school_student=
 koominkan	{[scat n]} =public_hall= "koomin_kan_BLDG" % 公民館
 koomoku		  {[scat n]} =item=
 kooninkaikeeshi	  {[scat n][comp n:vn+n]} =certified_public_accountant=
@@ -717,7 +747,6 @@ ryuugakusee	{[scat n]} =foreign_student= "ryuugaku_see_STUDENT"
 sagyoosha	{[scat n]} =operator= "sagyoo_sha_PERSON" % 作業者
 saigai  {[scat n]}      =disaster=
 saigaikooeejuutaku {[scat n][comp n+n+n]} =public_restoration_housing= "saigai+kooee+juutaku"
-saikaigo	{[scat n]} =after_the_renewal= "saikai_go_AFTER"
 saikoo		{[scat n]} =second_proof= %再校
 saisansee	{[scat n]} =profitability= "saisan_see_NATURE" % 採算性
 saiseesukiimu	{[scat n][comp n:vn+n]} =scheme_of_the_regeneration= "saisee+sukiimu"
@@ -780,11 +809,8 @@ seezoogyoo	{[scat n]} =manufacturing_industry= % 製造業
 sekaikan	  {[scat n]} =world_view=
 seken	{[scat n]} =society=
 sekininsha	{[scat n]} =responsible_person= "sekinin_sha_PERSON" % 責任者
-sekishokku	{[scat n]} =oil_crisis= "sekiyu_shokku"
-sekishokkugo	{[scat n]} =after_the_oil_crisis= "sekiyu_shokku_go_AFTER"
 sekiyukiki	{[scat n]} =oil_crisis= "sekiyu_kiki"
-sekiyukikigo	{[scat n]} =after_the_oil_crisis= "sekiyu_kiki_go_AFTER"
-sengo	{[scat n]} =after_the_war= "sen_go_AFTER"
+sekiyushokku	{[scat n]} =oil_crisis= "sekiyu_shokku"
 senjishoku	{[scat n]} =wartime_appearance= "senji_shoku_COLOR"
 senjitsu {[scat n]} =the_other_day= %先日
 senkensee	{[scat n]} =foreseeability= "senken_see_NATURE" % 先見性
@@ -867,6 +893,7 @@ shookaki	{[scat n]} =fire_extinguisher= "shooka_ki_MACHINE"
 shoomeesha	{[scat n]} =illumination_car= "shoomee_sha_VEHICLE"
 shoooten {[scat n]} =focus=
 shooraisee	{[scat n]} =future_prospect= "shoorai_see_NATURE" % 将来性
+shoosha	{[scat n]} =trading company= % 商社
 shooshokusee	{[scat n]} =decorativeness= "shooshoku_see_NATURE" % 装飾性
 shorui	{[scat n]} =document=
 shoshinsha	{[scat n]} =beginner= "shoshin_sha_PERSON"

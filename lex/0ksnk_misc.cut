@@ -75,37 +75,35 @@ zennihon {[scat quant]} =whole_Japan= "zen_ALL_nihon" % 全日本
 zennihonjin {[scat quant]} =all_Japanese= "zen_ALL_nihon_jin_PERSON" % 全日本人
 zenressha {[scat quant]} =all_trains= "zen_ALL_ressha" % 全列車
 zenryoku {[scat quant]} =all_one's_power= "zen_ALL_ryoku" % 全力
+zenkamoku {[scat quant]} =all_subjects= "zen_ALL_kamoku" % 全科目
+zenkanadajinkyojuusha {[scat quant][comp n+n]} =all_Canadian_inhabitants= "zen_ALL_kanada_jin_PERSON_kyojuu_sha_PERSON" % 全カナダ人居住者
+zenkigyoo {[scat quant]} =all_companies= "zen_ALL_kigyoo" % 全企業
+zenkokumin {[scat quant]} =all_people= "zen_ALL_kokumin" % 全国民
+zenkoo {[scat quant]} =whole_school= "zen_ALL_koo" % 全校
+zenkukan {[scat quant]} =all_intervals= "zen_ALL_kukan" % 全区間
+zenkyojuusha {[scat quant]} =all_inhabitants= "zen_ALL_kyojuu_sha_PERSON" % 全居住者
+zenkyooka {[scat quant]} =all_subjects= "zen_ALL_kyooka" % 全教科
+zenmondai {[scat quant]} =all_problems= "zen_ALL_mondai" % 全問題
+zensekai {[scat quant]} =whole_world= "zen_ALL_sekai" % 全世界
+zenritee {[scat quant]} =all_distance= "zen_ALL_ritee" % 全里程
+zenryoo {[scat quant]} =the_whole_quantity= "zen_ALL_ryoo" % 全量
+zensangyoo {[scat quant]} =all_industries= "zen_ALL_sangyoo" % 全産業
+zensen {[scat quant]} =all_lines= "zen_ALL_sen" % 全線
+zenshain {[scat quant]} =all_employees_= "zen_ALL_shain" % 全社員
+zenyooroppajin {[scat quant]} =all_European= "zen_ALL_yooroppa_jin_PERSON" % 全ヨーロッパ人
 
-%% 以下、作業中 -- nagasaki
-% zenkai {[scat quant]} =whole_= "zen_ALL_" % 全会
-% zenkaiha {[scat quant]} =whole_= "zen_ALL_" % 全会派
-% zenkamoku {[scat quant]} =whole_= "zen_ALL_" % 全科目
-% zenkanadajinkyojuusha {[scat quant]} =whole_= "zen_ALL_" % 全カナダ人居住者
-% zenkigyoo {[scat quant]} =whole_= "zen_ALL_" % 全企業
-% zenkokumin {[scat quant]} =whole_= "zen_ALL_" % 全国民
-% zenkoo {[scat quant]} =whole_= "zen_ALL_" % 全校
-% zenkukan {[scat quant]} =whole_= "zen_ALL_" % 全区間
-% zenkyojuusha {[scat quant]} =whole_= "zen_ALL_" % 全居住者
-% zenkyooka {[scat quant]} =whole_= "zen_ALL_" % 全教科
-% zenmondai {[scat quant]} =whole_= "zen_ALL_" % 全問題
+%% 以下、作業中 -- Nagasaki
 % zennendokan {[scat quant]} =whole_= "zen_ALL_" % 全年度間
-% zenritee {[scat quant]} =whole_= "zen_ALL_" % 全里程
-% zenryoo {[scat quant]} =whole_= "zen_ALL_" % 全量
-% zensangyoo {[scat quant]} =whole_= "zen_ALL_" % 全産業
 % zenseeryoku {[scat quant]} =whole_= "zen_ALL_" % 全精力
-% zensekai {[scat quant]} =whole_= "zen_ALL_" % 全世界
-% zensen {[scat quant]} =whole_= "zen_ALL_" % 全線
 % zensenryoku {[scat quant]} =whole_= "zen_ALL_" % 全戦力
 % zensetai {[scat quant]} =whole_= "zen_ALL_" % 全世帯
 % zensha {[scat quant]} =whole_= "zen_ALL_" % 全社
-% zenshain {[scat quant]} =whole_= "zen_ALL_" % 全社員
 % zenshin {[scat quant]} =whole_= "zen_ALL_" % 全身
 % zenshinkee {[scat quant]} =whole_= "zen_ALL_" % 全神経
 % zenshinnyuushain {[scat quant]} =whole_= "zen_ALL_" % 全新入社員
 % zenshoohin {[scat quant]} =whole_= "zen_ALL_" % 全商品
 % zentoo {[scat quant]} =whole_= "zen_ALL_" % 全島
 % zentoomin {[scat quant]} =whole_= "zen_ALL_" % 全島民
-% zenyooroppajin {[scat quant]} =whole_= "zen_ALL_" % 全ヨーロッパ人
 % zenzaisan {[scat quant]} =whole_= "zen_ALL_" % 全財産
 
 

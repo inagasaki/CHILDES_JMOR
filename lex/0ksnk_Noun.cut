@@ -1,4 +1,7 @@
 % noun
+kamoku {[scat n]} =subject=	% 科目
+kyooka {[scat n]} =subject=	% 教科
+zenkaiitchi {[scat n][comp quant+n:vn]} =unanimous= % 全会一致
 jinkoo {[scat n]} =population=	%人口
 dejitarutekunorojii {[scat n]} =digital_technology=	%デジタルテクノロジー
 anarogu {[scat n]} =analog=	%アナログ
@@ -434,7 +437,7 @@ kaku	       {[scat n]} =core=
 kakuchooshi	  {[scat n]} =extension=
 kamigami	{[scat n]} =gods= % reduplication は compound にせずに一語扱いでいいのでは? hitobito, kigi,hibi なども同様
 kan'an	{[scat n]} =seeing_darkness=
-kanashibari	{[scat n]} =sleep_paralysis=
+kanashibari	{[scat n]} =sleep_paralysis= % 0Adu_Noun.cut の例を削除して欲しい
 kangaekata	{[scat n]} =way_of_thinking= "kangae_kata_WAY_OF"
 kanji	{[scat n]} =kanji_character= % 単なる =character= でなく
 kanjusee	{[scat n]} =sensibility= "kanjusee" % 感受性
@@ -984,6 +987,7 @@ teechakudo	{[scat n]} =fixing_degree= "teechaku_do_DEGREE"
 teekiyokin	{[scat n]} =term_deposit= "teeki_yokin"
 teenen		{[scat n]} =retirement=
 temboosha	{[scat n]} =observation_car= "temboo_sha_VEHICLE" %【展望】
+ten'in		{[scat n]} =store_staff= "ten_in_PERSON" % 店員
 tenisu__cdot__kooto	{[scat n][comp n+n]} =tennis_court= "tenisu+kooto"
 tenrankai	{[scat n]} =exhibition= "tenrankai" % 複合語にしない
 tensee	{[scat n]} =nature= "tensee" % 天性

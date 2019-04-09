@@ -38,7 +38,7 @@ teesana	{[scat v:ir]} =represent= "teesu-NEG" % 呈さな(い)
 teesu	{[scat v:ir]} =represent= % 呈する
 yoosu	{[scat v:ir]} =possess/command= % 擁する
 yoosana	{[scat v:ir]} =possess/command= "yoosu-NEG" % 擁さな(い)
-
+　　　
 % verb
 age	{[scat v:v]} =mention=
 ais	{[scat v:ir]} =love= % 愛す
@@ -78,6 +78,7 @@ mas {[scat v:c]} =increase=
 mawar	{[scat v:c]} =revolve=
 mawas	{[scat v:c]} =revolve=
 meeji	{[scat v:v]} =command= %	命じる		
+megumare {[scat v:v]} =be_blessed= % 恵まれる
 menji	{[scat v:v]} =exempt= %	免じる		
 mi	{[scat v:v]} =see/look/watch=	%【見る】
 mirare {[scat v:v]} =seem= % VB2の「見られる」

@@ -71,14 +71,6 @@ shinkookoku {[scat n]} =emerging_country= "shinkoo_koku_COUNTRY"	%新興国
 
 % Prop (n:prop)
 
-Teddotooku	{[scat n:prop]} =Ted_talk= %テッドトーク
-Ikea	{[scat n:prop]} =Ikea= %イケア
-Borubo	{[scat n:prop]} =Volvo= %ボルボ
-Suweeden	{[scat n:prop]} =Sweden= %スウェーデン
-Jiirii	{[scat n:prop]} =Geely= %吉利(中国企業の名前)
-Shanhai	{[scat n:prop]} =Shanghai= %上海
-
-
 % VN (n:vn)
 
 hiroo	{[scat n:vn]} =introduction=	%披露

@@ -4,6 +4,9 @@ yo	{[scat adj:sub]} =good=
 i	{[scat adj:sub]} =good=
 yoroshi	{[scat adj:sub]} =good=
 
+% 修正希望
+arigata		{[scat adj]} =appreciate= % appreciated (adj.cut) のエントリーを修正してほしい。また、be_appreciated (0Adu_AdjAdvAdn.cut) を削除してほしい。
+
 % 連語
 hokanarana {[scat adj]} =be_nothing_other_than=
 doodemoi {[scat adj]} =indifferent=
@@ -11,8 +14,7 @@ doodemoi {[scat adj]} =indifferent=
 % adji
 aojiro		{[scat adj]} =pale= % 青白い
 aojiroki	{[scat adj][tense inf]} =pale= "aojiro-ki_ADN"
-arigata		{[scat adj]} =be_appreciated=
-arigatoo	{[scat adj][tense inf]} =be_appreciated= "arigata&ADV"
+arigatoo	{[scat adj][tense inf]} =appreciate= "arigata&ADV"
 asekusa		{[scat adj]} =smelling_of_sweat= "ase_kusa_SMELLING" % 汗くさい
 ashiki		{[scat adj][tense inf]} =bad= "a-shiki_ADN"
 bimbooninkusa	{[scat adj]} =like_the_poor= "bimboonin_kusa_SMELLING" % 貧乏人くさい

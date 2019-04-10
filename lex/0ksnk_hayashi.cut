@@ -29,20 +29,19 @@ enupiioohoojin  {[scat n][comp n+n]}    =NPO=   "enupiioo+hoojin"
 yakuin          {[scat n]}          =executive=
 enupiioohoojinyakuin    {[scat n][comp n+n+n]}  =NPO_executive= "enupiioo+hoojin+yakuin"
 fukkoojigyoo    {[scat n][comp n:vn+n]} =reconstruction_work=   "fukkoo+jigyoo"
-fukkookeikaku   {[scat n][comp n:vn+n:vn]} =reconstruction_plan=    "fukkoo+keikaku"
+fukkookeekaku   {[scat n][comp n:vn+n:vn]} =reconstruction_plan=    "fukkoo+keekaku"
 shisaku         {[scat n]}          =policy=                    % 施策
 fukkooshisaku   {[scat n][comp n:vn+n:vn]}  =reconstruction_policy= "fukkoo+shisaku"
 fuuhyoo         {[scat n]}          =rumor=
 higai           {[scat n]}          =damage=
 fuuhyoohigai    {[scat n][comp n+n]}    =damage_by_harmful_rumors= "fuuhyoo+higai"
 gempatsu        {[scat n]}          =nuclear_plant=
-gempatsujiko    {[scat n][comp n+n]}    =nuclear_plant_accident= "gempatsu+jiko"
-heigai          {[scat n]}          =ill_effect=
+gempatsujiko    {[scat n][comp n+n]} =nuclear_plant_accident=   "gempatsu+jiko"
 ikoo            {[scat n]}          =intention=                 % 意向
 ikkiuchi        {[scat n]}          =single_combat= 
 jin'ee          {[scat n]}          =camp=                      % 陣営
 juuten          {[scat n]}          =importance=
-juutenshisaku   {[scat n][comp n+n]}      =important_policy=  "juuten+shisaku"
+juutenshisaku   {[scat n][comp n+n]} =important_policy=         "juuten+shisaku"
 kikikan         {[scat n]}          =sense_of_danger=
 medo            {[scat n]}          =prospect=                  % 目途
 noogyoo         {[scat n]}          =agriculture=
@@ -54,31 +53,77 @@ taisa           {[scat n]}          =large_differnce=           % 大差
 zaisee          {[scat n]}          =public_finance=
 zenmen          {[scat n]}          =front=                     % 前面
 dantai          {[scat n]}          =group=
-shimindantai    {[scat n][comp n+n]} =civic_group= "shimin+dantai"
+shimindantai    {[scat n][comp n+n]} =civic_group=              "shimin+dantai"
+gappeemae       {[scat n][comp n:vn+n]} =before_merger=         "gappee+mae"
+gyooseeun'ee    {[scat n][comp n+n:vn]} =administration_management= "gyoosee+un'ee"
+gyoozaiseekaikaku   {[scat n][comp n+n:vn]} =reform_of_administation_and_finance= "gyoozaisee+kaikaku"
+hyoo            {[scat n][comp n]}  =vote=                      % （議決の）票
+hihanhyoo       {[scat n][comp n:vn+n]} =vote_cast_in_criticism= "hihan+hyoo"
+hirosakishifukushichoo  {[scat n][comp n:prop+n+pfx+n]} =deputy_mayor_of_Hirosaki_City= "hirosaki+shi+fuku+shichoo"
+hooshasenryoo   {[scat n][comp n+n]} =amount_of_radiation= "hooshasen+ryoo"
+zenmen          {[scat n]}          =overall=                   % 全面；Quantifier?
+ichiritsuzenmenjosen    {[scat n][comp n+n+n]}  =uniform_and_overall_decontamination= "ichiritsu+zenmen+josen"
+jinkoogenshoo   {[scat n][comp n+n:vn]} =decrease_in_population= 
+jishu           {[scat n]}          =autonomy=                  % 自主
+jishuhihansha   {[scat n][comp n+n:vn+nsfx]} =voluntary_evacuee= "jishu+hinan+sha"
+jishushien      {[scat n][comp n+n:vn]} =autonomous_support= "jishu+shien"
+jishutoohyoo    {[scat n][comp n+n:vn]} =autonomous_voting= "jishu+toohyoo"
+josenkeekaku    {[scat n][comp n:vn+n:vn]} =plan_of_decontamination= "josen+keekaku"
+josentaisaku    {[scat n][comp n:vn+n]} =measurement_in_decontamination= "josen+taisaku"
+juuminfuan      {[scat n][comp n+n]}    =uneasy_of_inhabitants= "juumin+fuan"
+kahansuu        {[scat n]}          =majority=
+kaiin           {[scat n]}          =member=
+kaishayakuin    {[scat n][comp n+n]}    =company_executive= "kaisha+yakuin"
+kanrenshisaku   {[scat n][comp n:vn+n]} =relevant_policy=   "kanren+shisaku"
+kaobure         {[scat n]}          =lineup=                % 顔ぶれ
+kawakiri        {[scat n]}          =opener=                % 皮切り
+keeeegatagyoosei {[scat n][comp n:vn+nsfx+n]} =administration_in_the_style_of_private_companies= "keeee+gata+gyoosei"
+kekkishuukai    {[scat n][comp n:vn+n]}          =rally=    "kekki+shuukai"
+kemmin          {[scat n]}          =prefectural_inhabitant=
+kengi           {[scat n]}          =member_of_prefectural_councils=
+nenree          {[scat n]}          =age=
+senkyosen       {[scat n]}          =electoral_campaign=
+shooten         {[scat n]}          =focus=
 
 % Prop (n:prop)
+higashinihon    {[scat n:prop][comp n+n:prop]}     =Eastern_Japan= "higashi+nihon"
+higashinihondaishinsai  {[scat n:prop][comp n+n:prop+pfx+n]}     =2011_Tohoku_Earthquake= "higashi+nihon+dai+shinsai"
 
 % VN (n:vn)
-fujoo       {[scat n:vn]}           =surface=       % （問題が）浮上する
-fukkyuu     {[scat n:vn]}           =restoration=   % 復旧
+fujoo       {[scat n:vn]}           =surface=                   % （問題が）浮上する
+fukkyuu     {[scat n:vn]}           =restoration=               % 復旧
 fushutsuba  {[scat n:vn]}           =not_running_for_election=
 handan      {[scat n:vn]}           =decision=
-iji         {[scat n:vn]}           =maintainance=  % 維持する
-setsujoku   {[scat n:vn]}           =revengence=    % 雪辱する
-shuchoo     {[scat n:vn]}           =claim=         % 主張（する）
+iji         {[scat n:vn]}           =maintainance=              % 維持する
+setsujoku   {[scat n:vn]}           =revengence=                % 雪辱する
+shuchoo     {[scat n:vn]}           =claim=                     % 主張（する）
 shudoo      {[scat n:vn]}           =taking_initiative=
 tainin      {[scat n:vn]}           =resignation=
 koochiku    {[scat n:vn]}           =construction=
+gappee      {[scat n:vn]}           =merger=
+hihan       {[scat n:vn]}           =criticism=
+genshoo     {[scat n:vn]}           =decrease=
+jishoku     {[scat n:vn]}           =resignation=
+hinan       {[scat n:vn]}           =condemnation=              % 非難する
+kekki       {[scat n:vn]}           =rising_to_action=          % 決起する
+tassee      {[scat n:vn]}           =achievement=               % 達成
+taiketsu    {[scat n:vn]}           =confrontation=
 
 % Verb (v:c, v:v, v:ir)
 omodedat    {[scat v:c]}            =be_palpable=
-he          {[scat v:v]}            =go_by=         % 経る
-he          {[scat v:v]}            =undergo=       % 経る
+he          {[scat v:v]}            =go_by=                     % 経る
+he          {[scat v:v]}            =undergo=                   % 経る
 
 % misc (ptl, smod, conj, num, quant, co:i, -sfx)
 %% prefix
-bee {[scat pfx] [pcat n]} "bee_AMERICAN" % 米大手商社
-fu  {[scat pfx] [pcat n:an]} "fu_NON"   
-sai {[scat pfx] [pcat n:vn]}  "sai_RE" % 再出発
+%fuku {[scat pfx] [pcat n]}      "fuku_DEPUTY"                   % 副市長
+%bee {[scat pfx] [pcat n]}       "bee_AMERICAN"                  % 米大手商社
+%fu  {[scat pfx] [pcat n:an]}    "fu_NON"   
+%sai {[scat pfx] [pcat n:vn]}    "sai_RE"                        % 再出発
+%dai {[scat pfx] [pcat n]}       "dai_GREAT"
+%go  {[scat nsfx]}               "go_AFTER"                      % （三年）後
+%sha {[scat nsfx]}               "sha_PERSON"
+%gata {[scat nsfx]}              "gata_TYPE"                     % （ぐうだら）型（の人）
 
 % pending items
+% 「全...」のような、量化前置詞の扱い。全体として量化子に変換したい

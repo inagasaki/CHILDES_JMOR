@@ -1,8 +1,13 @@
-% vn --> 見直しが必要
-asshoo {[scat n:vn]} =overwhelming_victory=
+% 連用形転成名詞（行為名詞）
 atenige	{[scat n:vn]} =hit_and_run_away= "ate_nige"	% 当て逃げ
+
+% 
+asshoo {[scat n:vn]} =overwhelming_victory=
+baishuu	{[scat n:vn]} =acquisition=	%買収
 bika	{[scat n:vn]} =beautification= "bi_ka_CHANGE" % 美化
 boranteea	{[scat n:vn]} =volunteer=
+bumpu	{[scat n:vn]} =distribution=	%分布
+bundan	{[scat n:vn]} =division=	%分断
 bunka	{[scat n:vn]} =differentiation= "bun_ka_CHANGE" % 分化
 bunseki				{[scat n:vn]} =analysis=
 bunshooboshuu	{[scat n:vn][comp n+n:vn]} =call_for_papers= "bunshoo+boshuu"
@@ -22,7 +27,6 @@ chooteerikon	{[scat n:vn][comp n:vn+n:vn]} =arbitrated_divorce= "chootee+rikon"
 chuukai	{[scat n:vn]} =brokerage=
 chuumoku			{[scat n:vn]} =pay_attention=
 chuushi      {[scat n:vn]}  =gaze=
-daihyoo	{[scat n:vn]} =represent=
 danzoku {[scat n:vn]} =intermittence= % 断続
 deetabeesuka	{[scat n:vn]} =database_compilation= "deetabeesu_ka_CHANGE" % データベース化
 dejitaruka	{[scat n:vn]} =digitization= "dejitaru_ka_CHANGE" % デジタル化
@@ -36,8 +40,6 @@ dooin				{[scat n:vn]} =mobilization=
 dooka	{[scat n:vn]} =assimilation= "doo_ka_CHANGE" % 同化
 dookyoseekatsu	       {[scat n:vn][comp n:vn+n:vn]} =cohabitation= "dookyo+seekatsu"
 doonyuu				{[scat n:vn]} =introduction=
-eezoku {[scat n:vn]} =permanence= % 永続
-fuka	{[scat n:vn]} =append=
 fukkoo {[scat n:vn]} =reconstruction=
 furin		{[scat n:vn]} =adultery=
 fuuka	{[scat n:vn]} =weathering= "fuu_ka_CHANGE" % 風化
@@ -49,16 +51,15 @@ giron				{[scat n:vn]} =discussion=
 goorika	{[scat n:vn]} =rationalization= "goori_ka_CHANGE" % 合理化
 gutaika	{[scat n:an]} =substantiation= "gutai_ka_CHANGE"
 gyakkoo	{[scat n:vn]} =run_counter=
-hakki {[scat n:vn]} =give_full_play=
-happyoo	{[scat n:vn]} =give_presentation=
 hatan		{[scat n:vn]} =break_down=
 hatchuu		{[scat n:vn]} =order=
-hatsutoosen {[scat n:vn][comp n+n:vn]} =be_firstly_elected= "hatsu+toosen"
+hatsutoosen {[scat n:vn]} =be_firstly_elected= "hatsu_FIRST_toosen"
 hatten	{[scat n:vn]} =develop=
 hen'yoo	{[scat n:vn]} =change=
 henkaku	{[scat n:vn]} =change=
 henshuu		{[scat n:vn]} =edit=
 hikinige	{[scat n:vn]} =hit_and_run_away= "hik_nige"	%【ひき逃げ】(〈轢き逃げ)
+hiroo	{[scat n:vn]} =introduction=	%披露
 honkakuka	{[scat n:vn]} =proceeding_at_full_tilt= "honkaku_ka_CHANGE" % 本格化
 hookoku	{[scat n:vn]} =report=
 hoshoo		{[scat n:vn]} =guarantee=
@@ -139,6 +140,7 @@ koodoka	{[scat n:vn]} =advancement= "koodo_ka_CHANGE" % 高度化
 koodoo	{[scat n:vn]} =behave=
 kooka	{[scat n:vn]} =hardening= "koo_ka_CHANGE" % 硬化
 kookoo	{[scat n:vn]} =cruise=
+koonyuu	{[scat n:vn]} =purchase=	%購入
 kooreeka	{[scat n:vn]} =aging= "kooree_ka_CHANGE" % 高齢化
 kooritsuka     {[scat n:vn]} =streamlining= "kooritsu_ka_BECOMING"
 koosee		{[scat n:vn]} =proofreading=
@@ -173,8 +175,8 @@ nyuutai		{[scat n:vn]} =enlistment=
 okusoku      {[scat n:vn]}  =speculation=
 omemoji	{[scat n:vn]} =view=
 ooatari {[scat n:vn]} =great_hit= "oo_BIG_atari" % 大当り
-ooburi {[scat n:vn]} =overswing= "oo_BIG_buri" % 大振り
 ooburi {[scat n:vn]} =heavy_rain= "oo_BIG_buri" % 大降り
+ooburi {[scat n:vn]} =overswing= "oo_BIG_buri" % 大振り
 oomawari {[scat n:vn]} =big_detour= "oo_BIG_mawari" % 大回り
 oosawagi {[scat n:vn]} =big_disturbance= "oo_BIG_sawagi" % 大騒ぎ
 oowarai {[scat n:vn]} =good_laugh= "oo_BIG_warai" % 大笑い
@@ -192,8 +194,8 @@ ryuudooka	{[scat n:vn]} =fluidization= "ryuudoo_ka_CHANGE" % 流動化
 ryuugaku	{[scat n:vn]} =study_abroad=
 sabetsu	{[scat n:vn]} =discrimination= % 差別
 sabetsuka	{[scat n:vn]} =	differentiation= "sabetsu_ka_CHANGE" % 差別化
-saikai	{[scat n:vn]} =reopen=
 saikai		  {[scat n:vn]} =reunite=
+saikai	{[scat n:vn]} =reopen=
 saikasseeka	{[scat n:vn]} =revitalization= "sai_AGAIN_kassee_ka_CHANGE" % 再活性化
 saikenkaishi	{[scat n:vn][comp n:vn+n:vn]} =beginning_of_the_reconstruction= "saiken+kaishi"
 saisen       {[scat n:vn]}  =being_reelected=
@@ -220,6 +222,7 @@ shitsuboo      {[scat n:vn]} =disappointment=
 shiyoo	{[scat n:vn]} =use=
 shoochoo       {[scat n:vn]} =symbolize=
 shoometsu	{[scat n:vn]} =disappearance=
+shoyuu	{[scat n:vn]} =possession=	%所有
 shudookenkakuho {[scat n:vn][comp n+n:vn]} =securing_initiative= "shudooken+kakuho"
 shuppan	{[scat n:vn]} =publication=
 shusseki	{[scat n:vn]} =attend=
@@ -270,18 +273,15 @@ tooshuu	       {[scat n:vn]} =following=
 tsunamihisai {[scat n:vn][comp n+n:vn]} =damage_by_tsunami= "tsunami+hisai"
 tsuuyoo	{[scat n:vn]} =valid=
 un'ee	{[scat n:vn]} =management=
-unten	{[scat n:vn]} =drive=
 yabanka	{[scat n:vn]} =barbarianization= "yaban_ka_CHANGE" % 野蛮化
 yokan	{[scat n:vn]} =premonition=
 yokan	{[scat n:vn]} =premonition=
 yonige	{[scat n:vn]} =flee_by_night= "yo_nige" % 夜逃げ
 yooritsu {[scat n:vn]} =putting_up=
 yooritsu {[scat n:vn]} =putting_up=
-yosoku	{[scat n:vn]} =predict=
 zasshizukuri   {[scat n:vn][comp n+n:vn]} =magazine_publishing= "zasshi+zukuri"
 zenshin	       {[acat n:vn]} =advance=
 zuihitsuka	{[scat n:vn]} =making_an_essay= "zuihitsu_ka_CHANGE" % 随筆化
-
 
 % 修正
 eegaka	{[scat n:vn]} =making_a_movie= "eega_ka_CHANGE" % 映画化

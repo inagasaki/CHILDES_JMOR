@@ -1,6 +1,7 @@
 % LEXCAT = [scat OR n:an n:an:mot n:an:onoma] に n:an:sub を加えられるのか?
 
 % adjn
+mapputatsu {[scat n:an]} =right_in_half= "ma_TRUE_futatsu" %真っ二つ
 akeppiroge	{[scat n:an]} =frank=
 an'i	{[scat n:an]} =easy=
 anteeteki	{[scat n:an]}  =stable=  "antee-teki_ANZR" % 安定的

@@ -156,3 +156,5 @@ semariku	{[scat v:ir][comp v:c+v:ir]} =impend= "semar+ku"
 moosaremaji	{[scat v:c][tense inf]} =utter= "moos-PASS-NEG&INFR"
 shi		{[scat v:ir][tense inf]} =do=  "su&GER"
 
+% v:cop
+to	{[scat v:cop] [tense inf]} =be= "to&ADV"

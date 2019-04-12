@@ -9,6 +9,7 @@ meekaku         {[scat n:an]}       =definite=
 nookoo          {[scat n:an]}       =dense=
 nookoo          {[scat n:an]}       =of_strong_possibility=
 zenryoku        {[scat n:an]}       =in_ones_all_might=
+kenzen          {[scat n:an]}       =wholesome=
 
 % Noun (n, n:fml, n:deic)
 oote            {[scat n]}          =major=
@@ -62,10 +63,10 @@ hihanhyoo       {[scat n][comp n:vn+n]} =vote_cast_in_criticism= "hihan+hyoo"
 hirosakishifukushichoo  {[scat n][comp n:prop+n+pfx+n]} =deputy_mayor_of_Hirosaki_City= "hirosaki+shi+fuku+shichoo"
 hooshasenryoo   {[scat n][comp n+n]} =amount_of_radiation= "hooshasen+ryoo"
 zenmen          {[scat n]}          =overall=                   % 全面；Quantifier?
-ichiritsuzenmenjosen    {[scat n][comp n+n+n]}  =uniform_and_overall_decontamination= "ichiritsu+zenmen+josen"
+ichiritsuzemmenjosen    {[scat n][comp n+n+n]}  =uniform_and_overall_decontamination= "ichiritsu+zenmen+josen"
 jinkoogenshoo   {[scat n][comp n+n:vn]} =decrease_in_population= 
 jishu           {[scat n]}          =autonomy=                  % 自主
-jishuhihansha   {[scat n][comp n+n:vn+nsfx]} =voluntary_evacuee= "jishu+hinan+sha"
+jishuhinansha   {[scat n][comp n+n:vn+nsfx]} =voluntary_evacuee= "jishu+hinan+sha"
 jishushien      {[scat n][comp n+n:vn]} =autonomous_support= "jishu+shien"
 jishutoohyoo    {[scat n][comp n+n:vn]} =autonomous_voting= "jishu+toohyoo"
 josenkeekaku    {[scat n][comp n:vn+n:vn]} =plan_of_decontamination= "josen+keekaku"
@@ -77,13 +78,26 @@ kaishayakuin    {[scat n][comp n+n]}    =company_executive= "kaisha+yakuin"
 kanrenshisaku   {[scat n][comp n:vn+n]} =relevant_policy=   "kanren+shisaku"
 kaobure         {[scat n]}          =lineup=                % 顔ぶれ
 kawakiri        {[scat n]}          =opener=                % 皮切り
-keeeegatagyoosei {[scat n][comp n:vn+nsfx+n]} =administration_in_the_style_of_private_companies= "keeee+gata+gyoosei"
+keeeegatagyoosee {[scat n][comp n:vn+nsfx+n]} =administration_in_the_style_of_private_companies= "keeee+gata+gyoosee"
 kekkishuukai    {[scat n][comp n:vn+n]}          =rally=    "kekki+shuukai"
 kemmin          {[scat n]}          =prefectural_inhabitant=
 kengi           {[scat n]}          =member_of_prefectural_councils=
 nenree          {[scat n]}          =age=
 senkyosen       {[scat n]}          =electoral_campaign=
 shooten         {[scat n]}          =focus=
+ooteshoosha     {[scat n][comp n+n]}    =major_trading_company= "oote+shoosha"
+ootekensetsugaisha  {[scat n][comp n+n+n]}  =major_construction_company=    "oote+kensetsu+gaisha"
+shokujiken      {[scat n][comp n+n]}    =meal_coupon=   "shokuji+ken"
+giri            {[scat n]}          =social_obligation=
+giri            {[scat n]}          =relation_by_marriage=
+hanamakishibu   {[scat n][comp n:prop+n]} =Hanamaki_branch=
+jimintookengi   {[scat n][comp n:prop+n]} =LDP_member_of_prefectural_councils= "jimintoo+kengi"
+kengikai        {[scat n][comp n+n]}    =prefectural_council= "ken+gikai"
+kengikaigichoo  {[scat n][comp n+n+n]}  =chair_of_prefectural_council= "ken+gikai+gichoo"
+kigyooyuuchi    {[scat n][comp n+n:vn]} =inviting_companies= "kigyoo+yuuchi"
+kooenkai        {[scat n][comp n:vn+n]} =supporters_association= "kooen+kai"
+kooenkaisoshiki {[scat n][comp n:vn+n+n]} =organization_of_supporters_associations= "kooen+kai+soshiki"
+koohoshayooritsu {[scat n][comp n+n:vn]}    =putting_up_a_candidate" "koohosha+yooritsu"
 
 % Prop (n:prop)
 higashinihon    {[scat n:prop][comp n+n:prop]}     =Eastern_Japan= "higashi+nihon"
@@ -108,6 +122,8 @@ hinan       {[scat n:vn]}           =condemnation=              % 非難する
 kekki       {[scat n:vn]}           =rising_to_action=          % 決起する
 tassee      {[scat n:vn]}           =achievement=               % 達成
 taiketsu    {[scat n:vn]}           =confrontation=
+yuuchi      {[scat n:vn]}           =attraction=                % 誘致する
+kooen       {[scat n:vn]}           =support=                   % 後援する
 
 % Verb (v:c, v:v, v:ir)
 omodedat    {[scat v:c]}            =be_palpable=

@@ -1,7 +1,16 @@
 % 連用形転成名詞（行為名詞）
 atenige	{[scat n:vn]} =hit_and_run_away= "ate_nige"	% 当て逃げ
 
-% 
+%
+juuyooshi {[scat n:vn]} =attaching_importance_to= % 重要視
+chokushi {[scat n:vn]} =looking_in_the_face= % 直視
+tekishi {[scat n:vn]} =regard_with_hostility= % 敵視
+tooshi {[scat n:vn]} =seeing_through= % 透視
+dogaishi {[scat n:vn]} =disregard= % 度外視
+yuuryokushi {[scat n:vn]} =regard_as_the_most_likely= % 有力視
+dooitsushi {[scat n:vn]} =identification= % 同一視
+kakujitsushi {[scat n:vn]} =regard_as_being_certain= % 確実視
+seeshi {[scat n:vn]} =looking_in_the_face= % 正視
 asshoo {[scat n:vn]} =overwhelming_victory=
 baishuu	{[scat n:vn]} =acquisition=	%買収
 bika	{[scat n:vn]} =beautification= "bi_ka_CHANGE" % 美化

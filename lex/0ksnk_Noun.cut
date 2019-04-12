@@ -1,4 +1,13 @@
 % noun
+juuyookadai	{[scat n][comp n:an+n]} =important_issue= "juuyoo+kadai" % 重要課題
+juuyoomondai	{[scat n][comp n:an+n]} =important_issue= "juuyoo+mondai" % 重要問題
+juuyoojikoo	{[scat n][comp n:an+n]} =important_matter= "juuyoo+jikoo" % 重要事項
+juuyooshorui	{[scat n][comp n:an+n]} =important_document= "juuyoo+shorui" % 重要書類
+juuyooshisetsu	{[scat n][comp n:an+n]} =important_institution= "juuyoo+shisetsu" % 重要施設
+juuyoosankoonin	{[scat n][comp n:an+n]} =material_witness= "juuyoo+sankoonin" % 重要参考人
+juuyoomukeebunkazai	{[scat n][comp n:an+n:an+n]} =important_intangible_cultural_property= "juuyoo+mukee+bunka_zai_PROPERTY" % 重要無形文化財
+juuyoodo	{[scat n]} =priority= "juuyoo_do_DEGREE"
+juuyoosa	{[scat n]} =importance= "juuyoo-sa_NLZR"
 kumori {[scat n]} =cloudy_wether=	% 曇り
 kamoku {[scat n]} =subject=	% 科目
 kyooka {[scat n]} =subject=	% 教科
@@ -959,12 +968,9 @@ supeinjin	{[scat n]} =Spanish_person= "supein_jin_PERSON"
 sutoresu	{[scat n]} =stress=
 sutoroberiiaji	{[scat n]} =strawberry_flavor= "sutoroberii_aji_FLAVOR" % ストロベリー味
 syuukyoosee	{[scat n]} =religiousness= "syuukyoo_see_NATURE" % 宗教性
-taihensa	{[scat n]} =difficult= "taihen-sa_NLZR"
-taihensa {[scat n]} =difficult= "taihen-sa_NLZR"
 tainaidokee	{[scat n][comp n+n]} =biological_clock= "tai_nai+tokee"
 tairiku	{[scat n]} =continent=
 tairitsukooho   {[scat n][comp n:vn+n]} =opponent_in_election= "tairitsu+kooho"
-taisetsusa	{[scat n]} =important= "taisetsu-sa_NLZR"
 taishinsee	{[scat n]} =earthquake_resisting= "taishin_see_NATURE" % 耐震性
 taishuusee	{[scat n]} =popularity= "taishuu_see_NATURE" % 大衆性
 takkyuubinsha	{[scat n]} =home_delivery_truck= "takkyuubin_sha_VEHICLE"

@@ -906,7 +906,7 @@ shookaki	{[scat n]} =fire_extinguisher= "shooka_ki_MACHINE"
 shoomeesha	{[scat n]} =illumination_car= "shoomee_sha_VEHICLE"
 shoooten {[scat n]} =focus=
 shooraisee	{[scat n]} =future_prospect= "shoorai_see_NATURE" % 将来性
-shoosha	{[scat n]} =trading company= % 商社
+shoosha	{[scat n]} =trading_company= % 商社
 shooshokusee	{[scat n]} =decorativeness= "shooshoku_see_NATURE" % 装飾性
 shorui	{[scat n]} =document=
 shoshinsha	{[scat n]} =beginner= "shoshin_sha_PERSON"

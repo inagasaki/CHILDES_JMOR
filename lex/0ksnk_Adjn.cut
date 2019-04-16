@@ -198,8 +198,6 @@ zentaiteki	{[scat n:an]}  =overall=  "zentai-teki_ANZR" % 全体的
 zetsubooteki	{[scat n:an]} =desperate= "zetsuboo-teki_ANZR"
 
 % n:an:sub
-dame	{[scat n:an:sub]} =no_good= % 〜て（は）だめ/駄目 
-kekkoo	{[scat n:an:sub]} =fine= % 〜てけっこう/結構
 
 % ayashige	{[scat n:an]} == "ayashi-ge_TASTE" % 怪しげ
 % bukiyooge	{[scat n:an]} == "bukiyoo-ge_TASTE" % 不器用げ

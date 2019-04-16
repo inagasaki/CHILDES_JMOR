@@ -348,7 +348,7 @@ kooenkaisoshiki {[scat n][comp n:vn+n+n]} =organization_of_supporters_associatio
 koofuku	{[scat n]} =happiness=
 koogaku	{[scat n]} =high_value=
 koohosha	{[scat n]} =candidate= "kooho_sha_PERSON" % 候補者
-koohoshayooritsu {[scat n][comp n+n:vn]}    =putting_up_a_candidate" "koohosha+yooritsu"
+koohoshayooritsu {[scat n][comp n+n:vn]}    =putting_up_a_candidate= "koohosha+yooritsu"
 kookeesha	{[scat n]} =successor= "kookee_sha_PERSON" % 後継者
 koominkan	{[scat n]} =public_hall= "koomin_kan_BLDG" % 公民館
 koomoku		 {[scat n]} =item=
@@ -929,7 +929,6 @@ yuuyoo	{[scat n:an]} =useful=
 zeetaku	{[scat n:an]} =luxurious=
 zemmenteki	{[scat n:an]} =fullscale= "zemmen_teki_LIKE"
 zenkokuteki	{[scat n:an]} =nationwide= "zenkoku_teki_LIKE"
-zenryoku        {[scat n:an]}       =in_ones_all_might=
 zensekaiteki	{[scat n:an]} =global= "zensekai_teki_LIKE"
 zentaiteki	{[scat n:an]} =overall= "zentai_teki_LIKE" % 全体的
 zetsubooteki	{[scat n:an]} =desperate= "zetsuboo_teki_LIKE"

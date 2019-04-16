@@ -45,82 +45,12 @@ yoshi		{[scat adj][tense pres]} =good= "yo-shi_PRES" % シク活用「よし」
 % wh
 
 % adv
-aete	{[scat adv]} =daringly=
-amari	{[scat adv]} =very_much=
-anagachi	{[scat adv]} =not_necessarily=
-arakajime	{[scat adv]} =in_advance=
-aratamete	{[scat adv]} =again=
-atakamo	{[scat adv]} =as_if=
-atarikamawazu	{[scat adv]} =regardless_of_the_effect_on_others=
 ato	{[scat adv]} =another/more=
-betsuni	{[scat adv]} =particularly=
-chikaraippai	{[scat adv]} =with_all_one's_strength=
-danjite	{[scat adv]} =at_all=
-dekirudake	{[scat adv]} =all_possible_efforts=
-dooyoo	{[scat adv]} =same=
-en'en	{[scat adv]} =endlessly=
-fukabuka	{[scat adv]} =deeply=
-futo	{[scat adv]} =unintentionally=
-goku	{[scat adv]} =very=
-hatasshite	{[scat adv]} =sure_enough=
-hitoaji	{[scat adv]} =one_shade=
-hitorideni	{[scat adv]} =spontaneously=
-hitotsu	{[scat adv]} =just=
-hotondo	{[scat adv]} =mostly=
-hyottoshitara	{[scat adv]} =perhaps=
-hyottosuruto	{[scat adv]} =perhaps=
-ichiban	{[scat adv]} =most=
+hatashite	{[scat adv]} =sure_enough=
 ikken		      {[scat adv]} =at_first_sight=
-imahitotsu	{[scat adv]} =not_quite=
-inochikaragara	{[scat adv]} =with_bare_life=
-irekawaritachikawari	{[scat adv]} =one_after_another=
-issoo	{[scat adv]} =more=
-iwaba	{[scat adv]} =so_to_speak=
-iza	{[scat adv]} =well_then=
-izen	{[scat adv]} =still=
-jitsuwa	{[scat adv]} =in_fact= "jitsu_wa" % conj でなく
-kanarazushimo	{[scat adv]} =necessarily= "kanarazu_shimo"	% not_necessarily でなく（これ自体には否定が入っていない）
-katsute	{[scat adv]} =once=
-kesshite	{[scat adv]} =at_all=	% not_necessarily でなく（これ自体には否定が入っていない）
-kiwamete	{[scat adv]} =extremely=
-kotoni	{[scat adv]} =especially=
-kuchiguchini   {[scat adv]} =severally=
-kyuukyo	{[scat adv]} =in_haste=
-machigainaku   {[scat adv]} =definitely=
-marude	{[scat adv]} =just=
-masaka	{[scat adv]} =unlikely=
-mashite	{[scat adv]} =not_to_speak_of=
-mashiteya	{[scat adv]} =not_to_speak_of=
-mirukarani	{[scat adv]} =so_as_to_be_visible=
-mohaya	{[scat adv]} =by_now=
-mojidoori	{[scat adv]} =literally=
-moo	{[scat adv]} =another/more=
-nanto	{[scat adv]}    =very=  % eg: なんと大きな桃じゃ！; cf.: なんて
-nao	{[scat adv]} =still=
-nombiri	{[scat adv]} =leisurely=
-tabun	    {[scat adv]} =in_great_amount= %多分（に）
-tatoe	{[scat adv]} =even_if=
-tatta	{[scat adv]} =just=
-tattaima	{[scat adv]} =just_now=
-tenjite	{[scat adv]} =conversely=
-tobikiri	{[scat adv]} =exceptional=
-todonotsumari	{[scat adv]} =in_the_end=
-tokaku	{[scat adv]} =anyhow=
-tokini	{[scat adv]} =from_time_to_time=
-tokiori	{[scat adv]} =sometimes=
-tokitama	{[scat adv]} =sometimes=
-tomokaku       {[scat adv]} =setting aside=
-zotto	    {[scat adv]} =shudder= 
+tabun	{[scat adv]} =in_great_amount= %多分（に）
 
 % adv:onoma
-chiratto	{[scat adv:onoma]} =at_a_glance=
-fuwatto	{[scat adv:onoma]} =softly=
-gusarito	{[scat adv:onoma]} =deeply=
-hirarito	{[scat adv:onoma]} =hirarito=
-kachitto	{[scat adv:onoma]} =firmly=
-kakushakuto	{[scat adv:onoma]} =vigorously=
-potsunto	{[scat adv:onoma]} =solitarily=
-sansanto	{[scat adv:onoma]} =brightly=
 
 % onoma
 battari	{[scat onoma]} =unexpectedly=
@@ -144,7 +74,6 @@ kippari	{[scat onoma]} =diffinitely=
 kunekune	{[scat onoma]} =tortuous=
 meramera	{[scat onoma]} =in_flames=
 omeome	{[scat onoma]} =tamely=
-sappari	{[scat onoma]} =at_all=
 sekaseka	{[scat onoma]} =restlessly=
 shimijimi	{[scat onoma]} =heartily=
 tsuruntsurun	{[scat onoma]} =slippery=
@@ -155,13 +84,7 @@ zukezuke	{[scat onoma]} =bluntly=
 zurari	{[scat onoma]} =in_a_row=
 
 % adnominal (pnl)
-omoikitta	{[scat adn]} =daring=
-arayuru	{[scat adn]} =every=
-mishiranu	{[scat adn]} =unfamiliar=
-moto	{[scat adn]} =former=
-hyottoshita	{[scat adn]} =accidental=
 
 % deic
 kooshita	{[scat adn:deic:dem]} =like_this= % adn|koo_shita=such を変更
 
-donoyooni	{[scat adv:deic:wh]} =how= "dono_yoo_ni"

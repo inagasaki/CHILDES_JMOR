@@ -66,10 +66,7 @@ buchiatar	{[scat v:c][comp v:c+v:c]} =vigorously_hit_on= "but+atar"
 buchikom	{[scat v:c][comp v:c+v:c]} =vigorously_throw_into= "but+kom"
 buchitobas	{[scat v:c][comp v:c+v:c]} =vigorously_fly= "but+tobas"
 bukkake		{[scat v:v][comp v:c+v:v]} =vigorously_put_on= "but+kake"
-bukkom		{[scat v:c]} =vigorously_throw_into=
 butsukariaw	{[scat v:c][comp v:c+v:c]} =hit_each_other= "butsukar+aw"	%統語
-buttoos		{[scat v:c]} =vigorously_pass_through=
-chigir		{[scat v:c]} =tear=
 chigireochi	{[scat v:v][comp v:v+v:v]} =be_torn_off_fall= "chigire+ochi"
 chigiritor	{[scat v:c][comp v:c+v:c]} =tear_take= "chigir+tor"
 chijimiagar	{[scat v:c][comp v:c+v:c]} =shrink_up_completely= "chijim+agar"
@@ -599,7 +596,6 @@ kerikorogas	{[scat v:c][comp v:c+v:c]} =kick_roll= "ker+korogas"
 keritaos	{[scat v:c][comp v:c+v:c]} =kick_down= "ker+taos"
 keritsuke	{[scat v:v][comp v:c+v:v]} =kick_hard= "ker+tsuke"
 keshitob	{[scat v:c][comp v:c+v:c]} =scatter_away= "kes+tob"
-ketsumazuk	{[scat v:c]} =stumble= "ketsumazuk"
 kezuridas	{[scat v:c][comp v:c+v:c]} =shave_make= "kezur+das"
 kezurikom	{[scat v:c][comp v:c+v:c]} =shave_considerably= "kezur+kom"
 kezuriotos	{[scat v:c][comp v:c+v:c]} =shave_off= "kezur+otos"
@@ -663,7 +659,6 @@ kogoeshin	{[scat v:c][comp v:v+v:c]} =be_frozen_die= "kogoe+shin"
 kogoetsuk	{[scat v:c][comp v:v+v:c]} =be_frozen= "kogoe+tsuk"
 kogomikakar	{[scat v:c][comp v:c+v:c]} =lean_over= "kogom+kakar"
 koinegaw	{[scat v:c][comp v:c+v:c]} =beg_hope= "kow+negaw"
-kokioros	{[scat v:c]} =abuse=
 kokiotos	{[scat v:c][comp v:c+v:c]} =sqeeze_off= "kok+otos"
 komarikir	{[scat v:c][comp v:c+v:c]} =get_bothered_totally= "komar+kir"	%統語
 komarikom	{[scat v:c][comp v:c+v:c]} =get_bothered_completely= "komar+kom"
@@ -834,7 +829,6 @@ mukaiaw		{[scat v:c][comp v:c+v:c]} =face_each_other= "mukaw+aw"
 mukinaor	{[scat v:c][comp v:c+v:c]} =twist_be_adjusted= "muk+naor"
 mukureagar	{[scat v:c][comp v:v+v:c]} =swell_up= "mukure+agar"
 muretob		{[scat v:c][comp v:v+v:c]} =swarm_fly= "mure+tob"
-museb		{[scat v:c]} =be_choked=
 musebiage	{[scat v:v][comp v:c+v:v]} =sob_strongly= "museb+age"	
 musebinak	{[scat v:c][comp v:c+v:c]} =sob_cry= "museb+nak"
 musekaer	{[scat v:c][comp v:v+v:c]} =be_choked_back= "muse+kaer"
@@ -1003,7 +997,6 @@ nuitsuke	{[scat v:v][comp v:c+v:v]} =sew_attach= "nuw+tsuke"
 nuitsukurow	{[scat v:c][comp v:c+v:c]} =sew_mend= "nuw+tsukurow"
 nukeagar	{[scat v:c][comp v:v+v:c]} =come_off_in_the_front= "nuke+agar"
 nukeochi	{[scat v:v][comp v:v+v:v]} =come_off_fall= "nuke+ochi"
-nukinde		{[scat v:v]} =outstand= 
 nukisar		{[scat v:c][comp v:c+v:c]} =get_out_completely= "nuk+sar"
 nukisar		{[scat v:c][comp v:c+v:c]} =overtake_leave= "nuk+sar"
 nuresobot	{[scat v:c][comp v:v+v:c]} =get_wet_dripping= "nure+sobot"
@@ -1237,7 +1230,6 @@ sashimanek	{[scat v:c][comp v:c+v:c]} =beckon= "sas+manek"
 sashimodos	{[scat v:c][comp v:c+v:c]} =send_back= "sas+modos"
 sashinobor	{[scat v:c][comp v:c+v:c]} =high_rise= "sas+nobor"
 sashiok		{[scat v:c][comp v:c+v:c]} =put_aside= "sas+ok"
-sashisawar	{[scat v:c]} =hinder=
 sashitate	{[scat v:v][comp v:c+v:v]} =stab_put_up= "sas+tate"
 sashitsuke	{[scat v:v][comp v:c+v:v]} =press= "sas+tsuke"
 sashitsuranuk	{[scat v:c][comp v:c+v:c]} =stab_through= "sas+tsuranuk"
@@ -1250,7 +1242,6 @@ sasuriage	{[scat v:v][comp v:c+v:v]} =rub_up= "sasur+age"
 sawagimawar	{[scat v:c][comp v:c+v:c]} =make_noise_around= "sawag+mawar"
 sawagitat	{[scat v:c][comp v:c+v:c]} =make_noise_up= "sawag+tat"
 segamitate	{[scat v:v][comp v:c+v:v]} =pester_up= "segam+tate"
-sekiir		{[scat v:c]} =cough=
 sekitat		{[scat v:c][comp v:c+v:c]} =hasten_up= "sek+tat"
 semeagum	{[scat v:c][comp v:v+v:c]} =attack_be_at_a_loss= "seme+agum"
 semeaw		{[scat v:c][comp v:v+v:c]} =attack_each_other= "seme+aw"	%統語
@@ -1268,7 +1259,6 @@ seriagar	{[scat v:c][comp v:c+v:c]} =lift_up= "ser+agar"
 seriage		{[scat v:v][comp v:c+v:v]} =lift_up= "ser+age"
 seriaw		{[scat v:c][comp v:c+v:c]} =compete_each_other= "ser+aw"	%統語
 seridas		{[scat v:c][comp v:c+v:c]} =lift_out= "ser+das"
-seserawaraw	{[scat v:c]} =scoff=
 shaberikom	{[scat v:c][comp v:c+v:c]} =talk_in= "shaber+kom"
 shaberimawar	{[scat v:c][comp v:c+v:c]} =talk_around= "shaber+mawar"
 shaberippanas	{[scat v:c][comp v:c+v:c]} =talk_release= "shaber+hanas"
@@ -1371,15 +1361,12 @@ tabenare	{[scat v:v][comp v:v+v:v]} =eat_get_accustomed= "tabe+nare"	%統語
 tabeowar	{[scat v:c][comp v:v+v:c]} =eat_finish= "tabe+owar"
 tabewake	{[scat v:v][comp v:v+v:v]} =eat_devide= "tabe+wake"
 tachiagar	{[scat v:c][comp v:c+v:c]} =stand_up= "tat+agar"
-tachiage	{[scat v:v]} =make_something_start=
-tachiaw		{[scat v:c]} =be_present=
 tachifusagar	{[scat v:c][comp v:c+v:c]} =stand_be_closed= "tat+fusagar"
 tachihatarak	{[scat v:c][comp v:c+v:c]} =stand_work= "tat+hatarak"
 tachiitar	{[scat v:c][comp v:c+v:c]} =reach= "tat+itar"
 tachikaer	{[scat v:c][comp v:c+v:c]} =get_back= "tat+kaer"
 tachikakar	{[scat v:c][comp v:c+v:c]} =stand_begin_to= "tat+kakar" %統語(webにエントリー無し)
 tachikawar	{[scat v:c][comp v:c+v:c]} =alternate= "tat+kawar"
-tachikome	{[scat v:v]} =envelop=
 tachimajir	{[scat v:c][comp v:c+v:c]} =be_mixed= "tat+majir"
 tachimasar	{[scat v:c][comp v:c+v:c]} =surpass= "tat+masar"
 tachimawar	{[scat v:c][comp v:c+v:c]} =walk_revolve= "tat_mawar" %	立ち回る
@@ -1391,7 +1378,6 @@ tachisawag	{[scat v:c][comp v:c+v:c]} =make_noise= "tat+sawag"
 tachisow	{[scat v:c][comp v:c+v:c]} =close_together= "tat+sow"
 tachitsuranar	{[scat v:c][comp v:c+v:c]} =stand_side_by_side= "tat+tsuranar"
 tachiwar	{[scat v:c][comp v:c+v:c]} =cut_break= "tat+war"
-tachiyuk	{[scat v:c]} =can_get_along=
 tadayoide	{[scat v:v][comp v:c+v:v]} =drift_out= "tadayow+de"
 taeir		{[scat v:c][comp v:v+v:c]} =die_out= "tae+ir"
 tagiriochi	{[scat v:v][comp v:c+v:v]} =surge_fall= "tagir+ochi"
@@ -1414,7 +1400,6 @@ tanomiir	{[scat v:c][comp v:c+v:c]} =ask_earnestly= "tanom+ir"
 taorekakar	{[scat v:c][comp v:v+v:c]} =fall_down_over= "taore+kakar"
 taorekom	{[scat v:c][comp v:v+v:c]} =fall_down_into= "taore+kom"
 tarekakar	{[scat v:c][comp v:v+v:c]} =hang_over= "tare+kakar"
-tarekom		{[scat v:c]} =tip_off=
 tarekome	{[scat v:v][comp v:v+v:v]} =hang_spread= "tare+kome"
 tarenagas	{[scat v:c][comp v:v+v:c]} =hang_pour= "tare+nagas"
 tasukeokos	{[scat v:c][comp v:v+v:c]} =help_raise= "tasuke+okos"
@@ -1424,7 +1409,6 @@ tatakiage	{[scat v:v][comp v:c+v:v]} =strike_up= "tatak+age"
 tatakiire	{[scat v:v][comp v:c+v:v]} =strike_in= "tatak+ire"
 tatakikowas	{[scat v:c][comp v:c+v:c]} =strike_break= "tatak+kowas"
 tatakitobas	{[scat v:c][comp v:c+v:c]} =strike_hard= "tatak+tobas"
-tatamikake	{[scat v:v]} =work_on_continually=
 tatekom		{[scat v:c][comp v:c+v:c]} =have_many_buildings= "tat+kom"
 tatekom		{[scat v:c][comp v:c+v:c]} =be_busy= "tat+kom"
 tatekome	{[scat v:v][comp v:v+v:v]} =shut_tightly= "tate+kome"
@@ -1489,7 +1473,6 @@ torihakaraw	{[scat v:c][comp v:c+v:c]} =manage= "tor+hakaraw"
 torihakob	{[scat v:c][comp v:c+v:c]} =proceed= "tor+hakob"
 torihanas	{[scat v:c][comp v:c+v:c]} =take_release= "tor+hanas"
 torihazus	{[scat v:c][comp v:c+v:c]} =take_remove= "tor+hazus"
-toriir		{[scat v:c]} =flatter=
 toriire		{[scat v:v][comp v:c+v:v]} =take_into= "tor+ire"
 torikaer	{[scat v:c][comp v:c+v:c]} =take_change= "tor+kaer"
 torikaes	{[scat v:c][comp v:c+v:c]} =take_back= "tor+kaes"
@@ -1507,7 +1490,6 @@ torimatome	{[scat v:v][comp v:c+v:v]} =finish= "tor+matome"
 torimawas	{[scat v:c][comp v:c+v:c]} =handle= "tor+mawas"
 torimaze	{[scat v:v][comp v:c+v:v]} =mix= "tor+maze"
 torimusub	{[scat v:c][comp v:c+v:c]} =tie= "tor+musub"
-torinas		{[scat v:c]} =intercede=
 toriokonaw	{[scat v:c][comp v:c+v:c]} =conduct= "toriokonaw"
 torioros	{[scat v:c][comp v:c+v:c]} =take_down= "tor+oros"
 toriosae	{[scat v:v][comp v:c+v:v]} =take_hold_down= "tor+osae"
@@ -1528,7 +1510,6 @@ tottsukamar	{[scat v:c][comp v:c+v:c]} =take_be_caught= "tor+tsukamar"
 tsugiawase	{[scat v:v][comp v:c+v:v]} =patch_unite= "tsug+awase"
 tsugikom	{[scat v:c][comp v:c+v:c]} =spend_on= "tsug+kom"
 tsugitas	{[scat v:c][comp v:c+v:c]} =pour+add= "tsug+tas"
-tsuibam		{[scat v:c]} =peck=
 tsukaifurus	{[scat v:c][comp v:c+v:c]} =use_wear_out= "tsukaw+furus"
 tsukaihatas	{[scat v:c][comp v:c+v:c]} =use_finish= "tsukaw+hatas"
 tsukaiheras	{[scat v:c][comp v:c+v:c]} =use_reduce= "tsukaw+heras"
@@ -1550,10 +1531,7 @@ tsukamikakar	{[scat v:c][comp v:c+v:c]} =grab_toward= "tsukam+kakar"
 tsukamioros	{[scat v:c][comp v:c+v:c]} =grab_down= "tsukam+oros"
 tsukamitor	{[scat v:c][comp v:c+v:c]} =grab_take= "tsukam+tor"
 tsukarikom	{[scat v:c][comp v:c+v:c]} =be_immersed_into= "tsukar+kom"
-tsukeagar	{[scat v:c]} =get_conceited=
-tsukeir		{[scat v:c]} =take_advantage_of=
 tsukekae	{[scat v:v][comp v:v+v:v]} =attach_change= "tsuke+kae"
-tsukekom	{[scat v:c]} =take_advantage_of= %付け込む
 tsukekom	{[scat v:c][comp v:v+v:c]} =immerse_into= "tsuke+kom" %漬け込む
 tsukekuwawar	{[scat v:c][comp v:v+v:c]} =attach_get= "tsuke+kuwawar"
 tsukekuwawe	{[scat v:v][comp v:v+v:v]} =attach_add= "tsuke+kuwae"
@@ -1567,7 +1545,6 @@ tsukiage	{[scat v:v][comp v:c+v:v]} =thrust_up= "tsuk+age"
 tsukiake	{[scat v:v][comp v:c+v:v]} =thrust_open= "tsuk+ake"
 tsukiatar	{[scat v:c][comp v:c+v:c]} =thrust_hit= "tsuk+atar"
 tsukiate	{[scat v:v][comp v:c+v:v]} =thrust_hit= "tsuk+ate"
-tsukiaw		{[scat v:c]} =go_with=
 tsukiawas	{[scat v:c][comp v:c+v:c]} =thrust_unite= "tsuk+awas"
 tsukiawase	{[scat v:v][comp v:c+v:v]} =thrust_unite= "tsuk+awase"
 tsukiir		{[scat v:c][comp v:c+v:c]} =thrust_in= "tsuk+ir"
@@ -1587,7 +1564,6 @@ tsukitaos	{[scat v:c][comp v:c+v:c]} =thrust_down= "tsuk+taos"
 tsukitat	{[scat v:c][comp v:c+v:c]} =thrust_through= "tsuk+toor"
 tsukitate	{[scat v:v][comp v:c+v:v]} =thrust_stand= "tsuk+tate"
 tsukitobas	{[scat v:c][comp v:c+v:c]} =thrust_off= "tsuk+tobas"
-tsukitome	{[scat v:v]} =find_out=
 tsukitoor	{[scat v:c][comp v:c+v:c]} =thrust_through= "tsuk+toor"
 tsukitoos	{[scat v:c][comp v:c+v:c]} =thrust_through= "tsuk+toos"
 tsukitsuke	{[scat v:v][comp v:c+v:v]} =thrust_attach= "tsuk+tsuke"
@@ -1613,7 +1589,7 @@ tsumikasane	{[scat v:v][comp v:c+v:v]} =stack_accumulate= "tsum+kasane"
 tsumikom	{[scat v:c][comp v:c+v:c]} =load_into= "tsum+kom"
 tsuminokos	{[scat v:c][comp v:c+v:c]} =load_leave_behind= "tsum+nokos"	%統語
 tsumitor	{[scat v:c][comp v:c+v:c]} =pick_take= "tsum+tor" %摘み取る
-tsumtiate	{[scat v:v]} =save= 
+tsumitate	{[scat v:v]} =save=  % tsumitiate のエントリーを削除すること
 tsunagiawas	{[scat v:c][comp v:c+v:c]} =connect_unite= "tsunag+awas"
 tsunagiawase	{[scat v:v][comp v:c+v:v]} =connect_unite= "tsunag+awase"
 tsunagitome	{[scat v:v][comp v:c+v:v]} =connect_fix= "tsunag+tome"
@@ -1629,10 +1605,8 @@ tsuremawar	{[scat v:c][comp v:v+v:c]} =accompany_around= "tsure+mawar"
 tsuremawas	{[scat v:c][comp v:v+v:c]} =accompany_around= "tsure+mawas"
 tsuremodos	{[scat v:c][comp v:v+v:c]} =accompany_back= "tsure+modos"
 tsuresar	{[scat v:c][comp v:v+v:c]} =accompany_leave= "tsure+sar"
-tsuresow	{[scat v:c]} =be_married= 
 tsuriagar	{[scat v:c][comp v:c+v:c]} =get_caught= "tsur+agar"
 tsuriage	{[scat v:v][comp v:c+v:v]} =fish_up= "tsur+age"
-tsuriaw		{[scat v:c]} =match= 
 tsuridas	{[scat v:c][comp v:c+v:c]} =hang_out= "tsur+das"
 tsurikom	{[scat v:c][comp v:c+v:c]} =fish_into= "tsur+kom"
 tsurioros	{[scat v:c][comp v:c+v:c]} =hang_down= "tsur+oros" %吊り下ろす
@@ -1805,7 +1779,6 @@ warimodos	{[scat v:c][comp v:c+v:c]} =divide_back= "war+modos"
 waritsuke	{[scat v:v][comp v:c+v:v]} =divide_attach= "war+tsuke"
 wasuresar	{[scat v:c][comp v:v+v:c]} =forget_completely= "wasure+sar"
 watariaruk	{[scat v:c][comp v:c+v:c]} =travel_walk= "watar+aruk"
-watariaw	{[scat v:c]} =fight_with= 
 wazuraitsuk	{[scat v:c][comp v:c+v:c]} =become_ill= "wazuraw+tsuk"
 yakedas		{[scat v:c][comp v:v+v:c]} =burn_put_out= "yake+das"
 yakekoge	{[scat v:v][comp v:v+v:v]} =burn_char= "yake+koge"

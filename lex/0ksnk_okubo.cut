@@ -72,20 +72,10 @@ shinkookoku {[scat n]} =emerging_country= "shinkoo_koku_COUNTRY"	%新興国
 % Prop (n:prop)
 
 % VN (n:vn)
-
-hiroo	{[scat n:vn]} =introduction=	%披露
-bundan	{[scat n:vn]} =division=	%分断
 koonyuu	{[scat n:vn]} =purchase=	%購入
 shoyuu	{[scat n:vn]} =possession=	%所有
-baishuu	{[scat n:vn]} =acquisition=	%買収
-bumpu	{[scat n:vn]} =distribution=	%分布
 tooshi	{[scat n:vn]} =investment=	%投資
 zooka	{[scat n:vn]} =increase=	%増加
-
-
-
-
-
 
 % Verb (v:c, v:v, v:ir)
 

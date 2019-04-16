@@ -1,15 +1,6 @@
 % Adj(adj), Adv(adv), Admominal =PNL in Kainoki= (adn)
 
 % Adjn(n:an)
-arawa           {[scat n:an]}       =exposed=       % 露わだ
-tekitoo         {[scat n:an]}       =adequate=
-tekitoo         {[scat n:an]}       =trifling=
-komame          {[scat n:an]}       =diligent=
-meekaku         {[scat n:an]}       =definite=
-nookoo          {[scat n:an]}       =dense=
-nookoo          {[scat n:an]}       =of_strong_possibility=
-zenryoku        {[scat n:an]}       =in_ones_all_might=
-kenzen          {[scat n:an]}       =wholesome=
 
 % Noun (n, n:fml, n:deic)
 oote            {[scat n]}          =major=
@@ -17,9 +8,6 @@ denki           {[scat n]}          =electronics=   % 電機
 denki           {[scat n]}          =electronicity= % 電気
 meekaa          {[scat n]}          =manufacturer=  % メーカー
 ootedenkimeekaa {[scat n][comp n+n+n]} =major_electorics_company= "oote+denki+meekaa" % 大手電機メーカー
-chimeedo        {[scat n]}          =publicity=
-fusoku          {[scat n:vn]}       =insufficiency=
-chimeedobusoku  {[scat n][comp n+n:vn]} =low_publicity= "chimeedo+busoku"
 chuukaku        {[scat n]}          =core=          % 中核
 chuukakubyooin  {[scat n][comp n+n]} =hub_hospital= "chuukaku+byooin"
 den'en          {[scat n]}          =garden=        % 田園
@@ -97,38 +85,14 @@ kengikaigichoo  {[scat n][comp n+n+n]}  =chair_of_prefectural_council= "ken+gika
 kigyooyuuchi    {[scat n][comp n+n:vn]} =inviting_companies= "kigyoo+yuuchi"
 kooenkai        {[scat n][comp n:vn+n]} =supporters_association= "kooen+kai"
 kooenkaisoshiki {[scat n][comp n:vn+n+n]} =organization_of_supporters_associations= "kooen+kai+soshiki"
-koohoshayooritsu {[scat n][comp n+n:vn]}    =putting_up_a_candidate" "koohosha+yooritsu"
+koohoshayooritsu {[scat n][comp n+n:vn]}    =putting_up_a_candidate= "koohosha+yooritsu"
 
 % Prop (n:prop)
-higashinihon    {[scat n:prop][comp n+n:prop]}     =Eastern_Japan= "higashi+nihon"
-higashinihondaishinsai  {[scat n:prop][comp n+n:prop+pfx+n]}     =2011_Tohoku_Earthquake= "higashi+nihon+dai+shinsai"
 
 % VN (n:vn)
-fujoo       {[scat n:vn]}           =surface=                   % （問題が）浮上する
-fukkyuu     {[scat n:vn]}           =restoration=               % 復旧
-fushutsuba  {[scat n:vn]}           =not_running_for_election=
-handan      {[scat n:vn]}           =decision=
-iji         {[scat n:vn]}           =maintainance=              % 維持する
-setsujoku   {[scat n:vn]}           =revengence=                % 雪辱する
-shuchoo     {[scat n:vn]}           =claim=                     % 主張（する）
-shudoo      {[scat n:vn]}           =taking_initiative=
-tainin      {[scat n:vn]}           =resignation=
-koochiku    {[scat n:vn]}           =construction=
-gappee      {[scat n:vn]}           =merger=
-hihan       {[scat n:vn]}           =criticism=
-genshoo     {[scat n:vn]}           =decrease=
-jishoku     {[scat n:vn]}           =resignation=
-hinan       {[scat n:vn]}           =condemnation=              % 非難する
-kekki       {[scat n:vn]}           =rising_to_action=          % 決起する
-tassee      {[scat n:vn]}           =achievement=               % 達成
-taiketsu    {[scat n:vn]}           =confrontation=
-yuuchi      {[scat n:vn]}           =attraction=                % 誘致する
-kooen       {[scat n:vn]}           =support=                   % 後援する
 
 % Verb (v:c, v:v, v:ir)
 omodedat    {[scat v:c]}            =be_palpable=
-he          {[scat v:v]}            =go_by=                     % 経る
-he          {[scat v:v]}            =undergo=                   % 経る
 
 % misc (ptl, smod, conj, num, quant, co:i, -sfx)
 %% prefix

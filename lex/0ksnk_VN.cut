@@ -28,7 +28,6 @@ koodoo	{[scat n:vn]} =behave=
 kooen       {[scat n:vn]}           =support=                   % 後援する
 kooka	{[scat n:vn]} =hardening= "koo_ka_CHANGE" % 硬化
 kookoo	{[scat n:vn]} =cruise=
-koonyuu	{[scat n:vn]} =purchase=	%購入
 kooreeka	{[scat n:vn]} =aging= "kooree_ka_CHANGE" % 高齢化
 kooritsuka     {[scat n:vn]} =streamlining= "kooritsu_ka_BECOMING"
 koosee		{[scat n:vn]} =proofreading=
@@ -43,7 +42,7 @@ kyoozon	{[scat n:vn]} =exist_together=
 machi		{[scat n:vn]} =waiting= %待ち
 manryoo {[scat n:vn]} =expiration=
 mattoo	{[scat n:vn]} =completion=
-meigen {[scat n:vn]} =declaration=
+meegen {[scat n:vn]} =declaration= % 0Adu_Noun.cut の meigen を削除する
 miburui	{[scat n:vn]} =shiver=
 miryoo		{[scat n:vn]} =fascination=
 mochinige	{[scat n:vn]} =take_and_run_away= "nor_nige"  % 持ち逃げ
@@ -109,7 +108,6 @@ shitsuboo      {[scat n:vn]} =disappointment=
 shiyoo	{[scat n:vn]} =use=
 shoochoo       {[scat n:vn]} =symbolize=
 shoometsu	{[scat n:vn]} =disappearance=
-shoyuu	{[scat n:vn]} =possession=	%所有
 shuchoo     {[scat n:vn]}           =claim=                     % 主張（する）
 shudoo      {[scat n:vn]}           =taking_initiative=
 shudookenkakuho {[scat n:vn][comp n+n:vn]} =securing_initiative= "shudooken+kakuho"

@@ -65,7 +65,7 @@ kooritsuteki	{[scat n:an]} =efficient= "kooritsu-teki_ANZR"
 kooteeteki	{[scat n:an]}  =affirmative=  "kootee-teki_ANZR" % 肯定的
 maemuki	{[scat n:an]} =positive= % maemiki を削除してもらう
 makkuro	{[scat n:an]} =pitch_black= "ma_TRUE_kuro" %真っ黒
-massugu	{[scat n:an]} =straight= "ma_TRUE_sugu" 真っ直ぐ
+massugu	{[scat n:an]} =straight= "ma_TRUE_sugu" %真っ直ぐ
 miryokuteki	{[scat n:an]} =attractive= "miryoku-teki_ANZR"
 naibuteki	{[scat n:an]} =internal= "naibu-teki_ANZR"
 nihonteki	{[scat n:an]} =Japan= "nihon-teki_ANZR"

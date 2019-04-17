@@ -1,17 +1,60 @@
 % Adj(adj), Adv(adv), Admominal =PNL in Kainoki= (adn)
 
 % Adjn(n:an)
+sankamuryoo     {[scat n:an][scat n:vn+n:an]}   =no_participation_fee=  "sanka+muryoo"
 
-% Noun (n, n:fml, n:deic)
+% Noun (n, n:fml, n:deic)   
+boochootee      {[scat n]}                  =seawall=
+zai             {[scat n]}                  =goods=
+bunkazai        {[scat n][comp n+n]}        =cultural_asset=
+maizoobunkazai  {[scat n][comp n:vn+n+n]}   =buried_cultural_asset= "maizoo+bunka+zai"
+maizoobunkazaichoosa    {[scat n][comp n:vn+n+n+n:vn]}  =research_on_buried_cultural_asset= "maizoo+bunka+zai+choosa"
+hoomupeeji      {[scat n]}                  =website=
+jichitaishokuin {[scat n][comp n+n]}        =personnel_in_local_governments= "jichitai+shokuin"
+kiki            {[scat n]}                  =crisis=
+kikikanri       {[scat n][comp n+n:vn]}     =crisis_management=
+mooshikomisho   {[scat n]}                  =application_form=
+ooenshokuin     {[scat n][comp n:vn+n]}        =helper=    "ooen+shokuin"
+fukkooooenshokuin {[scat n][comp n:vn+n:vn+n]}  =reconstruction_helper= "fukkoo+ooen+shokuin"
+piiku           {[scat n]}                  =peak=
+shimpojiumu     {[scat n]}                  =symoposium=
+teein           {[scat n]}                  =capacity=          % 定員
+oosakafushokuin {[scat n][comp n:prop+n+n]} =personel_of_the_Osaka_prefectural_government=              "oosaka+fu+shokuin"
+jizen           {[scat n]}                  =beforehand=
+jizemmooshikomi {[scat n][comp n+n]}        =advanced_application=  "jizem+mooshikomi"
+bunkakai        {[scat n][comp n+n]}        =sectional_meeting=     "bunka+kai"
+hakenkeezoku    {[scat n][comp n:vn+n:vn]}  =continuation_of_dispatch=  "haken+keezoku"
+kyooi           {[scat n]}                  =board_of_education=
+kenkyooi        {[scat n][comp n+n]}        =prefectural_board_of_education= "ken+kyooi"
+fu              {[scat n]}                  =prefecture=
+koohooshitsu    {[scat n]}                  "koohoo_shitsu_OFFICE" =public_relations=
+choosakan       {[scat n]}                  "choosa-kan_CHIEFOFOFFICE" =investigation=
+
+kenhishokoohooshitsuchoosakan   {[scat n][comp n+n+n+n]} =chief_investigation_officer_public_relations_office_secretariat_of_governor=
+kadai           {[scat n]}                  =issue=
+shinai          {[scat n]}                  =within_city=
+
 
 % Prop (n:prop)
+oosakafu        {[scat n:prop][comp n:prop+n]}   =Osaka_prefecture=  "oosaka+fu"
+moriokashi      {[scat n:prop][comp n:prop+n]}   =Morioka_city=      "morioka+shi"
+iwatekyooikukaikan  {[scat n:prop][comp n:prop+n+n]} =Iwate_Education_Center= "iwate+kyooiku+kaikan"
 
 % VN (n:vn)
+maizoo      {[scat n:vn]}       =bury=
+fakkusu     {[scat n:vn]}       =fax=
+daunroodo   {[scat n:vn]}       =download=
+haken       {[scat n:vn]}       =dispatch=
+keezoku     {[scat n:vn]}       =continuation=
+koohoo      {[scat n:vn]}       =public_relations=
 
 % Verb (v:c, v:v, v:ir)
-omodedat    {[scat v:c]}            =be_palpable=
+omodedat    {[scat v:c]}            =be_palpable=               % 表立つ
 
 % misc (ptl, smod, conj, num, quant, co:i, -sfx)
+ryoojitsu   {[scat quant]}       "ryoo_BOTH_jitsu"  =day=       % 両日
+
+
 %% prefix
 %fuku {[scat pfx] [pcat n]}      "fuku_DEPUTY"                   % 副市長
 %bee {[scat pfx] [pcat n]}       "bee_AMERICAN"                  % 米大手商社

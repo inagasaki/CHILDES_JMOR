@@ -683,7 +683,6 @@ shoobooshi	{[scat n]} =fire_fighter= 	% 消防士 fireman でなく
 shoohinkoosee	{[scat n][comp n+n]} =merchandise_line= "shoohin+koosee"
 shoojigami	{[scat n][comp n+n]} =shooji_paper= "shooji+gami"
 shoojoo	{[scat n]} =certificate= %賞状
-shookaki	{[scat n]} =fire_extinguisher= "shooka_ki_MACHINE"
 shookazoku	{[scat n]} =small_family=	%少家族
 shookazoku	{[scat n]} =small_family= "shoo_SMALL_kazoku"	%小家族
 shoooten	{[scat n]} =focus=
@@ -697,10 +696,6 @@ shudooken	{[scat n]} =initiative=
 shudookenkakuho	{[scat n:n][comp n+n:vn]} =securing_initiative= "shudooken+kakuho"
 shudookenkakuho	{[scat n][comp n+n:vn]} =securing_initiative= "shudooken+kakuho"
 shuppangaisha	{[scat n][comp n:vn+n]} =publisher= "shuppan+kaisha"
-shuppansha	{[scat n]} =publisher=
-shusaisha	{[scat n]} =sponcor= "shusai_sha_PERSON" % 主催者
-shushoo	{[scat n]} =prime_minister=
-shussekisha	{[scat n]} =attendant= "shusseki_sha_PERSON" % 出席者
 shutsujoosenshu	{[scat n][comp n:vn+n]} =participating_athletes= "shutsujoo+senshu"
 shuubetsu	{[scat n]} =by_week= "shuu_betsu_RESPECTIVELY" % 週別
 shuubetsuhambaisuu	{[scat n][comp n+n]} =sales_quantity_by_week= "shuu_betsu_RESPECTIVELY+hambai_suu_NUMBER"
@@ -708,7 +703,6 @@ shuueki	{[scat n]} =proceeds=
 shuuekisee	{[scat n]} =profitability= "shuueki_see_NATURE" % 収益性
 shuugiinfukugichoo	{[scat n] [comp n+n]} =vice_speaker_of_the_House_of_Japan= "shuugiin+fukugichoo"
 shuugiinfukugichoo	{[scat n][comp n+n]} =vice_speaker_of_the_House_of_Japan= "shuugiin+fukugichoo"
-shuuhen	{[scat n]}          =periphery=
 shuuinsen	{[scat n]} =election_of_the_House_of_Japan=
 shuunen	{[scat n]} =tenacity_of_purpose=
 shuuraku	{[scat n]} =settlement=
@@ -729,32 +723,21 @@ sooshiki	{[scat n]} =funeral=
 sooyosan	{[scat n]} =general_budget= "soo_GENERAL_yosan" % 総予算
 soozee	{[scat n]} =in_all= "soo_GENERAL_zee" % 総勢
 soozoosee	{[scat n]} =creativity= "soozoo_see_NATURE" % 創造性
-suimen	{[scat n]} =water_surface=
 suimenka	{[scat n]} =below_the_surface=
-suimenka	{[scat n]} =below_the_surface=
-suirikuryooyoosha	{[scat n]} =amphibious_vehicle= "suirikuryooyoo_sha_VEHICLE" % “水陸両用車
 suisenjoo	{[scat n]} =letter_of_recommendation= %推薦状
-suizokukan	{[scat n]} =aquarium= "suizoku_kan_BLDG" % 水族館
 sujoo	{[scat n]} =origin= % 素性
 sukeeru	{[scat n]} =scale=
 sukiijoo	{[scat n]} =ski_area= %スキー場
-supeingo	{[scat n]} =Spanish_language= "supein_go_LANGUAGE"
-supeinjin	{[scat n]} =Spanish_person= "supein_jin_PERSON"
-suweedenjin	{[scat n]} =Swedish_person= "suweeden_jin_PERSON" %スウェーデン人
 suweedenjin	{[scat n]} =Swedish_person= "suweeden_jin_PERSON" %スウェーデン人
 syuukyoosee	{[scat n]} =religiousness= "syuukyoo_see_NATURE" % 宗教性
 taihensa	{[scat n]} =difficulty=
 taikoku	{[scat n]} =major_power= "tai_BIG_koku_COUNTRY"	%大国
-tairiku	{[scat n]} =continent=
 tairitsukooho	{[scat n][comp n:vn+n]} =opponent_in_election= "tairitsu+kooho"
-taisa	{[scat n]}          =large_differnce=           % 大差
 taisetsusa	{[scat n]} =importance=
 taishinsee	{[scat n]} =earthquake_resisting= "taishin_see_NATURE" % 耐震性
 taishoo	{[scat n]} =old_chap=
 taishuusee	{[scat n]} =popularity= "taishuu_see_NATURE" % 大衆性
-takkyuubinsha	{[scat n]} =home_delivery_truck= "takkyuubin_sha_VEHICLE"
 takotsubo	{[scat n]} =octopus_pot= "tako_tsubo"
-tame	{[scat n]} =due_to=
 tampimbetsu	{[scat n]} =respect_to_each_single_item= "tampin_betsu_RESPECTIVELY"
 tampindeeta	{[scat n][comp n+n]} =data_of_single_unit= "tampin+deeta"
 tan	{[scat n]} =origin= %端を発する
@@ -774,15 +757,11 @@ tokuigijutsu	{[scat n][comp n:ad+n]} =expertise= "tokui+gijutsu"
 tokusee	{[scat n]} =special_quality= % 特性
 tokushusee	{[scat n]} =particularity= "tokushu_see_NATURE" % 特殊性
 tokutee	{[scat n]} =specific=
-tooiinkai	{[scat n]} =this_committee= "too_THIS_iinkai"
 tookan	{[scat n]} =this_hall= "too_THIS_kan" % 当館
-tookyookai	{[scat n]} =this_church= "too_THIS_kyookai"
 toomeesee	{[scat n]} =transparency= "toomee_see_NATURE" % 透明性
-toomen	{[scat n]} =for_the_time_being=
 toonin	{[scat n]} =the_person_in_question= "too_THIS_nin"
 toosha	{[scat n]} =this_company= "too_THIS_sha"
 tooshi	{[scat n]} =this_city= "too_THIS_shi"
-toosho	{[scat n]} =at_first=
 toraburu	{[scat n]} =trouble=
 toshitsuki	{[scat n]} =years_and_months=
 tsukaiyasusa	{[scat n]} =use= "tsukaw-yasu_EASY-sa_NLZR" %使いやすさ(一時的に手動で登録した。02/20)

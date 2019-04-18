@@ -41,6 +41,7 @@ Ruvaniefujin			{[scat n:prop][comp n:prop+n]} =Mrs_Levannier= "Ruvanie+fujin"
 Sakuraikatsunobu    {[scat n:prop]} =Sakurai_Katsunobu= % news_KAHOKU_28
 San'yoodenkibooeki	{[scat n:prop]} =San'yoo_electric_and_trading_corporation= "San'yoo_denki_booeki" 
 Satooshi {[scat n:prop]} =Satoo-shi_HON= 
+Satooyuuhee	{[scat n:prop][comp n:prop+n:prop]} "Satoo-Yuuhee"
 Satooyuuheeshi {[scat n:prop][comp n:prop+n:prop]} "Satoo-Yuuhee-shi_HON"
 Sendaishi	{[scat n:prop]} =Sendai_city= "Sendai_shi"
 Shanhai	{[scat n:prop]} =Shanghai= %上海

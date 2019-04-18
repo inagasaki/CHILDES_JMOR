@@ -1,3 +1,7 @@
+% 削除してもらうエントリー
+% rikkoho -> rikkooho はすでにある。
+% 化 _ka_CHANGE と ka_BECOMING が存在。どちらかに統一
+
 %
 chiikisaisee {[scat n:vn][comp n+n:vn]} =revival_of_provincial_areas= "chiiki+saisee"
 chooheekensa	{[scat n:vn][comp n:vn+n:vn]} =conscription_check= "choohee+kensa"
@@ -7,12 +11,15 @@ dempyookihyoo		{[scat n:vn][comp n+n:vn]} =issuing_a_payment_slip= "dempyoo+kihy
 dookyoseekatsu	{[scat n:vn][comp n:vn+n:vn]} =cohabitation= "dookyo+seekatsu"
 gutaika	{[scat n:vn]} =substantiation= "gutai_ka_CHANGE" % n:an のエントリーを削除してもらう
 gyakkoo	{[scat n:vn]} =run_counter=
+hakki	{[scat n:vn]} =give_full_play=
+hatsutoosen	{[scat n:vn][comp n+n:vn]} =be_firstly_elected= "hatsu+toosen"
 itenkensetsu {[scat n:vn][comp n:vn+n:vn]} =moving_and_constructing= "iten+kensetsu"
 jihishuppan	{[scat n:vn][comp n+n:vn]} =self_publishing= "jihi+shuppan"
 kaigairyokoo	{[scat n:vn][comp n+n:vn]} =overseas_trip= "kaigai+ryokoo"
 kaisai	{[scat n:vn]} =open=
 kaishasaisee		{[scat n:vn][comp n+n:vn]} =regeneration_of_the_company= "kaisha+saisee"
 kakuho	{[scat n:vn]} =secure=
+kakujitsushi	{[scat n:vn]} =considering_to_be_sure=
 kan'yuu	{[scat n:vn]} =persuade=
 kanchi	{[scat n:vn]} =perceive=
 kankyoohairyo	{[scat n:vn][comp n+n:vn]} =environmental_considerations= "kankyoo_hairyo"
@@ -22,114 +29,16 @@ kekkonseekatsu	{[scat n:vn][comp n:vn+n:vn]} =married_life= "kekkon+seekatsu"
 kenkootaioo	{[scat n:vn][comp n+n:vn]} =health_support= "kenkoo+taioo"
 kikisentee	{[scat n:vn][comp n+n:vn]} =equipment_selection= "kiki+sentee"
 koobo	{[scat n:vn]} =publicly_recruit=
-koochiku    {[scat n:vn]}           =construction=
-koodoka	{[scat n:vn]} =advancement= "koodo_ka_CHANGE" % 高度化
-koodoo	{[scat n:vn]} =behave=
-kooen       {[scat n:vn]}           =support=                   % 後援する
-kooka	{[scat n:vn]} =hardening= "koo_ka_CHANGE" % 硬化
-kookoo	{[scat n:vn]} =cruise=
-kooreeka	{[scat n:vn]} =aging= "kooree_ka_CHANGE" % 高齢化
-kooritsuka     {[scat n:vn]} =streamlining= "kooritsu_ka_BECOMING"
-koosee		{[scat n:vn]} =proofreading=
 kooshugookaku	{[scat n:vn][comp n+n:vn]} =pass_the_conscription_check_as_a_first-class= "kooshu+gookaku"
-koozoku {[scat n:vn]} =following= % 後続
-koyoo	{[scat n:vn]} =employment=
-kuinige	{[scat n:vn]} =eat_and_run_away= "kuw_nige"  % 食い逃げ
-kusen {[scat n:vn]} =having_a_difficult_campaign=
-kyojyuu	{[scat n:vn]} =live=
-kyooka	{[scat n:vn]} =enlightenment= "kyoo_ka_CHANGE" % 教化
-kyoozon	{[scat n:vn]} =exist_together=
-machi		{[scat n:vn]} =waiting= %待ち
-manryoo {[scat n:vn]} =expiration=
-mattoo	{[scat n:vn]} =completion=
-meegen {[scat n:vn]} =declaration= % 0Adu_Noun.cut の meigen を削除する
-miburui	{[scat n:vn]} =shiver=
-miryoo		{[scat n:vn]} =fascination=
-mochinige	{[scat n:vn]} =take_and_run_away= "nor_nige"  % 持ち逃げ
-nagatsuzuki {[scat n:vn]} =lasting_long= % 長続き
-nanka	{[scat n:vn]} =soften=
+mochinige	{[scat n:vn]} =take_and_run_away= "mot_nige"  % 持ち逃げ
 nihonryuugaku	{[scat n:vn][comp n:prop+n:vn]} =study_in_Japan= "nihon+ryuugaku"
 ninchiseekyuu	{[scat n:vn][comp n:vn+n:vn]} =claim_for_acknowledgement= "ninchi+seekyuu"
-ninshiki       {[scat n:vn]} =recognize=
-norinige	{[scat n:vn]} =ride_and_run_away= "nor_nige"  % 乗り逃げ
-nyuugaku	{[scat n:vn]} =entrance_into_school= % 入学
-nyuukoo	{[scat n:vn]} =arrival_in_port=
-nyuusha	{[scat n:vn]} =	entering_company=
-nyuutai		{[scat n:vn]} =enlistment=
-okusoku      {[scat n:vn]}  =speculation=
-omemoji	{[scat n:vn]} =view=
-ooatari {[scat n:vn]} =great_hit= "oo_BIG_atari" % 大当り
-ooburi {[scat n:vn]} =heavy_rain= "oo_BIG_buri" % 大降り
-ooburi {[scat n:vn]} =overswing= "oo_BIG_buri" % 大振り
-oomawari {[scat n:vn]} =big_detour= "oo_BIG_mawari" % 大回り
-oosawagi {[scat n:vn]} =big_disturbance= "oo_BIG_sawagi" % 大騒ぎ
-oowarai {[scat n:vn]} =good_laugh= "oo_BIG_warai" % 大笑い
-ooyorokobi {[scat n:vn]} =great_joy= "oo_BIG_yorokobi" % 大喜び
-rakusen {[scat n:vn]} =losing_an_election=
-rendoo	{[scat n:vn]} =interlocking= % 連動
-renzoku {[scat n:vn]} =continuance= % 連続
-rikkoho {[scat n:vn]} =stand_as_a_candidate=
-rikkooho {[scat n:vn]} =candidacy=
-rikon	{[scat n:vn]} =devorce= % 離婚
-risooka	{[scat n:vn]} =idealization= "risoo_ka_CHANGE" % 理想化
-rooka	{[scat n:vn]} =aging= "roo_ka_CHANGE" % 老化
-ryokka	{[scat n:vn]} =tree_planting= "ryok_ka_CHANGE" % 緑化
-ryuudooka	{[scat n:vn]} =fluidization= "ryuudoo_ka_CHANGE" % 流動化
-ryuugaku	{[scat n:vn]} =study_abroad=
-sabetsu	{[scat n:vn]} =discrimination= % 差別
-sabetsuka	{[scat n:vn]} =	differentiation= "sabetsu_ka_CHANGE" % 差別化
-saikai		{[scat n:vn]} =reunite=
-saikai	{[scat n:vn]} =reopen=
-saikasseeka	{[scat n:vn]} =revitalization= "sai_AGAIN_kassee_ka_CHANGE" % 再活性化
+sabetsuka	{[scat n:vn]} =differentiation= "sabetsu_ka_CHANGE" % 差別化
 saikenkaishi	{[scat n:vn][comp n:vn+n:vn]} =beginning_of_the_reconstruction= "saiken+kaishi"
-saisen       {[scat n:vn]}  =being_reelected=
-sanka	{[scat n:vn]} =oxidation= "san_ka_CHANGE" % 酸化
-seekan	{[scat n:vn]} =come_back_alive=
-seesan	{[scat n:vn]} =produce=
-seeshi {[scat n:vn]} =looking_in_the_face= % 正視
-sentee		{[scat n:vn]} =selection=
-seppuku		{[scat n:vn]} =harakiri=
-setchi	{[scat n:vn]} =set_up=
-setsujoku   {[scat n:vn]}           =revengence=                % 雪辱する
-setsuritsu	{[scat n:vn]} =establishment=
-setsuzoku {[scat n:vn]} =connection= % 接続
-shashoo	{[scat n:vn]} =abstract=
-shidoo	{[scat n:vn]} =guide= % 指導
-shifuto	{[scat n:vn]} =shift=
-shigeki	{[scat n:vn]} =stimulation=
-shiki        {[scat n:vn]}  =direction=
-shimpai	{[scat n:vn]} =worry=	%【心配】 sorrow でなく
-shimpo	{[scat n:vn]} =progres=
-shinhakken	{[scat n:vn]} =new_discovery= "shin_NEW_hakken"
-shinkakuka	{[scat n:vn]} =deification= "shinkaku_ka_CHANGE" % 神格化
-shinkokuka	{[scat n:vn]} =becoming_more_serious= "shinkoku_ka_CHANGE"
-shiteki      {[scat n:vn]}  =indicate=
-shitsuboo      {[scat n:vn]} =disappointment=
-shiyoo	{[scat n:vn]} =use=
-shoochoo       {[scat n:vn]} =symbolize=
-shoometsu	{[scat n:vn]} =disappearance=
-shuchoo     {[scat n:vn]}           =claim=                     % 主張（する）
-shudoo      {[scat n:vn]}           =taking_initiative=
+shiharai	{[scat n:vn]} =payment= "shihara_GER"
 shudookenkakuho {[scat n:vn][comp n+n:vn]} =securing_initiative= "shudooken+kakuho"
-shuppan	{[scat n:vn]} =publication=
-shusseki	{[scat n:vn]} =attend=
-shutsuba     {[scat n:vn]}  =running_for_an_election=
 shuuyakuka	{[scat n:vn]} =consolidation= "shuuyaku_ka_CHANGE" % 集約化
-shuzai	{[scat n:vn]} =interview=
 songaibaishooseekyuu   {[scat n:vn][comp n+n:vn]} =claim_for_damages= "songaibaishoo+seekyuu"
-sonzoku {[scat n:vn]} =lasting= % 存続
-sooi	{[scat n:vn]} =difference=
-soosetsu       {[scat n:vn]} =establishment=
-sooshutsu      {[scat n:vn]} =creation=
-soozoku {[scat n:vn]} =inheritance= % 相続
-sotsugyoo	{[scat n:vn]} =graduate=
-suii	{[scat n:vn]} =transition=
-suimin	{[scat n:vn]} =sleep=
-suishin	{[scat n:vn]} =propel=
-suishin      {[scat n:vn]}  =promotion=
-suuchika	{[scat n:vn]} =conversion_to_numerical_form= "suuchi_ka_CHANGE" % 数値化
 tsunamihisai {[scat n:vn][comp n+n:vn]} =damage_by_tsunami= "tsunami+hisai"
 zasshizukuri   {[scat n:vn][comp n+n:vn]} =magazine_publishing= "zasshi+zukuri"
-zenshin	{[acat n:vn]} =advance=
-
-
+zenshin	{[scat n:vn]} =advance= 

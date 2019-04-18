@@ -187,7 +187,6 @@ hagata	{[scat n]} =tooth_mold= "ha_gata_SHAPE"
 haguruma	{[scat n]} =toothed_gear=
 haihiiru	{[scat n]} =high_heels= % ハイヒール（複合名詞のエントリーを削除してもらう）
 haitokusee	{[scat n]} =immorality= "haitoku_see_NATURE" % 背徳性
-hakki	{[scat n:vn]} =give_full_play=
 hakobiya	{[scat n]} =transporter= "hakobi_ya_SHOP"
 hakoosee	{[scat n]} =unevenness= "hakoo_see_NATURE" % 跛行性
 hambai__cdot__mentenansumoo	{[scat n]} =sales_and_maintenance_network= "hambai__cdot__mentenansu_moo"
@@ -202,7 +201,6 @@ hasshinryoku	{[scat n]} =communicativity= "hasshin_ryoku_POWER" % 複合名詞�
 hassinryoku	{[scat n]} =communicativity= % 複合名詞ではない：*発信のりょく
 hatchuuhojuusuu	{[scat n][comp n:vn+n:vn]} =number_of_orders_and_replenishments= "hatchuuhojuu_suu_NUMBER"
 hatsu	{[scat n]}      =first=         % 初
-hatsutoosen	{[scat n:vn][comp n+n:vn]} =be_firstly_elected= "hatsu+toosen"
 hattentojookoku	{[scat n]} =developing_country=	%発展途上国
 hattentojookoku	{[scat n][comp n+n]} =developing_country= "hatten+tojoo_koku_COUNTRY"	%発展途上国
 heegai	{[scat n]}      =ill_effect=     % 弊害
@@ -326,7 +324,6 @@ kaiyoosee	{[scat n]} =marine= "kaiyoo_see_NATURE" % 海洋性
 kako	{[scat n]} =past=
 kaku	{[scat n]} =core=
 kakubetsu	{[scat n]} =special=
-kakujitsushi	{[scat n:vn]} =considering_to_be_sure=
 kakusa	{[scat n]} =inequality= %格差
 %kamigami	{[scat n]} =gods= % reduplication は compound にせずに一語扱いでいいのでは? hitobito, kigi,hibi なども同様
 kamigata	{[scat n]} =hair_style= "kami_gata_SHAPE"
@@ -468,7 +465,6 @@ kure	{[scat n]} =toward_the_end=
 kurisumasukyuuka	{[scat n][comp n+n]} =christmas_vacation= "kurisumasu+kyuuka"
 kuse	{[scat n]} =habit=
 kyaputen	{[scat n]} =captain=
-kyoochoo	{[scat n:vn]} =emphasis=
 kyoodoo	{[scat n]} =cooporation=
 kyoodootai	{[scat n]} =community=
 kyooikutekunorojii	{[scat n][comp n:vn+n]} =education_technology= "kyooiku+tekunorojii"	%教育テクノロジー
@@ -634,7 +630,6 @@ shidookyookan	{[scat n][comp n:vn+n]} =mentor= "shidoo+kyookan"
 shigikai	{[scat n]}  =city_counsil=
 shigikaigichoo	{[scat n][comp n+n]}    =speaker_of_a_city_counsil= "shigikai+gichoo"
 shihaishoyuukankee	{[scat n][comp n:vn+n:vn+n:vn]} =dominance_and_owership_relationship=
-shiharai	{[scat n:vn]} =payment=
 shikkusushiguma	{[scat n]} =six_sigma=
 shimai	{[scat n]} =sister=
 shimbijinesu	{[scat n][comp n+n]} =new_business= % 新ビジネス

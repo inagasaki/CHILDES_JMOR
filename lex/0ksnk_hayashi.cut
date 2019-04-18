@@ -1,7 +1,9 @@
 % Adj(adj), Adv(adv), Admominal =PNL in Kainoki= (adn)
+imawanaki       {[scat adn]}                =late=      % 今は無き（物故した）
 
 % Adjn(n:an)
 sankamuryoo     {[scat n:an][scat n:vn+n:an]}   =no_participation_fee=  "sanka+muryoo"
+ichizu          {[scat n:an]}               =getting_obsessed=
 
 % Noun (n, n:fml, n:deic)   
 boochootee      {[scat n]}                  =seawall=
@@ -29,11 +31,25 @@ kenkyooi        {[scat n][comp n+n]}        =prefectural_board_of_education= "ke
 fu              {[scat n]}                  =prefecture=
 koohooshitsu    {[scat n]}                  "koohoo_shitsu_OFFICE" =public_relations=
 choosakan       {[scat n]}                  "choosa-kan_CHIEFOFOFFICE" =investigation=
-
 kenhishokoohooshitsuchoosakan   {[scat n][comp n+n+n+n]} =chief_investigation_officer_public_relations_office_secretariat_of_governor=
 kadai           {[scat n]}                  =issue=
 shinai          {[scat n]}                  =within_city=
-
+gen'eki         {[scat n]}                  =active=
+hatsuharu       {[scat n]}                  =new_year=
+hatsuharu       {[scat n]}                  =early_spring=
+sobo            {[scat n]}                  =grandmother=
+sofu            {[scat n]}                  =grandfather=
+sofubo          {[scat n]}                  =grandparents=
+kanreki         {[scat n]}                  =sixties_birthday=
+kooin           {[scat n]}                  =time=                  % 光陰
+kyooin          {[scat n]}                  =schoolteacher=
+kyooinseekatsu  {[scat n][comp n+n:vn]}   =life_as_a_teacher=     "kyooin+seekatsu"
+oshiego         {[scat n][comp v:v+n]}      =pupil=                 "oshie+go"
+piriodo         {[scat n]}                  =period=
+shinchiku       {[scat n]}                  =those_newly_built=     % 新築
+mottoo          {[scat n]}                  =motto=
+ittoo           {[scat n]}                  "it-too_LIGHT" =one=    % 一灯
+shoogai         {[scat n]}                  =lifetime=
 
 % Prop (n:prop)
 oosakafu        {[scat n:prop][comp n:prop+n]}   =Osaka_prefecture=  "oosaka+fu"
@@ -46,9 +62,13 @@ fakkusu     {[scat n:vn]}       =fax=
 daunroodo   {[scat n:vn]}       =download=
 haken       {[scat n:vn]}       =dispatch=
 koohoo      {[scat n:vn]}       =public_relations=
+taishoku    {[scat n:vn]}       =resignation=
+teenentaishoku  {[scat n:vn]}{[comp]}   =retirement=
+shinchiku       {[scat n:vn]}           =building_newly=     % 新築
 
 % Verb (v:c, v:v, v:ir)
-omodedat    {[scat v:c]}            =be_palpable=               % 表立つ
+omodedat    {[scat v:c]}        =be_palpable=                   % 表立つ
+shitatame   {[scat v:v]}        =write_a_letter=                % 認める
 
 % misc (ptl, smod, conj, num, quant, co:i, -sfx)
 ryoojitsu   {[scat quant]}       "ryoo_BOTH_jitsu"  =day=       % 両日

@@ -2,8 +2,6 @@
 %nagara	{[scat ptl:conj]} =although= % 動詞接尾辞の「ながら」と区別する、ptl:foc のエントリーは削除
 
 % smod
-bekarazu	{[scat smod]} =OBLG= "beshi&NEG"
-beku	{[scat smod]} =OBLG= "beshi&ADV"
 chigainai	{[scat smod]} =must= "chigaina-PRES"
 chigainakatta	{[scat smod]} =must= "chigaina-PAST"
 
@@ -11,36 +9,6 @@ chigainakatta	{[scat smod]} =must= "chigaina-PAST"
 chinamini	{[scat conj]} =by_the_way=
 datosuruto	{[scat conj]} =assuming_that=
 desuga	{[scat conj]} =but=
-ga	{[scat conj]} =but=
-ippoo	{[scat conj]} =on_the_other_hand=
-ja	{[scat conj]} =then=
-jaa	{[scat conj]} =then=
-katoitte	{[scat conj]} =having_said_that=
-katsu	{[scat conj]} =and=
-keredo	{[scat conj]} =but=
-keredomo	{[scat conj]} =but=
-kuwaete	{[scat conj]} =besides=
-mata	{[scat conj]} =and=
-matawa	{[scat conj]} =or=
-moshikuwa	{[scat conj]} =or=
-mottomo	{[scat conj]} =however=
-narabini	{[scat conj]} =and=
-oyobi	{[scat conj]} =and=
-sarani	{[scat conj]} =furthermore=
-saraniwa	{[scat conj]} =furthermore=
-shikashinagara	{[scat conj]} =but=
-shitagatte	{[scat conj]} =therefore=
-shitemiruto	{[scat conj]} =if_so=
-sookatoitte	{[scat conj]} =having_said_that=
-sooshite	{[scat conj]} =and_then=
-soredemo	{[scat conj]} =nevertheless=
-soredokoroka	{[scat conj]} =on_the_contrary=
-soremo	{[scat conj]} =and_in_addition_to_that=
-sorenishitemo	{[scat conj]} =nevertheless=
-toiunowa	{[scat conj]} =because=
-towaie	{[scat conj]} =nevertheless=
-towaittemo	{[scat conj]} =nevertheless=
-yotte	{[scat conj]} =therefore=
 
 % num
 

@@ -16,76 +16,11 @@ shooryoo	{[scat n:an]} =small_quantity= "shoo_SMALL_ryoo"	%小量
 
 % Noun (n, n:fml, n:deic)
 
-mafuyu {[scat n]} =midwinter= "ma_TRUE_winter" %真冬
-ooame	{[scat n]} =heavy_rain= "oo_BIG_ame"	%大雨
-kosame	{[scat n]} =light_rain= "ko_SMALL_ame" %小雨
-ooarashi	{[scat n]} =heavy_storm= "oo_BIG_arashi" %大嵐
-oodoori	{[scat n]} =main_street= "oo_BIG_doori"	%大通り
-oogata	{[scat n]} =big= "oo_BIG_kata"	%大型
-kogata	{[scat n]} =big= "ko_SMALL_kata"	%小型
-oogatasen	{[scat n]} =big_ship= "oo_BIG_gata_sen_SHIP" %大型船
-kogatasen	{[scat n]} =small_ship= "ko_SMALL_gata_sen_SHIP" %小型船
-
-jinkoo {[scat n]} =population=	%人口
-anarogu {[scat n]} =analog=	%アナログ
-suweedenjin {[scat n]} =Swedish_person= "suweeden_jin_PERSON" %スウェーデン人
-kuniguni {[scat n]} =countries=	%国々
-koteekannen {[scat n]} =fixed_idea=	%固定観念
-bunrui {[scat n]} =classification=	%分類
-ikkoku {[scat n]} =moment=	%一刻
-keezai {[scat n]} =economy=	%経済
-kyuujitsu {[scat n]} =holiday=	%休日
-higeki {[scat n]} =tragedy=	%悲劇
-ge {[scat n]} =bottom=	%下(例「中の下」)
-kakusa {[scat n]} =inequality= %格差
-shotoku {[scat n]} =income= %所得
-zentee {[scat n]} =premise=	%前提
-taikoku {[scat n]} =major_power= "tai_BIG_koku_COUNTRY"	%大国
-shinkoo {[scat n]} =developing=	%新興
-senshin {[scat n]} =advanced=	%先進
-koogyoo {[scat n]} =industry=	%工業
-tojoo {[scat n]} =on_the_way=	%途上
-daikazoku {[scat n]} =big_family= "dai_BIG_kazoku"	%大家族
-shookazoku {[scat n]} =small_family= "shoo_SMALL_kazoku"	%小家族
-
-dejitarutekunorojii {[scat n][comp n+n]} =digital_technology= "dejitaru_tekunorojii"	%デジタルテクノロジー
-kyooikutekunorojii {[scat n][comp n+n]} =education_technology= "kyooiku+tekunorojii"	%教育テクノロジー
-keezaireberu {[scat n][comp n+n]} =economic_level= "keezai+reberu"	%経済レベル
-keezaiseechoo {[scat n][comp n+n]} =economic_growth= "keezai+seechoo"	%経済成長
-guriintekunorojii {[scat n][comp n+n]} =green_technology= "guriin+tekunorojii"	%グリーンテクノロジー
-kikoohendoo {[scat n][comp n+n]} =climate_change= "kikoo+hendoo"	%気候変動
-shinkookeezai {[scat n][comp n+n]} =emerging_economy= "shinkoo+keezai"	%新興経済
-kazokukeekaku {[scat n][comp n+n]} =family_planning= "kazoku+keekaku"	%家族計画
-zookaritsu {[scat n][comp n+n]} =growth_rate= "zooka+ritsu"	%増加率
-jinkoozookaritsu {[scat n][comp n+n+n]} =population_growth_rate= "jinkoo+zooka+ritsu"	%人口増加率
-
-
-
-
-seeooshokoku {[scat n][comp n+n]} =Western_countries= "seeoo+sho_VARIOUS_koku_COUNTRY"	%西欧諸国
-keezaitaikoku {[scat n][comp n+n]} =economic_power= "keezai+tai_BIG_koku_COUNTRY"	%経済大国
-senshinkoogyookoku {[scat n][comp n+n]} =developed_country= "senshin+koogyoo_koku_COUNTRY" %先進工業国
-hattentojookoku {[scat n][comp n+n]} =developing_country= "hatten+tojoo_koku_COUNTRY"	%発展途上国
-shinkookeezaikoku {[scat n][comp n+n]} =emerging_country= "shinkoo+keezai_koku_COUNTRY"	%新興経済国
-shinkookoku {[scat n]} =emerging_country= "shinkoo_koku_COUNTRY"	%新興国
-
 % Prop (n:prop)
 
 % VN (n:vn)
-
-hiroo	{[scat n:vn]} =introduction=	%披露
-bundan	{[scat n:vn]} =division=	%分断
-koonyuu	{[scat n:vn]} =purchase=	%購入
-shoyuu	{[scat n:vn]} =possession=	%所有
-baishuu	{[scat n:vn]} =acquisition=	%買収
-bumpu	{[scat n:vn]} =distribution=	%分布
 tooshi	{[scat n:vn]} =investment=	%投資
 zooka	{[scat n:vn]} =increase=	%増加
-
-
-
-
-
 
 % Verb (v:c, v:v, v:ir)
 
@@ -231,13 +166,11 @@ sakari {[scat n]} =peak/prime=	%盛り
 mori {[scat n]} =serving/helping=	%盛り
 nemuri {[scat n]} =sleep=	%眠り
 nagame {[scat n]} = view=	%眺め
-shirase {[scat n]} =news=	%知らせ
 migaki {[scat n]} =polish/improvement=	%磨き
 inori {[scat n]} =prayer=	%祈り
 iwai {[scat n]} =celebration=	%祝い
 tsuki {[scat n]} =thrust=	%突き
 warai {[scat n]} =laughter=	%笑い
-kotae {[scat n]} =answer=	%答え
 musubi {[scat n]} =knot=	%結び
 musubi {[scat n]} =end/conclusion=	%結び
 tsuzuki {[scat n]} =continuation/sequel=	%続き

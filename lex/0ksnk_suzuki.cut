@@ -4,13 +4,16 @@ kitto	    {[scat adv:onoma]} =sharply= "kit_to"
 tsuide	    {[scat adv]} =next= %次いで
 
 % Adjn(n:an)
+hoofu	{[scat n:an]} =rich= 
 jiyuukimama	{[scat n:an]} =unfettered=
 
 % Noun (n, n:fml, n:deic)
 aiteshoosha	  {[scat n][comp n+n]} =partner_company= "aite+shoosha"
 bempoo		  {[scat n]} =expedient=
 bijinesukooshoo	  {[scat n][comp n+n:vn]} =negotiation_for_business= "bijinesu+kooshoo"
+chijoo		  {[scat n]} =ground=
 chooinshiki	  {[scat n][comp n:vn+n]} =signing_ceremony= "chooin+shiki"
+fujin		  {[scat n]} =wife=
 fuuboo		  {[scat n]} =features=
 genchi {[scat n]} =actual_place=
 genchisee     {[scat n]} =made_in_the_actual_place= "genchi_see_MADE"
@@ -18,30 +21,75 @@ goobengaisha  {[scat n][comp n+n]} =joint_corporation= "gooben+kaisha"
 goobengaishasetsuritsu	{[scat n][comp n+n+n:vn]} =establishment_of_a_joint_corporation= "gooben+kaisha+setsuritsu"
 goobengaishasetsuritsukeeyakusho       {[scat n][comp n+n+n:vn+n]} =contact_document_of_establishment_of_a_joint_corporation= "gooben+kaisha+setsuritsu+keeyakusho"
 gyakutengeki			       {[scat n][comp n:vn+n]} =dramatic_turnabout= "gyakuten+geki"
+hishootai			       {[scat n]} =flying_object=
 hoosookaishi			       {[scat n][comp n:vn+n:vn]} =beginning_broadcasting= "hoosoo+kaishi"
-kakubetsu			       {[scat n]} =special=
-kokusaikan			       {[scat n]} =international= "kokusai_kan_BETWEEN"
-koojookensetsu		{[scat n][comp n+n:vn]} =building_a_factory= "koojoo+kensetsu"
+ikoo				       {[scat n]} =after=
 kaigaitanshinfunin	{[scat n][comp n+n+n:vn]} =working_overseas_without_one's_family= "kaigai+tanshin+funin"
+kakubetsu			       {[scat n]} =special=
+kakushigo			       {[scat n]} =illegitimate_child=
 karaaterebihoosookaishi	{[scat n][comp n+n+n:vn+n:vn]} =start_of_broadcast_on_color_tv= "karaa+terebi+hoosoo+kaishi"
+kenchikuka		{[scat n]} =architect=
 kihaku			{[scat n]} =spirit=
+kokusaikan			       {[scat n]} =international= "kokusai_kan_BETWEEN"
+koohan				       {[scat n]} =second_half=
+koojookensetsu		{[scat n][comp n+n:vn]} =building_a_factory= "koojoo+kensetsu"
 ma	   {[scat n]} =eyes=
+manaa	   {[scat n]} =manner=
 minooe {[scat n]} =circumstances=
+mono   {[scat n]} =person=
+naigai {[scat n]} =inside_and_outside=
 ninchi {[scat n]} =post=
 nyuuinsaki    {[scat n]} =hospital_where_someone_is_admitted=
 oosutorariahatsu     {[scat n]} =first_in_Australia= "Oosutoraria_hatsu_FIRST"
+parameetaa	     {[scat n]}  =pamameter=
 roo		     {[scat n]} =labor=
+ryokoosaki	     {[scat n]} =destination=
 saishi {[scat n]} =wife_and_children=
 saki   {[scat n]} =future=
+saku   {[scat n]} =work=
+sasupensu__cdot__horaakatsugeki	{[scat n]} =suspense_and_horror_drama=
+seechoochuu			{[scat n]} =be_growing= "seechoo_chuu_IN"
 seego  {[scat n]} =after_birth= "see_go_AFTER"
 seesankaishi  {[scat n][comp n:vn+n:vn]}  =beginning_to_produce= "seesan+kaishi"
+seeyuu	      {[scat n]} =voice_actor=
+senga	      {[scat n]} =line_drawing=
 shimai {[scat n]} =sister=
 shinraikankee {[scat n][comp n:vn+n]} =relationship_of_mutual_trust= "shinrai+kankee"
+shujinkoo     {[scat n]} =main_character=
+sooga	      {[scat n]} =illustration=
+sutando	      {[scat n]} =Stand=
+sutandotsukai {[scat n][comp n+n]} =Stand_user= "sutando+tsukai"
 taishoo	      {[scat n]} =old_chap=
+tenjoo	      {[scat n]} =sky=
+toojooji      {[scat n]} =at_the_time_of_an_appearance= "toojoo_ji_TIME"
 toraburu      {[scat n]} =trouble=
+toshishita    {[scat n]} =younger=
 toshitsuki    {[scat n]} =years_and_months=
+weetaa	      {[scat n]} =waiter=
+yosoogai      {[scat n]} =unexpected=
+yumi	      {[scat n]} =bow=
+zenhan	      {[scat n]} =first_half=
   
 % Prop (n:prop)
+Fujikeeko	{[scat n:prop]} =Fuji_Keeko=
+Hatanowataru	{[scat n:prop]} =Hatano_Wataru= "Hatano_wataru"
+Hawai  {[scat n:prop]} =Hawaii=
+Hawaidaigaku  {[scat n:prop][comp n:prop+n]} =University_of_Hawaii= "Hawai+daigaku"
+Higashikatajoosuke   {[scat n:prop]} =Higashikata_Joosuke= "Higashikata_joosuke"
+Isozaki		{[scat n:prop]} =Isozaki=
+Isozakiarata	{[scat n:prop]} =Isozaki_arata=
+Isozakifusai	{[scat n:prop]} =Mr._and_Mrs._Isozaki= "Isozaki_fusai"
+Jojo		{[scat n:prop]} =Jojo=
+Jojonokimyoonabookenoorusutaabatoru	{[scat n:prop]} =all-star_battle_of_Jojo's_bizarre_adventure= "Jojo_no_kimyoo_na_booken_oorusutaa_batoru"
+Joosuke					{[scat n:prop]} =Joosuke=
+Josefu__cdot__joosutaa	{[scat n:prop]} =Joseph_Joestar=
+Kuujoojootaroo		{[scat n:prop]} =Kuujoo_Jootaroo= "Kuujoo_jootaroo"
+Man__cdot__ree	{[scat n:prop]} =Man_Ray=
+Miyawaki	{[scat n:prop]} =Miyawaki=
+Miyawakiaiko	{[scat n:prop]} =Miyawaki_Aiko=
+Moriouchoo	{[scat n:prop]} =town_of_Morioo=
+Nihonkokuemukenesushimorioochoo	{[scat n:prop]} =town_of_Morioo_S-city_M-prefecture_Japan= "Nihonkoku_emuken_esushi_morioochoo"
+Tookyoogeejutsudaigaku	{[scat n:prop][comp n:prop+n+n]} =Tokyo_University_of_the_Arts= "Tookyoo+geejutsu+daigaku"
 
 % VN (n:vn)
 chooin	{[scat n:vn]} =signing=
@@ -51,15 +99,27 @@ kaikyoku       {[scat n:vn]} =opening_a_station=
 kooshin	{[scat n:vn]} =renewal=
 kyootan	{[scat n:vn]} =admiration=
 seeritsu       {[scat n:vn]} =realization=
+shuuchuukoogi  {[scat n:vn][comp n:vn+n:vn]} =intensive_course= "shuuchuu+koogi"
+soshiki	       {[scat n:vn]} =organization=
 teean	       {[scat n:vn]} =suggestion=
+zatsudan       {[scat n:vn]} =chat=
 
 % Verb (v:c, v:v, v:ir)
+gochisooninar	  {[scat v:c]} =be_treated_to_a_meal=
+mitemawar    {[scat v:c][comp v:v+v:c]} =see/look/watch_around= "mi-CONN+mawar"
 mukae  {[scat v:v]} =reach_a_certain_time=
 musub  {[scat v:c]} =conclude=
+tsukawarehaime	    {[scat v:v][comp v:c+v:v]} =be_used_start "tsukaw+hajime"
+ukagaw		    {[scat v:c]} =hear_POL=
 
 % misc (ptl, smod, conj, num, quant, co:i, -sfx)
+cm {[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numCBb numCBn2]} "cm_CM"
+hatsu  {[scat pfx] [pcat n]} "hatsu_FIRST"
+hon {[scat pfx] [pcat n]} "hon_THIS" %本 
+nanihitotsu  {[scat quant]} =nothing=
 soohoo	  {[scat quant]} =both_side=
-
+tomo	  {[scat quant]} =both=
+toono	  {[scat adn:deic:dem]} =that= %当の
 
 % pending items
-% de	  {[scat ptl:post]} =BY/WITH= %LOC以外のpostのエントリーがほしい --> LOC で代表させる
+% dai	  {[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numCBb numCBn2]} % 20代、30代のような「代」にグロスを何とつければよいか

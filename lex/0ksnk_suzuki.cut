@@ -8,35 +8,13 @@ hoofu	{[scat n:an]} =rich=
 jiyuukimama	{[scat n:an]} =unfettered=
 
 % Noun (n, n:fml, n:deic)
-<<<<<<< HEAD
-aiteshoosha	  {[scat n][comp n+n]} =partner_company= "aite+shoosha"
-bempoo		  {[scat n]} =expedient=
-bijinesukooshoo	  {[scat n][comp n+n:vn]} =negotiation_for_business= "bijinesu+kooshoo"
 chijoo		  {[scat n]} =ground=
-chooinshiki	  {[scat n][comp n:vn+n]} =signing_ceremony= "chooin+shiki"
-fujin		  {[scat n]} =wife=
-fuuboo		  {[scat n]} =features=
-genchi {[scat n]} =actual_place=
-genchisee     {[scat n]} =made_in_the_actual_place= "genchi_see_MADE"
-goobengaisha  {[scat n][comp n+n]} =joint_corporation= "gooben+kaisha"
-goobengaishasetsuritsu	{[scat n][comp n+n+n:vn]} =establishment_of_a_joint_corporation= "gooben+kaisha+setsuritsu"
-goobengaishasetsuritsukeeyakusho       {[scat n][comp n+n+n:vn+n]} =contact_document_of_establishment_of_a_joint_corporation= "gooben+kaisha+setsuritsu+keeyakusho"
-gyakutengeki			       {[scat n][comp n:vn+n]} =dramatic_turnabout= "gyakuten+geki"
 hishootai			       {[scat n]} =flying_object=
-hoosookaishi			       {[scat n][comp n:vn+n:vn]} =beginning_broadcasting= "hoosoo+kaishi"
 ikoo				       {[scat n]} =after=
-kaigaitanshinfunin	{[scat n][comp n+n+n:vn]} =working_overseas_without_one's_family= "kaigai+tanshin+funin"
-kakubetsu			       {[scat n]} =special=
 kakushigo			       {[scat n]} =illegitimate_child=
-karaaterebihoosookaishi	{[scat n][comp n+n+n:vn+n:vn]} =start_of_broadcast_on_color_tv= "karaa+terebi+hoosoo+kaishi"
 kenchikuka		{[scat n]} =architect=
-kihaku			{[scat n]} =spirit=
-kokusaikan			       {[scat n]} =international= "kokusai_kan_BETWEEN"
 koohan				       {[scat n]} =second_half=
-koojookensetsu		{[scat n][comp n+n:vn]} =building_a_factory= "koojoo+kensetsu"
-ma	   {[scat n]} =eyes=
-manaa	   {[scat n]} =manner=
-minooe {[scat n]} =circumstances=
+minoue {[scat n]} =circumstances=
 mono   {[scat n]} =person=
 naigai {[scat n]} =inside_and_outside=
 ninchi {[scat n]} =post=
@@ -70,8 +48,6 @@ weetaa	      {[scat n]} =waiter=
 yosoogai      {[scat n]} =unexpected=
 yumi	      {[scat n]} =bow=
 zenhan	      {[scat n]} =first_half=
-=======
->>>>>>> 5b369012736f8a6a0a365f39feff60fd3380f394
   
 % Prop (n:prop)
 Fujikeeko	{[scat n:prop]} =Fuji_Keeko=
@@ -112,13 +88,11 @@ gochisooninar	  {[scat v:c]} =be_treated_to_a_meal=
 mitemawar    {[scat v:c][comp v:v+v:c]} =see/look/watch_around= "mi-CONN+mawar"
 mukae  {[scat v:v]} =reach_a_certain_time=
 musub  {[scat v:c]} =conclude=
-tsukawarehaime	    {[scat v:v][comp v:c+v:v]} =be_used_start "tsukaw+hajime"
+tsukawarehajime	    {[scat v:v][comp v:v+v:v]} =be_used_start= "tsukaw-PASS+hajime"
 ukagaw		    {[scat v:c]} =hear_POL=
 
 % misc (ptl, smod, conj, num, quant, co:i, -sfx)
 cm {[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numCBb numCBn2]} "cm_CM"
-hatsu  {[scat pfx] [pcat n]} "hatsu_FIRST"
-hon {[scat pfx] [pcat n]} "hon_THIS" %本 
 nanihitotsu  {[scat quant]} =nothing=
 soohoo	  {[scat quant]} =both_side=
 tomo	  {[scat quant]} =both=
@@ -126,3 +100,6 @@ toono	  {[scat adn:deic:dem]} =that= %当の
 
 % pending items
 % dai	  {[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numCBb numCBn2]} % 20代、30代のような「代」にグロスを何とつければよいか
+
+%hatsu  {[scat pfx] [pcat n]} "hatsu_FIRST"
+%hon {[scat pfx] [pcat n]} "hon_THIS" %本 

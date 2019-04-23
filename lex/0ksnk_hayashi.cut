@@ -63,7 +63,7 @@ daunroodo   {[scat n:vn]}       =download=
 haken       {[scat n:vn]}       =dispatch=
 koohoo      {[scat n:vn]}       =public_relations=
 taishoku    {[scat n:vn]}       =resignation=
-teenentaishoku  {[scat n:vn]}{[comp]}   =retirement=
+teenentaishoku  {[scat n:vn]}{[comp n+n:vn]}   =retirement= "teenen+taishoku"
 shinchiku       {[scat n:vn]}           =building_newly=     % 新築
 
 % Verb (v:c, v:v, v:ir)

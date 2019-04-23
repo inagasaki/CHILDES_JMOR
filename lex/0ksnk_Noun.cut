@@ -1,6 +1,7 @@
 %kamigami	{[scat n]} =gods= % reduplication は compound にせずに一語扱いでいいのでは? hitobito, kigi,hibi なども同様
 
 % noun
+manaa	   {[scat n]} =manner= % minooe を削除
 aidagara	{[scat n]} =relationship=
 aiji	{[scat n]} =beloved_child=
 aisuhokkee	{[scat n]} =ice_hockey=
@@ -38,7 +39,8 @@ bengijoo	{[scat n]} =for_convenience_sake=
 bijinesukooshoo	{[scat n][comp n+n:vn]} =negotiation_for_business= "bijinesu+kooshoo"
 bijireeku	{[scat n]} =flowery_words=
 bonchi	{[scat n]} =basin=
-booekiakaji	{[scat n][comp n+n]} =trade_loss= "booeki+akaji"
+booeki	{[scat n:vn]} =trade=
+booekiakaji	{[scat n][comp n:vn+n]} =trade_loss= "booeki+akaji"
 boonenkai	{[scat n]} =year_end_party=
 bootoo	{[scat n]} =beginning=
 bosee	{[scat n]} == "bo_see_NATURE" % 母性
@@ -213,7 +215,9 @@ harikaeyoohinn	{[scat n][comp n:vn+n]} =articles_for_repapering= "harikae+yoohin
 hasshinryoku	{[scat n]} =communicativity= "hasshin_ryoku_POWER" % 複合名詞ではない：*発信のりょく
 hassinryoku	{[scat n]} =communicativity= % 複合名詞ではない：*発信のりょく
 hatchuuhojuusuu	{[scat n][comp n:vn+n:vn]} =number_of_orders_and_replenishments= "hatchuuhojuu_suu_NUMBER"
-hatsu	{[scat n]}      =first=         % 初
+hatsu	{[scat n]} =first= % 初
+hatsubutai	{[scat n]} =debut= "hatsu_FIRST_butai" % 初舞台
+hatsumago	{[scat n]} =first_grandson= "hatsu_FIRST_mago" % 初孫
 hattentojookoku	{[scat n][comp n+n]} =developing_country= "hatten+tojoo_koku_COUNTRY"	%発展途上国
 hattentojookoku	{[scat n]} =developing_country=	%発展途上国
 heegai	{[scat n]}      =ill_effect=     % 弊害
@@ -227,7 +231,7 @@ hikidashi	{[scat n]} =drawer=
 himmoku__cdot__tampimbetsu	{[scat n]} =respect_to_each_list_of_items_and_single_item= "himmoku__cdot__tampin_betsu_RESPECTIVELY"
 himokuzoo	{[scat n]} =nonwooden= "hi_NEG_mokuzoo" % 非木造
 hiseezoogyoo	{[scat n]} =nonmanufacturing_industry= "hi_NEG_seezoogyoo" % 非製造業
-hisho	{[scat n]} =secretary= 
+hisho	{[scat n]} =secretary=
 hitsuyoosee	{[scat n]} =necessity= "hitsuyoo_see_NATURE" % 必要性
 hitsuzensee	{[scat n]} =necessity= "hitsuzen_see_NATURE" % 必然性
 hiyoo	{[scat n]} =cost=	% 費用
@@ -372,8 +376,15 @@ kazaritsuke	{[scat n]} =decoration=
 kazokukeekaku	{[scat n][comp n+n]} =family_planning= "kazoku+keekaku"	%家族計画
 kazokutan'i	{[scat n][comp n+n]} =family_unit= "kazoku+tan'i"
 kazokutoo	{[scat n]} =family_island=
-keeee	{[scat n]} =manager= "keeee_sha_PERSON"
-keeeekonsarutanto	{[scat n][comp n:vn+n]} =management_consultant= "keeee+konsarutanto"
+keeeeantee {[scat n][comp n:vn+n:vn]} =stability_of_management= "keeee+antee" % 経営安定
+keeeegaku	{[scat n]} =study_of_business_administration= % 経営学
+keeeegatagyoosee {[scat n][comp n+n]} =administration_in_the_style_of_private_companies= "keeee_gata_SHAPE+gyoosee" % 経営型行政 0Adu_Noun.cut のエントリーを削除
+keeeegawa	{[scat n]} =management_side= "keeee_gawa_SIDE" % 経営側
+keeeekadai {[scat n][comp n:vn+n]} =business_challenge= "keeee+kadai" % 経営課題
+keeeekankyoo {[scat n][comp n:vn+n]} =business_environment= "keeee+kankyoo" % 経営環境
+keeeekibo {[scat n][comp n:vn+n]} =size_of_a_business= "keeee+kibo" % 経営規模
+keeeekonsarutanto	{[scat n][comp n:vn+n]} =management_consultant= "keeee+konsarutanto" % 経営コンサルタント
+keeeesha	{[scat n]} =manager= "keeee_sha_PERSON" % 経営者
 keehi	{[scat n]} =expense=
 keeji	{[scat n]} =police_detective=
 keeki	{[scat n]} =opportunity=
@@ -497,6 +508,7 @@ ma	{[scat n]} =eyes=
 madifu	{[scat n]} =mudhif=
 mafuyu	{[scat n]} =midwinter=
 mafuyu	{[scat n]} =midwinter= "ma_TRUE_winter" %真冬
+mago	{[scat n]} =grandson= % 孫
 mahoodoo	{[scat n]} =magic= "mahoo_doo_HALL" % 魔法堂
 maihoomu	{[scat n]} =my_home=
 mainasushikoo	{[scat n][comp n+n]} =negative_thinking= "mainasu+shikoo" % マイナス思考
@@ -684,6 +696,10 @@ shitsuke	{[scat n]} =training=
 shiya	{[scat n]} =field_of_vision=
 shodai	{[scat n]} =the_first=
 shodana	{[scat n][comp n+n]} =book_shelves= "sho+tana"
+shoka	{[scat n]} =early_summer= % 初夏
+shokidankai	{[scat n][comp n+n]} =initial_stage= "shoki+dankai" % 初期段階
+shokigazoo	{[scat n][comp n+n]} =first_image= "shoki+gazoo" % 初期画像
+shokijootai	{[scat n][comp n+n]} =initial_state= "shoki+jootai" % 初期状態
 shokumihyooronka	{[scat n][comp n+n]} =food_critic= "shokumi+hyooronka"
 shoo	{[scat n]} =ministry=
 shoobooshi	{[scat n]} =fire_fighter= 	% 消防士 fireman でなく
@@ -696,7 +712,12 @@ shoooten	{[scat n]} =focus=
 shooraisee	{[scat n]} =future_prospect= "shoorai_see_NATURE" % 将来性
 shoosha	{[scat n]} =trading_company= % 商社
 shooshokusee	{[scat n]} =decorativeness= "shooshoku_see_NATURE" % 装飾性
+shoshin	{[scat n]} =state_of_mind_in_the_beginning= % 初心
+shoshun	{[scat n]} =early_spring= % 初春
+shoshuu	{[scat n]} =early_autumn= % 初秋
 shotoku	{[scat n]} =income= %所得
+shotoo	{[scat n]} =beginning= % 初頭
+shotoo	{[scat n]} =early_winter= % 初冬
 shubetsu	{[scat n]} =classification= % 種別
 shudai	{[scat n]} =subject=
 shudooken	{[scat n]} =initiative=

@@ -50,6 +50,27 @@ shinchiku       {[scat n]}                  =those_newly_built=     % 新築
 mottoo          {[scat n]}                  =motto=
 ittoo           {[scat n]}                  "it-too_LIGHT" =one=    % 一灯
 shoogai         {[scat n]}                  =lifetime=
+bakumatsu       {[scat n]}                  =end_of_a_shogunate=
+butsuri         {[scat n]}                  =physics=
+butsurigaku     {[scat n]}                  =physics=
+butsurigakusha  {[scat n][comp n+n]}        =physicist=             "butsuri+gakusha"
+chie            {[scat n]}                  =wisdom=
+eegomee         {[scat n]}                  =English_name=
+kaitee          {[scat n]}                  =sea_bottom=
+kazan           {[scat n]}                  =volcano=
+kaiteekazan     {[scat n][comp n+n]}        =submarine_volcano=     "kaitee+kazan"
+kurofune        {[scat n]}                  =black_ships_of_Commodore_Perry=
+mizou           {[scat n]}                  =unprecedence=          % 未曾有
+ryoodo          {[scat n]}                  =territory=
+zuihitsu        {[scat n]}                  =essay=
+shinwa          {[scat n]}                  =myth=
+shimaguni       {[scat n]}                  =seagirt_country=
+seemeetai       {[scat n]}                  =living_organism=
+reametaru       {[scat n]}                  =rear_metal=
+minamitorishimaoki  {[scat n][comp n:prop+n]}   =coast_of_Minamitorishima= "minamitorishima+oki"
+shigen          {[scat n]}                  =resource=
+maizooshigen    {[scat n][comp n:vn+n]}     =underground_resource=
+kubomi          {[scat n]}                  =hollow=
 
 % Prop (n:prop)
 oosakafu        {[scat n:prop][comp n:prop+n]}   =Osaka_prefecture=  "oosaka+fu"
@@ -64,7 +85,11 @@ haken       {[scat n:vn]}       =dispatch=
 koohoo      {[scat n:vn]}       =public_relations=
 taishoku    {[scat n:vn]}       =resignation=
 teenentaishoku  {[scat n:vn]}{[comp n+n:vn]}   =retirement= "teenen+taishoku"
-shinchiku       {[scat n:vn]}           =building_newly=     % 新築
+shinchiku   {[scat n:vn]}       =building_newly=     % 新築
+hanron      {[scat n:vn]}       =refutation=
+ryooyuu     {[scat n:vn]}       =possession=
+rensoo      {[scat n:vn]}       =association_of_ideas=  % 連想する
+raikoo      {[scat n:vn]}       =arrival_by_ship=       % 来航する
 
 % Verb (v:c, v:v, v:ir)
 omodedat    {[scat v:c]}        =be_palpable=                   % 表立つ

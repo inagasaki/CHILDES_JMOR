@@ -4,6 +4,9 @@ imawanaki       {[scat adn]}                =late=      % 今は無き（物故�
 % Adjn(n:an)
 sankamuryoo     {[scat n:an][scat n:vn+n:an]}   =no_participation_fee=  "sanka+muryoo"
 ichizu          {[scat n:an]}               =getting_obsessed=
+karoyaka        {[scat n:an]}   =light=
+haiteku         {[scat n:an]}   =high_tech=
+haitateki       {[scat n:an]}   =exclusive= "haita_teki_ANZR"
 
 % Noun (n, n:fml, n:deic)   
 boochootee      {[scat n]}                  =seawall=
@@ -71,7 +74,26 @@ minamitorishimaoki  {[scat n][comp n:prop+n]}   =coast_of_Minamitorishima= "mina
 shigen          {[scat n]}                  =resource=
 maizooshigen    {[scat n][comp n:vn+n]}     =underground_resource=
 kubomi          {[scat n]}                  =hollow=
+higashimukoo    {[scat n][comp n+n]}        =in_the_east= "higashi+mukoo"
+suiiki          {[scat n]}                  =waters= % 水域
+haitatekikeezaisuiiki   {[scat n][comp n:an+n+n]}   =EEZ= "haita_teki_ANZR+keezai+suiiki"
 
+indai          {[scat n]}                  =mythological_age=
+jindaishi       {[scat n]}                  =history_of_mythological_ages=
+shinjitsu       {[scat n]}                  =truth=
+kagakutekishinjitsu {[scat n][comp n:an+n]} =scientific_truth= "kagaku-teki_ANZR+shinjitsu"
+kaihatsuken     {[scat n]}                  =right_of_development=
+kaiyoo          {[scat n]}                  =ocean=
+kaiyoogijutsu   {[scat n]}{[comp n+n]}   =maritime_technology=
+kaiyoogijutsukoku   {[scat n][comp n+n]}    =nation_of_maritime_technology= "kaiyoo+gijutsu_koku_NATION"
+rettoo          {[scat n]}                  =chain_of_islands=
+senkakusha      {[scat n]}                  =pathfinder=
+kaizu           {[scat n]}                  =marine_chart=
+shuuhenkaizu    {[scat n][comp n+n]}        =chart_of_periphery_waters=
+kiki            {[scat n]}                  =machine=
+haiteku         {[scat n]}                  =high_tech=
+haitekukiki     {[scat n][comp n:an+n]}             =high_tech_machine= "haiteku+kiki"
+koosee          {[scat n]}                  =coming_ages=
 % Prop (n:prop)
 oosakafu        {[scat n:prop][comp n:prop+n]}   =Osaka_prefecture=  "oosaka+fu"
 moriokashi      {[scat n:prop][comp n:prop+n]}   =Morioka_city=      "morioka+shi"
@@ -90,10 +112,13 @@ hanron      {[scat n:vn]}       =refutation=
 ryooyuu     {[scat n:vn]}       =possession=
 rensoo      {[scat n:vn]}       =association_of_ideas=  % 連想する
 raikoo      {[scat n:vn]}       =arrival_by_ship=       % 来航する
+haita       {[scat n:vn]}       =exclusion=             % 排他する
+abaremboozoroi  {[scat n][comp n+v:c]}  =full_of_rowdies= "abaremboo+zoroi"
 
 % Verb (v:c, v:v, v:ir)
 omodedat    {[scat v:c]}        =be_palpable=                   % 表立つ
 shitatame   {[scat v:v]}        =write_a_letter=                % 認める
+chinam      {[scat v:c]}        =be_associated_with=
 
 % misc (ptl, smod, conj, num, quant, co:i, -sfx)
 ryoojitsu   {[scat quant]}       "ryoo_BOTH_jitsu"  =day=       % 両日

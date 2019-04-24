@@ -233,7 +233,7 @@ tasukeai {[scat n][comp v:v+v:c]} =helping_each_other= "tasuke+ai" %助け合い
 torikumi {[scat n][comp v:c+v:c]} =attempt/approach= "tor+kumi"	%取り組み
 toriatsukai {[scat n][comp v:v+v:c]} =treatment/service= "tor+atsukai"	%取扱い
 uketsuke {[scat n][comp v:v+v:v]} =reception= "uke+tsuke"	%受け付け
-uketsuke {[scat n][comp v:v+v:v]} =acceptance= "uke+ire"	%受け入れ
+ukeire {[scat n][comp v:v+v:v]} =acceptance= "uke+ire"	%受け入れ
 sashitsukae {[scat n][comp v:c+v:v]} =hindrance= "sas+tsukae"	%差支え
 kakitsuke {[scat n][comp v:c+v:v]} =note/document= "kak+tsuke"	%書きつけ
 ukishizumi {[scat n][comp v:c+v:c]} =ups_and_downs= "uk+shizumi"	%浮き沈み

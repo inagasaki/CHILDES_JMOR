@@ -37,43 +37,40 @@ zenjinrui	{[scat quant]} =whole_mankind= "zen_ALL_mankind" % 全人類
 zenjinryoku {[scat quant]} =all_manpowers= "zen_ALL_jinryoku" % 全人力
 zenjoseeshain {[scat quant]} =all_female_employees= "zen_ALL_josee+shain" % 全女性社員
 zenjuutaku {[scat quant]} =all_houses= "zen_ALL_juutaku" % 全住宅
-zenkoku	{[scat quant]} =whole_country= 	"zen_ALL_koku" % 全国 % n のエントリーを削除してほしい
-zenkootee	{[scat quant]} =whole_members= "zen_ALL_kootee" % 全行程
-zennihon {[scat quant]} =whole_Japan= "zen_ALL_nihon" % 全日本
-zennihonjin {[scat quant]} =all_Japanese= "zen_ALL_nihon_jin_PERSON" % 全日本人
-zenressha {[scat quant]} =all_trains= "zen_ALL_ressha" % 全列車
-zenryoku {[scat quant]} =all_one's_power= "zen_ALL_ryoku" % 全力
 zenkamoku {[scat quant]} =all_subjects= "zen_ALL_kamoku" % 全科目
 zenkanadajinkyojuusha {[scat quant][comp n+n]} =all_Canadian_inhabitants= "zen_ALL_kanada_jin_PERSON_kyojuu_sha_PERSON" % 全カナダ人居住者
 zenkigyoo {[scat quant]} =all_companies= "zen_ALL_kigyoo" % 全企業
+zenkoku	{[scat quant]} =whole_country= 	"zen_ALL_koku" % 全国 % n のエントリーを削除してほしい
 zenkokumin {[scat quant]} =all_people= "zen_ALL_kokumin" % 全国民
 zenkoo {[scat quant]} =whole_school= "zen_ALL_koo" % 全校
+zenkootee	{[scat quant]} =whole_members= "zen_ALL_kootee" % 全行程
 zenkukan {[scat quant]} =all_intervals= "zen_ALL_kukan" % 全区間
 zenkyojuusha {[scat quant]} =all_inhabitants= "zen_ALL_kyojuu_sha_PERSON" % 全居住者
 zenkyooka {[scat quant]} =all_subjects= "zen_ALL_kyooka" % 全教科
 zenmondai {[scat quant]} =all_problems= "zen_ALL_mondai" % 全問題
-zensekai {[scat quant]} =whole_world= "zen_ALL_sekai" % 全世界
+zennendokan {[scat quant]} =between_all_years= "zen_ALL_nendokan" % 全年度間
+zennihon {[scat quant]} =whole_Japan= "zen_ALL_nihon" % 全日本
+zennihonjin {[scat quant]} =all_Japanese= "zen_ALL_nihon_jin_PERSON" % 全日本人
+zenressha {[scat quant]} =all_trains= "zen_ALL_ressha" % 全列車
 zenritee {[scat quant]} =all_distance= "zen_ALL_ritee" % 全里程
+zenryoku {[scat quant]} =all_one's_power= "zen_ALL_ryoku" % 全力
 zenryoo {[scat quant]} =the_whole_quantity= "zen_ALL_ryoo" % 全量
 zensangyoo {[scat quant]} =all_industries= "zen_ALL_sangyoo" % 全産業
+zenseeryoku {[scat quant]} =all_energies= "zen_ALL_seeryoku" % 全精力
+zensekai {[scat quant]} =whole_world= "zen_ALL_sekai" % 全世界
 zensen {[scat quant]} =all_lines= "zen_ALL_sen" % 全線
+zensenryoku {[scat quant]} =all_military_power= "zen_ALL_senryoku" % 全戦力
+zensetai {[scat quant]} =all_households= "zen_ALL_setai" % 全世帯
+zensha {[scat quant]} =whole_company= "zen_ALL_sha" % 全社
 zenshain {[scat quant]} =all_employees_= "zen_ALL_shain" % 全社員
+zenshin {[scat quant]} =whole_body= "zen_ALL_shin" % 全身
+zenshinkee {[scat quant]} =every_nerve= "zen_ALL_shinkee" % 全神経
+zenshinnyuushain {[scat quant]{comp n+n]} =all_newly_hired_employees= "zen_ALL_shinnyuu+shain" % 全新入社員
+zenshoohin {[scat quant]} =all_goods= "zen_ALL_shoohin" % 全商品
+zentoo {[scat quant]} =whole_insland= "zen_ALL_too" % 全島
+zentoomin {[scat quant]} =all_inhabitants_of_island= "zen_ALL_" % 全島民
 zenyooroppajin {[scat quant]} =all_European= "zen_ALL_yooroppa_jin_PERSON" % 全ヨーロッパ人
-
-%% 以下、作業中 -- Nagasaki
-% zennendokan {[scat quant]} =whole_= "zen_ALL_" % 全年度間
-% zenseeryoku {[scat quant]} =whole_= "zen_ALL_" % 全精力
-% zensenryoku {[scat quant]} =whole_= "zen_ALL_" % 全戦力
-% zensetai {[scat quant]} =whole_= "zen_ALL_" % 全世帯
-% zensha {[scat quant]} =whole_= "zen_ALL_" % 全社
-% zenshin {[scat quant]} =whole_= "zen_ALL_" % 全身
-% zenshinkee {[scat quant]} =whole_= "zen_ALL_" % 全神経
-% zenshinnyuushain {[scat quant]} =whole_= "zen_ALL_" % 全新入社員
-% zenshoohin {[scat quant]} =whole_= "zen_ALL_" % 全商品
-% zentoo {[scat quant]} =whole_= "zen_ALL_" % 全島
-% zentoomin {[scat quant]} =whole_= "zen_ALL_" % 全島民
-% zenzaisan {[scat quant]} =whole_= "zen_ALL_" % 全財産
-
+zenzaisan {[scat quant]} =one's_entire_property= "zen_ALL_zaisan" % 全財産
 
 % interjection
 nanda	{[scat co:i]} =oh= "nan_da"
@@ -100,6 +97,12 @@ pointo	      {[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn
 sha    {[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numCBb numCBn2]} "sha_COMPANY"
 shoo   {[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numCBb numCBn2]} "shoo_CHAPTER"
 koomoku	  {[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numCBb numCBn2]} "koomoku_POINT"
+
+% ikutsu, ikura, nanjuu, nambyaku, nanzen, namman -- num:cl:wh を作るにはどうしたらいいのだろうか？
+%ikutsu	{[scat num:cl:wh]} =how_many= "iku_tsu_PIECE" % adv でなく
+%ikura	{[scat num:cl:wh]} =how_much= % adv でなく
+%nan	{[scat num:cl:wh]} =how_many= % nan-nin, ... % n でなく
+
 
 % nsfx
 nashi	{[scat nsfx]} "nashi_WHITHOUT"

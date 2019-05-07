@@ -3,23 +3,34 @@
 % 化 _ka_CHANGE と ka_BECOMING が存在。どちらかに統一
 
 %
-choosee				{[scat n:vn]} =adjustment=
+chooin	{[scat n:vn]} =signing=
+choosee	{[scat n:vn]} =adjustment=
+daiben	{[scat n:vn]} =speaking_for_another=
+gooi	{[scat n:vn]} =mutual_agreement=
 gutaika	{[scat n:vn]} =substantiation= "gutai_ka_CHANGE" % n:an のエントリーを削除してもらう
 gyakkoo	{[scat n:vn]} =run_counter=
 hakki	{[scat n:vn]} =give_full_play=
 hatsusempatsu	{[scat n:vn]} =start_first_for_the_first_time= "hatsu_FIRST_sempatsu" % 初先発
 hatsutoosen	{[scat n:vn][comp n+n:vn]} =be_firstly_elected= "hatsu+toosen"
+kaikyoku	{[scat n:vn]} =opening_a_station=
 kaisai	{[scat n:vn]} =open=
 kakuho	{[scat n:vn]} =secure=
 kakujitsushi	{[scat n:vn]} =considering_to_be_sure=
 kan'yuu	{[scat n:vn]} =persuade=
 kanchi	{[scat n:vn]} =perceive=
 koobo	{[scat n:vn]} =publicly_recruit=
+kooshin	{[scat n:vn]} =renewal=
+kyootan	{[scat n:vn]} =admiration=
 mochinige	{[scat n:vn]} =take_and_run_away= "mot_nige"  % 持ち逃げ
 sabetsuka	{[scat n:vn]} =differentiation= "sabetsu_ka_CHANGE" % 差別化
+seeritsu	{[scat n:vn]} =realization=
 sempatsu	{[scat n:vn]} =start_first= % 先発
 shiharai	{[scat n:vn]} =payment= "shihara_GER"
 shokitooshi	{[scat n:nv][comp n+n:nv]} =initial_investment= "shoki+tooshi" % 初期投資
+shuuchuukoogi	{[scat n:vn][comp n:vn+n:vn]} =intensive_course= "shuuchuu+koogi"
 shuuyakuka	{[scat n:vn]} =consolidation= "shuuyaku_ka_CHANGE" % 集約化
 soogyoo	{[scat n:vn]} =foundation= % 創業
+soshiki	{[scat n:vn]} =organization=
+teean	{[scat n:vn]} =suggestion=
+zatsudan	{[scat n:vn]} =chat=
 zenshin	{[scat n:vn]} =advance=

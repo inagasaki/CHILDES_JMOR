@@ -13,6 +13,7 @@ desuga	{[scat conj]} =but=
 % num
 
 % quant
+darehitori {[scat quant]} =no_one= % 誰一人
 zembee {[scat quant]} =all_America= "zen_ALL_bee" % 全米
 zembusho {[scat quant]} =all_posts= "zen_ALL_busho" % 全部署
 zemmen {[scat quant]} =all_aspects= "zen_ALL_men" % 全面
@@ -134,19 +135,17 @@ tachi	{[scat nsfx]} "PL"
 
 % prefix [pcat n:num] が動いていないようだ
 zen	{[scat pfx] [pcat n:num]} "zen_WHOLE" % 「全98話」
-
-
-doo	{[scat pfx] [pcat n]} "doo_SAID"	% 同 
-gen {[scat pfx] [pcat n]} "gen_CURRENT" % 現
-gen     {[scat pfx][pcat n]}        =incumbent=
-moto {[scat pfx] [pcat n]} "moto_EX" % 元
-moto    {[scat pfx][pcat n]}        =former= % adnもある「元（の）」
-mu      {[scat pfx][pcat n]}        =without=
-saku {[scat pfx] [pcat n]} "saku_LAST" % 昨
+doo	{[scat pfx][pcat n]} "doo_SAID" % 同 
+gen	{[scat pfx][pcat n]} "gen_CURRENT" % 現
+gen	{[scat pfx][pcat n]} =incumbent=
+moto	{[scat pfx][pcat n]} "moto_EX" % 元
+moto	{[scat pfx][pcat n]} =former= % adnもある「元（の）」
+mu	{[scat pfx][pcat n]} =without=
+saku	{[scat pfx][pcat n]} "saku_LAST" % 昨
 yaku	{[scat pfx][pcat n]} "yaku_ABOUT"
-zen     {[scat pfx][pcat n]}        =late=
-zen     {[scat pfx][pcat numclsfx]} =previous= % 「前回」みたいなもの。ちゃんと動いていないので要検討
-ryoo {[scat pfx] [pcat quant]} "ryoo_BOTH" % 両（県）
+zen	{[scat pfx][pcat n]} =late=
+zen	{[scat pfx][pcat numclsfx]} =previous= % 「前回」みたいなもの。ちゃんと動いていないので要検討
+% ryoo	{[scat pfx][pcat quant]} "ryoo_BOTH" % 両（県）
 
 % onoma
 zuruzuru	{[scat onoma]} =loose=

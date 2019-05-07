@@ -1,60 +1,23 @@
 % Adj(adj), Adv(adv), Admominal =PNL in Kainoki= (adn)
-hitotabi    {[scat adv]} =once=
-kitto	    {[scat adv:onoma]} =sharply= "kit_to"
-tsuide	    {[scat adv]} =next= %次いで
 
 % Adjn(n:an)
-hoofu	{[scat n:an]} =rich= 
-jiyuukimama	{[scat n:an]} =unfettered=
 
 % Noun (n, n:fml, n:deic)
-chijoo		  {[scat n]} =ground=
-hishootai			       {[scat n]} =flying_object=
-ikoo				       {[scat n]} =after=
-kakushigo			       {[scat n]} =illegitimate_child=
-kenchikuka		{[scat n]} =architect=
-koohan				       {[scat n]} =second_half=
-minoue {[scat n]} =circumstances=
-mono   {[scat n]} =person=
-naigai {[scat n]} =inside_and_outside=
-ninchi {[scat n]} =post=
-nyuuinsaki    {[scat n]} =hospital_where_someone_is_admitted=
 oosutorariahatsu     {[scat n]} =first_in_Australia= "Oosutoraria_hatsu_FIRST"
-parameetaa	     {[scat n]}  =pamameter=
-roo		     {[scat n]} =labor=
-ryokoosaki	     {[scat n]} =destination=
-saishi {[scat n]} =wife_and_children=
-saki   {[scat n]} =future=
-saku   {[scat n]} =work=
 sasupensu__cdot__horaakatsugeki	{[scat n]} =suspense_and_horror_drama=
 seechoochuu			{[scat n]} =be_growing= "seechoo_chuu_IN"
 seego  {[scat n]} =after_birth= "see_go_AFTER"
 seesankaishi  {[scat n][comp n:vn+n:vn]}  =beginning_to_produce= "seesan+kaishi"
-seeyuu	      {[scat n]} =voice_actor=
-senga	      {[scat n]} =line_drawing=
-shimai {[scat n]} =sister=
 shinraikankee {[scat n][comp n:vn+n]} =relationship_of_mutual_trust= "shinrai+kankee"
-shujinkoo     {[scat n]} =main_character=
-sooga	      {[scat n]} =illustration=
-sutando	      {[scat n]} =Stand=
 sutandotsukai {[scat n][comp n+n]} =Stand_user= "sutando+tsukai"
-taishoo	      {[scat n]} =old_chap=
-tenjoo	      {[scat n]} =sky=
 toojooji      {[scat n]} =at_the_time_of_an_appearance= "toojoo_ji_TIME"
-toraburu      {[scat n]} =trouble=
-toshishita    {[scat n]} =younger=
-toshitsuki    {[scat n]} =years_and_months=
-weetaa	      {[scat n]} =waiter=
-yosoogai      {[scat n]} =unexpected=
-yumi	      {[scat n]} =bow=
-zenhan	      {[scat n]} =first_half=
-  
+
 % Prop (n:prop)
 Fujikeeko	{[scat n:prop]} =Fuji_Keeko=
 Hatanowataru	{[scat n:prop]} =Hatano_Wataru= "Hatano_wataru"
-Hawai  {[scat n:prop]} =Hawaii=
-Hawaidaigaku  {[scat n:prop][comp n:prop+n]} =University_of_Hawaii= "Hawai+daigaku"
-Higashikatajoosuke   {[scat n:prop]} =Higashikata_Joosuke= "Higashikata_joosuke"
+Hawai	{[scat n:prop]} =Hawaii=
+Hawaidaigaku	{[scat n:prop][comp n:prop+n]} =University_of_Hawaii= "Hawai+daigaku"
+Higashikatajoosuke	{[scat n:prop]} =Higashikata_Joosuke= "Higashikata_joosuke"
 Isozaki		{[scat n:prop]} =Isozaki=
 Isozakiarata	{[scat n:prop]} =Isozaki_arata=
 Isozakifusai	{[scat n:prop]} =Mr._and_Mrs._Isozaki= "Isozaki_fusai"
@@ -71,32 +34,21 @@ Nihonkokuemukenesushimorioochoo	{[scat n:prop]} =town_of_Morioo_S-city_M-prefect
 Tookyoogeejutsudaigaku	{[scat n:prop][comp n:prop+n+n]} =Tokyo_University_of_the_Arts= "Tookyoo+geejutsu+daigaku"
 
 % VN (n:vn)
-chooin	{[scat n:vn]} =signing=
-daiben	{[scat n:vn]} =speaking_for_another=
-gooi	{[scat n:vn]} =mutual_agreement=
-kaikyoku       {[scat n:vn]} =opening_a_station=
-kooshin	{[scat n:vn]} =renewal=
-kyootan	{[scat n:vn]} =admiration=
-seeritsu       {[scat n:vn]} =realization=
-shuuchuukoogi  {[scat n:vn][comp n:vn+n:vn]} =intensive_course= "shuuchuu+koogi"
-soshiki	       {[scat n:vn]} =organization=
-teean	       {[scat n:vn]} =suggestion=
-zatsudan       {[scat n:vn]} =chat=
 
 % Verb (v:c, v:v, v:ir)
-gochisooninar	  {[scat v:c]} =be_treated_to_a_meal=
-mitemawar    {[scat v:c][comp v:v+v:c]} =see/look/watch_around= "mi-CONN+mawar"
-mukae  {[scat v:v]} =reach_a_certain_time=
-musub  {[scat v:c]} =conclude=
-tsukawarehajime	    {[scat v:v][comp v:v+v:v]} =be_used_start= "tsukaw-PASS+hajime"
-ukagaw		    {[scat v:c]} =hear_POL=
+gochisooninar	{[scat v:c]} =be_treated_to_a_meal=
+mitemawar	{[scat v:c][comp v:v+v:c]} =see/look/watch_around= "mi-CONN+mawar"
+mukae	{[scat v:v]} =reach_a_certain_time=
+musub	{[scat v:c]} =conclude=
+tsukawarehajime	{[scat v:v][comp v:v+v:v]} =be_used_start= "tsukaw-PASS+hajime"
+ukagaw	{[scat v:c]} =hear_POL=
 
 % misc (ptl, smod, conj, num, quant, co:i, -sfx)
-cm {[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numCBb numCBn2]} "cm_CM"
-nanihitotsu  {[scat quant]} =nothing=
-soohoo	  {[scat quant]} =both_side=
-tomo	  {[scat quant]} =both=
-toono	  {[scat adn:deic:dem]} =that= %当の
+cm	{[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numCBb numCBn2]} "cm_CM"
+nanihitotsu	{[scat quant]} =nothing=
+soohoo	{[scat quant]} =both_side=
+tomo	{[scat quant]} =both=
+toono	{[scat adn:deic:dem]} =that= %当の
 
 % pending items
 % dai	  {[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numCBb numCBn2]} % 20代、30代のような「代」にグロスを何とつければよいか

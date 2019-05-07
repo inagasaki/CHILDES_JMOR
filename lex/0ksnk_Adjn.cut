@@ -1,7 +1,6 @@
 % LEXCAT = [scat OR n:an n:an:mot n:an:onoma] に n:an:sub を加えられるのか?
 
 % adjn
-mapputatsu {[scat n:an]} =right_in_half= "ma_TRUE_futatsu" %真っ二つ
 anteeteki	{[scat n:an]}  =stable=  "antee-teki_ANZR" % 安定的
 attooteki	{[scat n:an]}  =overwhelming=  "attoo-teki_ANZR" % 圧倒的
 bapponteki	{[scat n:an]}  =drastic=  "bappon-teki_ANZR" % 抜本的
@@ -29,6 +28,7 @@ hiteeteki	{[scat n:an]}  =negative=  "hitee-teki_ANZR" % 否定的
 hiyakuteki	{[scat n:an]}  =rapid=  "hiyaku-teki_ANZR" % 飛躍的
 honnooteki	{[scat n:an]}  =instinctive=  "honnoo-teki_ANZR" % 本能的
 honshitsuteki	{[scat n:an]} =essential= "honshitsu-teki_ANZR"
+hoofu	{[scat n:an]} =rich= 
 hooteki	{[scat n:an]}  =legal=  "hoo-teki_ANZR" % 法的
 hyoojunteki	{[scat n:an]} =standard= "hyoojun-teki_ANZR"
 ichijiteki	{[scat n:an]}  =temporary=  "ichiji-teki_ANZR" % 一時的
@@ -39,6 +39,7 @@ jidooteki	{[scat n:an]}  =automatic=  "jidoo-teki_ANZR" % 自動的
 jihatsuteki	{[scat n:an]} =spontaneous= "jihatsu-teki_ANZR"
 jikanteki	{[scat n:an]}  =timewise=  "jikan-teki_ANZR" % 時間的
 jisshitsuteki	{[scat n:an]} =substantial= "jisshitsu-teki_ANZR"
+jiyuukimama	{[scat n:an]} =unfettered=
 junsui	{[scat n:ad]} =pure=
 juutenteki	{[scat n:an]} =prioritized= "juuten-teki_ANZR"
 kagakuteki	{[scat n:an]}  =scientific=  "kagaku-teki_ANZR" % 科学的
@@ -65,6 +66,7 @@ kooritsuteki	{[scat n:an]} =efficient= "kooritsu-teki_ANZR"
 kooteeteki	{[scat n:an]}  =affirmative=  "kootee-teki_ANZR" % 肯定的
 maemuki	{[scat n:an]} =positive= % maemiki を削除してもらう
 makkuro	{[scat n:an]} =pitch_black= "ma_TRUE_kuro" %真っ黒
+mapputatsu	{[scat n:an]} =right_in_half= "ma_TRUE_futatsu" %真っ二つ
 massugu	{[scat n:an]} =straight= "ma_TRUE_sugu" %真っ直ぐ
 miryokuteki	{[scat n:an]} =attractive= "miryoku-teki_ANZR"
 naibuteki	{[scat n:an]} =internal= "naibu-teki_ANZR"
@@ -89,10 +91,10 @@ shajitsuteki	{[scat n:an]}  =naturalistic=  "shajitsu-teki_ANZR" % 写実的
 shikakuteki	{[scat n:an]}  =visual=  "shikaku-teki_ANZR" % 視覚的
 shimpiteki	{[scat n:an]} =mysterious= "shimpi-teki_ANZR"
 shinriteki	{[scat n:an]}  =mental=  "shinri-teki_ANZR" % 心理的
-shoochooteki   {[scat n:an]} =symbolic= "shoochoo-teki_ANZR" % 象徴的
+shoochooteki	{[scat n:an]} =symbolic= "shoochoo-teki_ANZR" % 象徴的
 shookyokuteki	{[scat n:an]} =inactive= "shookyoku-teki_ANZR"
 shooraiteki	{[scat n:an]}  =future=  "shoorai-teki_ANZR" % 将来的
-shuukenteki    {[scat n:an]} =centralization_of_power= "shuuken-teki_ANZR" % 集権的
+shuukenteki	{[scat n:an]} =centralization_of_power= "shuuken-teki_ANZR" % 集権的
 shuushooteki	{[scat n:an]}  =abstract=  "shuushoo-teki_ANZR" % 抽象的
 soogooteki	{[scat n:an]} =comprehensive= "soogoo-teki_ANZR"
 sooshokuteki	{[scat n:an]}  =decorative=  "sooshoku-teki_ANZR" % 装飾的
@@ -102,13 +104,13 @@ taikyokuteki	{[scat n:an]}  =overwhelming=  "taikyoku-teki_ANZR" % 大局的
 taishooteki	{[scat n:an]}  =contrastive=  "taishoo-teki_ANZR" % 対照的
 teehakukanoo	{[scat n:an][comp n:vn+n:an]} =anchoring_capable= "teehaku+kanoo"
 teekiteki	{[scat n:an]} =regular= "teeki-teki_ANZR"
-tekikaku       {[scat n:ad]} =precise=
+tekikaku	{[scat n:ad]} =precise=
 tetsugakuteki	{[scat n:an]}  =philosophical=  "tetsugaku-teki_ANZR" % 哲学的
 tetteeteki	{[scat n:an]} =thoroughly= "tettee-teki_ANZR"
 yaban	{[scat n:ad]} =barbarous=
 yashinteki	{[scat n:an]}  =ambitious=  "yashin-teki_ANZR" % 野心的
-yoochi	       {[scat n:an]} =crude=
-yooi	       {[scat n:an]} =easy=
+yoochi	{[scat n:an]} =crude=
+yooi	{[scat n:an]} =easy=
 zemmenteki	{[scat n:an]} =fullscale= "zemmen-teki_ANZR"
 zenkokuteki	{[scat n:an]} =nationwide= "zenkoku-teki_ANZR"
 zensekaiteki	{[scat n:an]} =global= "zensekai-teki_ANZR"

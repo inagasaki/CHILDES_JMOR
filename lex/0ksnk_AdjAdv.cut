@@ -13,8 +13,10 @@ utsukushiki	{[scat adj][tense inf]} =beautiful= "utsuku-shiki_ADN"
 % adv
 ato	{[scat adv]} =another/more=
 hatashite	{[scat adv]} =sure_enough=
-ikken		      {[scat adv]} =at_first_sight=
+hitotabi	{[scat adv]} =once=
+ikken	{[scat adv]} =at_first_sight=
 tabun	{[scat adv]} =in_great_amount= %多分（に）
+tsuide	{[scat adv]} =next= %次いで
 
 % adv:onoma
 
@@ -48,8 +50,10 @@ uzuuzu	{[scat onoma]} =eagarly=
 utsurautsura	{[scat onoma]} % 他のエントリーを削除してもらう
 zukezuke	{[scat onoma]} =bluntly=
 zurari	{[scat onoma]} =in_a_row=
+kitto	{[scat adv:onoma]} =sharply= "kit_to"
 
 % adnominal (pnl)
+itaru	{[scat adn]} =all=
 
 % deic
 kooshita	{[scat adn:deic:dem]} =like_this= % adn|koo_shita=such を変更

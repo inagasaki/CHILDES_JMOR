@@ -7,7 +7,6 @@
 %%%% Quantifier
 %%%% Sentence Modalizer
 
-
 %%%% Adjective
 atsu	{[scat adj]} =thick=	% 厚い 
 haya	{[scat adj]} =early=
@@ -210,16 +209,19 @@ iya	{[scat co:i]} "iyaa" =no=
 iyaq	{[scat co:i]} "iyaa" =no=
 
 %%%% Deixis
-donoyooni	{[scat adv:deic:wh]} =how= "dono_yoo_ni"
+washi	{[scat n:deic:prs]} =i_MASC=
+waga	{[scat n:deic:prs]} =our=
 jishin	{[scat n:deic:prs]} =self=
 gojishin	{[scat n:deic:prs]} "go_HON#jishin" =self=
 korera	{[scat n:deic:dem]} =this= "kore-ra_PL"
 mizukara	{[scat n:deic:prs]} =self=
-reeno	{[scat n:deic:dem]} =in_question=
-washi	{[scat n:deic:prs]} =i_MASC=
-waga	{[scat n:deic:prs]} =our=
-kooshita	{[scat adn]} "koo_shita" =like_this=
+
+donoyooni	{[scat adv:deic:wh]} =how= "dono_yoo_ni"
+
+reeno	{[scat adn:deic:dem]} =in_question=
+kooshita	{[scat adn:deic:dem]} "koo_shita" =like_this=
 aashita	{[scat adn:deic:dem]} "aa_shita" =like_that=
+
 ikanaru	{[scat adn:deic:wh]} =what_kind=
 
 %%%% Quantifier

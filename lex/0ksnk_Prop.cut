@@ -2,63 +2,82 @@
 Ajisonfujin	{[scat n:prop][comp n:prop+n]} =Mrs_Addison= "Ajison+fujin"
 Akitashi	{[scat n:prop]} =Akita_city= "Akita_shi"
 Anri__cdot__goo	{[scat n:prop]} =Henri_Gault=
+Aobadoori	{[scat n:prop]} =Aoba_street= "Aoba_doori_STREET" % 青葉通り
 Aomorishi	{[scat n:prop]} =Aomori_city= "Aomori_shi"
 Baranashi	{[scat n:prop]} =Varanasi=
 Bokyuuzu	{[scat n:prop]} =Bocuse=
 Borubo	{[scat n:prop]} =Volvo= %ボルボ
-Daawin		{[scat n:prop]} =Darwin=
+Daawin	{[scat n:prop]} =Darwin=
 Dairondonkigyoo	{[scat n:prop]} =Greater_London_Enterprise= "Dai_rondon_kigyoo"
 Deashibarai	{[scat n:prop]} =Deashibarai=
+Ginzadoori	{[scat n:prop]} =Ginza_street= "Ginza_doori_STREET" % 銀座通り
 Goo__cdot__e__cdot__miyoo	{[scat n:prop]} =Gault_et_Millau=
-Iguchitsuneaki      {[scat n:prop]} =Iguchi_Tsuneaki= % news_KAHOKU_28
+Higashinibanchoodoori	{[scat n:prop]} =Higashinibanchoo_street= "Higashinibanchoo_doori_STREET" % 東二番丁通り
+Hitosadoori	{[scat n:prop]} =Hirose_street= "Hirose_doori_STREET" % 広瀬通り
+Iguchitsuneaki	{[scat n:prop]} =Iguchi_Tsuneaki= % news_KAHOKU_28
 Ikea	{[scat n:prop]} =Ikea= %イケア
-Ingasoru			{[scat n:prop]} =Ingersoll=
-Iraku		{[scat n:prop]} =Iraq=
-Itooyasushi         {[scat n:prop]} =Itoo_Yasushi= % news_KAHOKU_28
+Ingasoru	{[scat n:prop]} =Ingersoll=
+Iraku	{[scat n:prop]} =Iraq=
+Itooyasushi	{[scat n:prop]} =Itoo_Yasushi= % news_KAHOKU_28
 Izumishi	{[scat n:prop]} =Izumi_city= "Izumi_shi"
-Jakku__cdot__weruchi   {[scat n:prop]} =Jack_Welch=
+Jakku__cdot__weruchi	{[scat n:prop]} =Jack_Welch=
 Jiirii	{[scat n:prop]} =Geely= %吉利(中国企業の名前)
+Joozenjidoori	{[scat n:prop]} =Joozenji_street= "Joozenji_doori_STREET" % 定禅寺通り
 Kameokashi	{[scat n:prop]} =Kameoka_city= "Kameoka_shi"
-Kanoojigoroo	       {[scat n:prop]} =Kanoo_Jigoroo=
-Katomanzu	       {[scat n:prop]} =Kathmandu=
+Kanoojigoroo	{[scat n:prop]} =Kanoo_Jigoroo=
+Katomanzu	{[scat n:prop]} =Kathmandu=
 Kitaakitashi	{[scat n:prop]} =Kitaakita_city= "Kitaakita_shi"
 Kitakita	{[scat n:prop]} =Kitaakita=
 Koobeshi	{[scat n:prop]} =Kobe_city= "Koobe_shi"
-Koodookan	       {[scat n:prop]} =Koodookan_building= "Koodoo_kan"
-Kouchigari	       {[scat n:prop]} =Kouchigari=
-Kurisuchan__cdot__miyoo	      {[scat n:prop]} =Christian_Millau=
+Koodookan	{[scat n:prop]} =Koodookan_building= "Koodoo_kan"
+Kouchigari	{[scat n:prop]} =Kouchigari=
+Kurisuchan__cdot__miyoo	{[scat n:prop]} =Christian_Millau=
+Kyootoeki	{[scat n:prop]} =Kyoto_station= "Kyooto_eki_STATION" % 京都駅
 Kyootoshi	{[scat n:prop]} =Kyoto_city= "Kyooto_shi"
-Manasara	       {[scat n:prop]} =Manasara=
-Mari   {[scat n:prop]} =Mari=
-Mikinosuke	       {[scat n:prop]} =Mikinosuke=
-Minamisoomashi {[scat n:prop]} =Minami_Sooma_city=
+Manasara	{[scat n:prop]} =Manasara=
+Mari	{[scat n:prop]} =Mari=
+Mikinosuke	{[scat n:prop]} =Mikinosuke=
+Minamisoomashi	{[scat n:prop]} =Minami_Sooma_city=
+Mitazonoeki	{[scat n:prop]} =Mitazono_station= "Mitazono_eki_STATION" % 美田園駅
+Miyaginodoori	{[scat n:prop]} =Miyagino_street= "Miyagino_doori_STREET" % 宮城野通り
+Nagoyaeki	{[scat n:prop]} =Nagoya_station= "Nagoya_eki_STATION" % 名古屋駅
 Nagoyashi	{[scat n:prop]} =Nagoya_city= "Nagoya_shi"
+Nihombashidoori	{[scat n:prop]} =Nihonbashi_street= "Nihonbashi_doori_STREET" % 日本橋通り
 Obake-chan	{[scat n:prop]} =ghost= "Obake-chan_FAM"
+Oikedoori	{[scat n:prop]} =Oike_street= "Oike_doori_STREET" % 御池通り
 Okamoto	{[scat n:prop]} =Okamoto=
 Oosakashi	{[scat n:prop]} =Osaka_city= "Oosaka_shi"
 Rondonkigyoochuukaikikan	{[scat n:prop]} =The_London_Enterprise_Agency= "Rondon_kigyoo_chuukai_kikan"
-Ruvaniefujin			{[scat n:prop][comp n:prop+n]} =Mrs_Levannier= "Ruvanie+fujin"
-Sakuraikatsunobu    {[scat n:prop]} =Sakurai_Katsunobu= % news_KAHOKU_28
-San'yoodenkibooeki	{[scat n:prop]} =San'yoo_electric_and_trading_corporation= "San'yoo_denki_booeki" 
-Satooshi {[scat n:prop]} =Satoo-shi_HON= 
+Ruvaniefujin	{[scat n:prop][comp n:prop+n]} =Mrs_Levannier= "Ruvanie+fujin"
+Sakuraikatsunobu	{[scat n:prop]} =Sakurai_Katsunobu= % news_KAHOKU_28
+San'yoodenkibooeki	{[scat n:prop]} =San'yoo_electric_and_trading_corporation= "San'yoo_denki_booeki"
+Sanjooeki	{[scat n:prop]} =Sanjo_station= "Sanjoo_eki_STATION" % 三条駅
+Sanjookeehan'eki	{[scat n:prop]} =Sanjo_Keehan_station= "Sanjokeehan_eki_STATION" % 三条京阪駅
+Satooshi	{[scat n:prop]} =Satoo-shi_HON=
 Satooyuuhee	{[scat n:prop][comp n:prop+n:prop]} "Satoo-Yuuhee"
-Satooyuuheeshi {[scat n:prop][comp n:prop+n:prop]} "Satoo-Yuuhee-shi_HON"
+Satooyuuheeshi	{[scat n:prop][comp n:prop+n:prop]} "Satoo-Yuuhee-shi_HON"
+Sendaieki	{[scat n:prop]} =Sendai_station= "Sendai_eki_STATION" % 仙台駅
 Sendaishi	{[scat n:prop]} =Sendai_city= "Sendai_shi"
 Shanhai	{[scat n:prop]} =Shanghai= %上海
 Shanhaishi	{[scat n:prop]} =Shanghai_city= "Shanhai_shi"
-Shidonii       {[scat n:prop]} =Sydney=
+Shidonii	{[scat n:prop]} =Sydney=
+Shijoodoori	{[scat n:prop]} =Shijoo_street= "Shijoo_doori_STREET" % 四条通り
 Shimotsumashi	{[scat n:prop]} =Shimotsuma_city= "Shimotsuma_shi"
+Shinjukueki	{[scat n:prop]} =Shinjuku_station= "Shinjuku_eki_STATION" % 新宿駅
 Shisuko	{[scat n:prop]} =Cysco=
 Suweeden	{[scat n:prop]} =Sweden= %スウェーデン
-Taigaa__cdot__uzzu {[scat n:prop]} =Tiger_Woods= %記号名を __ （アンダースコア2つ）で囲む
+Taigaa__cdot__uzzu	{[scat n:prop]} =Tiger_Woods= %記号名を __ （アンダースコア2つ）で囲む
 Taikanokaishin	{[scat n:prop]} =the_Taika_Reform=
 Takashimashi	{[scat n:prop]} =Takashima_city= "Takashima_shi"
 Teddotooku	{[scat n:prop]} =Ted_talk= %テッドトーク
+Tookyooeki	{[scat n:prop]} =Tokyo_station= "Tookyoo_eki_STATION" % 東京駅
+Toomeeeki	{[scat n:prop]} =Toomee_station= "Toomee_eki_STATION" % 東名駅
 Ueyama	{[scat n:prop]} =Ueyama=
-Watanabeissei       {[scat n:prop]} =Watanabe_Issei= % news_KAHOKU_28
-Weruchi				{[scat n:prop]} =Welch=
+Watanabeissei	{[scat n:prop]} =Watanabe_Issei= % news_KAHOKU_28
+Weruchi	{[scat n:prop]} =Welch=
 Yamagatashi	{[scat n:prop]} =Yamagata_city= "Yamagata_shi"
 Yamaguchishi	{[scat n:prop]} =Yamaguchi_city= "Yamaguchi_shi"
-Yokoyamamotoe       {[scat n:prop]} =Yokoyama_Motoe= % news_KAHOKU_28
-Zennihonmin'iren		{[scat n:prop]} =Japan_Federation_of_Democratic_Medical_Institutions= "Zennihon_min'iren"
+Yamashinaeki	{[scat n:prop]} =Yamashina_station= "Yamashina_eki_STATION" % 山科駅
+Yokoyamamotoe	{[scat n:prop]} =Yokoyama_Motoe= % news_KAHOKU_28
+Zennihonmin'iren	{[scat n:prop]} =Japan_Federation_of_Democratic_Medical_Institutions= "Zennihon_min'iren"
 

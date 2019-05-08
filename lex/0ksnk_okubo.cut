@@ -4,16 +4,6 @@ sooitta	{[scat adn:deic:dem]} =like_that=
 
 % Adjn(n:an)
 
-makka {[scat n:an]} =deep_red= "ma_TRUE_red" %真っ赤
-massao {[scat n:an]} =deep_blue= "ma_TRUE_blue" %真っ青
-massao {[scat n:an]} =pale= "ma_TRUE_blue" %真っ青
-mammaru {[scat n:an]} =perfect_circle= "ma_TRUE_circle" %真ん丸
-
-yokobai	{[scat n:an]} =flat= %横ばい
-
-tairyoo	{[scat n:an]} =large_quantity= "tai_BIG_ryoo"	%大量
-shooryoo	{[scat n:an]} =small_quantity= "shoo_SMALL_ryoo"	%小量
-
 % Noun (n, n:fml, n:deic)
 
 % Prop (n:prop)

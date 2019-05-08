@@ -65,8 +65,12 @@ kookateki	{[scat n:an]} =effective= "kooka-teki_ANZR"
 kooritsuteki	{[scat n:an]} =efficient= "kooritsu-teki_ANZR"
 kooteeteki	{[scat n:an]}  =affirmative=  "kootee-teki_ANZR" % 肯定的
 maemuki	{[scat n:an]} =positive= % maemiki を削除してもらう
+makka {[scat n:an]} =deep_red= "ma_TRUE_red" %真っ赤
 makkuro	{[scat n:an]} =pitch_black= "ma_TRUE_kuro" %真っ黒
+mammaru {[scat n:an]} =perfect_circle= "ma_TRUE_circle" %真ん丸
 mapputatsu	{[scat n:an]} =right_in_half= "ma_TRUE_futatsu" %真っ二つ
+massao {[scat n:an]} =deep_blue= "ma_TRUE_blue" %真っ青
+massao {[scat n:an]} =pale= "ma_TRUE_blue" %真っ青
 massugu	{[scat n:an]} =straight= "ma_TRUE_sugu" %真っ直ぐ
 miryokuteki	{[scat n:an]} =attractive= "miryoku-teki_ANZR"
 naibuteki	{[scat n:an]} =internal= "naibu-teki_ANZR"
@@ -109,8 +113,9 @@ tetsugakuteki	{[scat n:an]}  =philosophical=  "tetsugaku-teki_ANZR" % 哲学的
 tetteeteki	{[scat n:an]} =thoroughly= "tettee-teki_ANZR"
 yaban	{[scat n:ad]} =barbarous=
 yashinteki	{[scat n:an]}  =ambitious=  "yashin-teki_ANZR" % 野心的
+yokobai	{[scat n:an]} =flat= %横ばい
 yoochi	{[scat n:an]} =crude=
-yooi	{[scat n:an]} =easy=
+yooi	{[scat n:an]} =easy= % 容易
 zemmenteki	{[scat n:an]} =fullscale= "zemmen-teki_ANZR"
 zenkokuteki	{[scat n:an]} =nationwide= "zenkoku-teki_ANZR"
 zensekaiteki	{[scat n:an]} =global= "zensekai-teki_ANZR"

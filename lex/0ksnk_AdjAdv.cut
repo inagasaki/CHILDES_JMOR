@@ -54,6 +54,9 @@ kitto	{[scat adv:onoma]} =sharply= "kit_to"
 
 % adnominal (pnl)
 itaru	{[scat adn]} =all=
+saru	{[scat adn]} =this_last=
+akuru	{[scat adn]} =the_next=
+kitaru	{[scat adn]} =forthcoming=
 
 % deic
 kooshita	{[scat adn:deic:dem]} =like_this= % adn|koo_shita=such を変更

@@ -71,7 +71,7 @@ zenshinkee {[scat quant]} =every_nerve= "zen_ALL_shinkee" % 全神経
 zenshinnyuushain {[scat quant][comp n+n]} =all_newly_hired_employees= "zen_ALL_shinnyuu+shain" % 全新入社員
 zenshoohin {[scat quant]} =all_goods= "zen_ALL_shoohin" % 全商品
 zentoo {[scat quant]} =whole_insland= "zen_ALL_too" % 全島
-zentoomin {[scat quant]} =all_inhabitants_of_island= "zen_ALL_" % 全島民
+zentoomin {[scat quant]} =all_inhabitants_of_island= "zen_ALL_toomin" % 全島民
 zenyooroppajin {[scat quant]} =all_European= "zen_ALL_yooroppa_jin_PERSON" % 全ヨーロッパ人
 zenzaisan {[scat quant]} =one's_entire_property= "zen_ALL_zaisan" % 全財産
 

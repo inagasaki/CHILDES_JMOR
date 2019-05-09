@@ -118,7 +118,7 @@ dezainsensu	{[scat n][comp n:vn+n]} =design_sense= "dezain+sensu"
 dokujikooho	{[scat n][comp n+n]} =original_candidate= "dokuji+kooho"
 dokujisee	{[scat n]} =originality= "dokuji_see_NATURE" % 独自性
 dokusee	{[scat n]} =toxicity= "doku_see_NATURE" % 毒性
-dokushin	{[scat n]} =unmarried= % 独身      
+dokushin	{[scat n]} =unmarried= % 独身
 dokushindansee	{[scat n][comp n+n]} =unmarried_male= "dokushin+dansee" % 独身男性
 dokushinjosee	{[scat n][comp n+n]} =unmarried_female= "dokushin+josee" % 独身女性
 dokushoshidoohoo	{[scat n][comp n:vn+n]} =teaching_method_of_reading= "dokusho+shidoo_hoo_METHOD"

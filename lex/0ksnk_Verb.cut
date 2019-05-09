@@ -77,6 +77,9 @@ yabure {[scat v:v]} =lose= % 敗れる
 yak	{[scat v:c]} =bake/fry/roast=	%【焼く】
 yatteku	      {[scat v:ir]} =come= "yat_te_ku"
 
+% 〜てやがる <-- 〜て [い]やがる
+shiteyagar   {[scat v:ir]} =do= "su-ASP&DISDAIN" % shi-teyagar-u
+
 % :sub
 shir	{[scat v:c:sub]} =know=
 
@@ -120,3 +123,9 @@ shi		{[scat v:ir][tense inf]} =do=  "su&GER"
 
 % v:cop
 to	{[scat v:cop] [tense inf]} =be= "to&ADV"
+
+% ねえ <-- ない
+nee	{[scat v:ir][tense inf]} =be= "ar&NEG&PRES" % そんなことは [ねえ]
+nee	{[scat vtense] [tense inf] [allo OR vV vCa vBKo vTSi vTSe vNNr]} "NEG:na&PRES" % 始まら[ねえ]や
+tsumannee	{[scat adj][tense inf]} =boring= "tsumarana&PRES" % つまんねえ
+

@@ -13,6 +13,17 @@ desuga	{[scat conj]} =but=
 % num
 
 % quant
+ryoohoo	{[scat quant]} "ryoo_BOTH_hoo" =both= % 両方 % quant.cut 内のエントリーは削除してもらう
+ryookoku	{[scat quant]} "ryoo_BOTH_koku" =both_countries= % 両国
+ryooshin	{[scat quant]} "ryoo_BOTH_shin" =both_parents= % 両国
+ryoome	{[scat quant]} "ryoo_BOTH_me" =both_eyes= % 両目 % quant.cut 内のエントリーは削除してもらう
+ryoote	{[scat quant]} "ryoo_BOTH_te" =both_hands= % 両手 % quant.cut 内のエントリーは削除してもらう
+ryooashi	{[scat quant]} "ryoo_BOTH_ashi" =both_feet= 	% 両足 % quant.cut 内のエントリーは削除してもらう
+ryookata	{[scat quant]} "ryoo_BOTH_kata" =both_shoulders= 	% 両肩 % quant.cut 内のエントリーは削除してもらう
+ryoomen	{[scat quant]} "ryoo_BOTH_men" =both_sides= 	% 両面 % quant.cut 内のエントリーは削除してもらう
+tasuu	{[scat quant]} =many= % 多数
+bai	{[scat quant]} =double= % 倍
+han	{[scat quant]} =half= % 半
 tairyoo	{[scat quant]} =large_quantity= "tai_BIG_ryoo" % 大量
 shooryoo	{[scat quatn]} =small_quantity= "shoo_SMALL_ryoo" % 小量/少量
 darehitori	{[scat quant]} =no_one= % 誰一人
@@ -71,7 +82,7 @@ zenshinkee {[scat quant]} =every_nerve= "zen_ALL_shinkee" % 全神経
 zenshinnyuushain {[scat quant][comp n+n]} =all_newly_hired_employees= "zen_ALL_shinnyuu+shain" % 全新入社員
 zenshoohin {[scat quant]} =all_goods= "zen_ALL_shoohin" % 全商品
 zentoo {[scat quant]} =whole_insland= "zen_ALL_too" % 全島
-zentoomin {[scat quant]} =all_inhabitants_of_island= "zen_ALL_" % 全島民
+zentoomin {[scat quant]} =all_inhabitants_of_island= "zen_ALL_toomin" % 全島民
 zenyooroppajin {[scat quant]} =all_European= "zen_ALL_yooroppa_jin_PERSON" % 全ヨーロッパ人
 zenzaisan {[scat quant]} =one's_entire_property= "zen_ALL_zaisan" % 全財産
 

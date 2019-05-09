@@ -14,7 +14,7 @@ shin            {[scat n:an]}   =genuine=     % 真の/? 真な
 % Noun (n, n:fml, n:deic)   
 boochootee      {[scat n]}                  =seawall=
 zai             {[scat n]}                  =goods=
-bunkazai        {[scat n][comp n+n]}        =cultural_asset=
+bunkazai        {[scat n][comp n+n]}        =cultural_asset= "bunka+zai"
 maizoobunkazai  {[scat n][comp n:vn+n+n]}   =buried_cultural_asset= "maizoo+bunka+zai"
 maizoobunkazaichoosa    {[scat n][comp n:vn+n+n+n:vn]}  =research_on_buried_cultural_asset= "maizoo+bunka+zai+choosa"
 hoomupeeji      {[scat n]}                  =website=

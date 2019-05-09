@@ -1,0 +1,37 @@
+% Adj(adj), Adv(adv), Admominal =PNL in Kainoki= (adn)
+nadaka	{[scat adj]}	=famous=
+
+% Adjn(n:an)
+tanree	{[scat n:an]}	=graceful=
+
+% Noun (n, n:fml, n:deic)
+
+kinenju		{[scat n][comp n+n]}	=memorial_tree= "kinen+ju"		
+kainoki		{[scat n]}		=Pistacia_chinensis= 
+choosha		{[scat n]}		=office_building=
+deshi		{[scat n]}		=disciple=
+jikaku		{[scat n]}		=stroke_of_characters=
+shotai		{[scat n]}		=style_of_handwriting=
+kaisho		{[scat n]}		=square_style=
+kaishoji	{[scat n][comp n+n]}	=square_style_character= "kaisho+ji"
+yoogo		{[scat n]}		=terminology=
+shushi		{[scat n]}		=seed=
+
+% Prop (n:prop)
+Kokuritsukokugokenkyuusho	{[scat n:prop]}		=NINJAL=
+Santooshoo			{[scat n:prop][comp n:prop+n]}	=Shandong_Province=	"santoo+shoo"
+Kyokufu				{[scat n:prop]}		=Qufu=
+Kooshibyoo			{[scat n:prop][comp n:prop+n]}	=Confucius's_Mausoleum=	"kooshi+byoo"
+Kooshi				{[scat n:prop]}			=Confucius
+Nooshoomushoo			{[scat n:prop]}			=Department_of_Agriculture_and_Commerce=
+
+% VN (n:vn)
+saishu			{[scat n:vn]}		=gather=
+
+% Verb (v:c, v:v, v:ir)
+itam			{[scat v:c]}		=mourn=
+
+
+% misc (ptl, smod, conj, num, quant, co:i, -sfx)
+
+

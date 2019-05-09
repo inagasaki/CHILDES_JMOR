@@ -1,5 +1,6 @@
 % Adj(adj), Adv(adv), Admominal =PNL in Kainoki= (adn)
 imawanaki       {[scat adn]}                =late=      % 今は無き（物故した）
+oso             {[scat adj]}                =slow=
 
 % Adjn(n:an)
 sankamuryoo     {[scat n:an][scat n:vn+n:an]}   =no_participation_fee=  "sanka+muryoo"
@@ -7,6 +8,8 @@ ichizu          {[scat n:an]}               =getting_obsessed=
 karoyaka        {[scat n:an]}   =light=
 haiteku         {[scat n:an]}   =high_tech=
 haitateki       {[scat n:an]}   =exclusive= "haita_teki_ANZR"
+ankoku          {[scat n:an]}   =dark=
+shin            {[scat n:an]}   =genuine=     % 真の/? 真な
 
 % Noun (n, n:fml, n:deic)   
 boochootee      {[scat n]}                  =seawall=
@@ -94,6 +97,28 @@ kiki            {[scat n]}                  =machine=
 haiteku         {[scat n]}                  =high_tech=
 haitekukiki     {[scat n][comp n:an+n]}             =high_tech_machine= "haiteku+kiki"
 koosee          {[scat n]}                  =coming_ages=
+shiren          {[scat n]}                  =ordeal= % 試練
+ankokuenerugii  {[scat n][comp n:an+n]}     =dark_energy= "ankoku+enerugii"
+sokudo          {[scat n]}                  =velocity=
+boochoosokudo   {[scat n]}                  =velocity_of_expansion= "boochoo+sokudo"
+busshitsu       {[scat n]}                  =matter= % 物質
+uchuuron        {[scat n]}                  =cosmology= % 宇宙論
+gendaiuchuuron  {[scat n][comp n+n]}        =contemporary_cosmology= "gendai+uchuuron"
+saishinuchuuron {[scat n][comp n+n]}        =latest_cosmology=  "saishin+uchuuron"
+kuukan          {[scat n]}                  =space=     
+minamoto        {[scat n]}                  =source=
+saishin         {[scat n]}                  =latest= % 最新
+gensoku         {[scat n]}                  =principle=
+ginga           {[scat n]}                  =galaxy=
+juuryoku        {[scat n]}                  =gravity=
+pankiji         {[scat n][comp n+n]}        =dough=                 "pan+kiji"
+kotee           {[scat n]}                  =fixedness= % 固定（の）
+koteegainen     {[scat n][comp n:vn+n]}     =stereotype=    "kotee+gainen"
+jooshoosokudo   {[scat n][comp n:vn+n]}     =velocity_of_elevation= "jooshoo+sokudo"
+genjitsu        {[scat n]}                  =reality=
+shootai         {[scat n]}                  =true_nature=
+kyooju          {[scat n]}                  =professor=
+
 % Prop (n:prop)
 oosakafu        {[scat n:prop][comp n:prop+n]}   =Osaka_prefecture=  "oosaka+fu"
 moriokashi      {[scat n:prop][comp n:prop+n]}   =Morioka_city=      "morioka+shi"
@@ -114,15 +139,24 @@ rensoo      {[scat n:vn]}       =association_of_ideas=  % 連想する
 raikoo      {[scat n:vn]}       =arrival_by_ship=       % 来航する
 haita       {[scat n:vn]}       =exclusion=             % 排他する
 abaremboozoroi  {[scat n][comp n+v:c]}  =full_of_rowdies= "abaremboo+zoroi"
+boochoo     {[scat n:vn]}       =expansion=
+kotee       {[scat n:vn]}       =fixation=
+uchuuboochoo    {[scat n][comp n+n:vn]} =expansion_of_universe= "uchuu+boochoo"
+gensoku     {[scat n:vn]}       =deceleration=
 
 % Verb (v:c, v:v, v:ir)
 omodedat    {[scat v:c]}        =be_palpable=                   % 表立つ
 shitatame   {[scat v:v]}        =write_a_letter=                % 認める
 chinam      {[scat v:c]}        =be_associated_with=
+yake        {[scat v:v]}        =being_baked=                   % （パンが）焼ける
 
 % misc (ptl, smod, conj, num, quant, co:i, -sfx)
-ryoojitsu   {[scat quant]}       "ryoo_BOTH_jitsu"  =day=       % 両日
-
+ryoojitsu   {[scat quant]}      "ryoo_BOTH_jitsu"  =day=        % 両日
+genni       {[scat adv]}        =right_now=                     % 現に
+genni       {[scat adv]}        =in_fact=                       % 現に
+gensoku     {[scat adv]}        =in_principle=
+dooshi      {[scat quant]}      =respectively=                  % 学生同士で
+% NOTE: これは本当はnoun suffixのような気がするが、KainokiではQとしているので、quantとした
 
 %% prefix
 %fuku {[scat pfx] [pcat n]}      "fuku_DEPUTY"                   % 副市長

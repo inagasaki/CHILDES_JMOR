@@ -580,7 +580,7 @@ oogata	{[scat n]} =big= "oo_BIG_kata"	%大型
 oogatasen	{[scat n]} =big_ship= "oo_BIG_gata_sen_SHIP" %大型船
 oogatasenkyo	{[scat n][comp n:an+n]} =large_scale_election= "oogata+senkyo"
 oonaakigyoo	{[scat n]} =owner_managed_firm= "oonaa_kigyoo"
-ootekishikoo	{[scat n][comp n:an+n]} =legal_thinking= "hoo_teki_LIKE+shikoo"
+ootekishikoo	{[scat n][comp n:an+n]} =legal_thinking= "hoo_teki_ANZR+shikoo"
 orenjiobi	{[scat n][comp n+n]} =orange_belt= "orenji+obi"
 oshiekata	{[scat n]} =way_of_teaching= "oshie_kata_WAY_OF"
 otoo	{[scat n]} =father=
@@ -594,7 +594,6 @@ randori	{[scat n]} =randori=
 reenen	{[scat n]} =average_year=
 rekishisee	{[scat n]} =historicity= "rekishi_see_NATURE" % 歴史性
 rekurieeshontekiyooso	{[scat n][comp n:an+n]} =recreational_element= "rekurieeshon_teki_ANZR+yooso"
-rekurieeshontekiyooso	{[scat n][comp n:an+n]} =recreational_element= "rekurieeshon_teki_LIKE+yooso"
 rendoosee	{[scat n]} =interrelation= "rendoo_see_NATURE" % 連動性
 rengootai	{[scat n]} =association_complex=
 rensai	{[scat n]} =serial=

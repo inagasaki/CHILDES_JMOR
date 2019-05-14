@@ -6,7 +6,40 @@ doodemoi {[scat adj]} =indifferent=
 
 % adji
 arigatoo	{[scat adj][tense inf]} =appreciate= "arigata&ADV"
-utsukushiki	{[scat adj][tense inf]} =beautiful= "utsuku-shiki_ADN"
+nadaka	{[scat adj]} =famous=
+oso	{[scat adj]} =slow=
+hadazamu	{[scat adj]} =chilly=
+kokorogurushi	{[scat adj]} =painful=
+kuwashi	{[scat adj]} =be_familiar_with= % 彼は歴史に詳しい
+machigaina	{[scat adj]} =reliable= % adv|machigainaku のエントリーを削除してほしい
+shiyoogana	{[scat adj]} =worthless=
+taka	{[scat adj]} =expensive= % high と違うエントリーにした方がいいと思われる。
+
+umee	{[scat adj][tense pres]} "uma&PRES" % うまい -> うめえ
+
+% adji 文語（Kainoki にエントリーの形式のみ辞書に追加するのが良いと思われる）
+% ク活用 (taka-shi, taka-ki, taka-karazu, taka-karanu, taka-kari, taka-karu, taka-kare)
+% シク活用（kana-shi, kana-shiki, kana-shikarazu, kana-shikaranu, kana-shikari, kana-shikaru, kana-shikare）
+
+% 以下は、取り込み済みだが、修正したので取り込んだものを削除してほしい
+aojiroki	{[scat adj][tense inf]} =pale= "aojiro-ADN:ki" % ADN -- adnominal
+ashiki	{[scat adj][tense inf]} =bad= "a-ADN:shiki"
+hazukashi	{[scat adj][tense pres]} =ashamed= "hazuka-PRES:shi"
+mattaki	{[scat adj][tense inf]} =complete= "matta-ADN:ki"
+okashi	{[scat adj][tense pres]} =strange= "oka-PRES:shi"
+ooki	{[scat adj][tense inf]} =many= "oo-ADN:ki"
+semashi	{[scat adj][tense pres]} =narrow= "sema-PRES:shi" % 狭し
+utsukushiki	{[scat adj][tense inf]} =beautiful= "utsukushi-ADN:ki"
+yamunashi	{[scat adj][tense pres]} =no_choice_but_to= "yamuna-PRES:shi"
+yoki	{[scat adj][tense inf]} =good= "yo-ADN:ki"
+yoshi	{[scat adj][tense pres]} =good= "yo-PRES:shi"
+
+% 以下は追加
+imawanaki	{[scat adj][tense pres]} =late= "imawana-ADN:ki" % 今は無き（物故した）
+umakarazu	{[scat adj][tense inf]} =tasty= "uma-NEG:karazu&ADV"
+sukunakarazu	{[scat adj][tense inf]} =be_few= "sukuna-NEG:karazu&ADV"
+asakaranu	{[scat adj][tense inf]} =shallow= "asa-NEG:karanu&PRES"
+yokare	{[scat adj][tense inf]} =good= "yo-IMP:kare"
 
 % wh
 
@@ -59,5 +92,5 @@ akuru	{[scat adn]} =the_next=
 kitaru	{[scat adn]} =forthcoming=
 
 % deic
-kooshita	{[scat adn:deic:dem]} =like_this= % adn|koo_shita=such を変更
-
+kooshita	{[scat adn:deic:dem]} =like_this= "koo_shita" % adn|koo_shita=such を変更
+sooitta	{[scat adn:deic:dem]} =like_that= "soo_itta"

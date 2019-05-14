@@ -3,6 +3,7 @@
 
 % smod
 chigainai	{[scat smod]} =must= "chigaina-PRES"
+chigainai	{[scat smod]} =must= "chigaina-PRES"
 chigainakatta	{[scat smod]} =must= "chigaina-PAST"
 
 % conj

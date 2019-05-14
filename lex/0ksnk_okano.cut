@@ -1,13 +1,12 @@
 % Adj(adj), Adv(adv), Admominal =PNL in Kainoki= (adn)
-nadaka	{[scat adj]}	=famous=
 
 % Adjn(n:an)
 tanree	{[scat n:an]}	=graceful=
 
 % Noun (n, n:fml, n:deic)
 
-kinenju		{[scat n][comp n+n]}	=memorial_tree= "kinen+ju"		
-kainoki		{[scat n]}		=Pistacia_chinensis= 
+kinenju		{[scat n][comp n+n]}	=memorial_tree= "kinen+ju"
+kainoki		{[scat n]}		=Pistacia_chinensis=
 choosha		{[scat n]}		=office_building=
 deshi		{[scat n]}		=disciple=
 jikaku		{[scat n]}		=stroke_of_characters=
@@ -22,7 +21,7 @@ Kokuritsukokugokenkyuusho	{[scat n:prop]}		=NINJAL=
 Santooshoo			{[scat n:prop][comp n:prop+n]}	=Shandong_Province=	"santoo+shoo"
 Kyokufu				{[scat n:prop]}		=Qufu=
 Kooshibyoo			{[scat n:prop][comp n:prop+n]}	=Confucius's_Mausoleum=	"kooshi+byoo"
-Kooshi				{[scat n:prop]}			=Confucius
+Kooshi				{[scat n:prop]}			=Confucius=
 Nooshoomushoo			{[scat n:prop]}			=Department_of_Agriculture_and_Commerce=
 
 % VN (n:vn)

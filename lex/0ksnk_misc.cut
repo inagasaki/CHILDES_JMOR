@@ -117,6 +117,11 @@ shoo	{[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numCBb
 shoo	{[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numCBb numCBn2]} "shoo_VICTORY" % n勝
 shuukan	{[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numCBb numCBn2]} "shuukan_WEEK"
 wa	{[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numCBb numCBn2]} "wa_STORY" % n話
+chaku	{[scat numclsfx]  [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numCBb numCBn2]} "chaku_PIECE" % n着
+
+% 以下のエントリーを削除してほしい
+% nanchaku	{[scat num:cl]} =how_many= "nan-chaku_PIECE" % 何着
+
 
 % ikutsu, ikura, nanjuu, nambyaku, nanzen, namman -- num:cl:wh を作るにはどうしたらいいのだろうか？
 %ikutsu	{[scat num:cl:wh]} =how_many= "iku_tsu_PIECE" % adv でなく

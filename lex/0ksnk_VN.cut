@@ -10,8 +10,10 @@ gooi	{[scat n:vn]} =mutual_agreement=
 gutaika	{[scat n:vn]} =substantiation= "gutai_ka_CHANGE" % n:an のエントリーを削除してもらう
 gyakkoo	{[scat n:vn]} =run_counter=
 hakki	{[scat n:vn]} =give_full_play=
-hatsusempatsu	{[scat n:vn]} =start_first_for_the_first_time= "hatsu_FIRST_sempatsu" % 初先発
-hatsutoosen	{[scat n:vn][comp n+n:vn]} =be_firstly_elected= "hatsu+toosen"
+hatsusempatsu	{[scat n:vn][comp n+n:vn]} =start_first_for_the_first_time= "hatsu+sempatsu" % 初先発
+hatsutoosen	{[scat n:vn][comp n+n:vn]} =be_firstly_elected= "hatsu+toosen" % 初当選
+hatsutoojoo	{[scat n:vn][comp n+n:vn]} =first_appearance= "hatsu+toojoo" % 初登場
+hatsuchoosen	{[scat n:vn][comp n+n:vn]} =first_challenge= "hatsu+choosen" % 初挑戦
 kaikyoku	{[scat n:vn]} =opening_a_station=
 kaisai	{[scat n:vn]} =open=
 kakuho	{[scat n:vn]} =secure=

@@ -141,7 +141,6 @@ jishuhinansha	{[scat n][comp n+n:vn]} =voluntary_evacuee= "jishu+hinan_sha_PERSO
 keeeesha	{[scat n]} =manager= "keeee_sha_PERSON" % 経営者
 koohoshayooritsu	{[scat n][comp n+n:vn]}    =putting_up_a_candidate= "kooho_sha_PERSON+yooritsu"
 nihongogakushuusha	{[scat n][comp n+n]} =Japanese_language_learner= "nihon_go_LANGUAGE+gakushuu_sha_PERSON" % 学習者
-yuukensha	{[scat n]} =elector= "yuuken_sha_PERSON" % 有権者
 shisha	{[scat n]} =dead_person= "shi_sha_PERSON"
 
 % _hoo_METHOD
@@ -758,7 +757,6 @@ okiai	{[scat n]} =offshore=
 omoikomi	{[scat n]} =prejudiced_impression=
 ongakutai	{[scat n]} =music_corps=
 ooentai	{[scat n]} =supporters=
-oogata	{[scat n]} =big= %大型
 oogatasenkyo	{[scat n][comp n:an+n]} =large_scale_election= "oogata+senkyo"
 oonaakigyoo	{[scat n][comp n+n]} =owner_managed_firm= "oonaa+kigyoo"
 ootekishikoo	{[scat n][comp n:an+n]} =legal_thinking= "hoo_teki_ANZR+shikoo"
@@ -967,7 +965,6 @@ zushiki	{[scat n]} =schema=
 % deic
 
 % fml
-hoo	{[scat n:fml]} =one=
 yoo	{[scat n:fml]} =as/as_if/so_as_to= % apparently でなく
 inai	{[scat n:fml]} =within= % 以内
 ika	{[scat n:fml]} =less_than= % 以下

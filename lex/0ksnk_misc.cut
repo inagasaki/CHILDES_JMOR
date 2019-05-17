@@ -3,7 +3,6 @@
 
 % smod
 chigainai	{[scat smod]} =must= "chigaina-PRES"
-chigainai	{[scat smod]} =must= "chigaina-PRES"
 chigainakatta	{[scat smod]} =must= "chigaina-PAST"
 
 % conj
@@ -104,17 +103,14 @@ kaisen	{[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numC
 kakoku	{[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numCBb numCBn2]} "kakoku_COUNTRY"
 ken	{[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numCBb numCBn2]} "ken_CASE" % n件
 ken	{[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numCBb numCBn2]} "maku_ACT" % n幕
-ki	{[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numCBb numCBn2]} "ki_TERM" % n期
 koomoku	{[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numCBb numCBn2]} "koomoku_POINT"
 mairu	{[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numCBb numCBn2]} "mairu_MILE"
 paasento	{[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numCBb numCBn2]} "paasento_PERCENT"
 pointo	{[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numCBb numCBn2]} "pointo_POINT"
-sen	{[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numCBb numCBn2]} "sen_ELECTED" % n選（する）
 senkyoku	{[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numCBb numCBn2]} "sekyoku_ELECTORAL_DISTRICT"
 senshu	{[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numCBb numCBn2]} "senshu_PLAYER" % n選手
 sha	{[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numCBb numCBn2]} "sha_COMPANY"
 shoo	{[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numCBb numCBn2]} "shoo_CHAPTER"
-shoo	{[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numCBb numCBn2]} "shoo_VICTORY" % n勝
 shuukan	{[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numCBb numCBn2]} "shuukan_WEEK"
 wa	{[scat numclsfx] [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numCBb numCBn2]} "wa_STORY" % n話
 chaku	{[scat numclsfx]  [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numCBb numCBn2]} "chaku_PIECE" % n着
@@ -132,7 +128,7 @@ chaku	{[scat numclsfx]  [allo OR numBFa numBFb numCFa numCFn numCBa numCBn1 numC
 nashi	{[scat nsfx]} "nashi_WHITHOUT"
 
 % vsfx sfxcat
-yoo	{[scat vsfx] [sfxcat n] [allo OR vV vCi vPIw vAIt vTKi vTSi vAIs]} "yoo_WAY_OF"
+% yoo	{[scat vsfx] [sfxcat n] [allo OR vV vCi vPIw vAIt vTKi vTSi vAIs]} "yoo_WAY_OF"
 %% ex. 「直しようがない」, 上のように登録すると、tabeyoo (食べよう), kiyoo (着よう), iiyoo (言いよう) は主強r句されるが naoshiyoo (直しよう) は出力されない。
 
 zuni	{[scat vtense] [tense inf] [allo OR vV vCa vBKo vTSi vTSe vNNr]} "NEG&ADV"

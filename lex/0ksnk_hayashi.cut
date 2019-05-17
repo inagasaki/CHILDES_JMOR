@@ -6,7 +6,6 @@ ichizu          {[scat n:an]}               =getting_obsessed=
 karoyaka        {[scat n:an]}   =light=
 haiteku         {[scat n:an]}   =high_tech=
 haitateki       {[scat n:an]}   =exclusive= "haita_teki_ANZR"
-ankoku          {[scat n:an]}   =dark=
 shin            {[scat n:an]}   =genuine=     % 真の/? 真な
 
 % Noun (n, n:fml, n:deic)   
@@ -138,12 +137,11 @@ raikoo      {[scat n:vn]}       =arrival_by_ship=       % 来航する
 haita       {[scat n:vn]}       =exclusion=             % 排他する
 abaremboozoroi  {[scat n][comp n+v:c]}  =full_of_rowdies= "abaremboo+zoroi"
 boochoo     {[scat n:vn]}       =expansion=
-kotee       {[scat n:vn]}       =fixation=
 uchuuboochoo    {[scat n][comp n+n:vn]} =expansion_of_universe= "uchuu+boochoo"
 gensoku     {[scat n:vn]}       =deceleration=
 
 % Verb (v:c, v:v, v:ir)
-omodedat    {[scat v:c]}        =be_palpable=                   % 表立つ
+omotedat    {[scat v:c]}        =be_palpable=                   % 表立つ % omodedat を削除すること
 shitatame   {[scat v:v]}        =write_a_letter=                % 認める
 chinam      {[scat v:c]}        =be_associated_with=
 yake        {[scat v:v]}        =being_baked=                   % （パンが）焼ける

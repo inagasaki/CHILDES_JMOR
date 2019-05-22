@@ -1,3 +1,7 @@
+% 修正
+kisha	 {[scat n]} =journalist= % 記者 % 0Adu_Noun.cut のエントリーはグロスが "ournalist" となっている。
+mikata	{[scat n]} =ally=	% 味方 % noun.cut のエントリーはグロスが "friend" となっている
+
 % n+nの複合になっているエントリーを削除し、以下を追加
 kankookyaku	{[scat n][comp n:vn+n]} =tourist= "kankoo+kyaku"
 
@@ -322,6 +326,7 @@ yotoo	{[scat n]} =government_party= "yo_too_PARTY" % 与党
 aidagara	{[scat n]} =relationship=
 
 % 追加
+shisutemu	{[scat n]} =system= % システム
 gaikoo	{[scat n]} =diplomacy= % 外交
 hatsu	{[scat n]} =first= % 初
 hatsubutai	{[scat n][comp n+n]} =debut= "hatsu+butai" % 初舞台

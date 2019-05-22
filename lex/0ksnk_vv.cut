@@ -1943,3 +1943,7 @@ kakimaze	{[scat v:v][comp v:c+v:v]} =stir_mix= "" %掻き混ぜる
 kakimawas	{[scat v:c][comp v:c+v:c]} =stir_up= "kak+mawas" %掻き回す
 %kakimushir	{[scat v:c]} =tear= "kak_mushir"	%【かきむしる】(〈掻き〈毟る) %%
 kakimushir	{[scat v:c][comp v:c+v:c]} =scracth_pluck= "kak+mushir" %掻きむしる
+
+% 方言的
+kaereneku	{[scat v:c][tense inf]} =return= "kaer-POT-NEG-ADV" % 帰れねく
+

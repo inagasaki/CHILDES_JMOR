@@ -111,7 +111,7 @@ teekiteki	{[scat n:an]} =regular= "teeki-teki_ANZR"
 tekikaku	{[scat n:ad]} =precise=
 tetsugakuteki	{[scat n:an]}  =philosophical=  "tetsugaku-teki_ANZR" % 哲学的
 tetteeteki	{[scat n:an]} =thoroughly= "tettee-teki_ANZR"
-yaban	{[scat n:ad]} =barbarous=
+yaban	{[scat n:an]} =barbarous= % 野蛮
 yashinteki	{[scat n:an]}  =ambitious=  "yashin-teki_ANZR" % 野心的
 yokobai	{[scat n:an]} =flat= %横ばい
 yoochi	{[scat n:an]} =crude=
@@ -154,3 +154,5 @@ zetsubooteki	{[scat n:an]} =desperate= "zetsuboo-teki_ANZR"
 % tokuige	{[scat n:an]} =proud= "tokui-ge_TASTE" % 得意げ
 % uruwashige	{[scat n:an]} =elegant= "uruwashi-ge_TASTE" % 麗しげ
 % yasashige	{[scat n:an]} =gentle= "yawashi-ge_TASTE" % 優しげ
+
+

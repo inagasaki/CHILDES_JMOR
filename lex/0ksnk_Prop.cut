@@ -65,6 +65,7 @@ Shijoodoori	{[scat n:prop]} =Shijoo_street= "Shijoo_doori_STREET" % 四条通り
 Shimotsumashi	{[scat n:prop]} =Shimotsuma_city= "Shimotsuma_shi"
 Shinjukueki	{[scat n:prop]} =Shinjuku_station= "Shinjuku_eki_STATION" % 新宿駅
 Shisuko	{[scat n:prop]} =Cysco=
+Suda	{[scat n:prop]} =Suda=
 Suweeden	{[scat n:prop]} =Sweden= %スウェーデン
 Taigaa__cdot__uzzu	{[scat n:prop]} =Tiger_Woods= %記号名を __ （アンダースコア2つ）で囲む
 Taikanokaishin	{[scat n:prop]} =the_Taika_Reform=

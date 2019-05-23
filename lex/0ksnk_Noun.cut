@@ -12,6 +12,10 @@ kokkyoosen	{[scat n][comp n+n]} =nation al_border_line= "kokkyoo+sen"
 juuyoosa	{[scat n]} =importance= "juuyoo-sa_NLZR"
 mujiichimaibari	{[scat n][comp n+num:cl+n]} =plain_single_paper= "muji+ichi-mai_SHEET+bari"
 
+% _choo_HEAD
+shitenchoo	{[scat n]} =branch_manager= "shiten_choo_HEAD" % 支店長
+shitenchookaigi	{[scat n][comp n+n]} =branch_managers'_meeting= "shiten_choo_HEAD+gaigi" % 支店長会議
+
 % _gawa_SIDE
 keeeegawa	{[scat n]} =management_side= "keeee_gawa_SIDE" % 経営側
 shisukogawa	{[scat n]} =Cisco_side= "shisuko_gawa_SIDE"
@@ -185,6 +189,8 @@ oogatasen	{[scat n]} =big_ship= "oogata_sen_SHIP" %大型船
 eegyooryoku	{[scat n]} =marketing_skills= "eegyoo_ryoku_POWER"
 keezairyoku	{[scat n]} =economic_power= "keezai_ryoku_POWER"
 booeeryoku	{[scat n]} =defense_capacity= "booee_ryoku_POWER"
+shoohinryoku	{[scat n]} =product_appeal= "shoohin_ryoku_POWER" % 商品力
+
 
 % _see_NATURE
 akusesusee	{[scat n]} =accessibility= "akusesu_see_NATURE" % アクセス性
@@ -298,6 +304,9 @@ soozee	{[scat n]} =in_all= "soo_GENERAL_zee" % 総勢
 
 % _ya_SHOP 以下、現在は book_ya_SHOP となっているので修正
 hon'ya	{[scat n]} =book_store= "hon_ya_SHOP" %本屋 
+
+% _ya_SHOP 追加
+yadoya	   {[scat n]} =inn= "yado_ya_SHOP" 宿屋
 
 % _kata_WAY_OF
 kangaekata	{[scat n]} =way_of_thinking= "kangae_kata_WAY_OF"
@@ -787,6 +796,7 @@ ruufu	{[scat n]} =roof=
 ryokoosaki	{[scat n]} =destination=
 ryooiki	{[scat n]} =area=
 ryoosee	{[scat n]} =good= % 良性
+saiban	{[scat n]} =trial= % 裁判
 saigai	{[scat n]}      =disaster=
 saigaikooeejuutaku	{[scat n][comp n+n+n]} =public_restoration_housing= "saigai+kooee+juutaku"
 saishi	{[scat n]} =wife_and_children=
@@ -831,6 +841,7 @@ shidookyookan	{[scat n][comp n:vn+n]} =mentor= "shidoo+kyookan"
 shigikai	{[scat n]}  =city_counsil=
 shigikaigichoo	{[scat n][comp n+n]}    =speaker_of_a_city_counsil= "shigikai+gichoo"
 shihaishoyuukankee	{[scat n][comp n:vn+n:vn+n:vn]} =dominance_and_owership_relationship=
+shikoopurosesu	{[scat n][comp n:vn+n]} =process_of_thinking= "shikoo+purosesu"% 思考プロセス
 shikkusushiguma	{[scat n]} =six_sigma=
 shimai	{[scat n]} =sister=
 shimbijinesu	{[scat n][comp n+n]} =new_business= % 新ビジネス
@@ -957,6 +968,12 @@ zenshayokonarabiissen	{[scat n][comp n+n+n]} =horizontal_state_of_all_companies=
 zentee	{[scat n]} =premise=	%前提
 zookaritsu	{[scat n][comp n+n]} =growth_rate= "zooka+ritsu"	%増加率
 zuhyoo	{[scat n]} =graph=
+oyabarai	{[scat n][comp n+n:vn]} =payment_by_the_parents= "oya+baraw_GER" % 親払い
+kenkoojuutaku	{[scat n][comp n:an+n]} =healthy_housing= "kenkoo+juutaku" % 健康住宅
+shizenjuutaku	{[scat n][comp n:an+n]} =natural_housing= "shizen+juutaku" % 自然住宅
+tsubotanka	{[scat n][comp n+n]} =price_per_tsubo= "tsubo+tanka" % 坪単価
+tsubo	{[scat n]} =tsubo= % 坪
+seerusunouhau	{[scat n][comp n:vn+n]} =sales_know_how= "seerusu+nouhau" % セールスノウハウ
 
 % これでよいか？
 itariayori	{[scat n]} =close_to_Italy= "itaria_yori_NEAR"

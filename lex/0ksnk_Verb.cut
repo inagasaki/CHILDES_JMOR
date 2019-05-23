@@ -76,7 +76,19 @@ ukagaw  {[scat v:c]}    =watch_for_a_chance=
 ut	{[scat v:c]} =hit/shoot=	%【打つ】【撃つ】
 yabure {[scat v:v]} =lose= % 敗れる
 yak	{[scat v:c]} =bake/fry/roast=	%【焼く】
-yatteku	      {[scat v:ir]} =come= "yat_te_ku"
+kanzuru	{[scat v:v][tense pres]} =feel= "kanzu-PRES" % 感ずる
+
+% やってくる
+yattekuru	{[scat v:ir][tense pres]} =come= "yat_te_ku-PRES"
+yattekite	{[scat v:ir][tense inf]} =come= "yat_te_ku-CONN"
+yattekita	{[scat v:ir][tense past]} =come= "yat_te_ku-PAST"
+yatteki	{[scat v:ir][tense inf]} =come= "yat_te_ku&CONN:i"
+yattekimasu {[scat v:ir][tense pres]} =come= "yat_te_ku-POL-PRES"
+yattekimashita {[scat v:ir][tense past]} =come= "yat_te_ku-POL-PAST"
+yattekitara {[scat v:ir][tense inf]} =come= "yat_te_ku-COND:tara"
+yattekonai {[scat v:ir][tense pres]} =come= "yat_te_ku-NEG-PRES"
+yattekonakatat {[scat v:ir][tense past]} =come= "yat_te_ku-NEG-PAST"
+yattekonakereba {[scat v:ir][tense inf]} =come= "yat_te_ku-NEG-COND:ba"
 
 % 〜てやがる <-- 〜て [い]やがる
 shiteyagar   {[scat v:ir]} =do= "su-ASP&DISDAIN" % shi-teyagar-u

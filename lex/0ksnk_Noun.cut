@@ -123,7 +123,9 @@ kankoochi	{[scat n]} =tourist_spot= "kankoo_chi_PLACE" % 観光地
 kankitsurui	{[scat n]} =citrus= "kankitsu_rui_SORT"
 honyuurui	{[scat n]} =mammals= "honyuu_rui_SORT"
 
-% noun
+% _go_AFTER
+shussango	{[scat n]} =after_childbirth= "shussan_go_AFTER" % 出産後
+
 % _jin_PERSON -- 現在のエントリーは n:prop となっているので n に修正
 igirisujin	{[scat n]} =English_person= "igirisu_jin_PERSON"
 nihonjin	{[scat n]} =Japanese_person= "nihon_jin_PERSON"
@@ -974,6 +976,7 @@ shizenjuutaku	{[scat n][comp n:an+n]} =natural_housing= "shizen+juutaku" % 自�
 tsubotanka	{[scat n][comp n+n]} =price_per_tsubo= "tsubo+tanka" % 坪単価
 tsubo	{[scat n]} =tsubo= % 坪
 seerusunouhau	{[scat n][comp n:vn+n]} =sales_know_how= "seerusu+nouhau" % セールスノウハウ
+shussammae	{[scat n][comp n:vn+n]} =before_childbirth= "shussan+mae" % 出産前
 
 % これでよいか？
 itariayori	{[scat n]} =close_to_Italy= "itaria_yori_NEAR"

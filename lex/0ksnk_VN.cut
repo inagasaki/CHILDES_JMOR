@@ -24,6 +24,7 @@ koobo	{[scat n:vn]} =publicly_recruit=
 kooshin	{[scat n:vn]} =renewal=
 kyootan	{[scat n:vn]} =admiration=
 mochinige	{[scat n:vn]} =take_and_run_away= "mot_nige"  % 持ち逃げ
+nyuuka	{[scat n:vn]} =arrival_of_goods= % 入荷
 sabetsuka	{[scat n:vn]} =differentiation= "sabetsu_ka_CHANGE" % 差別化
 seeritsu	{[scat n:vn]} =realization=
 sempatsu	{[scat n:vn]} =start_first= % 先発

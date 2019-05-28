@@ -62,6 +62,9 @@ hiseezoogyoo	{[scat n]} =nonmanufacturing_industry= "hi_NEG_seezoogyoo" % 非製
 % ma_TRUE_
 mafuyu	{[scat n]} =midwinter= "ma_TRUE_winter" %真冬
 
+% choo_SUPER
+chooman'in	{[scat n]} =overcrowded= "choo_SUPER_man'in" % 超満員
+
 % shin_NEW
 shinjidai	{[scat n]} =new_era= "shin_NEW_jidai" % 新時代
 shinjuumin	{[scat n]} =new_inhabitant= "shin_NEW_juumin" % 新住民
@@ -145,13 +148,15 @@ suweedenjin	{[scat n]} =Swedish_person= "suweeden_jin_PERSON" %スウェーデ�
 % _sha_PERSON
 chihooshusshinsha	{[scat n][comp n+n]} =person_from_a_local_province= "chihoo+shusshin_sha_PERSON" % 地方出身者
 furoosha	{[scat n]} =vagabon= "furoo_sha_PERSON" % 浮浪者 % 0Adu_Noun.cu の foroosha を修正する
-gakushuusha	{[scat n]} =Japanese_language_learner= "gakushuu_sha_PERSON" % 学習者
-
+gakushuusha	{[scat n]} =learner= "gakushuu_sha_PERSON" % 学習者
 jishuhinansha	{[scat n][comp n+n:vn]} =voluntary_evacuee= "jishu+hinan_sha_PERSON"
 keeeesha	{[scat n]} =manager= "keeee_sha_PERSON" % 経営者
 koohoshayooritsu	{[scat n][comp n+n:vn]}    =putting_up_a_candidate= "kooho_sha_PERSON+yooritsu"
 nihongogakushuusha	{[scat n][comp n+n]} =Japanese_language_learner= "nihon_go_LANGUAGE+gakushuu_sha_PERSON" % 学習者
 shisha	{[scat n]} =dead_person= "shi_sha_PERSON"
+
+% _sha_COMPANY
+gakushuusha	{[scat n]} =learner= "gakushuu_sha_COMPANY" % 学習社
 
 % _hoo_METHOD
 shidoohoo	{[scat n][comp n:vn+n]} =teaching_method= "shidoo_hoo_METHOD"
@@ -180,6 +185,7 @@ kaiketsukin	{[scat n]} =settelemat_money= "kaiketsu_kin_MONEY"
 
 % _in_MEMBER
 kenkyuuin	{[scat n]} =research_worker= "kenkyuu_in_MEMBER" % 研究員
+choosain	{[scat n]} =investigator= "choosa_in_MEMBER" % 調査員
 
 % _shi_PROFESSIONAL 師
 
@@ -977,6 +983,20 @@ tsubotanka	{[scat n][comp n+n]} =price_per_tsubo= "tsubo+tanka" % 坪単価
 tsubo	{[scat n]} =tsubo= % 坪
 seerusunouhau	{[scat n][comp n:vn+n]} =sales_know_how= "seerusu+nouhau" % セールスノウハウ
 shussammae	{[scat n][comp n:vn+n]} =before_childbirth= "shussan+mae" % 出産前
+bakuchi	{[scat n]} =gambling= % 博打
+bankokuhakurankai	{[scat n][comp n+n]} =world_expo= "bankoku+hakurankai" % 万国博覧会
+booekikuroji	{[scat n][comp n:vn+n]} =trade_surplus= "booeki+kuroji" % 貿易黒字
+kuroji	{[scat n]} =surplus= % 黒字
+bookire	{[scat n]} =stick=
+bummen	{[scat n]} =content_of_letter=
+butaichuuoo	{[scat n][comp n+n]} =the_center_of_the_stage= "butai+chuuoo" % 舞台中央
+chii	{[scat n]} =status= % 地位
+daigakukyooshi	{[scat n][comp n+n]} =university_teacher= "daigaku+kyooshi" % 大学教師
+daijin	{[scat n]} =cabinet_minister=
+dairi	{[scat n]} =deputy=
+daitaienerugii	{[scat n][comp n:vn+n]} =alternative_energy= "daitai+enerugii" % 代替エネルギー
+dokuryoku	{[scat n]} =one's_own_effort= % 独力
+doshaburi	{[scat n]} =downpour= % 土砂降り
 
 % これでよいか？
 itariayori	{[scat n]} =close_to_Italy= "itaria_yori_NEAR"

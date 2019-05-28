@@ -39,3 +39,9 @@ zatsudan	{[scat n:vn]} =chat=
 zenshin	{[scat n:vn]} =advance=
 shikoo	{[scat n:vn]} =thinking= % 思考
 seerusu	{[scat n:vn]} =sales= % セールス
+bemmee	{[scat n:vn]} =explanation= % 弁明
+bengaku	{[scat n:vn]} =study= % 勉学
+daitai	{[scan n:vn]} =alternate= % 代替
+dantee	{[scat n:vn]} =assertion= % 断定
+
+
